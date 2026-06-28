@@ -1,0 +1,32 @@
+<!-- source: cir_1945_2009_refundido.pdf -->
+<!-- language: es -->
+<!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
+     Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
+
+# CIRCULAR N° 1945 — IMPARTE NORMAS SOBRE DETERMINACIÓN DE LA UTILIDAD LÍQUIDA DEL EJERCICIO Y TRATAMIENTO DE AJUSTES DE PRIMERA APLICACIÓN EN EL RESULTADO ACUMULADO PARA ENTIDADES QUE EMITAN SUS ESTADOS FINANCIEROS BAJO IFRS
+
+
+Para todas las sociedades inscritas en el Registro de Valores con excepción de las compañías de seguros.
+Esta Superintendencia ha estimado conveniente impartir las siguientes instrucciones referidas a la determinación de la utilidad líquida distribuible y los ajustes de primera aplicación reconocidos en el resultado acumulado a partir de los primeros estados financieros de acuerdo a IFRS a ser aporbados por junta ordinaria de accionistas.
+## I. UTILIDAD LÍQUIDA DISTRIBUIBLE
+Al determinar la utilidad líquida a considerar para el cálculo del dividendo mínimo obligatorio y adicional, la administración de la sociedad podrá efectuar al ítem “Ganancia (Pérdida) atribuible a los Tenedores de Instrumentos de Participación en el Patrimonio Neto de la Controladora”, presentada en el Estado de Resultados Integrales, todos aquellos ajustes que estime necesarios para determinar una base sobre utilidad realizada a ser distribuida.
+Para tal efecto, se podrá deducir o agregar las variaciones relevantes del valor razonable de los activos y pasivos que no estén realizadas, las cuales deberán ser reintegradas al cálculo de la utilidad líquida en el ejercicio que tales variaciones se realicen En todo caso, la utilidad líquida a distribuir deberá considerar la deducción del saldo deudor del rubro “Resultados Retenidos (Pérdidas Acumuladas)” del Patrimonio.
+La política utilizada para la determinación de la utilidad líquida distribuible, es decir, si se aplicarán ajustes o no a la “Ganancia (Pérdida) atribuible a los Tenedores de Instrumentos de Participación en el Patrimonio Neto de la Controladora” para determinar la utilidad líquida del ejercicio, deberá ser aplicada en forma consistente. En caso que justificadamente se requiera una variación en dicha política, ella deberá ser informada a este Servicio tan pronto el directorio adopte la decisión.
+Tratándose de la política adoptada para el cálculo de la utilidad líquida distribuible para el ejercicio 2009, éste deberá ser acordada por el directorio y comunicada a esta Superintendencia tan pronto ocurra y no más allá del 30 de noviembre de 2009.
+En junta ordinaria de accionistas se deberá informar la política utilizada para la determinación de la utilidad líquida distribuible, correspondiente a los estados financieros anuales que se aprueben en dicha junta. Adicionalmente, los ajustes que se realicen deberán ser informados detalladamente en la misma junta.
+Cabe señalar que si la empresa opta por efectuar lso ajustes señalados, deberá cumplir co lo
+siguiente:
+### SUPERINTENDENCIA DE VALORES Y SEGUROS
+a) Será responsabilidad de la administración determinar la utilidad líquida e implementar las
+medidas necesarias para el adecuado control de los resultados no realizados y la fecha en que éstos se realicen.
+b) En nota explicativa a los estados financieros anuales, debidamente auditados. Se deberá
+informar detalladamente los ajustes efectuados, señalando los criterios utilizados en la determinación de la utilidad líquida distribuible, así como el alcance del concepto de realización y cuáles son los activos y pasivos cuyo resultado por la variación del valor razonable será ajustado. Además, deberá considerar el efecto de los impuestos referidos
+## II. AJUSTES DE PRIMERA APLICACIÓN
+Respecto de los ajustes de primera aplicación que se registren en la cuenta “Resultados Retenidos (Pérdidas Acumuladas)” del Patrimonio, éstos deberán ser controlados en forma separada del resto de los resultados retenidos, y mantener su saldo en dicha cuenta, a menos que se opte por lo siguiente:
+Si el saldo neto de los ajustes de primera aplicación es acreedor, es decir representa una utilidad acumulada, deberá absorber las pérdidas acumuladas, existentes y su saldo podrá ser distribuido como dividendo eventual, en aquella parte que éste se realice.
+Por otra parte, si el saldo neto de los ajustes de primera aplicación es deudor, es decir, corresponde a una pérdida acumulada, ésta deberá excluirse del saldo del rubro “Resultados Retenidos (Pérdidas Acumuladas)” del Patrimonio, para efectos de determinar la pérdida acumulada que deba restarse de la utilidad líquida a distribuir. Las utilidades acumuladas provenientes de resultados retenidos deberán absorber las pérdidas acumuladas provenientes de los ajustes de primera aplicación para determinar el saldo de la utilidad acumulada susceptible de ser distribuida como dividendo eventual.
+Finalmente, el saldo neto de los ajustes de primera aplicación también podrá ser capitalizado o absorbido por el capital pagado, según corresponda.
+Cabe señalar que la opción determinada por el directorio para el tratamiento de los ajustes de primera aplicación, deberá ser informada en la junta ordinaria de accionistas que apruebe los primeros estados financieros anuales de acuerdo a IFRS y en caso que justificadamente se requiera una variación en dicha política, ella deberá ser informada a este Servicio tan pronto el directorio adopte tal decisión.
+También en junta ordinaria de accionistas, cuando corresponda, se deberá informar qué parte de la utilidad acumulada proveniente de los ajustes de primera aplicación se encuentra realizada y por lo tanto, susceptible de ser distribuida como dividendo eventual.
+Adicionalmente, en nota explicativa a los estados financieros anuales, debidamente auditados, se deberá informar detalladamente las utilidades acumuladas que se realicen, provenientes de los ajustes de primera aplicación, señalando el alcance del concepto de realización. Será responsabilidad de la administración, la implementación de las medidas para el adecuado control de los saldos provenientes de los ajustes de primera aplicación realizados y por realizar.
+### SUPERINTENDENCIA DE VALORES Y SEGUROS

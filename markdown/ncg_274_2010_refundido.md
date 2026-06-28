@@ -1,0 +1,478 @@
+<!-- source: ncg_274_2010_refundido.pdf -->
+<!-- language: es -->
+<!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
+     Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+VISTOS: Lo dispuesto en el artículo 65 del D.L. N° 3.500, de 1980 y en el artículo 20 del DFL N° 25 1, de 1931, y las facultades que les confiere la ley, estas Superintendencias han estimado necesario reemplazar las actuales tablas de mortalidad RV-2004, hombres y mujeres.
+REF.: FIJA TABLA DE MORTALIDAD RV-2009, HOMBRES Y MUJERES, PARA PENSIONADOS POR
+### VEJEZ DEL D.L. N° 3.500, DE 1980.
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+1. Conforme a lo dispuesto en el artículo 65 del D.L. N°3.500, de 1980 y en el artículo 20 del DFL N°2 51,
+las Superintendencias de Pensiones y Valores y Seguros, establecen el uso de la Tabla RV-2009 para hombres y mujeres, en reemplazo de las actuales tablas de mortalidad RV-2004, hombres y mujeres. .
+2. La Tabla RV-2009 hombres y mujeres, se define con sus correspondientes tasas de mortalidad “q” y
+x factores de mejoramiento “AAx” asociados, en Anexo N°1. Asimismo en Anexo N°2, se entrega nota técnica que detalla los criterios técnicos de su elaboración.
+3. La Tabla RV-2009 deberá ser utilizada por un período máximo de 6 años a contar del 1 de julio de
+2010, tratándose de pensionados por vejez edad y vejez anticipada, para el cálculo de los retiros programados y las reservas técnicas por parte de aseguradoras del segundo grupo, que mantengan obligaciones por la contratación de seguros de rentas vitalicias del D.L. N°3.500, de 1980. Con anterioridad a dicha fecha se continuará utilizando la Tabla RV-2004.
+4. La metodología específica de aplicación de las tablas y sus factores de mejoramiento, será materia de
+instrucciones de cada Superintendencia a sus fiscalizados.
+### SUPERINTENDENTA DE PENSIONES SUPERINTENDENTE DE VALORES Y
+SEGUROS
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+## ANEXO N°1 TABLAS DE MORTALIDAD RV-2009 (MUJERES Y HOMBRES)
+## ANEXO N°1 TABLAS DE MORTALIDAD RV-2009 (MUJERES Y HOMBRES) CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+
+| TABLA RV-2009 MUJERES |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Edad | Qx | Factor Aax | Edad | Qx | Factor Aax |
+| 20 | 0 .00026755 | 0.00780 | 65 | 0 .00485040 | 0.00680 |
+| 21 | 0 .00028169 | 0.00780 | 66 | 0 .00530112 | 0.00680 |
+| 22 | 0 .00029657 | 0.00780 | 67 | 0 .00578435 | 0.00680 |
+| 23 | 0 .00031224 | 0.00780 | 68 | 0 .00631458 | 0.00680 |
+| 24 | 0 .00032874 | 0.00780 | 69 | 0 .00692042 | 0.00680 |
+| 25 | 0 .00034653 | 0.00750 | 70 | 0 .00764786 | 0.00670 |
+| 26 | 0 .00036484 | 0.00750 | 71 | 0 .00853167 | 0.00670 |
+| 27 | 0 .00038412 | 0.00750 | 72 | 0 .00959479 | 0.00670 |
+| 28 | 0 .00040441 | 0.00750 | 73 | 0 .01085251 | 0.00670 |
+| 29 | 0 .00042578 | 0.00750 | 74 | 0 .01231729 | 0.00670 |
+| 30 | 0 .00044828 | 0.00750 | 75 | 0 .01402669 | 0.00630 |
+| 31 | 0 .00047273 | 0.00710 | 76 | 0 .01596877 | 0.00630 |
+| 32 | 0 .00049771 | 0.00710 | 77 | 0 .01821243 | 0.00630 |
+| 33 | 0 .00052400 | 0.00710 | 78 | 0 .02081509 | 0.00630 |
+| 34 | 0 .00055169 | 0.00710 | 79 | 0 .02383644 | 0.00630 |
+| 35 | 0 .00058178 | 0.00670 | 80 | 0 .02737276 | 0.00590 |
+| 36 | 0 .00061252 | 0.00670 | 81 | 0 .03143834 | 0.00550 |
+| 37 | 0 .00064488 | 0.00670 | 82 | 0 .03608704 | 0.00510 |
+| 38 | 0 .00067896 | 0.00670 | 83 | 0 .04138081 | 0.00470 |
+| 39 | 0 .00071483 | 0.00670 | 84 | 0 .04737220 | 0.00440 |
+| 40 | 0 .00075230 | 0.00680 | 85 | 0 .05414829 | 0.00410 |
+| 41 | 0 .00079205 | 0.00680 | 86 | 0 .06177395 | 0.00380 |
+| 42 | 0 .00083390 | 0.00680 | 87 | 0 .07030062 | 0.00350 |
+| 43 | 0 .00087797 | 0.00680 | 88 | 0 .07973328 | 0.00330 |
+| 44 | 0 .00092436 | 0.00680 | 89 | 0 .09011792 | 0.00310 |
+| 45 | 0 .00097281 | 0.00690 | 90 | 0 .10146552 | 0.00290 |
+| 46 | 0 .00102421 | 0.00690 | 91 | 0 .11377697 | 0.00270 |
+| 47 | 0 .00106548 | 0.00690 | 92 | 0 .12704616 | 0.00250 |
+| 48 | 0 .00111119 | 0.00690 | 93 | 0 .14126377 | 0.00230 |
+| 49 | 0 .00118220 | 0.00690 | 94 | 0 .15641945 | 0.00210 |
+| 50 | 0 .00126994 | 0.00690 | 95 | 0 .17243619 | 0.00200 |
+| 51 | 0 .00137810 | 0.00690 | 96 | 0 .18936586 | 0.00190 |
+| 52 | 0 .00151359 | 0.00690 | 97 | 0 .20728962 | 0.00170 |
+| 53 | 0 .00168294 | 0.00690 | 98 | 0 .22604878 | 0.00160 |
+| 54 | 0 .00188185 | 0.00690 | 99 | 0 .24621288 | 0.00100 |
+| 55 | 0 .00210411 | 0.00690 | 100 | 0 .26308757 | 0.00000 |
+| 56 | 0 .00233084 | 0.00690 | 101 | 0 .27710898 | 0.00000 |
+| 57 | 0 .00254367 | 0.00690 | 102 | 0 .29615530 | 0.00000 |
+| 58 | 0 .00273674 | 0.00690 | 103 | 0 .31651071 | 0.00000 |
+| 59 | 0 .00292506 | 0.00690 | 104 | 0 .33826520 | 0.00000 |
+| 60 | 0 .00313720 | 0.00680 | 105 | 0 .36151492 | 0.00000 |
+| 61 | 0 .00339905 | 0.00680 | 106 | 0 .38636265 | 0.00000 |
+| 62 | 0 .00370168 | 0.00680 | 107 | 0 .41291822 | 0.00000 |
+| 63 | 0 .00404391 | 0.00680 | 108 | 0 .44129901 | 0.00000 |
+| 64 | 0 .00442789 | 0.00680 | 109 | 0 .47163048 | 0.00000 |
+|  |  |  | 110 | 1 .00000000 | 0.00000 |
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+
+| TABLA RV-2009 HOMBRES |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Edad | Qx | Factor Aax | Edad | Qx | Factor Aax |
+| 20 | 0 .00048036 | 0.01660 | 65 | 0 .01244116 | 0.00880 |
+| 21 | 0 .00051121 | 0.01660 | 66 | 0 .01362030 | 0.00880 |
+| 22 | 0 .00054403 | 0.01660 | 67 | 0 .01497076 | 0.00880 |
+| 23 | 0 .00057897 | 0.01660 | 68 | 0 .01648103 | 0.00880 |
+| 24 | 0 .00061615 | 0.01660 | 69 | 0 .01814154 | 0.00880 |
+| 25 | 0 .00065999 | 0.01500 | 70 | 0 .01997674 | 0.00890 |
+| 26 | 0 .00070237 | 0.01500 | 71 | 0 .02200595 | 0.00890 |
+| 27 | 0 .00074747 | 0.01500 | 72 | 0 .02424535 | 0.00890 |
+| 28 | 0 .00079547 | 0.01500 | 73 | 0 .02669075 | 0.00890 |
+| 29 | 0 .00084655 | 0.01500 | 74 | 0 .02937666 | 0.00890 |
+| 30 | 0 .00090604 | 0.01360 | 75 | 0 .03237007 | 0.00840 |
+| 31 | 0 .00096422 | 0.01360 | 76 | 0 .03559111 | 0.00840 |
+| 32 | 0 .00102614 | 0.01360 | 77 | 0 .03913607 | 0.00840 |
+| 33 | 0 .00109203 | 0.01360 | 78 | 0 .04310382 | 0.00840 |
+| 34 | 0 .00116216 | 0.01360 | 79 | 0 .04755693 | 0.00840 |
+| 35 | 0 .00124533 | 0.01190 | 80 | 0 .05262824 | 0.00840 |
+| 36 | 0 .00131808 | 0.01190 | 81 | 0 .05874569 | 0.00670 |
+| 37 | 0 .00140891 | 0.01190 | 82 | 0 .06566185 | 0.00530 |
+| 38 | 0 .00150600 | 0.01190 | 83 | 0 .07319723 | 0.00430 |
+| 39 | 0 .00160978 | 0.01190 | 84 | 0 .08163188 | 0.00340 |
+| 40 | 0 .00172839 | 0.01080 | 85 | 0 .09081240 | 0.00270 |
+| 41 | 0 .00184750 | 0.01080 | 86 | 0 .10071072 | 0.00220 |
+| 42 | 0 .00197481 | 0.01080 | 87 | 0 .11136537 | 0.00170 |
+| 43 | 0 .00211090 | 0.01080 | 88 | 0 .12271368 | 0.00140 |
+| 44 | 0 .00225637 | 0.01080 | 89 | 0 .13465617 | 0.00110 |
+| 45 | 0 .00242162 | 0.00980 | 90 | 0 .14709935 | 0.00090 |
+| 46 | 0 .00258850 | 0.00980 | 91 | 0 .16020964 | 0.00070 |
+| 47 | 0 .00276688 | 0.00980 | 92 | 0 .17370677 | 0.00050 |
+| 48 | 0 .00295755 | 0.00980 | 93 | 0 .18751783 | 0.00040 |
+| 49 | 0 .00316137 | 0.00980 | 94 | 0 .20220529 | 0.00030 |
+| 50 | 0 .00338605 | 0.00930 | 95 | 0 .21742494 | 0.00030 |
+| 51 | 0 .00357267 | 0.00930 | 96 | 0 .23322414 | 0.00020 |
+| 52 | 0 .00361180 | 0.00930 | 97 | 0 .24932140 | 0.00020 |
+| 53 | 0 .00387054 | 0.00930 | 98 | 0 .26590076 | 0.00020 |
+| 54 | 0 .00426234 | 0.00930 | 99 | 0 .28369610 | 0.00010 |
+| 55 | 0 .00477316 | 0.00950 | 100 | 0 .30268236 | 0.00000 |
+| 56 | 0 .00538051 | 0.00950 | 101 | 0 .32281012 | 0.00000 |
+| 57 | 0 .00604957 | 0.00950 | 102 | 0 .34427634 | 0.00000 |
+| 58 | 0 .00675887 | 0.00950 | 103 | 0 .36717002 | 0.00000 |
+| 59 | 0 .00749712 | 0.00950 | 104 | 0 .39158607 | 0.00000 |
+| 60 | 0 .00825940 | 0.00930 | 105 | 0 .41762575 | 0.00000 |
+| 61 | 0 .00901852 | 0.00930 | 106 | 0 .44539701 | 0.00000 |
+| 62 | 0 .00977997 | 0.00930 | 107 | 0 .47501501 | 0.00000 |
+| 63 | 0 .01056021 | 0.00930 | 108 | 0 .50660254 | 0.00000 |
+| 64 | 0 .01140829 | 0.00930 | 109 | 0 .54029058 | 0.00000 |
+|  |  |  | 110 | 1 .00000000 | 0.00000 |
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+ANEXO
+### TABLAS DE MORTALIDAD
+Causantes – 2009 (RV-09).
+ÍNDICE
+I. Introducción .................................................................................................................................. ….6
+II. Obtención y Depuración de Base de Datos ................................................................................... ….6
+1. Base de pólizas de Renta Vitalícia SVS ...................................................................................... .....6
+2. Base de pensionados del Sistema DL. 3.500 SP ....................................................................... ….7
+3. Base de pensionados Sistema IPS .............................................................................................. .....8
+4. Base de Datos del Sistema DL. 3500 (fusión base de datos SVS-SAFP)…. ............................... ….8
+III. Metodología de Cálculo de Tasas Brutas y Expuestos. ............................................................... ….9 IV. Técnica de Ajuste. ....................................................................................................................... ….12
+V. Test Estadísticos ......................................................................................................................... ….14
+VI. Construcción de la Tabla ............................................................................................................. ….15
+1. Construcción de colas.................................................................................................................. ….15
+2. Construcción de edades tempranas ............................................................................................ ….15
+VII. Factores de Mejoramiento y Márgenes de Seguridad ................................................................. ….16 APÉNDICE………………………………………………………….………………………….….17
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+INTRODUCCIÓN Con fecha 21 de febrero de 2004, se publicó la Ley N°19.934 que entre otras modificaciones al D.L. N°3 .500 de 1980 y al DFL N°251, de 1931, estableció que las tablas de mortalidad para efectos del cálculo de las reservas técnicas de los seguros de Renta Vitalicia, para el cálculo del Capital Necesario de las pensiones de Retiro Programado y de los Aportes Adicionales cubiertos por el seguro de invalidez y sobrevivencia, serán fijadas conjuntamente por las Superintendencias de Valores y Seguros y de Administradoras de Fondos de Pensiones.
+Por otra parte, ambas Superintendencias establecieron las Tablas de Mortalidad RV 2004 H (hombres) y RV
+2004 F (mujeres), las cuales rigen por un período máximo de cinco años a contar del 1° de febrero de 2008,
+según lo establecido en la Circular N° 1.314 de la Superintendencia de Pensiones y NCG N° 172 de la Superintendencia de Valores y Seguros.
+En virtud de lo anterior, ambas Superintendencias han desarrollado dos nuevas tablas de mortalidad, para Rentistas RV-2009 H (hombres) y RV-2009 M (mujeres).
+El proceso de construcción de las tablas se dividió en 4 etapas:
+a. Obtención y depuración de datos
+b. Cálculo de expuestos y determinación tasas brutas de mortalidad
+a. Ajuste de tasas brutas de mortalidad y Aplicación de test estadísticos.
+c. Cálculo de los factores de mejoramiento y márgenes de seguridad
+### OBTENCION Y DEPURACION DE BASE DE DATOS
+La base de datos utilizada para la construcción de la tabla se obtuvo de tres fuentes de información que involucran al sistema previsional chileno:
+- Base de pólizas de Renta Vitalicia SVS;
+- Base de pensionados del Sistema DL. 3.500 Superintendencia de Pensiones;
+- Base de pensionados Sistema IPS (ex cajas de previsión)
+Base de pólizas de Renta Vitalicia SVS
+a. Conformación de la Base de Datos
+Se utilizan los datos que trimestralmente envían las compañías de seguros, y reaseguros, correspondientes al Stock de pólizas y siniestros sea que se encuentren vigentes o hayan dejado de estarlo, conforme a lo establecido en la Circular 1194, de 1995 (actualización de Circular 727, de 1987) y la circular 528.
+Los datos recibidos incluyen antecedentes de la póliza de renta vitalicia, o del siniestro antes mencionado, de los afiliados causantes de dichas pólizas.
+b. Pólizas incluidas
+Se utilizó el stock de datos al 31 de diciembre de 2008. Se incluyeron todas las pólizas de RV inmediata y RV diferida, en estas últimas tanto que se haya iniciado el pago de la renta vitalicia, como aquellas en que aún no comienzan a devengarse las rentas. Se incluyeron solo las pólizas donde el afiliado estaba vivo a partir del 1 de enero del 2000. En total se incluyeron 317.417 pólizas.
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+c. Depuración base de datos de personas duplicadas
+Los registros duplicados se generan debido a la posibilidad que un causante de pensión tenga más de una póliza de renta vitalicia. En estos casos, se establece una regla general donde se mantienen los datos de la póliza más antigua.
+d. Verificación de fechas de nacimiento y muerte
+Con el objeto de tener una mayor certeza en los datos a utilizar en la construcción de las tablas de mortalidad, los datos fueron enviados al registro civil para verificar fechas de nacimiento, fallecimiento y sexo de las personas que constituyen esta base.
+Base de pensionados del Sistema DL. 3.500 Superintendencia de Pensiones
+a. Conformación de la Base de Datos
+Se utilizó la información proporcionada mensualmente por las Administradoras de Fondos de Pensión, de Afiliados y Pensionados, conforme a lo establecido en la Circular N° 1.386, y sus modificaciones, de esta Superintendencia, Se consideró la información de afiliados hombres y mujeres pensionados con fecha de solicitud de pensión menor a 31/12/2008.
+b. Depuración y Validación de los datos
+Se efectuaron validaciones de consistencia de información entre las distintas tablas y/o archivos de la base de datos de Afiliados Circular 1386. Además se realizaron verificaciones de: formatos, contenidos, omisiones, repetidos, inconsistencias, etc.
+De manera similar se verificaron datos particulares como montos de pensión y modalidad de pensión, contrastándose con la Base de datos Scomp y con la información entregada por la Superintendencia de Valores y Seguros.
+c. Requerimientos de información a las Administradoras de fondos de pensión
+Producto de lo anteriormente descrito fue preciso solicitar a las Administradoras aclaraciones, correcciones y datos de aquellos campos que no fue posible determinar en las fuentes de información utilizadas, que permitieran consolidar la información en la base de datos resultado.
+d. Verificación de datos en el Registro Civil
+Con el objeto de validar la información a utilizar, los datos fueron enviados al registro civil para verificar fechas de nacimiento, fallecimiento y sexo de las personas que constituyen esta base. La base de datos enviada a verificación consistió en alrededor de 180.000 registros correspondientes a Afiliados pensionados tanto vivos como fallecidos en retiro programado. Lo anterior, significa la totalidad de los Retiros Programados con excepción de aquellos pensionados que se encontraban en régimen de pago a Septiembre de 2008.
+Base de pensionados Sistema IPS
+a. Conformación de la Base de Datos
+Se utilizó la base de datos proporcionada por el IPS conformada por todos los pensionados vivos y muertos al 31/12/2008. La base esta constituida por 520.099 datos de pensionados hombres y mujeres.
+b. Depuración base de datos de personas duplicadas
+La depuración de la base de datos consistió en dejar una sola vez cada afiliado causante.
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+Los registros duplicados se generan por la posibilidad que un causante de pensión sea pensionado de más de una caja.
+c. Verificación de fechas de nacimiento y muerte
+Con el objeto de tener una mayor certeza en los datos a utilizar en la construcción de las tablas de mortalidad, se envió la base de datos donde su resultado ha sido satisfactorio, y esto demuestra que efectivamente el INP realiza chequeos constantes con el Registro Civil de la misma.
+Base de Datos RV-2009 (fusión base de datos SVS-SP-IPS)
+a. Conformación de la Base de Datos
+Se fusionaron las bases de datos provenientes de la SVS, SP e IPS (antes mencionadas) en una sola, la cual es representativa de la mortalidad del rentista chileno.
+Para esto se utilizo el monto de pensión como un filtro para discriminar los datos del sistema de reparto como de AFP.
+b. Filtro de Pensión.
+Respecto de los datos provenientes del IPS se consideraron solamente aquellas personas con pensiones igual o mayor a la pensión mínima vigente al 31 de diciembre del 2008 para todos los expuestos vivos, mientras que para los fallecidos se considero la pensión mínima vigente a la fecha de fallecimiento. Lo anterior por cuanto dicha pensión corresponde al mínimo para las pensiones contributivas que se otorgan en virtud de la legislación correspondiente a la ex Cajas de Previsión.
+Respecto de los pensionados del D.L. 3.500 solo se consideraron se pensiones iguales o mayores a la pensión básica solidaria vigente al 1° de julio de 2009 (alrededor de 3,6UF). Lo anterior por cuanto a contar de dicha fecha, por aplicación de la Ley 20.255, la pensión básica solidaria de vejez corresponde al mínimo exigido para contratar renta vitalicia.
+c. Depuración base de datos de personas duplicadas
+Debido a que una persona se puede traspasar de retiro programado a renta vitalicia, o afiliarse al Sistema de Pensiones regulado por D.L. 3.500 después de haber obtenido pensión en el sistema de reparto, se depuró completamente la base de repetidos teniendo en cuenta la variable RUT.
+La base de datos quedó compuesta de la siguiente manera:
+
+|  | Causantes Vivos | Fallecidos | Total |
+| --- | --- | --- | --- |
+| Hombres SVS-SP | 309,703 | 43,173 | 352,876 |
+| Mujeres SVS-SP | 139,510 | 6,529 | 146,039 |
+| Hombres IPS | 177,637 | 74,045 | 251,682 |
+| Mujeres IPS | 223,764 | 44,653 | 268,417 |
+| TOTAL | 850,614 | 168,400 | 1,019,014 |
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+## III. METODOLOGÍA DE CÁLCULO DE TASAS BRUTAS Y EXPUESTOS
+a. Nomenclatura y definiciones
+En este informe se utiliza la notación actuarial generalmente aceptada.
+Ө número de muertos observados a la edad x.
+x E cantidad de expuestos al riesgo en la edad x.
+x q probabilidad de que una persona de edad x al momento t muera antes de cumplir la edad x+1 al x,t momento t+1.
+q° tasa bruta de mortalidad; valor observado de q x,t xt, q’ se refiere a la tasa de mortalidad ajustada al momento t x,t , r factor de mejoramiento del valor q del momento t-1 al momento t x,t x,t Cálculo de las tasas brutas de mortalidad El cálculo se efectúa de la siguiente manera:
+q° = Ө /E .
+x,t x x Donde Ө es la cantidad de muertes ocurridas y E es la cantidad de expuestos al riesgo en la edad x.
+x x Cálculo de Expuestos al Riesgo Primero es necesario calcular la edad asegurada “IA”:
+IA = Fecha exacta bautizo de la póliza – fecha exacta de nacimiento.
+La fecha exacta se expresa en números decimales, para posteriormente aproximarla al número entero más cercano (edad actuarial).
+Luego se recalcula la fecha de nacimiento (VYB) teniendo en cuenta la nueva edad a la toma del seguro.
+VYB = CYI – IA
+Donde CYI es el año calendario en que se bautizó la póliza (sin mes ni días).
+Una vez obtenidos los valores de IA y VYB se puede calcular el siguiente vector:
+v = [ y, z, θ,φ] i i i i i
+Donde:
+
+|  | Nombre Variable | Forma de Cálculo |
+| --- | --- | --- |
+| y i | edad en que comienza la observación | Año en que comienza la observación – VYB |
+| z i | edad en que sale del periodo de observación | Año en que termina la observación – VYB |
+| θ i | edad exacta de muerte | IA + muerte exacta – Bautizo exacto de la póliza |
+| φ i | edad de renuncia | Año en que renuncia – VYB |
+i Una vez tenido esos datos se pueden calcular los expuestos y fallecimientos por año.
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+El cálculo se realiza de la siguiente forma:
+Expuestos a la edad x = A la suma de todos los individuos que cumplan con estos requisitos:
+(yi < x + 1); (zi > x + 1); (θi = 0 ó x ≤ θi); (φi = 0 ó x ≤ φi) Fallecimientos a la edad x = el subconjunto de expuestos a la edad x que cumplen con x < θi ≤ x+1.
+b. Criterios para el cálculo de expuestos:
+Para este cálculo se consideró un período de seis años, con cortes entre el 2002 y el 2007 inclusive, tanto para la información del sistema de capitalización individual como, para el sistema de reparto, IPS.
+Los datos del INP no tienen relevancia en los primeros años, debido a que se trata de un universo de mayor edad que la del Sistema. Los datos del INP recién a partir de la edad 80 comienzan a influir para la construcción de las edades extremas.
+En el gráfico podemos ver estas comparaciones:
+qx Brutos
+0.3
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+>
+> $$
+> 0
+> 0 3 6 9 2 5 8 1 4 7 0 3 6 9 2 5 8
+> 5 5 5 5 6 6 6 7 7 7 8 8 8 8 9 9 9
+> $$
+qx Brutos Mujeres qx Brutos Hombres Se puede observar a simple vista que la volatilidad es pequeña en los datos.
+## IV. TÉCNICA DE AJUSTE.
+a. Método de Ajuste Whittaker Henderson Tipo B
+El método de ajuste de Whittaker consiste en una combinación de regresión lineal y el método Bayesiano de ajuste.
+Podemos definir la fórmula de Whittaker de la siguiente manera:
+M = F + hS
+F = ∑ w (q’ – q° )2 S = ∑ (∆z q° )2 x x,t x,t x,t
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+Donde F (fit) es la medida de ajuste mientras que S (smooth) es una medida de suavidad de la curva. Mientras que el parámetro h le da más o menos intensidad a la suavidad de la curva.
+Descripción de F:
+Esta es la parte asociada a la minimización de los residuos cuadrados,
+F = ∑ w (q’ – q° ) 2 x x,t x,t En esta formula el tamaño de la muestra esta ponderando los residuos (q’ – q° ). Es decir que mientras F x,t x,t tiende a cero el ajuste es mejor.
+En los casos en que los residuos tienen una muestra grande (w ) deben ser mas pequeños para mantener F lo x mas cerca de cero.
+El ponderador w toma en cuenta la varianza de una distribución normal de la variable aleatoria U. Donde U es x x x una variable aleatoria binomial pero puede ser aproximada por una variable aleatoria normal siempre que el numero de observaciones n se lo suficientemente grande.
+> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+>
+> $$
+> x
+> w = 1/ Var(U)
+> x x
+> $$
+Sabemos que la varianza es inversamente proporcional al número de observaciones. A mayores observaciones la varianza disminuye.
+Var (U) = v(1-v) / n x x x x Entonces
+w = n / v (1-v).
+x x x x Aquí se ve claramente que el ponderador da mas importancia al q bruto cuya varianza es menor (el ponderador x va ser mas grande).
+Descripción de S:
+Ahora es necesario definir la medida para definir la suavidad de la curva. Generalmente se utilizan las diferencias finitas de diferente orden sobre los valores de q brutos para cuantificar una medida de suavidad.
+x Esto se puede representar de la siguiente manera:
+S = ∑ (∆z q° )2 x,t
+“S” se obtiene de la suma cuadrada de las diferencias finitas. Si por ejemplo z=4 estamos considerando que la secuencia q se asemeja a un polinomio de grado 3. Debemos recordar que las diferencias finitas se asemejan a x una derivada y por lo tanto el orden de diferencia condiciona el grado del polinomio.
+Para encontrar los valores de qx ajustados es necesario minimizar M, que es una función con n incógnitas de los valores q . Entonces los q que minimizan M corresponden a la solución para las n ecuaciones como resultado x x de la derivada parcial de M con respecto a q .
+x
+∂M / ∂q = 0 para x = 1, 2,3…. N x Es posible hallar este resultado representando el problema en forma matricial.
+b. Coeficientes utilizados para la construcción de las tablas:
+
+| Coeficiente | Ajuste Causantes Mujeres | Ajuste Causantes Hombres |
+| --- | --- | --- |
+| h | 1.50E+08 | 1.50E+08 |
+| Diferencia Finita Z | Grado 3 | Grado 3 |
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+La diferencia finita, es de grado tres, la cual se asemeja a un polinomio de grado dos, y fue la función que me mejor se adoptó a los datos analizados.
+Por otro lado, el coeficiente h, es obtiene de manera iterativa, hasta que se obtenga una función creciente constante, de manera similar a una función exponencial.
+## V. TEST ESTADÍSTICOS
+El problema con el ajuste de las tasas brutas de mortalidad es ver si estos realmente representan la población estudiada. La principal forma de verificar si esto es así, es a través de test estadísticos los cuales nos indican que tan fidedigno es el ajuste en comparación con los datos observados. Bajo este escenario podemos describir brevemente los siguientes test:
+a. El test de Chi Cuadrado.
+Es un Test completo que solo se utiliza como referencia para ver si las tasas brutas de mortalidad representan a dicha población. Mide las desviaciones estándar de la estimación respecto de las tasas brutas de mortalidad.
+Una de las grandes limitaciones de este Test es que puede haber grandes desviaciones en ciertas edades, mientras que para otras edades son pequeñas por lo que el resultado final es aceptable según el Test.
+Deseablemente estas desviaciones deben ser lo mas constante para obtener un buen resultado. En caso que no pase dicho test, no significa que el ajuste no sea el adecuado, siempre y cuando pase satisfactoriamente todo los demás tests.
+b. Test de Desviaciones Estandarizadas.
+Este test estandariza las desviaciones estándar para que sean comparables entre si y fija un nivel de confianza para que estas desviaciones no sean mayor a un cierto numero. Es decir si las desviaciones no son homogéneas y con un grado menor al deseado es muy probablemente que no pase el test.
+c. Test de Desviaciones Absolutas.
+Este test refleja que las desviaciones absolutas no sean mayores a un cierto número (generalmente se utiliza que éstas no sean mayores a una unidad de la variable normal, o sea de alrededor de 2/3.)
+d. Test de Desviaciones Acumuladas.
+Los fallecimientos en las distintas edades deben ser independientes, y se deben representar en una variable aleatoria normal. Por esta razón las desviaciones Standard deben ser relativamente homogéneas durante todos los tramos. La hipótesis nula a testear es que las desviaciones acumuladas no deben ser mayores al doble de la raíz cuadrada de la varianza de la distribución.
+e. Test de Signos.
+Si tomamos en consideración que la hipótesis nula es que las desviaciones observadas de las muertes respecto de las muertes esperadas son una variable normal independiente, lo mismo debe ocurrir con los signos encontrándose un número similar de éstos, tanto positivo como negativo.
+f. Test de Stevens.
+Es similar al test de signos. Estos signos pueden ser todos positivos al principio y luego todos negativos al final del ajuste, por lo que el test de Stevens observa subgrupos de signos a través de la tabla y computa el signo de cada subgrupo. Luego en estos subgrupos deben estar distribuidos de manera similar tanto los signos positivos como negativos.
+g. Test de Cambio de Signo.
+La probabilidad de cada signo es independiente y está representada en una variable normal, por lo que se puede aplicar una variable binomial donde el signo positivo o negativo tiene la misma probabilidad, ½ .Con esto se quiere ver que los cambios de signo sean homogéneos y no presenten anomalías.
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+Resultado de los Test:
+
+| TEST ESTADISTICOS |  |  |
+| --- | --- | --- |
+| Alfa = 5% |  |  |
+|  | Tabla Causante |  |
+| TEST | Hombres | Mujeres |
+| Chi cuadrado Desviaciones Estandarizadas Desviaciones Absolutas Desviaciones Acumuladas Test Signo Test de Stevens Test Cambio de Signo | X (cid:7) (cid:7) (cid:7) (cid:7) (cid:7) (cid:7) | (cid:7) (cid:7) (cid:7) (cid:7) (cid:7) (cid:7) (cid:7) |
+
+Como podemos ver, la tabla de hombres pasa todos los test menos el de Chi cuadrado. Mientras que en el ajuste de las mujeres pasa los 7 tests.
+En el apéndice de la nota técnica se detalla cada test.
+## VI. CONSTRUCCIÓN DE LAS TABLAS
+## 1. Construcción de colas
+Los datos son representativos hasta la edad de 99 años, por lo que se tiene una buena base para poder extrapolar dos datos faltantes de la tabla, por lo cual no es necesario utilizar varios modelos de mortalidad para estimar éstas. Simplemente, se continúa por 10 años más con la tendencia exponencial de la curva del ajuste
+(Whitakker Henderson), lo cual resulta en una extrapolación de las tasas ajustadas para las edades sobre 100 años. Para realizar esto, simplemente se pone en el ajuste un valor de Wx = 0 para las edades superiores a 99 años.
+## 2. Construcción de edades tempranas
+Al no tener datos en las edades tempranas, simplemente se consideró el qx de la RV 04 y se aplicó el factor de mejoramiento vigente para que los datos sean representativos al año 2009. Estos datos, debieron ser empalmados con los datos del ajuste, por lo que se suavizó dicho empalme con tasas promedios de ambos. Es importante recordar, que los datos mayores a 50 años, son resultado 100% del ajuste de los datos.
+## VII. FACTORES DE MEJORAMIENTO Y MÁRGENES DE SEGURIDAD
+## 1. Factores de mejoramiento
+Se optó por mantener los factores de mejoramiento de la RV-04, los cuales fueron construidos en base al censo poblacional del año 2002, realizado por el INE (Instituto Nacional de Estadística). Estos factores son los que se encuentran implícitos en las proyecciones de mortalidad del CELADE.
+Estas proyecciones fueron implementadas en la tabla RV-09 de acuerdo a la siguiente fórmula:
+qx proj = qx nuevo * (1 – Ax/100)t
+donde:
+qx proj : Es el qx proyectado que refleja el mejoramiento poblacional
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+qx nuevo : Son los qx obtenidos del ajuste de Whittaker Henderson.
+Ax: Los factores de mejoramiento t: Es el número de años desde que las últimas mortalidades fueron proyectadas.
+## 2. Márgenes de seguridad
+Se mantuvieron los criterios de márgenes de seguridad considerados en las tablas RV-2004. Esto es, no se consideraron márgenes de seguridad en el caso de mujeres y para hombres se incorporaron márgenes de seguridad desarrollados de acuerdo a la siguiente fórmula:
+Margen = Desviación Standard (U ) * 100 x q° x,
+Donde:
+q° : qx Bruto x, n : Numero de expuestos a edad x x Desviación Standard (U ) = raíz cuadrada (qxº (1 - qxº)/ n ) x x Se utilizó como máximo un margen del 3%.
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+APÉNDICE Detalle Test Estadísticos
+Hombres:
+
+| Test Chi Cuadrado |
+| --- |
+| Resultado 82.4439722 Prob. Resultada 6.023E-05 ¿Pasa Test? NO |
+
+| Test de Desviaciones Absolutas |
+| --- |
+| no.>0.67 20 Prob. Resultada 0.12643487 ¿Pasa Test? SI |
+
+| Test Desviaciones Acumuladas |
+| --- |
+| Desviaciones Acumuladas 133.677415 Varianza Estimada 71917.6958 Estadistico 0.4984713 Prob. Resultada 0.69092405 ¿Pasa Test? SI |
+
+| Test de Signos |
+| --- |
+| N° Signos Positivos 29 Prob. Resultada 0.92379611 ¿Pasa Test? SI |
+
+Prob. Resultada 0.69092405
+
+| Test de Stevens |
+| --- |
+| N° Grupos Positivos 13 N° Signos Positivos 29 N° Signos Negativos 20 media 12.4285714 Varianza 2.85935282 Estadistico 0.33793103 Prob. Resultada 0.63229242 ¿Pasa Test? SI |
+
+| Test de Cambio de Signos |
+| --- |
+| N° de Cambios de Signos 29 Prob. Resultada 0.92379611 ¿Pasa Test? SI |
+
+Estadistico 0.33793103 Prob. Resultada 0.63229242
+¿Pasa Test? SI
+
+| Test de Desviaciones Estandarizadas |
+| --- |
+| Actual Esperada Chi Cuadrado N° % N° % hasta -3 1 0.02040816 0 0 -3 to -2 1 0.02040816 0.98 0.02 0.000408163 -2 to -1 4 0.08163265 6.86 0.14 1.192361516 -1 to 0 14 0.28571429 16.66 0.34 0.424705882 0 to 1 19 0.3877551 16.66 0.34 0.328667467 1 to 2 8 0.16326531 6.86 0.14 0.189446064 2 to 3 1 0.02040816 0.98 0.02 0.000408163 sobre 3 1 0.02040816 0 0 |
+| total 2.13599726 Prob. Resultada 0.83002522 ¿Pasa Test? SI |
+
+### CIRCULAR SP N° 1679
+NORMA DE CARÁCTER GENERAL SVS N° 274
+FECHA : 18.1.2010
+Mujeres:
+
+| Test Chi Cuadrado |
+| --- |
+| Resultado 54.2044228 Prob. Resultada 0.05354241 ¿Pasa Test? SI |
+
+| Test de Desviaciones Absolutas |
+| --- |
+| no.>0.67 25 Prob. Resultada 0.61227517 ¿Pasa Test? SI |
+
+| Test Desviaciones Acumuladas |
+| --- |
+| Desviaciones Acumuladas 167.104076 Varianza Estimada 71201.4413 Estadistico 0.62624266 Prob. Resultada 0.73442211 ¿Pasa Test? SI |
+
+| Test de Signos |
+| --- |
+| N° Signos Positivos 28 Prob. Resultada 0.87356513 ¿Pasa Test? SI |
+
+Prob. Resultada 0.73442211
+
+| Test de Stevens |
+| --- |
+| N° Grupos Positivos 14 N° Signos Positivos 28 N° Signos Negativos 21 media 12.5714286 Varianza 2.93877551 Estadistico 0.83333333 Prob. Resultada 0.79767162 ¿Pasa Test? SI |
+
+| Test de Cambio de Signos |
+| --- |
+| N° de Cambios de Signos 28 Prob. Resultada 0.90329367 ¿Pasa Test? SI |
+
+Estadistico 0.83333333 Prob. Resultada 0.79767162
+¿Pasa Test? SI Test de Desviaciones Estandarizadas Actual Esperada Chi Cuadrado
+### N° % N° %
+hasta -3 0 0 0 0
+-3 to -2 1 0.02040816 0.98 0.02 0.000408163
+-2 to -1 8 0.16326531 6.86 0.14 0.189446064
+-1 to 0 12 0.24489796 16.66 0.34 1.303457383
+0 to 1 17 0.34693878 16.66 0.34 0.006938776
+1 to 2 8 0.16326531 6.86 0.14 0.189446064
+2 to 3 3 0.06122449 0.98 0.02 4.163673469
+sobre 3 0 0 0 0 total 5.85336992 Prob. Resultada 0.32074919
+¿Pasa Test? SI

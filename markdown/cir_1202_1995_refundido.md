@@ -1,0 +1,17 @@
+<!-- source: cir_1202_1995_refundido.pdf -->
+<!-- language: es -->
+<!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
+     Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
+
+# CIRCULAR N° 1202 — ESTABLECE FORMA Y CONTENIDO DEL INFORME QUE LAS EMPRESAS DE AUDITORIA EXTERNA DEBEN EMITIR CONFORME A LO PREVISTO EN LOS ARTICULOS 161 Y 170 DE LA LEY Nº 18
+
+
+Para todas las empresas de auditoría externa, entidades aseguradoras y reaseguradoras, intermediarios de valores y sociedades administradoras de fondos fiscalizados por esta Superintendencia Esta Superintendencia en uso de sus atribuciones legales, ha estimado oportuno impartir las siguientes instrucciones.
+Las empresas de auditoría externa que auditen los estados financieros de las entidades aseguradoras y reaseguradoras, de los intermediarios de valores y sociedades administradoras de fondos fiscalizados por esta Superintendencia, para cumplir con lo previsto en los artículos 161 y 170 de la ley Nº 18.045, de Mercado de Valores, deberán pronunciarse acerca de los sistemas de información y archivo de las transacciones que efectúen y respecto de los mecanismos de control interno que las entidades antes citadas se impongan, para velar por el fiel cumplimiento de las disposiciones contenidas en el Título XXI y en los artículos 161 y 162 de la ley Nº 18.045. Tratándose de intermediarios de valores, dicho pronunciamiento deberá referirse también a aquellos mecanismos de control interno que éstos se impongan para velar por el cumplimiento de lo dispuesto en el inciso primero del artículo 33 del citado cuerpo legal.
+En razón de lo anteriormente señalado, los auditores externos deberán emitir un informe escrito, el que deberá contener un pronunciamiento acerca de los mecanismos de control antes referidos y sobre los sistemas de información y archivo, utilizados para registrar el origen, destino y oportunidad de las transacciones que efectúen con recursos propios y de terceros que administren o intermedien, las entidades aseguradoras y reaseguradoras, las sociedades administradoras de inversionistas institucionales y los intermediarios de valores, según corresponda.
+El citado informe deberá incluir un detalle de las deficiencias de los mecanismos de control interno y de los sistemas de información y archivo, la opinión de la gerencia al respecto y un resumen de los procedimientos aplicados que fundamentan el pronunciamiento.
+El informe objeto de la presente circular, deberá ser entregado al directorio, cuando la entidad auditada, corresponda a una sociedad anónima y al administrador de ésta, cuando corresponda a una entidad distinta de sociedad anónima, durante el año calendario del período auditado, con una anticipación no inferior a treinta días de la fecha de cierre de los estados financieros.
+Asimismo, copia del referido informe, deberá ser mantenida permanentemente en la oficina principal de las entidades aseguradoras y reaseguradoras, de los intermediarios de valores y de las sociedades administradoras de fondos fiscalizados.
+VIGENCIA Las instrucciones establecidas en la presente circular rigen a contar de esta fecha.
+### DISPOSICION TRANSITORIA
+Sin efecto

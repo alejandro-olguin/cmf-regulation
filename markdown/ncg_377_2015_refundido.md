@@ -1,0 +1,137 @@
+<!-- source: ncg_377_2015_refundido.pdf -->
+<!-- language: es -->
+<!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
+     Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
+
+# IMPARTE NORMAS SOBRE CONTRATACIÓN DE SEGUROS DE RENTAS VITALICIAS DEL D.L. N° 3.500, DE 1980. REEMPLAZA NORMA DE CARÁCTER GENERAL N° 163, DE 21/06/2004. A todas las entidades aseguradoras del segundo grupo y asesores previsionales
+
+NORMA DECARÁCTERGENERALN°377
+FECHA :27.01.2015
+
+Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto la letra m) del artículo 3° y artículo 20 bis del D.F.L. N°251, de 1931, ha resuelto impartirlas siguientes normas relativas a la oferta y contratación de rentas vitalicias a que se refiere el D.L. Nº 3.500.
+## 1. Requisitos para la oferta de rentas vitalicias.
+Conforme lo dispuesto en los incisos penúltimo y final del artículo 20 bis del D.F.L. N°251, de 1931, las compañías de seguros del segundo grupo, que presenten una clasificación de riesgo igual o inferior a “BB”, no podrán ofrecer ni contratar seguros de renta vitalicia del D.L. N°3.500, de 1980, en adelante “rentas vitalicias”.
+Para este efecto se considerará la menor de las clasificaciones obtenidas, efectuadas conforme a lo dispuesto en el citado artículo 20 bis y las normas impartidas respecto a la materia por esta Superintendencia.
+Por lo anterior, sólo podrán ofrecer y contratar rentas vitalicias, compañías de seguros de vida que presenten una clasificación de riesgo igual o superior a “BBB”. No se considerará para efectos del cumplimiento de este requisito, subcategorías indicadas con los símbolos “+” y “-” ni subíndices asociados auna categoría de riesgo.
+Asimismo, se entenderá que no cumplen el requisito señalado, aquellas compañías clasificadas en categoría
+“E”.
+Las compañías que cumplan el requisito señalado, deberán informar a esta Superintendencia su intención de ofrecer y contratar estos seguros, al menos 30 días corridos antes del inicio de la oferta de ellos.
+Cuando una compañía deje de cumplir el requisito de clasificación de riesgo señalado, deberá suspender inmediatamente la oferta y contratación de rentas vitalicias. Para estos efectos, a contar del día siguiente al que se le notifique el cambio de clasificación, la compañía no podrá recibir traspasos de prima única de rentas vitalicias, realizados por cualquier Administradora de Fondos de Pensiones (AFP), debiendo proceder a la devolución inmediata de los dineros que le fueren enviados por este concepto.
+La Superintendencia podrá, a requerimiento de una entidad aseguradora que acredite la imposibilidad de contratar una clasificadora de riesgo, y mediante resolución fundada, ordenar la clasificación de riesgo a una o dos clasificadoras de riesgo inscritas en el registro que al efecto lleva. El costo de dichas clasificaciones será de cargo de la compañía clasificada.
+## 2. Contrato de seguro de renta vitalicia.
+Para la contratación de las rentas vitalicias, las compañías deberán utilizar las condiciones generales de las pólizas y cláusulas adicionales establecidas por la Superintendencia para este efecto, en conformidad a lo dispuesto en el D.L. N°3.500, de 1980, y que seencuentran depositadas por este Servicio en el Depósito de Pólizas.
+## 3. Sistema de Consultas y Ofertas de Montos de Pensión.
+Conforme lo dispuesto en el artículo 61 bis del D.L. N°3.500, de 1980, las compañías que comercialicen rentas vitalicias deberán contar con sistemas propios de información electrónico, interconectados entre todas ellas y las Administradoras de Fondos de Pensiones, denominado “Sistema de Consultas y Ofertas de Montos de Pensión”, en adelante “el Sistema”. Para este efecto las aseguradoras deberán sujetarse a las instrucciones impartidas en la Norma de Carácter General N°218, de 30 de julio de 2008, o la quela reemplace.
+Por otro lado, el mismo artículo establece que los afiliados a una AFP, sus beneficiarios en su caso y aquellos pensionados en la modalidad de Retiro Programado que deseen pensionarse o cambiar de modalidad de pensión, deberán previamente recibir la información que entregue el Sistema.
+El citado artículo establece asimismo, que si el afiliado, beneficiario o pensionado según sea el caso, en adelante “el consultante”, opta por contratar una renta vitalicia, podrá aceptar, alternativamente, cualquier oferta de pensión efectuada en el Sistema, una efectuada fuera de él por una compañía de seguros de vida que hubiera participado en el Sistema, siempre que el monto de la pensión sea superior al ofertado en dicho Sistema por la misma compañía, o bien solicitar la realización de un remate a través del Sistema.
+
+NORMA DECARÁCTERGENERALN°377
+FECHA :27.01.2015
+Por lo anterior, para efectos de la contratación de seguros de renta vitalicia, salvo las excepciones señaladas en el número 4 siguiente, las compañías de seguros de vida deberán previamentehaber ofertado en el Sistema de Consultas y Ofertas de Montos de Pensión y haber dado estricto cumplimiento a todas las disposiciones establecidas en el citado artículo 61 bis, en la Norma de Carácter General N°218 que regula el funcionamiento del Sistemao la que la reemplace, en la presente Norma y en las demás disposiciones legales y normativas que le sean aplicables.
+La oferta de pensión efectuada en el Sistema se denominará también “oferta interna” y la oferta efectuada fuera del Sistema, asociada auna oferta interna, se designará indistintamente como “oferta externa”.
+## 4. Emisión y aceptación de la oferta de renta vitalicia.
+### 4.1 Ofertas de pensión
+Las ofertas internas que se hayan emitido a raíz de una solicitud de ofertas de pensión o cuando lacompañía haya sido seleccionada para participar en un remate, así como las ofertas externas, realizadas en conformidad a la presente Norma y a la Norma de Carácter General N°218 y las ofertas para pensión adicional, tendrán el carácter de obligatorias y vinculantes para la compañía, mientras mantengan su vigencia.
+Las ofertas de pensión deberán cumplir los requisitos mínimos de monto de pensión establecidos en el D.L.
+N°3.500, en la Norma de Carácter General N°218 y en la presente norma.
+La cotización de oferta externa asociada a una oferta interna y de pensión adicional para traspasar el saldo a la misma compañía que está pagando la pensión, tendrán una vigencia de 15 días corridos desde su fecha de emisión. Si el plazo señalado venciere en día sábadoo festivo, la vigencia se prorrogará hasta el día hábil siguiente. Una copia de la cotización de oferta externa asociada a una oferta interna deberá entregarse al afiliado. Las cotizaciones de pensión adicional deberán emitirse con dos copias, una deberáentregarse al afiliado y la otra permanecerá en la entidad aseguradora.
+La aceptación de la oferta será formalizada por el consultante ante la AFP a la cual se encuentra incorporado, a través de la selección de la modalidad de pensión, y posteriormente notificada por la AFP a la compañía seleccionada. Una vez notificada la compañía deberá emitir la póliza respectiva y enviarla a la AFP, la cual deberá verificar el cumplimiento de los requisitos necesarios para pensionarse y traspasar a la compañía los fondos necesarios para el pago de la prima única pactada en el contrato.
+Las ofertas externas y las emitidas para obtener una pensión adicional se regirán además por lo siguiente:
+a) Ofertas asociadas a una oferta interna (ofertas externas)
+Las compañíasque hayan efectuado ofertas internas en el Sistema, podrán emitir ofertas externas que cumplan con las reglas señaladas para tal efecto en la Norma de Carácter General N° 218. Las compañías sólo podrán cotizar una renta vitalicia para una determinada persona, si previamente hicieron a ésta una oferta de monto de pensión en el Sistema, siempre y cuando la oferta interna se encuentre vigente a la fecha de la cotización y el monto de pensión de la oferta externa sea superior al de la oferta interna, incluyendo el incremento cuando corresponda. La oferta externa deberá restringirse exclusivamente a una renta vitalicia de iguales características y condiciones de cobertura que la oferta interna, y deberá enviarse al Sistema el mismo día que fue emitida.
+En casode solicitudes formales de oferta externa, referidas en forma específica a una oferta interna, en que la compañía no emita una oferta, deberá entregar al solicitante un comprobante en que conste dicha situación, debiendo registrarse en SCOMP las solicitudes de ofertas externas no atendidas, de acuerdo a lo instruido en la Norma de Carácter General N° 218.
+b) Ofertas para obtener una pensión adicional
+El artículo 69 del D.L. N° 3.500, de 1980, señala que un afiliado que estuviere acogido a renta vitalicia inmediata o renta vitalicia diferida que haya continuado cotizando podrá, una vez al año, en el mismo mes calendario en que se acogió a pensión, transferir el saldo de la cuenta de capitalización individual a la compañía de seguros que le estuviere pagando o le correspondiere pagar la renta vitalicia o a otra compañía de seguros con el fin de contratar un nuevo seguro de renta vitalicia o acogerse a retiros programados.
+En atención a lo anterior y de acuerdo a lo señalado en el Libro III, Título I, Letra H, Capítulo II, del Compendio de Normas del Sistema de Pensiones, de la Superintendencia de Pensiones, en caso que un pensionado de vejez o invalidez bajo la modalidad de renta vitalicia inmediata o diferida, desee utilizar el saldo acumulado para incrementar el monto de la renta vitalicia contratada, entendiéndose que el afiliado transferirá el nuevo saldo acumulado a la compañía de seguros que le estuviese pagando el mismo tipo de pensión, si la compañía desea
+
+NORMA DECARÁCTERGENERALN°377
+FECHA :27.01.2015
+ofertar emitirá una cotización de pensión adicional, en base al correspondiente “Certificado de Saldo–Pensión Adicional” emitido por la AFP, el cual se encuentra eximido de enviarse a SCOMP. Eneste caso, la compañía deberá utilizar los parámetros vigentes en sus ofertas enviadas a SCOMP el día de la cotización de la pensión adicional u otros más ventajosos para el asegurado.
+Asimismo, el Compendio de Normas del Sistema de Pensiones antes señalado establece que si el afiliado se encontrare percibiendo una pensión de vejez o invalidez bajo la modalidad de seguro de renta vitalicia inmediata o diferida, podrá utilizar el saldo acumulado para contratar otra renta vitalicia que no podrá ser inferior a la pensión básica solidaria, o bien contratar un retiro programado. El otorgamiento de esta pensión se regirá por los mismos plazos y procedimientos definidos para una solicitud de pensión de vejez. Es decir, su fecha de devengamiento será a contar de la fecha de la solicitud de pensión. La Administradora deberá ingresar al SCOMP el correspondiente certificado de saldo y la opción del pensionado se regirá por las mismas normas que regulan la selección de modalidad de pensión.
+Igual tratamiento tendrá el afiliado que se encontrare percibiendo una pensión de invalidez cubierta por el seguro de acuerdo a las disposiciones legales anteriores al 1º de enero de 1988, y desee utilizar el saldo acumulado por cotizaciones posteriores a la pensión de invalidez, que desee contratar una nueva renta vitalicia o bien incrementar la que está percibiendo.
+De la misma forma se procederá en el caso de afiliadas pensionadas por vejez o invalidez que estén percibiendo su pensión en la modalidad de renta vitalicia inmediata o el pago de la renta vitalicia diferida, que reciban el bono por hijo nacido vivo.
+En caso que se contemple el pago de comisión a un agente de ventas o asesor previsional, ésta deberá registrarse en SCOMP y ajustarse a lo señalado en el número 6 siguiente.
+### 4.2 Pensión de referencia garantizada
+Las compañías que mantengan obligaciones o contratos vigentes del seguro de invalidez y sobrevivencia estarán obligadas a otorgar las pensiones de referencia garantizadas establecidas en el artículo62 del D.L. N°
+3.500, pudiendo exceptuarse de esta obligación sólo en los siguientes casos:
+a) Coaseguro
+Tal como se señala en el número 10., de la letra D., de la Norma de Carácter General N°234, para efectos de lo dispuesto en el último inciso del artículo 62 del D.L. N° 3.500, el afiliado o sus beneficiarios podrán optar por contratar una renta vitalicia con cualquiera de las compañías de seguros de vida obligadas al pago del aporte adicional en el grupo respectivo. Cuando dos compañías actúen en coaseguro, cualquiera de ellas podrá asumir esta obligación de acuerdo a lo que establezcan en el respectivo contrato de coaseguro, el cual debe formar parte del contrato de seguro de invalidez y sobrevivencia para que la exclusión sea oponible al afiliado o sus beneficiarios, según corresponda.
+En este caso, como lo señala la Norma de Carácter General N° 218, en el Certificado de Ofertas aparecerá la o las compañías que en el contrato de coaseguro asumieron la obligación de contratar la renta vitalicia.
+b) Acuerdo con afiliado(a) o beneficiarios
+La compañía obligada que ha sido aceptada en el Sistema podrá exceptuarse de la obligación establecida en el artículo 62 bis del D.L. N°3.500 si no comercializa rentas vitalicias previsionales y acuerda formalmentecon el afiliado(a) o con todos los beneficiarios en caso de pensiones de sobrevivencia, que el contrato de la renta vitalicia se suscriba con otra compañía. En este caso, el monto de la pensión deberá ser al menos el monto de la pensión de referencia garantizada establecido en el Certificado de Ofertas para esa compañía.
+La compañía deberá informar al Sistema, a través de la aplicación que éste disponga de acuerdo a lo instruido en la Norma de Carácter General N° 218, respecto de la compañía que emitirá la póliza y del acuerdo formal con el asegurado, adjuntando el documento digitalizado que dé cuenta de la conformidad del afiliado o beneficiarios cuando corresponda. Por su parte, una vez ingresada esta información, la compañía que suscribirá el contrato de renta vitalicia deberá enviar a través del Sistema la póliza electrónica a la AFP.
+Las compañías obligadas a contratar la pensión de referencia garantizada que se exceptúen de dicha obligación, deberán informarlo previamente a SCOMP.
+Al momento de la selección de la modalidad de pensión, el afiliado(a) o beneficiariossegún corresponda, deberán presentar en la AFP el documento en que consta la aceptación de la sustitución de la compañía.
+
+NORMA DECARÁCTERGENERALN°377
+FECHA :27.01.2015
+En caso que la renta vitalicia garantizada contemple el pago de comisión a un asesor previsional, ésta será pagada por la compañíaque emite la póliza. Si la renta vitalicia garantizada contempla retribución por venta para un agente de la compañía obligada al pago del aporte adicional, la compañía que emite la póliza no pagará retribución por venta, debiendo incrementarse la pensión si existiera saldo voluntario, de acuerdo a lo señalado en la Norma de Carácter General N° 218.
+## 5. Ajustes y recálculos de pensión.
+### 5.1 Ajustes
+En el evento que la prima única percibida por parte de la entidad aseguradora fuere distinta a la considerada para efectos de la oferta de pensión efectuada por la compañía, ésta deberá proceder a ajustar la prima y las rentas cotizadas, sobre la base del costo unitario por pensión, conforme a lo estipulado en las condiciones generales de la póliza de renta vitalicia. El ajuste, la nueva pensión determinada y la razón que lo justifica, deberá ser informada al asegurado, dentro del plazo de cinco días hábiles contado desde la fecha de traspaso de los fondos por parte de la AFP.
+Cuando se trate de una renta vitalicia simple contratada con la misma compañía obligada al pago del aporte adicional, habiendo el afiliado o beneficiario ejercido la opción de la Pensión de Referencia Garantizada, el monto de la pensión no podrá ser modificado en función de los fondos realmente traspasados por la respectiva AFP, en la parte correspondiente al saldo obligatorio.
+### 5.2 Recálculos
+Si los antecedentes considerados por la compañía para la realización de sus ofertas, sufren modificación por errores no imputables a la compañía,se deberá recalcular la pensión en caso que ello signifique un aumento de ésta, manteniendo constante todos los demás parámetros utilizados para su cálculo original. En caso que el recálculo signifique una disminución de la pensión, la compañía podrá efectuar el mencionado recálculo, manteniendo constante todos los demás parámetros utilizados en el cálculo original.
+Tratándose de diferencias por errores imputables a la compañía, no se deberá efectuar recálculo alguno, a menos que signifique un aumento de pensión.
+## 6. Comisiones y retribuciones por venta
+Cuando un afiliado contrate una renta vitalicia con la intervención de un agente de ventas de la compañía, ésta pagará al agente como máximo el porcentaje de retribución por venta señalado en la Aceptaciónde la Oferta, sujeto al monto máximo susceptible de ser pagado. En caso que la comisión finalmente pagada sea inferior a la señalada en la Aceptación, se deberá incrementar la pensión en forma proporcional a la disminución de comisión realizada, de acuerdo a lo establecido en la Norma de Carácter General N°218, debiendo emitirse el endoso correspondiente, el que debe ser enviado a la AFP a través del Sistema.
+Cuando un afiliado contrate una renta vitalicia con la intervención de un asesor previsional, elporcentaje de comisión final que pague la compañía no podrá ser superior al menor entre el porcentaje de comisión establecido en el respectivo Contrato de Prestación de Servicios de Asesoría para pensionarse o cambiar modalidad de pensión y el porcentaje señalado en la Aceptación de la Oferta. En caso que el porcentaje de comisión señalado en la Aceptación de la Oferta fuese mayor al efectivamente pagado, la compañía deberá incrementar la pensión de acuerdo a lo señalado en la Norma de Carácter General N°218, enviando el endoso correspondiente a la AFP a través del Sistema. Todo lo anterior, sujeto al monto máximo susceptible de ser pagado. Será responsabilidad de la compañía verificar la comisión establecida en el contrato de asesoría correspondiente.
+En las ofertas de pensión efectuadas con la intervención de un agente de ventas o un asesor previsional, la comisión o retribución contemplada para éstos en la cotización y en la aceptación de la oferta, deberá indicar el porcentaje sobre la prima cotizaday el monto de ésta que se pagará, independientemente de la fecha o modo en que sea pagada por la compañía de seguros. La póliza y endoso correspondiente deberá consignar la comisión o retribución por venta a pagar al asesor previsional o agente de ventas,en porcentaje de la prima y monto, independientemente de la fecha o modo en que ésta sea pagada.
+Las comisiones o retribuciones por venta totales por cada afiliado no podrán exceder los límites definidos en el Decreto Supremo vigente a que hace referencia el artículo 61 bis del D.L. N°3.500, de 1980, y cualquier gravamen o impuesto aplicable estará comprendido en el límite antes señalado.
+
+NORMA DECARÁCTERGENERALN°377
+FECHA :27.01.2015
+En atención al límite individual señalado precedentemente, no pueden establecerse comisiones o retribuciones por volumen de ventas u otros conceptos que no permitan determinar en forma precisa la comisión o retribución por cada póliza de seguro de renta vitalicia contratada.
+## 7. Envío de la póliza y endosos
+### 7.1 Envío al Sistema
+De acuerdo a lo señalado en la Normade Carácter General N° 218, y tratándose de rentas vitalicias cotizadas en el Sistema, la póliza electrónica y sus endosos serán enviados por la compañía de seguros a la AFP a través del Sistema y deberán contener la misma información de la carátula de lapóliza y endosos que se le entregue al pensionado.
+La póliza electrónica será remitida a la AFP, a más tardar el tercer día hábil luego de recibida la notificación de Selección o Cambio de Modalidad.
+Cuando corresponda efectuar un endoso a la póliza emitida por la compañía de seguros, por ajuste a la prima traspasada, por cambio en las comisiones o por la situación señalada en el número 5.2 precedente, ésta lo enviará a la AFP a través del Sistema mediante un endoso electrónico, a más tardar el tercerdía hábil siguiente de efectuado éste.
+El envío de la póliza o endoso a través del Sistema deberá incluir firma electrónica avanzada.
+### 7.2 Envío a los asegurados o beneficiarios
+La compañía enviará la póliza al afiliado o beneficiarios, según corresponda, dentro del plazo de 5 días hábiles contado desde la perfección del contrato.
+En caso de emitirse cualquier tipo de endoso a una póliza, dentro del plazo de 5 días hábiles de emitido éste, la compañía deberá enviarloal asegurado o beneficiarios, según corresponda, junto a una carta en que se señalen los cambios efectuados y la razón que los justifica, explicada en términos simples.
+El envío al asegurado o beneficiarios de la póliza, los endosos y comunicaciones se efectuarán de acuerdo a los términos establecidos en las condiciones generales de la póliza de renta vitalicia.
+En aquellos contratos que no contemplen en sus condiciones generales la posibilidad para la compañía de enviar comunicaciones por correo electrónico, se podrá acordar este mediocon el asegurado o los beneficiarios, según corresponda. Para ello, se requerirá el consentimiento por escrito del asegurado o beneficiarios. El consentimiento podrá ser revocado por el asegurado o beneficiario en cualquier momento. En caso que falle la entrega del correo electrónico, la compañía enviará la comunicación en la forma establecida inicialmente en el contrato.
+## 8. Prohibición de incentivos.
+Las compañías, sus directores, sus dependientes, los asesores previsionales, agentes de ventas u otras personas que intervengan en la comercialización de rentas vitalicias previsionales contempladas en el D.L.
+N°3.500, de 1980, no podrán ofrecer u otorgara los afiliados o beneficiarios incentivos o beneficios distintos a los establecidos en ese Decreto Ley, con el objeto de obtener la contratación de pensiones a través de la modalidad antes señalada.
+Quien, habiendo sido sancionado por infracción a lo dispuesto en el párrafo precedente, en los términos del D.L.
+N° 3.538, de 1980, reincida en ofrecer u otorgar a los afiliados o beneficiarios, incentivos o beneficios distintos de los establecidos en el D.L. N° 3.500, de 1980, con el objeto de obtener la contratación de pensiones a través de la modalidad de renta vitalicia, será sancionado con pena de presidio menor en su grado mínimo.
+De igual forma, conforme lo señalado en el inciso final del artículo 61 bis del D.L. N°3.500, de 1980, las compañías no podrán pagar a sus dependientes, a los intermediarios y agentes de ventas de rentas vitalicias u otras personas que intervengan en la comercialización de éstas, ninguna otra remuneración variable, honorarios, bonos, premios o pagos por concepto de la intermediación o venta de rentas vitalicias, sean ellos en dinero o especies, que excedan el monto de la comisión por intermediación o venta máxima señalada en el inciso penúltimo de dicho texto legal, como tampoco financiar los gastos en que deban incurrir para su cometido. Se exceptuarán de esta prohibición las remuneraciones fijas y permanentes y otros beneficios laborales de carácter
+
+NORMA DECARÁCTERGENERALN°377
+FECHA :27.01.2015
+general, permanente, uniforme y universal, que emanen de un contrato de trabajo como dependiente con la respectiva compañía.
+Asimismo, de acuerdo a lo señalado en el último inciso del artículo 179, del D.L. N° 3.500, de 1980, las compañías de seguros de vida no podrán efectuar pago alguno, distinto del establecido en el señalado artículo, a los asesores previsionales, sean ellos en dinero o especies, como tampoco podrán financiar los gastos en que deban incurrir.
+La infracción a estas normas será considerada falta grave y podrá ser sancionada con la suspensión de las operaciones de venta de seguros contemplados en el D.L. Nº 3.500, de 1980, en virtud de lo dispuesto en el Nº
+4 del artículo 44 del D.F.L. Nº 251, de 1931.
+## 9. Estudios de pensión.
+Con el único objeto de entregar información a personas que no tengan consultas vigentes en el Sistema, las compañías podrán efectuar análisis o estimaciones de pensión de carácter general respecto de los afiliados o sus beneficiarios legales que lo soliciten por escrito, a los cuales, sólo se les podrá denominar “estudios de pensión”.
+Los estudios de pensión deberán sujetarse a las siguientes instrucciones:
+a) Todo estudio de pensión que la compañía emita deberá efectuarse en un documento que lleve por
+encabezado, en forma destacada y visible, lo siguiente:
+### “ESTUDIO DE PENSIÓN DE RENTA VITALICIA. NO CONSTITUYE OFERTA DE PENSIÓN”.
+Además, deberán incorporarse, en forma destacada y visible, las siguientes advertencias mínimas:
+“ADVERTENCIAS:
+Las compañías de seguros sólo pueden emitir estudios de pensión a petición expresa del afiliado o sus beneficiarios legales, en su caso.
+Los estudios de pensión sólo entregan una estimación de monto de pensión de carácter general, únicamente para fines informativos, por lo que no constituye una oferta formal de pensión.
+De acuerdo a la ley, para pensionarse, usted deberá previamente consultar en el Sistema de Consultas y Ofertas de Montos Pensión, por medio del cual podrá cotizar su pensión en todas las compañías de seguros de vida del mercado. La consulta en el Sistema de Consultas y Ofertas de Montos de Pensión usted la puede efectuar através de cualquiera de las compañías de seguros de vida autorizadas para operar en el Sistema, a través de un asesor previsional habilitado o a través de su Administradora de Fondos de Pensiones.”.
+b) La compañía deberá mantener un registro de todos losestudios de pensión emitidos, con al menos la
+siguiente información:
+- Código o número correlativo de identificación del estudio.
+- Fecha de emisión del estudio.
+- Identificación del afiliado o beneficiario que ha solicitado el estudio, señalando nombrecompleto y
+R.U.T.
+- Pensión estimada y monto de la prima única considerado en el estudio, en unidades de fomento, u otra
+moneda autorizada.
+c) Los asesores previsionales que a petición expresa de sus clientes efectúen estudios o análisis de
+pensión, nopodrán hacer referencia en ellos a una determinada compañía de seguros de vida. En la realización de estos estudios los asesores deberán dar cumplimiento a todas las disposiciones señaladas precedentemente, incluyendo la prohibición de realizar estudios para personas que mantengan consultas vigentes en el Sistema, la incorporación de las leyendas de advertencia y la mantención de un registro de los estudios emitidos.
+Sin perjuicio de lo anterior, los asesores podrán canalizar solicitudes de estudios depensión de sus clientes a las aseguradoras, debiendo en este caso entregar al cliente el estudio íntegro emitido por la aseguradora, la que deberá dar cumplimiento a todas disposiciones establecidas en este número.
+
+NORMA DECARÁCTERGENERALN°377
+FECHA :27.01.2015
+## 10. Reemplazo
+La presente norma reemplaza la Norma de Carácter General N° 163, de 21 de junio de 2004, a contar del inicio de su vigencia.
+## 11. Vigencia
+La presente Norma rige a contar del 1 de Marzo de 2015.
