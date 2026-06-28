@@ -27,7 +27,11 @@ La Circular N° 1731, ha sido complementada por Oficio Circular N° 279 de 11 de
 
 Se denominará Ak al monto de los flujos de estos activos a obtener en el tramo "K", agregados en moneda homogénea
 ($, UF o cualquier otra) y sin aplicar tasas de descuento, de acuerdo a la siguiente fórmula:
-Ak =   FAji todo i en todo j el tramo K
+
+$$
+A_k = \sum_{j} \sum_{i \in \text{tramo K}} FA_{ji}
+$$
+
 donde:
 FAji es el flujo del instrumento j durante el período i.
 No obstante lo anterior, la Comisión podrá ajustar, mediante instrucción expresa, los flujos de activos, cuando existan antecedentes que a su juicio, indiquen una sobreestimación de los flujos o poca certeza en que serán efectivamente percibidos por la compañía.
@@ -39,9 +43,12 @@ etc.).
 iii) Hayan sido pactados con el asegurado con posterioridad a la fecha de implementación de la modalidad de
 calce en la compañía.
 Para determinar los flujos correspondientes a cada contrato de seguros, se estará a las tablas de mortalidad y demás convenciones actuariales de uso habitual.
-Se determinará Bk, el monto total de los flujos a pagar en el tramo "K" disminuido en la parte reasegurada, cuando sea aplicable, agregados en la misma moneda homogénea empleada para Ak y sin aplicar tasas de descuento, de acuerdo a
-la siguiente fórmula:
-Bk =   FPNji todo i en todo j el tramo K
+Se determinará Bk, el monto total de los flujos a pagar en el tramo "K" disminuido en la parte reasegurada, cuando sea aplicable, agregados en la misma moneda homogénea empleada para Ak y sin aplicar tasas de descuento, de acuerdo a la siguiente fórmula:
+
+$$
+B_k = \sum_{j} \sum_{i \in \text{tramo K}} FPN_{ji}
+$$
+
 donde:
 FPNji es el flujo de pasivo neto de reaseguro de la póliza j durante el período i, es decir, disminuido en la parte reasegurada cuando corresponda.
 Asimismo, la compañía que actúe como reaseguradora aceptante deberá incluir en el cálculo anterior los flujos a pagar correspondientes a sus aceptaciones de riesgos en la medida que las pólizas de seguro directo subyacentes cumplan con las condiciones i), ii), y iii) anteriores.
@@ -49,7 +56,11 @@ Asimismo, la compañía que actúe como reaseguradora aceptante deberá incluir 
 Se determinará, para cada tramo, el flujo total a pagar por pasivos financieros contratados en moneda reajustable según la inflación o su equivalente. La Comisión podrá, sin embargo, requerir que otros pasivos sean incorporados a este cálculo cuando, a su juicio, su exclusión provoque distorsiones serias en las mediciones de calce de activos y pasivos.
 Deberán incluirse en esta clasificación los pasivos de seguros correspondientes a primas por pagar a reaseguradores.
 Se denominará Ck el monto total de los flujos de pasivos financieros a pagar en el tramo "K", agregados en la misma moneda homogénea empleada para Ak y sin aplicar tasas de descuento, de acuerdo a la siguiente fórmula:
-CK =   FPFji todo i en todo j el tramo k
+
+$$
+C_K = \sum_{j} \sum_{i \in \text{tramo k}} FPF_{ji}
+$$
+
 donde:
 FPFji es el flujo del pasivo financiero j durante el período i
 ## 5. Medición de calce.
@@ -64,23 +75,39 @@ De no haber flujos de activos elegibles que "cubran" a los flujos de pasivos ele
 En la medida que existan estos flujos de activos, una mayor proporción de los pasivos se descontarán a una tasa superior al 3%.
 Específicamente, el valor presente de cada póliza “j” al momento de su entrada en vigencia corresponderá a la siguiente
 expresión:
-tramo k = 10
-VPPj =   FPji x ((1+TMj)-i x CPk,j + (1.03)-i x (1 -CPk,j)) tramo k = i todo i en el tramo k
+$$
+VPP_j = \sum_{k=1}^{10} \sum_{i \in \text{tramo k}} FP_{ji} \cdot \left[(1+TM_j)^{-i} \cdot CP_{k,j} + (1{,}03)^{-i} \cdot (1-CP_{k,j})\right]
+$$
+
 en que:
 VPPj es el valor presente de la póliza j, al momento de su entrada en vigencia.
 FPji es el flujo de la póliza j en el período i; sin deducciones por reaseguro.
 CPk,j es el índice de cobertura de pasivos, correspondiente al mes de entrada en vigencia de la póliza j, en el tramo k.
 TMj es la tasa interna de retorno (TIR) promedio implícita en las transacciones de instrumentos estatales de plazo superior a ocho años de fecha de vencimiento, efectuadas en los mercados formales, en el mes de entrada en vigencia de la póliza j, la que será informada por la Comisión o el organismo que ésta designe.
 En el evento de que la prima única de la póliza j sea superior a su reserva técnica base al momento de entrada en vigencia de la respectiva póliza, la reserva deberá calcularse en todo momento utilizando la siguiente expresión:
-VPPj =  FPji x (1 + TVj)-1 todo i
+
+$$
+VPP_j = \sum_{i} FP_{ji} \cdot (1 + TV_j)^{-i}
+$$
+
 donde:
 VPPj es el valor de la reserva técnica base para cada póliza j;
 FPji es el flujo de la póliza j en el período i, sin deducciones por reaseguro;
 
 TVj es la tasa de venta de la póliza j, y corresponde a la tasa de interés que iguala los flujos FPji de la póliza con el valor de su prima única, PUj al momento de entrada en vigencia de la respectiva póliza, es decir aquella tasa que cumple la siguiente condición:
-PUj =  FPji x (1 + TVj)-1 todo i Por definición, en este caso el valor de la reserva técnica base será igual al valor de la prima única, al momento de entrada en vigencia de la póliza.
+
+$$
+PU_j = \sum_{i} FP_{ji} \cdot (1 + TV_j)^{-i}
+$$
+
+Por definición, en este caso el valor de la reserva técnica base será igual al valor de la prima única, al momento de entrada en vigencia de la póliza.
 En el evento de que el VPPj sea superior a PUj, se determinará una "tasa de costo de emisión equivalente" (TCj), tal que:
-VPPj =  FPji x (1 + TCj)-1 todo i De tal modo, esta nueva tasa TCj corresponderá para cada póliza j, al equivalente a la antigua tasa técnica del 3%, y con aquella se calcularán el costo de venta al momento de entrada en vigencia (idéntico por definición a VPPj) y las reservas técnicas base en todo momento.
+
+$$
+VPP_j = \sum_{i} FP_{ji} \cdot (1 + TC_j)^{-i}
+$$
+
+De tal modo, esta nueva tasa TCj corresponderá para cada póliza j, al equivalente a la antigua tasa técnica del 3%, y con aquella se calcularán el costo de venta al momento de entrada en vigencia (idéntico por definición a VPPj) y las reservas técnicas base en todo momento.
 Las reservas técnicas base que deben constituir los reaseguradores deberán calcularse de acuerdo a la misma metodología anterior, pero utilizando los índices de cobertura de pasivos de la entidad reaseguradora y el valor de la prima aceptada de cada póliza, vigentes al momento de realizar la aceptación. A su vez, el flujo FPji corresponderá a la parte aceptada por estas compañías de acuerdo al contrato de reaseguro respectivo.
 En el caso de aceptaciones de carteras de pólizas, la compañía aceptante deberá utilizar la misma metodología general señalada anteriormente, debiendo determinar una tasa de venta TVj única para el contrato, tasa que será utilizada para comparar el valor de la prima aceptada con el valor de la reserva técnica base de cada una de las pólizas incluidas en el contrato.
 Sin perjuicio de lo anteriormente señalado, la reserva técnica base correspondiente a aceptaciones que provengan de cesiones originalmente efectuadas por la misma compañía deberá ser determinada con los mismos parámetros utilizados para calcular la reserva técnica base al momento de entrada en vigencia de la póliza de seguro directo subyacente, esto es, la TCj o la TVj, según corresponda.
@@ -88,7 +115,10 @@ Sin perjuicio de lo anteriormente señalado, la reserva técnica base correspond
 Trimestralmente, al cierre del estado financiero correspondiente, se deberá determinar un ajuste de reserva, en función de la situación de calce de la compañía, a esa fecha.
 Para esto se deberá recalcular la reserva técnica de todas las pólizas incorporadas en el sistema de calce, utilizando los índices de cobertura de la fecha de cálculo y usando como tasa de descuento de los flujos, la tasa interna de retorno de mercado “TM”, vigente al momento de emisión de la póliza.
 Específicamente, el valor “ajustado” de la Reserva Técnica corresponderá a la siguiente expresión:
-tramo k = 10 VPP` =    FPji x ((1+TMj)-i x CPk + (1.03)-i x (1 - CPk)) todo j tramo k = i todo i en el tramo k
+$$
+VPP' = \sum_{j} \sum_{k=1}^{10} \sum_{i \in \text{tramo k}} FP_{ji} \cdot \left[(1+TM_j)^{-i} \cdot CP_k + (1{,}03)^{-i} \cdot (1-CP_k)\right]
+$$
+
 en que:
 FPji es el flujo de la póliza j en el período i, sin deducciones por reaseguro.
 TMj es la tasa interna de retorno (TIR) promedio anual definida en el punto III de la presente circular, vigente al momento de la emisión de la póliza j.
@@ -165,18 +195,12 @@ Año base = 2004
 t = diferencia entre año calculo del vector y el año base.
 K = años adicionales al año de cálculo [0, w-x].Siendo w la edad final de la tabla de mortalidad.
 X = edad del afiliado al momento de cálculo Método de Mensualización del Vector Anual El vector anual deberá mensualizarse suponiendo una distribución Uniforme, a través de la siguiente formula:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> A
-> y*q
-> X
-> $$
 
-| q m |
-| --- |
-| (x/y )+i |
-x Donde, x es la edad en años.
+$$
+q^m_{(x/y)+i} = \frac{y \cdot {}^{A}q_x}{1 - i \cdot y \cdot {}^{A}q_x}
+$$
+
+Donde, x es la edad en años.
 
 | A X |  |
 | --- | --- |

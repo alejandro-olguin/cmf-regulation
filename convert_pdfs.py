@@ -637,26 +637,174 @@ _INTERNACIONAL_BLOCK_RE = re.compile(
     re.DOTALL,
 )
 
+# ─── CIR 1512 formula patches ───────────────────────────────────────────────
+# U+F053 is the Symbol-font private-use Sigma (Σ) used throughout CIR 1512.
+_SIG = "\uf053"
+
+_CIR_1512_FORMULA_PATCHES = [
+    # Ak = ΣΣ FAji  (flows of eligible assets per tranche)
+    (
+        re.compile(
+            r"(de acuerdo a la siguiente fórmula:)\s*\n"
+            r"Ak\s*=\s*" + _SIG + r"\s*" + _SIG + r"\s*FAji\s*\n"
+            r"todo i en todo j\s*\n"
+            r"el tramo K\s*\n"
+            r"(donde:)",
+        ),
+        lambda m: (
+            f"{m.group(1)}\n\n"
+            "$$\nA_k = \\sum_{j} \\sum_{i \\in \\text{tramo K}} FA_{ji}\n$$\n\n"
+            f"{m.group(2)}"
+        ),
+    ),
+    # Bk = ΣΣ FPNji  (net insurance liability flows per tranche)
+    (
+        re.compile(
+            r"(de acuerdo a\nla siguiente fórmula:|de acuerdo a la siguiente fórmula:)\s*\n"
+            r"Bk\s*=\s*" + _SIG + r"\s*" + _SIG + r"\s*FPNji\s*\n"
+            r"todo i en todo j\s*\n"
+            r"el tramo K\s*\n"
+            r"(donde:)",
+        ),
+        lambda m: (
+            f"{m.group(1).replace(chr(10), ' ')}\n\n"
+            "$$\nB_k = \\sum_{j} \\sum_{i \\in \\text{tramo K}} FPN_{ji}\n$$\n\n"
+            f"{m.group(2)}"
+        ),
+    ),
+    # CK = ΣΣ FPFji  (financial liability flows per tranche)
+    (
+        re.compile(
+            r"(de acuerdo a la siguiente fórmula:)\s*\n"
+            r"CK\s*=\s*" + _SIG + r"\s*" + _SIG + r"\s*FPFji\s*\n"
+            r"todo i en\s*todo j\s*\n"
+            r"el tramo k\s*\n"
+            r"(donde:)",
+        ),
+        lambda m: (
+            f"{m.group(1)}\n\n"
+            "$$\nC_K = \\sum_{j} \\sum_{i \\in \\text{tramo k}} FPF_{ji}\n$$\n\n"
+            f"{m.group(2)}"
+        ),
+    ),
+    # VPPj = ΣΣ FPji × [...] (policy present value — double sum over tranches and periods)
+    (
+        re.compile(
+            r"tramo k = 10\s*\n"
+            r"VPPj\s*=\s*" + _SIG + r"\s*" + _SIG + r"\s*FPji x \(\(1\+TMj\)-i x CPk,j \+ \(1\.03\)-i x \(1 -CPk,j\)\)\s*\n"
+            r"tramo k = i todo i en\s*\n"
+            r"el tramo k\s*\n"
+            r"(en que:)",
+        ),
+        lambda m: (
+            "$$\n"
+            "VPP_j = \\sum_{k=1}^{10} \\sum_{i \\in \\text{tramo k}} FP_{ji} \\cdot "
+            "\\left[(1+TM_j)^{-i} \\cdot CP_{k,j} + (1{,}03)^{-i} \\cdot (1-CP_{k,j})\\right]\n"
+            "$$\n\n"
+            f"{m.group(1)}"
+        ),
+    ),
+    # VPPj = Σ FPji × (1+TVj)^-i  (policy present value using sale rate)
+    (
+        re.compile(
+            r"(utilizando la siguiente expresión:)\s*\n"
+            r"VPPj\s*=\s*" + _SIG + r"\s*FPji x \(1 \+ TVj\)-1\s*\n"
+            r"todo i\s*\n"
+            r"(donde:)",
+        ),
+        lambda m: (
+            f"{m.group(1)}\n\n"
+            "$$\nVPP_j = \\sum_{i} FP_{ji} \\cdot (1 + TV_j)^{-i}\n$$\n\n"
+            f"{m.group(2)}"
+        ),
+    ),
+    # PUj = Σ FPji × (1+TVj)^-i  (single premium equals sum of discounted flows)
+    (
+        re.compile(
+            r"(que cumple la siguiente condición:)\s*\n"
+            r"PUj\s*=\s*" + _SIG + r"\s*FPji x \(1 \+ TVj\)-1\s*\n"
+            r"todo i\s*\n"
+            r"(Por definición)",
+        ),
+        lambda m: (
+            f"{m.group(1)}\n\n"
+            "$$\nPU_j = \\sum_{i} FP_{ji} \\cdot (1 + TV_j)^{-i}\n$$\n\n"
+            f"{m.group(2)}"
+        ),
+    ),
+    # VPPj = Σ FPji × (1+TCj)^-i  (policy present value using equivalent cost rate)
+    (
+        re.compile(
+            r"(determinará una \"tasa de costo de emisión equivalente\" \(TCj\), tal que:)\s*\n"
+            r"VPPj\s*=\s*" + _SIG + r"\s*FPji x \(1 \+ TCj\)-1\s*\n"
+            r"todo i\s*\n"
+            r"(De tal modo)",
+        ),
+        lambda m: (
+            f"{m.group(1)}\n\n"
+            "$$\nVPP_j = \\sum_{i} FP_{ji} \\cdot (1 + TC_j)^{-i}\n$$\n\n"
+            f"{m.group(2)}"
+        ),
+    ),
+    # VPP' = ΣΣΣ FPji × [...] (adjusted reserve — triple sum)
+    (
+        re.compile(
+            r"tramo k = 10\s*\n"
+            r"VPP`\s*=\s*" + _SIG + r"\s*" + _SIG + r"\s*" + _SIG + r"\s*FPji x \(\(1\+TMj\)-i x CPk \+ \(1\.03\)-i x \(1 - CPk\)\)\s*\n"
+            r"todo j tramo k = i todo i en el tramo k\s*\n"
+            r"(en que:)",
+        ),
+        lambda m: (
+            "$$\n"
+            "VPP' = \\sum_{j} \\sum_{k=1}^{10} \\sum_{i \\in \\text{tramo k}} FP_{ji} \\cdot "
+            "\\left[(1+TM_j)^{-i} \\cdot CP_k + (1{,}03)^{-i} \\cdot (1-CP_k)\\right]\n"
+            "$$\n\n"
+            f"{m.group(1)}"
+        ),
+    ),
+    # Mensualización fraction formula  (mortality rate proportional distribution)
+    # After extraction the fraction is split: numerator stays as text, denominator
+    # becomes a markdown table (pdfplumber detects the fraction grid as a table).
+    # Raw post-extraction:
+    #   "a través de la siguiente formula:\nA\ny*q\nX\n\n| q m |\n| --- |\n| (x/y )+i |\n\nx\nDonde,"
+    (
+        re.compile(
+            r"(a través de la siguiente formula:)\s*\n"
+            r"A\s*\ny\*q\s*\nX\s*\n\n"
+            r"\| q m \|\n\| --- \|\n\| \(x/y \)\+i \|\n"
+            r"x\s*\n"
+            r"(Donde,)",
+        ),
+        lambda m: (
+            f"{m.group(1)}\n\n"
+            "$$\n"
+            "q^m_{(x/y)+i} = \\frac{y \\cdot {}^{A}q_x}{1 - i \\cdot y \\cdot {}^{A}q_x}\n"
+            "$$\n\n"
+            f"{m.group(2)}"
+        ),
+    ),
+]
+
 
 def patch_document(text: str, source_file: str) -> str:
-    """Apply document-specific patches for NCG 209."""
-    if "ncg_209" not in source_file.lower():
-        return text
+    """Apply document-specific patches for known garbled content."""
+    if "ncg_209" in source_file.lower():
+        # Replace garbled Internacional table block
+        text = _INTERNACIONAL_BLOCK_RE.sub(
+            _INTERNACIONAL_TABLE + "\n\n", text
+        )
+        # Apply NCG 209 formula reconstructions
+        for pattern, replacement in _FORMULA_PATCHES:
+            text = pattern.sub(replacement, text)
+        # Fix truncated leasing default table header (pdfplumber misses table start)
+        text = text.replace(
+            "| aso en el pago de cuotas | % de castigo en flujos |",
+            "| Meses de atraso en el pago de cuotas | % de castigo en flujos |",
+        )
 
-    # Replace garbled Internacional table block
-    text = _INTERNACIONAL_BLOCK_RE.sub(
-        _INTERNACIONAL_TABLE + "\n\n", text
-    )
-
-    # Apply formula reconstructions
-    for pattern, replacement in _FORMULA_PATCHES:
-        text = pattern.sub(replacement, text)
-
-    # Fix truncated leasing default table header (pdfplumber misses table start)
-    text = text.replace(
-        "| aso en el pago de cuotas | % de castigo en flujos |",
-        "| Meses de atraso en el pago de cuotas | % de castigo en flujos |",
-    )
+    if "cir_1512" in source_file.lower():
+        for pattern, replacement in _CIR_1512_FORMULA_PATCHES:
+            text = pattern.sub(replacement, text)
 
     return text
 
