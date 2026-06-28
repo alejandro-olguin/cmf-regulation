@@ -279,6 +279,48 @@ def detect_and_flag_equations(text: str) -> str:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Cross-page sentence continuation merge  (runs BEFORE equation detection)
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+_CROSS_PAGE_TERMINAL = frozenset(".!?;")
+_CROSS_PAGE_STRUCTURAL = ("#", "|", ">", "`", "-", "–", "▪", "•", "*")
+
+
+def merge_cross_page_continuation(text: str) -> str:
+    """
+    When pages are joined with a blank line and a sentence runs across the
+    page break, remove that blank line so subsequent rejoin logic can merge
+    the fragments.
+
+    Only merges when the last non-blank line before the gap ends without
+    terminal punctuation AND the first non-blank line after the gap starts
+    with a lowercase letter (clearly a mid-sentence continuation).
+    """
+    lines = text.split("\n")
+    result: list[str] = []
+
+    for i, line in enumerate(lines):
+        if line.strip() == "" and result:
+            # Find last non-blank line already in result
+            prev = next((r for r in reversed(result) if r.strip()), "")
+            # Find next non-blank line after this gap
+            nxt = next((lines[j].strip() for j in range(i + 1, min(i + 3, len(lines)))
+                        if lines[j].strip()), "")
+
+            if (prev and nxt and
+                    prev.rstrip()[-1] not in _CROSS_PAGE_TERMINAL and
+                    nxt[0].islower() and
+                    not any(nxt.startswith(p) for p in _CROSS_PAGE_STRUCTURAL)):
+                # Drop the blank line (don't append it)
+                continue
+
+        result.append(line)
+
+    return "\n".join(result)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Paragraph line re-joining  (must run AFTER equation detection)
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -286,6 +328,8 @@ def detect_and_flag_equations(text: str) -> str:
 def _is_non_joinable(s: str) -> bool:
     """
     Return True for lines that must NOT be joined with the following line.
+    Used both to decide whether a line can be extended (outer check) and
+    whether a candidate continuation should be appended (inner check).
     """
     if not s:
         return True
@@ -301,19 +345,27 @@ def _is_non_joinable(s: str) -> bool:
         return True
     if s.isupper() and 3 < len(s) < 80 and " " in s:
         return True
+    # Short label-only lines ending with colon (e.g. "Donde:", "AV:", "Notas:")
+    if re.match(r"^\w[\w\s]{0,25}:\s*$", s):
+        return True
     return False
 
 
 def rejoin_wrapped_lines(text: str) -> str:
     """
     Re-join lines soft-wrapped by the PDF renderer.
-    Only joins when the continuation line starts with a lowercase letter (Spanish).
-    Does NOT touch lines already inside equation blocks (> prefix) or code fences (```).
+    Joins when the continuation line starts with any letter (lower or upper)
+    that is not a structurally distinct element.
+    Does NOT touch lines already inside equation blocks (> prefix) or code fences.
     """
     lines = text.split("\n")
     result = []
     i = 0
     in_code_block = False
+
+    # Variable/formula definition lines (r0 =, t =, FPj =, Ct =, etc.) should
+    # never be appended as continuation of the previous line.
+    _VAR_DEF_RE = re.compile(r"^[A-Za-z]\w{0,5}\d*\s*=\s")
 
     while i < len(lines):
         current = lines[i].rstrip()
@@ -334,7 +386,10 @@ def rejoin_wrapped_lines(text: str) -> str:
         if not _is_non_joinable(stripped):
             while i + 1 < len(lines):
                 tail = current.rstrip()
-                if tail.endswith((".", ":", ";", "?", "!", "»", '"', ")")):
+                # Terminal punctuation stops extension.
+                # ")" is intentionally excluded: it's common mid-sentence in
+                # Spanish legal text (e.g. "(ET)\nlibre de riesgos").
+                if tail.endswith((".", ":", ";", "?", "!", "»", '"')):
                     break
                 if _is_non_joinable(tail.strip()):
                     break
@@ -346,7 +401,10 @@ def rejoin_wrapped_lines(text: str) -> str:
                     break
                 if _is_non_joinable(next_s):
                     break
-                if next_s[0].islower():
+                # Never pull a variable-definition line as a continuation.
+                if _VAR_DEF_RE.match(next_s):
+                    break
+                if next_s[0].isalpha():
                     current = tail + " " + next_s
                     i += 1
                 else:
@@ -650,6 +708,8 @@ def convert_file(pdf_path: Path, output_dir: Path) -> Path:
     full_text = "\n\n".join(pages_content)
 
     # Operation order matters:
+    # 0. Collapse mid-sentence page-break blank lines before anything else.
+    full_text = merge_cross_page_continuation(full_text)
     # 1. Document-specific patches run FIRST on raw extracted text,
     #    before equation detection scrambles the content.
     full_text = patch_document(full_text, pdf_path.name)
