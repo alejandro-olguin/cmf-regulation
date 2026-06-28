@@ -32,9 +32,13 @@ log = logging.getLogger(__name__)
 # Page header / footer removal
 # ─────────────────────────────────────────────────────────────────────────────
 
+# Matches any repeating page header of the form:
+#   CIRCULAR Nº 1512              or  NORMA DE CARÁCTER GENERAL N° 209
+#   FECHA: 02.01.2001                 FECHA : 24.12.2007
 _PAGE_HEADER_RE = re.compile(
-    r"NORMA DE CAR[ÁA]CTER GENERAL\s+N[°º]\s*[\d]+\s*\n"
-    r"FECHA\s*:\s*\d{1,2}\.\d{1,2}\.\d{4}\s*\n?",
+    r"(?:NORMA DE CAR[ÁA]CTER GENERAL\s+N[°º]\s*[\d]+|"
+    r"CIRCULAR\s+N[°º]\s*[\d]+(?:\s*[\w\s]*?)?)\s*\n"
+    r"FECHA\s*:?\s*\d{1,2}\.\d{1,2}\.\d{4}\s*\n?",
     re.MULTILINE,
 )
 _PAGE_FOOTER_RE = re.compile(
