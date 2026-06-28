@@ -2,7 +2,7 @@
 .DS_Store
 
 # Input PDFs (large binary files)
-input/
+pdf/
 
-# Generated Markdown output (derived from input/)
-output/
+# Generated Markdown output (derived from pdf/)
+markdown/

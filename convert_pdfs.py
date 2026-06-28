@@ -5,7 +5,7 @@ Uses pdfplumber for layout-aware extraction with table detection, header/footer
 removal, equation flagging, and paragraph line re-joining.
 
 Usage:
-    python convert_pdfs.py --file input/ncg_209_2007_refundido.pdf
+    python convert_pdfs.py --file pdf/ncg_209_2007_refundido.pdf
     python convert_pdfs.py --all
     python convert_pdfs.py --all --skip-existing
 """
@@ -18,8 +18,8 @@ from pathlib import Path
 
 import pdfplumber
 
-INPUT_DIR = Path("input")
-OUTPUT_DIR = Path("output")
+INPUT_DIR = Path("pdf")
+OUTPUT_DIR = Path("markdown")
 
 logging.basicConfig(
     level=logging.INFO,
