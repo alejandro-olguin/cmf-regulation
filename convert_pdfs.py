@@ -265,10 +265,11 @@ def detect_and_flag_equations(text: str) -> str:
                     "> ⚠️ **Fórmula matemática** — "
                     "extracción automática incompleta; consultar PDF original."
                 )
-                result.append("> ```")
+                result.append("> ")
+                result.append("> $$")
                 for b in block:
                     result.append(f"> {b}")
-                result.append("> ```")
+                result.append("> $$")
                 i = j
                 continue
 
@@ -284,7 +285,7 @@ def detect_and_flag_equations(text: str) -> str:
 
 
 _CROSS_PAGE_TERMINAL = frozenset(".!?;")
-_CROSS_PAGE_STRUCTURAL = ("#", "|", ">", "`", "-", "–", "▪", "•", "*")
+_CROSS_PAGE_STRUCTURAL = ("#", "|", ">", "`", "$", "-", "–", "▪", "•", "*")
 
 
 def merge_cross_page_continuation(text: str) -> str:
@@ -333,7 +334,7 @@ def _is_non_joinable(s: str) -> bool:
     """
     if not s:
         return True
-    if s.startswith(("#", ">", "|", "▪", "•", "*", "```")):
+    if s.startswith(("#", ">", "|", "▪", "•", "*", "```", "$$")):
         return True
     if re.match(r"^\d+(\.\d+)*[\.\s]", s):
         return True
@@ -371,8 +372,8 @@ def rejoin_wrapped_lines(text: str) -> str:
         current = lines[i].rstrip()
         stripped = current.strip()
 
-        # Toggle code-fence state; never join inside a code block.
-        if stripped.startswith("```"):
+        # Toggle code-fence or math-block state; never join inside either.
+        if stripped.startswith("```") or stripped == "$$":
             in_code_block = not in_code_block
             result.append(current)
             i += 1
@@ -556,7 +557,7 @@ _FORMULA_PATCHES = [
         ),
         lambda m: (
             f"{m.group(1)}\n\n"
-            "```\ni_mensual(j) = (1 + i_anual(j))^(1/12) - 1\n```\n\n"
+            "$$\ni_{mensual}(j) = \\left(1 + i_{anual}(j)\\right)^{1/12} - 1\n$$\n\n"
             f"{m.group(2)}"
         ),
     ),
@@ -574,11 +575,11 @@ _FORMULA_PATCHES = [
         ),
         lambda m: (
             f"{m.group(1)}\n\n"
-            "```\nipq = (1 + iBCP5) / (1 + rBCU5) - 1\n```\n\n"
+            "$$\ni_{pq} = \\frac{1 + i_{BCP5}}{1 + r_{BCU5}} - 1\n$$\n\n"
             f"{m.group(2)}\n\n"
-            "```\nipd = (1 + iBCP10) / (1 + rBCU10) - 1\n```\n\n"
+            "$$\ni_{pd} = \\frac{1 + i_{BCP10}}{1 + r_{BCU10}} - 1\n$$\n\n"
             f"{m.group(3)}\n\n"
-            "```\nisq = (1 + ipd)² / (1 + ipq) - 1\n```\n\n"
+            "$$\ni_{sq} = \\frac{(1 + i_{pd})^2}{1 + i_{pq}} - 1\n$$\n\n"
             f"{m.group(4)}"
         ),
     ),
@@ -597,9 +598,8 @@ _FORMULA_PATCHES = [
         ),
         lambda m: (
             f"{m.group(1).strip()}\n\n"
-            "```\nUFt = UF0 × (1 + i_jq)^(t/12)\n"
-            "  donde j = p  si t ≤ 60\n"
-            "        j = s  si t > 60\n```\n\n"
+            "$$\nUF_t = UF_0 \\cdot \\left(1 + i_{jq}\\right)^{t/12}"
+            "\\quad \\text{donde } j = p \\text{ si } t \\leq 60,\\; j = s \\text{ si } t > 60\n$$\n\n"
             f"{m.group(2)}"
         ),
     ),
@@ -618,12 +618,9 @@ _FORMULA_PATCHES = [
         ),
         lambda m: (
             "Donde:\n\n"
-            "```\n"
-            "DM = Dt / (1 + r0)\n\n"
-            "     Σ[ t × Ct / (1+r0)^t ]\n"
-            "Dt = ─────────────────────────\n"
-            "       Σ[ Ct / (1+r0)^t ]\n"
-            "```\n\n"
+            "$$\nDM = \\frac{D_t}{1 + r_0}\n$$\n\n"
+            "$$\nD_t = \\frac{\\sum_{t} \\frac{t \\cdot C_t}{(1+r_0)^t}}"
+            "{\\sum_{t} \\frac{C_t}{(1+r_0)^t}}\n$$\n\n"
             f"{m.group(2)}"
         ),
     ),
