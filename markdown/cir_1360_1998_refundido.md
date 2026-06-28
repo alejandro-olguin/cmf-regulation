@@ -216,14 +216,10 @@ Lo anterior implica que el Bono de Reconocimiento se valorizará al menor valor 
 En los casos de instrumentos recibidos por cesión directa de los afiliados que se estén pensionando anticipadamente por vejez, entendiéndose por cesión directa el endoso del instrumento a la compañía que otorgue la pensión, de acuerdo a lo señalado en el artículo
 68 del D.L. 3.500 de 1980, la tasa interna de retorno (TC) expresada en términos anuales, se
 determinará de acuerdo a la siguiente expresión general:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1/n
-> F.U.F + C
-> TC = --------------- - 1
-> P.U. - S.C.
-> $$
+1/n
+### F.U.F + C
+TC = --------------- - 1
+### P.U. - S.C.
 donde:
 
 F.U.F: Corresponde al flujo único futuro del bono de reconocimiento determinado según las instrucciones señaladas anteriormente.

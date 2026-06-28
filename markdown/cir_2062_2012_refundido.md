@@ -50,16 +50,18 @@ Pensión de referencia recalculada del afiliado causante, tanto si cambia el nú
 : Flujo unitario del nuevo grupo familiar de la póliza, sin considerar los flujos por la cuota mortuoria. En el caso de anticipo de una renta vitalicia diferida, corresponde a los flujos unitarios considerando el pago inmediato de la renta vitalicia (sin período diferido remanente).
 : Flujo unitario cierto (probabilidad a aplicar en cada instante t es 1) correspondientes a los nuevos integrantes del grupo familiar, para los meses devengados en que no se les pagó pensión, aplicando los porcentajes de pensión correspondientes.
 Siendo:
- x x 1  Sobrevivencia, causante fallece cona nterioridad amesdenotificaciónen Afp
+
+x −x +1  Sobrevivencia, causante fallece cona nterioridad amesdenotificaciónen Afp
  Cia Afp
- x x  Sobrevivencia, causante falleceenelmesdenotificaciónen Afp ycompañía
+ x −x  Sobrevivencia, causante falleceenelmesdenotificaciónen Afp ycompañía
  Cia Afp
- seenteraalgúnmes posteriorquela Afp v
+ seenteraalgúnmes posteriorquela Afp v=
 0  Causantevivoocompañía tomaconocimientoelmismomesque falleceo
 
  esanticipo derentadiferidaobajael porcentaje anteuncambiodela
  calidaddebeneficiario.
- Donde para  r : Tasa de descuento de la póliza, empleada en el cálculo de la reserva base total al instante t-1.
+
+Donde para ν=0 r : Tasa de descuento de la póliza, empleada en el cálculo de la reserva base total al instante t-1.
 
 w: Edad en meses máxima de la tabla de mortalidad.
 x: Edad en meses del causante al instante del cálculo.

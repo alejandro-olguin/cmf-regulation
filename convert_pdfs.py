@@ -228,10 +228,126 @@ def collapse_blank_lines(text: str) -> str:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Symbol font (Windows PUA U+F000–U+F0FF) → Unicode math character mapping
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Maps the most common Symbol-font private-use chars to their Unicode math
+# equivalents.  Run this AFTER document-specific patches (which may key on the
+# raw PUA codepoints) and BEFORE equation detection (so the detector sees
+# proper Unicode operators rather than opaque PUA characters).
+_SYMBOL_FONT_MAP: dict[str, str] = {
+    "\uf021": "\u2200",  # ∀  for all
+    "\uf024": "\u2203",  # ∃  there exists
+    "\uf028": "(",
+    "\uf029": ")",
+    "\uf02a": "\u00d7",  # ×  multiplication
+    "\uf02b": "+",
+    "\uf02c": ",",
+    "\uf02d": "\u2212",  # −  minus sign
+    "\uf02e": ".",
+    "\uf02f": "/",
+    "\uf030": "0", "\uf031": "1", "\uf032": "2", "\uf033": "3",
+    "\uf034": "4", "\uf035": "5", "\uf036": "6", "\uf037": "7",
+    "\uf038": "8", "\uf039": "9",
+    "\uf03a": ":", "\uf03b": ";", "\uf03c": "<", "\uf03d": "=", "\uf03e": ">",
+    # Greek uppercase
+    "\uf041": "\u0391", "\uf042": "\u0392", "\uf043": "\u03a7",
+    "\uf044": "\u0394", "\uf045": "\u0395", "\uf046": "\u03a6",
+    "\uf047": "\u0393", "\uf048": "\u0397", "\uf049": "\u0399",
+    "\uf04b": "\u039a", "\uf04c": "\u039b", "\uf04d": "\u039c",
+    "\uf04e": "\u039d", "\uf04f": "\u039f", "\uf050": "\u03a0",
+    "\uf051": "\u0398", "\uf052": "\u03a1", "\uf053": "\u03a3",
+    "\uf054": "\u03a4", "\uf055": "\u03a5", "\uf056": "\u03c2",
+    "\uf057": "\u03a9", "\uf058": "\u039e", "\uf059": "\u03a8",
+    "\uf05a": "\u0396", "\uf05b": "[", "\uf05d": "]",
+    # Greek lowercase
+    "\uf061": "\u03b1", "\uf062": "\u03b2", "\uf063": "\u03c7",
+    "\uf064": "\u03b4", "\uf065": "\u03b5", "\uf066": "\u03c6",
+    "\uf067": "\u03b3", "\uf068": "\u03b7", "\uf069": "\u03b9",
+    "\uf06b": "\u03ba", "\uf06c": "\u03bb", "\uf06d": "\u03bc",
+    "\uf06e": "\u03bd", "\uf06f": "\u03bf", "\uf070": "\u03c0",
+    "\uf071": "\u03b8", "\uf072": "\u03c1", "\uf073": "\u03c3",
+    "\uf074": "\u03c4", "\uf075": "\u03c5", "\uf077": "\u03c9",
+    "\uf078": "\u03be", "\uf079": "\u03c8", "\uf07a": "\u03b6",
+    "\uf07b": "{", "\uf07c": "|", "\uf07d": "}",
+    # Math operators and relations
+    "\uf0a3": "\u2264",  # ≤
+    "\uf0a5": "\u221e",  # ∞
+    "\uf0b0": "\u00b0",  # °
+    "\uf0b1": "\u00b1",  # ±
+    "\uf0b3": "\u2265",  # ≥
+    "\uf0b4": "\u00d7",  # ×
+    "\uf0b6": "\u2202",  # ∂
+    "\uf0b7": "\u00b7",  # ·
+    "\uf0b8": "\u00f7",  # ÷
+    "\uf0b9": "\u2260",  # ≠
+    "\uf0ba": "\u2261",  # ≡
+    "\uf0bb": "\u2248",  # ≈
+    "\uf0bc": "\u2026",  # …
+    "\uf0c6": "\u2205",  # ∅
+    "\uf0c7": "\u2229",  # ∩
+    "\uf0c8": "\u222a",  # ∪
+    "\uf0c9": "\u2283",  # ⊃
+    "\uf0ca": "\u2287",  # ⊇
+    "\uf0cb": "\u2284",  # ⊄
+    "\uf0cc": "\u2282",  # ⊂
+    "\uf0cd": "\u2286",  # ⊆
+    "\uf0ce": "\u2208",  # ∈
+    "\uf0cf": "\u2209",  # ∉
+    "\uf0d5": "\u220f",  # ∏
+    "\uf0d6": "\u221a",  # √
+    "\uf0d7": "\u22c5",  # ⋅
+    "\uf0d9": "\u2227",  # ∧
+    "\uf0da": "\u2228",  # ∨
+    "\uf0e5": "\u2211",  # ∑  (summation)
+    # Large bracket/paren/brace components — these are purely structural in the
+    # old Symbol font layout model; replace with empty strings so the surrounding
+    # formula text remains readable without garbage characters.
+    "\uf0e6": "", "\uf0e7": "", "\uf0e8": "",   # large ( top/mid/bot
+    "\uf0e9": "", "\uf0ea": "", "\uf0eb": "",   # large [ top/mid/bot
+    "\uf0ec": "", "\uf0ed": "", "\uf0ee": "",   # large { top/mid/bot
+    "\uf0f0": "", "\uf0f1": "", "\uf0f2": "",
+    "\uf0f3": "", "\uf0f4": "", "\uf0f5": "",
+    "\uf0f6": "", "\uf0f7": "", "\uf0f8": "",   # large ) top/mid/bot
+    "\uf0f9": "", "\uf0fa": "", "\uf0fb": "",   # large ] top/mid/bot
+    "\uf0fc": "", "\uf0fd": "", "\uf0fe": "",   # large } top/mid/bot
+    "\uf0ff": "",
+}
+
+
+def map_symbol_font_chars(text: str) -> str:
+    """Replace Symbol-font PUA chars with their Unicode math equivalents.
+
+    Must be called *after* patch_document() (which may match on raw PUA bytes)
+    and *before* detect_and_flag_equations() so the detector sees proper
+    Unicode operators instead of opaque private-use codepoints.
+    """
+    for old, new in _SYMBOL_FONT_MAP.items():
+        if old in text:
+            text = text.replace(old, new)
+    return text
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Equation fragment detection  (must run BEFORE line re-joining)
 # ─────────────────────────────────────────────────────────────────────────────
 
-_MATH_CHARS = frozenset("+-*/=^∑∫√≤≥≠∞∆−×÷")
+_MATH_CHARS = frozenset("+-*/=^∑∫√≤≥≠∞∆−×÷⋅∏∂∈⊂⊃∪∩≈∧∨±°")
+
+# Block-level check: a run of fragments is only flagged as an equation when the
+# combined block text contains at least one real mathematical indicator.
+# This prevents kerned table headers and footnote reference numbers from being
+# wrapped in ⚠️ formula blocks.
+_REAL_MATH_BLOCK_RE = re.compile(
+    r"[∑∏∫√∆∂∈⊂⊃∪∩≈∧∨≤≥≠\u2212\u00d7÷⋅∞±²³\u03b1-\u03c9\u0391-\u03a9]"  # Unicode math / Greek (° excluded — used as N° in Spanish)
+    r"|[\U0001D400-\U0001D7FF]"  # Unicode math italic/bold/script
+    r"|[a-zA-Z0-9]\s*=\s*[a-zA-Z0-9(\\]"  # assignment: x = expr
+    r"|[0-9]\s+[+\-]\s+[0-9]"  # digit SPACE ± SPACE digit (avoids matching ranges like 1-13)
+    r"|[a-zA-Z]\s*\*\s*[0-9]"  # variable × digit (e.g. I*100)
+    r"|[0-9]\s*\*\s*[a-zA-Z0-9(]"  # digit × expr
+    r"|[\uf000-\uf0ff]",  # any remaining Symbol-font PUA chars (not yet mapped)
+    re.UNICODE,
+)
 
 
 def _is_equation_fragment(line: str) -> bool:
@@ -309,17 +425,29 @@ def detect_and_flag_equations(text: str) -> str:
                     break
 
             if frag_count >= 3:
-                result.append(
-                    "> ⚠️ **Fórmula matemática** — "
-                    "extracción automática incompleta; consultar PDF original."
-                )
-                result.append("> ")
-                result.append("> $$")
-                for b in block:
-                    result.append(f"> {b}")
-                result.append("> $$")
-                i = j
-                continue
+                block_text = "\n".join(block)
+                if _REAL_MATH_BLOCK_RE.search(block_text):
+                    # Real equation fragments — wrap in ⚠️ warning block
+                    result.append(
+                        "> ⚠️ **Fórmula matemática** — "
+                        "extracción automática incompleta; consultar PDF original."
+                    )
+                    result.append("> ")
+                    result.append("> $$")
+                    for b in block:
+                        result.append(f"> {b}")
+                    result.append("> $$")
+                    i = j
+                    continue
+                else:
+                    # False positive (kerned table header, footnote ref number,
+                    # financial form field code, etc.) — emit lines as-is so
+                    # subsequent rejoin/heading stages can handle them normally.
+                    for b in block:
+                        if b:
+                            result.append(b)
+                    i = j
+                    continue
 
         result.append(lines[i])
         i += 1
@@ -857,6 +985,242 @@ _CIR_1512_FORMULA_PATCHES = [
 ]
 
 
+# ─── CIR 1476 — Makeham mortality model ─────────────────────────────────────
+# Annual survival probability: p_x = s · g^(c^x · (c-1))
+# Monthly survival:            p_x = s^t · g^(c^(xt) · (c^t - 1))
+# Parameter tables M-95 for males and females.
+_CIR_1476_PATCHES = [
+    # Annual Makeham formula: fragments "( cx⋅(c−1))\np = s⋅ g\nx"
+    (
+        re.compile(
+            r"\(\s*cx\s*[⋅·\*]\s*\(c\s*[−\-]\s*1\)\s*\)\s*\n"
+            r"p\s*=\s*s\s*[⋅·\*]\s*g\s*\n"
+            r"x",
+        ),
+        lambda m: "$$\np_x = s \\cdot g^{c^x \\cdot (c-1)}\n$$",
+    ),
+    # Monthly Makeham formula: fragments "( ( ))\np = st ⋅ g cxt⋅ct−1\nx"
+    (
+        re.compile(
+            r"\(\s*\(\s*\)\s*\)\s*\n"
+            r"p\s*=\s*s\s*t\s*[⋅·\*]\s*g\s*cxt\s*[⋅·\*]\s*ct\s*[−\-]\s*1\s*\n"
+            r"x",
+        ),
+        lambda m: "$$\np_x = s^t \\cdot g^{c^{xt} \\cdot (c^t-1)}\n$$",
+    ),
+]
+
+# ─── NCG 207 — Nelson-Siegel yield curve & Gompertz mortality ────────────────
+_NCG_207_PATCHES = [
+    # Gompertz mortality: fragments "q\n=\n1\n- e(- e(a+bx))" on same or adjacent lines
+    (
+        re.compile(
+            r"\bq\s*\n=\s*\n1\s*\n-?\s*e\s*\(\s*-\s*e\s*\(a\s*\+\s*bx\s*\)\s*\)",
+            re.DOTALL,
+        ),
+        lambda m: "$$\nq_x = 1 - e^{-e^{a+bx}}\n$$",
+    ),
+    # Short fragmented form: "q\n=\n1\n-\ne" → just flag minimal LaTeX
+    (
+        re.compile(r"\bq\s*\n=\s*\n1\s*\n-\s*\ne\s*\n"),
+        lambda m: "$$\nq_x = 1 - e^{-e^{a+bx}}\n$$\n",
+    ),
+    # Nelson-Siegel: "Yield[t]= a+bexp(−ωt)+cexp(−ωt)" (usually on one line)
+    (
+        re.compile(
+            r"Yield\[t\]\s*=\s*a\s*\+\s*b\s*exp\s*\([^)]+\)\s*\+\s*c\s*exp\s*\([^)]+\)\s*\n"
+            r"1\s*2",
+        ),
+        lambda m: "$$\nYield(t) = a + b_1 \\cdot e^{-\\omega_1 t} + c_2 \\cdot e^{-\\omega_2 t}\n$$",
+    ),
+]
+
+# ─── NCG 148 — Actuarial loss model (EWMA) ──────────────────────────────────
+_NCG_148_PATCHES = [
+    # Parameter block: "a = 5.701\nb = -3.778\nc = -1.595."
+    (
+        re.compile(
+            r"(a\s*=\s*5[\.\,]\d+)\s*\n"
+            r"(b\s*=\s*-\s*3[\.\,]\d+)\s*\n"
+            r"(c\s*=\s*-\s*1[\.\,]\d+\.?)\s*\n",
+        ),
+        lambda m: (
+            "$$\n"
+            f"{m.group(1).strip()}, \\quad "
+            f"{m.group(2).strip()}, \\quad "
+            f"{m.group(3).rstrip('.')}\n"
+            "$$\n\n"
+        ),
+    ),
+    # EWMA mean+variance: "m = 1 − λr + λm\n...\nh = (1 − λ)(r − m)^2 + λh"
+    (
+        re.compile(
+            r"\(\s*\)\s*\n"
+            r"(m\s*=\s*1\s*[−\-]\s*\S+r\s*\+\s*\S+m)\s*\n"
+            r"(x:t\s+x:t\s+x:t[−\-]1)\s*\n"
+            r"(h\s*=\s*\(\s*1\s*[−\-]\s*\S+\s*\)\s*\(r\s*[−\-]\s*m\s*\)2\s*\+\s*\S+h)",
+            re.DOTALL,
+        ),
+        lambda m: (
+            "$$\n"
+            "m_{x:t} = (1 - \\lambda) \\cdot r_{x:t} + \\lambda \\cdot m_{x:t-1}\n\n"
+            "h_{x:t} = (1 - \\lambda)(r_{x:t} - m_{x:t})^2 + \\lambda \\cdot h_{x:t-1}\n"
+            "$$\n\n"
+        ),
+    ),
+]
+
+# ─── Documents sharing the EC = Σ summation formula ─────────────────────────
+# cir_2248, cir_2250, cir_2265, cir_2281 all use these credit-equivalent formulas.
+# Raw extraction order (before Symbol mapping): symbol first, then sub/superscripts below.
+# Negative netting case: "E C = \uf0e5\ni\nn\n= 1\nN o c\ni\n\uf0b4 F C\ni\n\uf0b4 0 , 4"
+# Positive netting case: single-line extraction, usually not fragmented.
+_EC_SUMA_PATCHES = [
+    # Negative/zero netting case (default x_tolerance=3 extraction):
+    # "E C =\nn\n∑i=\n1\nN o c\ni\n× F C\ni\n× 0 , 4"
+    (
+        re.compile(
+            r"E\s*C\s*=\s*\n"
+            r"n\s*\n"
+            r"[\uf0e5∑\u2211]i\s*=\s*\n"
+            r"1\s*\n"
+            r"N\s*o\s*c\s*\n"
+            r"i\s*\n"
+            r"[\uf0b4×\u00d7]\s*F\s*C\s*\n"
+            r"i\s*\n"
+            r"[\uf0b4×\u00d7]\s*0\s*[,.]?\s*4",
+        ),
+        lambda m: "$$\nEC = \\sum_{i=1}^{n} Noc_i \\times FC_i \\times 0{,}4\n$$",
+    ),
+]
+
+# ─── CIR 2249 / CIR 2243 — Provisión por riesgo de crédito ──────────────────
+# Provisión_deudor = (EAP − EA) × (PI_deudor/100) × (PDI_deudor/100)
+#                   + EA × (PI_aval/100) × (PDI_aval/100)
+# Raw extraction (x_tol=1) has kerned subscript words on separate lines.
+_PROVISION_DEUDOR_PATCHES = [
+    (
+        re.compile(
+            r"P\s*r\s*o\s*v\s*i\s*s\s*i\s*[oó]\s*n\s*\n"
+            r"d\s*e?\s*u\s*d\s*o\s*r\s*\n"
+            r"=\s*\(\s*E\s*A\s*P\s*[−\-]\s*E\s*A\s*\)\s*[\uf0b4×\u00d7]\s*\(\s*P\s*I\s*\n"
+            r"d\s*e?\s*u\s*d\s*o\s*r\s*\n"
+            r"/\s*1\s*0\s*0\s*\)\s*[\uf0b4×\u00d7]\s*\(\s*P\s*D\s*I\s*\n"
+            r"d\s*e?\s*u\s*d\s*o\s*r\s*\n"
+            r"/\s*1\s*0\s*0\s*\)\s*\+\s*E\s*A\s*[\uf0b4×\u00d7]\s*\(\s*P\s*I\s*\n"
+            r"a\s*v(?:\s*/\s*)?\s*a\s*l\s*\n"
+            r"/?\s*1\s*0\s*0\s*\)\s*[\uf0b4×\u00d7]\s*\(\s*P\s*D\s*I\s*\n"
+            r"a\s*v(?:\s*/\s*)?\s*a\s*l\s*\n"
+            r"/?\s*1\s*0\s*0\s*\)",
+        ),
+        lambda m: (
+            "$$\n"
+            "Provisi\\acute{o}n_{deudor} = (EAP - EA) \\times \\frac{PI_{deudor}}{100} "
+            "\\times \\frac{PDI_{deudor}}{100} + EA \\times \\frac{PI_{aval}}{100} "
+            "\\times \\frac{PDI_{aval}}{100}\n"
+            "$$"
+        ),
+    ),
+]
+
+# ─── CIR 2281 — Bond duration (Macaulay) and risk exposure formulas ──────────
+# After Symbol mapping, blocks look like:
+# "𝑀 = ∑𝑡⋅𝐶𝐹_𝑡 /∑𝐶𝐹_𝑡\n𝑡 𝑡\n𝑡 𝑡"
+_CIR_2281_PATCHES = [
+    (
+        re.compile(
+            r"(\U0001D440\s*=\s*[∑\u2211]\U0001D461\s*[⋅·]\s*\U0001D436\U0001D439\s*"
+            r"/\s*[∑\u2211]\s*\U0001D436\U0001D439)\s*\n"
+            r"(\S+\s+\S+)\s*\n"
+            r"(\S+\s+\S+)",
+            re.DOTALL,
+        ),
+        lambda m: "$$\nM = \\frac{\\sum_{t} t \\cdot CF_t}{\\sum_{t} CF_t}\n$$",
+    ),
+]
+
+# ─── NCG 306 — Insurance reserving formulas ──────────────────────────────────
+# Annual siniestralidad and ratio de gastos fraction formulas, development
+# factors FA and TS ratios.
+_NCG_306_PATCHES = [
+    # Siniestralidad fraction (two-line: numerator / denominator)
+    (
+        re.compile(
+            r"Siniestralidad\s*=\s*\n"
+            r"(Siniestros pagados[^\n]+)\s*\n"
+            r"(Prima retenida[^\n]+)\s*\n",
+        ),
+        lambda m: (
+            "$$\n"
+            "\\text{Siniestralidad} = \\frac{\\text{Siniestros pagados}}"
+            "{\\text{Prima retenida neta de anulaciones}}\n"
+            "$$\n\n"
+        ),
+    ),
+    # Ratio de gastos fraction
+    (
+        re.compile(
+            r"Ratio de gastos\s*\n"
+            r"(Gastos de explotaci[oó]n[^\n]+)\s*\n"
+            r"=\s*\n"
+            r"(Prima retenida[^\n]+)\s*\n",
+        ),
+        lambda m: (
+            "$$\n"
+            "\\text{Ratio de gastos} = \\frac{\\text{Gastos de explotación} - "
+            "\\text{Gastos a cargo de reaseguradores}}{\\text{Prima retenida neta de anulaciones}}\n"
+            "$$\n\n"
+        ),
+    ),
+    # TSa = Σ SIai / Σ Pai
+    (
+        re.compile(
+            r"[\uf0e5∑\u2211]\s*\n"
+            r"\U0001D461\U0001D44E\s*\n"
+            r"SI\s*\n"
+            r"TS\s*=\s*i=1\s*ai\s*\n"
+            r"a\s*\n"
+            r"[\uf0e5∑\u2211]\s*\n"
+            r"\U0001D461\U0001D44E\s*\n"
+            r"P\s*\n"
+            r"i=1\s*ai",
+            re.DOTALL,
+        ),
+        lambda m: "$$\nTS_a = \\frac{\\sum_{i=1}^{t_a} SI_{a,i}}{\\sum_{i=1}^{t_a} P_{a,i}}\n$$",
+    ),
+    # FA = ∏ FI (product of incremental development factors)
+    (
+        re.compile(
+            r"(?:FA\s*=\s*[\uf0d5∏\u220f]FI|FA\s*=\s*[\uf0d5∏\u220f]\s*FI)\s*\n"
+            r"t\s*r\s*\n"
+            r"r=t",
+        ),
+        lambda m: "$$\nFA_t = \\prod_{r=t}^{N-1} FI_r\n$$",
+    ),
+]
+
+# ─── NCG 243 — Actuarial pension obligation formulas ─────────────────────────
+# The PDF uses Unicode math italic (𝑅, 𝑃𝑃𝐼𝑇, etc.) for variables.
+# Lines in the PDF are properly Unicode but get fragmented by pdfplumber.
+# We patch the main summary formula (page 7) and the actuarial annuity (page 8).
+_NCG_243_PATCHES = [
+    # Main composite formula
+    (
+        re.compile(
+            r"(\U0001D445\s*=[∑\u2211][∑\u2211]\[.+?G1\U0001D456\U0001D445\s*\]\])\s*\n"
+            r"(\U0001D456=1\U0001D457=1)",
+            re.DOTALL,
+        ),
+        lambda m: (
+            "$$\n"
+            + m.group(1).strip() + "\n"
+            + "\\quad i=1\\ldots10,\\; j=1\\ldots6\n"
+            "$$"
+        ),
+    ),
+]
+
+
 def patch_document(text: str, source_file: str) -> str:
     """Apply document-specific patches for known garbled content."""
     if "ncg_209" in source_file.lower():
@@ -875,6 +1239,34 @@ def patch_document(text: str, source_file: str) -> str:
 
     if "cir_1512" in source_file.lower():
         for pattern, replacement in _CIR_1512_FORMULA_PATCHES:
+            text = pattern.sub(replacement, text)
+
+    if "cir_1476" in source_file.lower():
+        for pattern, replacement in _CIR_1476_PATCHES:
+            text = pattern.sub(replacement, text)
+
+    if "ncg_207" in source_file.lower():
+        for pattern, replacement in _NCG_207_PATCHES:
+            text = pattern.sub(replacement, text)
+
+    if "ncg_148" in source_file.lower():
+        for pattern, replacement in _NCG_148_PATCHES:
+            text = pattern.sub(replacement, text)
+
+    if any(x in source_file.lower() for x in ["cir_2248", "cir_2249", "cir_2250", "cir_2265", "cir_2281"]):
+        for pattern, replacement in _EC_SUMA_PATCHES:
+            text = pattern.sub(replacement, text)
+
+    if any(x in source_file.lower() for x in ["cir_2249", "cir_2243"]):
+        for pattern, replacement in _PROVISION_DEUDOR_PATCHES:
+            text = pattern.sub(replacement, text)
+
+    if "cir_2281" in source_file.lower():
+        for pattern, replacement in _CIR_2281_PATCHES:
+            text = pattern.sub(replacement, text)
+
+    if "ncg_306" in source_file.lower():
+        for pattern, replacement in _NCG_306_PATCHES:
             text = pattern.sub(replacement, text)
 
     return text
@@ -943,6 +1335,11 @@ def convert_file(pdf_path: Path, output_dir: Path) -> Path:
     # 1. Document-specific patches run FIRST on raw extracted text,
     #    before equation detection scrambles the content.
     full_text = patch_document(full_text, pdf_path.name)
+    # 1b. Map Symbol-font PUA chars to Unicode math equivalents.
+    #     Runs AFTER patch_document so CIR 1512 / NCG 209 regex patterns still
+    #     match their raw PUA codepoints, but BEFORE equation detection so the
+    #     detector sees proper Unicode operators.
+    full_text = map_symbol_font_chars(full_text)
     # 2. Detect equations (while lines are still short / individual)
     full_text = detect_and_flag_equations(full_text)
     # 3. Re-join wrapped paragraph lines (⚠️ blocks are non-joinable via ">" prefix)

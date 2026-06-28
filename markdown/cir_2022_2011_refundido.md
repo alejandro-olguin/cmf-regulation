@@ -428,30 +428,24 @@ Fecha de cierre del periodo sobre el que se informa Se debe indicar el periodo c
 | 7.83.00.00 Equivalente al efectivo |  |  |
 
 E S
-88888888888888889
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T A
-> .1 1
-> .1 2
-> .1 3
-> .1 0
-> .2 0
-> .2 1
-> .2 2
-> .2 3
-> .3 0
-> .4 0
-> .4 1
-> .4 2
-> .4 3
-> .5 0
-> .6 0
-> .8 0
-> .0 0
-> D
-> $$
+### 88888888888888889 T A
+.1 1
+.1 2
+.1 3
+.1 0
+.2 0
+.2 1
+.2 2
+.2 3
+.3 0
+.4 0
+.4 1
+.4 2
+.4 3
+.5 0
+.6 0
+.8 0
+### .0 0 D
 .0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0
 O D E
 0 .0 0
@@ -1388,15 +1382,7 @@ e) Segmentar la cartera de inversiones de la Compañía según clasificación de
 Revele para cada clase de activo financiero.
 a) Un análisis de la antigüedad (por tramos) de los activos financieros en mora en la fecha de
 presentación, pero que no estén deteriorados; de la siguiente manera:
-Antigüedad Año 20xx
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> De 1 a 3 meses
-> De 3 a 6 meses
-> De 6 a 9 meses
-> $$
-De 9 a 12 meses De 12 a 24 meses Más de 24 meses Total
+Antigüedad Año 20xx De 1 a 3 meses De 3 a 6 meses De 6 a 9 meses De 9 a 12 meses De 12 a 24 meses Más de 24 meses Total
 b) Un análisis de los activos financieros que se hayan determinado individualmente como
 deteriorados en la fecha de presentación, incluyendo los factores que la entidad ha considerado para determinar el deterioro; y
 c) Para los montos que se hayan revelado anteriormente, una descripción de las garantías tomadas
@@ -2036,32 +2022,13 @@ Adicionalmente, se debe informar la siguiente información:
 
 Nota 10. PRÉSTAMOS
 (Corresponde al saldo presentado en la cuenta 5.11.40.00 del estado de situación financiera) La entidad deberá presentar los préstamos a la fecha de cierre indicando el deterioro y el valor razonable; de acuerdo a los siguientes cuadros:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> P
-> A
-> P
-> T
-> E
-> $$
+P A P
+T E
 ### R E S T A M O S
 v a n c e T e n e d o re s d e ré s ta m o s O to rg a d o s
 ### O T A L P R É S T A M O S
 ## V O L U C IÓ N D E D E T
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> P
-> E
-> ó
-> R
-> liz
-> IO
-> a
-> R
-> s
-> $$
+P E ó R liz IO a R s
 ### O (1 )
 C o s to A m o rtiz a d o D e te rio ro C o s to AN me oto rtiz a d o V a lo r R a z o n a b le Evolución del deterioro (1)
 
@@ -2174,22 +2141,7 @@ Resultado Ejercicio M$ Para cada periodo, se deberá incluir el resultado (utili
 Valor Costo de la Inversión M$ Para cada periodo, se informará el valor de costo de las inversiones, que resulta de aplicar lo referido en IFRS Deterioro de la inversión M$ Se debe informar el valor por deterioro, como resultado de aplicar los criterios generales establecidos en las normas IFRS.
 Valor Final Inversión (VP) M$ Se debe indicar el saldo final a la fecha de presentación de los estados financiero de acuerdo a lo establecido en la normativa vigente.
 ### 12.3 CAMBIO EN INVERSIONES EN EMPRESAS RELACIONADAS
-Se debe considerar lo establecido en NIC 28.37-40
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> S
-> A
-> V
-> R
-> D
-> D
-> D
-> O
-> S
-> $$
-o n c e p to a ld o in ic ia l d q u is ic io n e s e n ta s /T ra n s fe re n c ia s e c o n o c im ie n to e n re s u iv id e n d o s re c ib id o s e te rio ro ife re n c ia d e c a m b io tro s a ld o F in a l (= ) lta d o
+Se debe considerar lo establecido en NIC 28.37-40 C S A V R D D D O S o n c e p to a ld o in ic ia l d q u is ic io n e s e n ta s /T ra n s fe re n c ia s e c o n o c im ie n to e n re s u iv id e n d o s re c ib id o s e te rio ro ife re n c ia d e c a m b io tro s a ld o F in a l (= ) lta d o
 ### F IL IA L E S C O L IG A D A S
 Nota 13. OTRAS NOTAS DE INVERSIONES FINANCIERAS La compañía deberá revelar lo indicado en NIIF 7, considerando al menos lo siguiente:
 ### 13.1.- MOVIMIENTO DE LA CARTERA DE INVERSIONES
@@ -2423,25 +2375,10 @@ Nota 16. CUENTAS POR COBRAR ASEGURADOS
 (Corresponde al saldo presentado en la cuenta 5.14.11.00 del estado de situación financiera)
 ### 16.1 SALDOS ADEUDADOS POR ASEGURADOS
 Este cuadro deberá contener los saldos de prima por cobrar adeudados a la entidad Aseguradora, debiendo reflejarse en columnas separadas los montos adeudados por empresas relacionadas y saldos con entidades no relacionados.
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> A
-> A
-> e
-> T
-> A C
-> $$
-c tiv o c tiv o tc ,
+A A e T A C c tiv o c tiv o tc ,
 O T A
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T IV
-> 1
-> 2
-> L
-> $$
+T IV
+2 L
 O S M A N T E N ID O S P A R A L A V E N T A V a lo r A c t iv o R eU c o n t ilid oa cd im ie n t o e nP R é r ed sid ua lt a d o
 
 | Concepto | Saldos con empresas relacionadas | Saldos con terceros | TOTAL |
@@ -2463,15 +2400,7 @@ Deben incluirse aquellos saldos de primas respaldadas mediante documentos Primas
 ### VEN CIM IEN TO D E SALD O S SEG U RO S REVO CABLES
 1.
 Vencim ientos anteriores a la fecha de los estados financ.
-m eses anteriores
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> m es j-3
-> m es j-2
-> m es j-1
-> $$
-m es j
+m eses anteriores m es j-3 m es j-2 m es j-1 m es j
 ## 2. D eterioro
 -Pagos vencidos
 -Voluntario
@@ -2480,14 +2409,7 @@ no identificación
 ## 4. Subtotal ( 1-23 )
 ## 5. Vencim iento
 posteriores a la fecha de los estados financ.
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> m es j+1
-> m es j+2
-> m es j+3
-> $$
-m eses posteriores
+m es j+1 m es j+2 m es j+3 m eses posteriores
 ## 6. D eterioro
 -Pagos vencidos
 -Voluntario
@@ -2623,26 +2545,17 @@ Nom bre Reasegurador Código de Identificación Tipo de Relación R/NR País del
 2
 ### SALDO S ADEU DADO S
 M eses anteriores
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (m es j-5)
-> (m es j-4)
-> (m es j-3)
-> (m es j-2)
-> (m es j-1)
-> $$
+(m es j-5)
+(m es j-4)
+(m es j-3)
+(m es j-2)
+(m es j-1)
 (m es j)
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (m es j+1)
-> (m es j+2)
-> (m es j+3)
-> (m es j+4)
-> (m es j+5)
-> $$
-M eses posteriores
+(m es j+1)
+(m es j+2)
+(m es j+3)
+(m es j+4)
+(m es j+5) M eses posteriores
 ## 1. TO TAL SALDO S ADEU DADO S
 ## 2. DETERIO RO
 ## 3. TO TAL M O NEDA NACIO NAL M O NEDA EXTRANJERA
@@ -2972,28 +2885,7 @@ Posteriormente, de presentar la sociedad activos diferidos y/o pasivos diferidos
 ### 21.2.1 IMPUESTOS DIFERIDOS EN PATRIMONIO 21.2.2 IMPUESTOS DIFERIDOS EN RESULTADO C O N C E
 In v e rs io C o b e rtu O tro s T o ta l c a
 P T O
-n e s fin a n c ie ra
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ra s
-> rg o /(a b o n o ) e
-> s
-> n
-> c
-> p
-> o
-> a
-> n e
-> trim
-> fe
-> o
-> c
-> n
-> to
-> io
-> $$
-e n p a trim o n io
+n e s fin a n c ie ra ra s rg o /(a b o n o ) e s n c p o a n e trim fe o c n to io e n p a trim o n io
 ### A C T IV O S P A S IV O S N E T O
 
 | Conceptos | Activo | Pasivo | Neto |
@@ -3192,43 +3084,7 @@ Nombre del Fondo : Se debe señalar el nombre asignado al Fondo correspondiente 
 Tipo Valor del Fondo : Se informará de acuerdo a la valorización que tengan los títulos.
 APV : Si los instrumentos respaldan la reserva de valor del fondo de seguros con ahorro previsional voluntario.
 OTR : Si los instrumentos respaldan la reserva de valor del fondo de seguros con ahorro, distinto a los seguros con ahorro previsional voluntario.
-Distribución Estratégica : Se debe identificar la Política de Inversión que tendrá el Fondo, entendiéndose esta, como la distribución estratégica de activos que respaldan al fondo (en que instrumentos y porcentaje se efectúa la inversión) y/o la tasa garantizada o de mercado
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> F
-> F
-> F
-> O
-> O
-> O
-> N
-> N
-> N
-> D
-> D
-> D
-> O
-> O
-> O
-> i
-> j
-> n
-> $$
-N o m b re d e l F o n d o T ip o V a lo r d e l F o n d o D is trib u c ió n E s trá te g ic a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T
-> T
-> T
-> T
-> O
-> O
-> O
-> O
-> $$
-T ip o In v e rs ió
+Distribución Estratégica : Se debe identificar la Política de Inversión que tendrá el Fondo, entendiéndose esta, como la distribución estratégica de activos que respaldan al fondo (en que instrumentos y porcentaje se efectúa la inversión) y/o la tasa garantizada o de mercado F F F O O O N N N D D D O O O i j n N o m b re d e l F o n d o T ip o V a lo r d e l F o n d o D is trib u c ió n E s trá te g ic a T T T T O O O O T ip o In v e rs ió
 T A L
 T A L
 T A L
@@ -3269,80 +3125,22 @@ Ajuste de Reserva para Calce Este valor se deberá calcular y corresponde a la d
 Monto Inicial Debido que los montos en la Circular Nº1.194 están expresados en Unidad de Fomento (UF) corresponde a la cifra extraída de dicha Circular, del trimestre anterior al de referencia, multiplicado por el valor de la UF al cierre del periodo de referencia.
 Monto Final Debido que los montos en la Circular Nº1.194 están expresados en UF, corresponde a la cifra extraída de dicha Circular en el periodo de referencia, multiplicado por el valor de la UF al cierre del periodo de referencia.
 Variación Este dato se deberá calcular y corresponde a la diferencia entre el Monto Inicial y el Monto Final.
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> N
-> P
-> T
-> $$
-o P re v is io n a re v is io n a le s o ta l le s P MMVMMVMMV a s iv o s o n to In ic ia o n to F in a l a ria c ió n o n to In ic ia o n to F in a l a ria c ió n o n to In ic ia o n to F in a l a ria c ió n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> l
-> l
-> l
-> $$
-R e s e rv a T é c n ic a B a s e R e s e rv a T F in a n c é c n ie ra ic a A ju s te d e p o r C R e a lc se e rv a
+N P T
+o P re v is io n a re v is io n a le s o ta l le s P MMVMMVMMV a s iv o s o n to In ic ia o n to F in a l a ria c ió n o n to In ic ia o n to F in a l a ria c ió n o n to In ic ia o n to F in a l a ria c ió n l l l R e s e rv a T é c n ic a B a s e R e s e rv a T F in a n c é c n ie ra ic a A ju s te d e p o r C R e a lc se e rv a
 
 ### 25.3.2 ÍNDICES DE COBERTURAS
 C U A D R O B -2 F L U J O S D E A C T IV O S Y P A S IV O S E L E G IB L E S (C ircu la r N ° 1 5 1 2 )
 C O M P A Ñ ÍA :
 ### C P K -1
-F lujo s d e P asivo s F lujo s d e A ctivo s d e S eguro s F lujo s d e P asivo s Ind ice d e Ind ice d e N o m inales en U F N o m inales en U F F inanciero s en U F C o b ertura d e C o b ertura d e
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T ram o K A B (1 ) C A ctivo s C A P asivo s C P k k k k k
-> T R A M O 1
-> T R A M O 2
-> T R A M O 3
-> T R A M O 4
-> T R A M O 5
-> T R A M O 6
-> T R A M O 7
-> T R A M O 8
-> T R A M O 9
-> T R A M O 1 0
-> $$
+F lujo s d e P asivo s F lujo s d e A ctivo s d e S eguro s F lujo s d e P asivo s Ind ice d e Ind ice d e N o m inales en U F N o m inales en U F F inanciero s en U F C o b ertura d e C o b ertura d e T ram o K A B (1 ) C A ctivo s C A P asivo s C P k k k k k
+### T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O 1 0
 T o tal
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (1 ) R V -8 5 , B -8 5 y M I-8 5 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia anterio r al 9 /0 3 /2 0 0 5
-> R V -2 0 0 4 , B -8 5 y M I-8 5 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia a co ntar d el 9 /0 3 /2 0 0 5 y
-> anterio r al 1 /0 2 /2 0 0 8
-> R V -2 0 0 9 , B -2 0 0 6 y M I-2 0 0 6 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia a co ntar d el 1 /0 2 /2 0 0 8 y
-> anterio r al 1 /0 1 /2 0 1 2
-> $$
-E l co n ju n to d e C P K -1 só lo d e b e rá se r in fo rm a d o si la co m p a ñ ía n o h a re co n o cid o in te g ra m e n te la s ta b la s R V -2 0 0 4 . A l co m p le ta r e l re co n o cim ie n to d e la s ta b la s R V -2 0 0 4 e ste cu a d ro d e b e rá o m itirse .
+(1 ) R V -8 5 , B -8 5 y M I-8 5 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia anterio r al 9 /0 3 /2 0 0 5 R V -2 0 0 4 , B -8 5 y M I-8 5 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia a co ntar d el 9 /0 3 /2 0 0 5 y anterio r al 1 /0 2 /2 0 0 8 R V -2 0 0 9 , B -2 0 0 6 y M I-2 0 0 6 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia a co ntar d el 1 /0 2 /2 0 0 8 y anterio r al 1 /0 1 /2 0 1 2 E l co n ju n to d e C P K -1 só lo d e b e rá se r in fo rm a d o si la co m p a ñ ía n o h a re co n o cid o in te g ra m e n te la s ta b la s R V -2 0 0 4 . A l co m p le ta r e l re co n o cim ie n to d e la s ta b la s R V -2 0 0 4 e ste cu a d ro d e b e rá o m itirse .
 ### C P K -2
-F lujo s d e P asivo s F lujo s d e A ctivo s d e S eguro s F lujo s d e P asivo s Ind ice d e Ind ice d e N o m inales en U F N o m inales en U F F inanciero s en U F C o b ertura d e C o b ertura d e
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T ram o K A B (2 ) C A ctivo s C A P asivo s C P k k k k k
-> T R A M O 1
-> T R A M O 2
-> T R A M O 3
-> T R A M O 4
-> T R A M O 5
-> T R A M O 6
-> T R A M O 7
-> T R A M O 8
-> T R A M O 9
-> T R A M O 1 0
-> $$
+F lujo s d e P asivo s F lujo s d e A ctivo s d e S eguro s F lujo s d e P asivo s Ind ice d e Ind ice d e N o m inales en U F N o m inales en U F F inanciero s en U F C o b ertura d e C o b ertura d e T ram o K A B (2 ) C A ctivo s C A P asivo s C P k k k k k
+### T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O T R A M O 1 0
 T o tal
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (2 ) R V -2 0 0 4 , B -8 5 y M I-8 5 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia anterio r al 1 /0 2 /2 0 0 8
-> R V -2 0 0 9 , B -2 0 0 6 y M I-2 0 0 6 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia a co ntar d el 1 /0 2 /2 0 0 8 y
-> anterio r al 1 /0 1 /2 0 1 2
-> CPK-3
-> $$
+(2 ) R V -2 0 0 4 , B -8 5 y M I-8 5 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia anterio r al 1 /0 2 /2 0 0 8 R V -2 0 0 9 , B -2 0 0 6 y M I-2 0 0 6 ho m b res y m ujeres, p ara p ó lizas co n inicio d e vigencia a co ntar d el 1 /0 2 /2 0 0 8 y anterio r al 1 /0 1 /2 0 1 2 CPK-3
 
 | Tramo K | Flujos de Activos Nominales en UF Ak | Flujos de Pasivos de Seguros Nominales en UF Bk (3) | Flujos de Pasivos Financieros en UF Ck | Indice de Cobertura de Activos CAk | Indice de Cobertura de Pasivos CPk |
 | --- | --- | --- | --- | --- | --- |
@@ -3919,13 +3717,9 @@ La Prima que recibe la compañía chilena de la aseguradora extranjera, debe con
 1 . A u to m ó v ile s
 2 . C a m io n e ta s y
 F u rg o n e s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 3 . C a m io n e s
-> 4 . B u s e s
-> 5 . M o to c ic le ta s y
-> $$
+3 . C a m io n e s
+4 . B u s e s
+5 . M o to c ic le ta s y
 S im ila re s
 6 . T a x is
 7 . O tro s
@@ -3944,15 +3738,8 @@ O A P
 ### A D IR E C T A (M IL E S $ ) S O A P E X S O A P E X
 c o n tra ta d o s c o n tra ta d o s e n e n C h ile e l E x tra n je ro
 ### P R IM
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S O
-> A
-> A
-> P
-> P
-> $$
+S O A
+A P P
 ### R O M E D IO P O R V E H IC U L O S O A P E X S O A P E X
 c o n tra ta d o s c o n tra ta d o s e n e n C h ile e l E x tra n je ro
 
@@ -4167,28 +3954,9 @@ R : Relacionadas NR : No Relacionadas Nom bre
 R1R21.1.- Subtotal Nacional R1R2
 1.2.- Subtotal Extranjero
 2.- Corredores de
-Reaseguros
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> CRN1
-> R1.1
-> R1.2
-> CRN2
-> R2.1
-> R2.2
-> $$
+Reaseguros CRN1 R1.1 R1.2 CRN2 R2.1 R2.2
 2.1.- Subtotal Nacional
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> CRE1
-> R1.1
-> R1.2
-> CRE2
-> R2.1
-> R2.2
-> $$
+### CRE1 R1.1 R1.2 CRE2 R2.1 R2.2
 2.2.- Subtotal Extranjero
 Total Reaseguro Nacional Total Reaseguro Extranjero
 ### TOTAL REASEGUROS
@@ -4263,54 +4031,9 @@ Siniestros Aceptados Se debe mostrar el monto total de siniestros devengados dur
 Nota 33. COSTOS DE ADMINISTRACIÓN
 (Corresponde al saldo presentado en la cuenta 5.31.20.00 del estado de resultado integral) Se deberán revelar todos aquellos gastos necesarios para el desarrollo y funcionamiento de la actividad aseguradora.
 ### CRGOT O N
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> e m
-> a s
-> tr o
-> O T
-> $$
-CutosA E P T O n e r a c io n s a s o c ia
+e m a s tr o O T CutosA E P T O n e r a c io n s a s o c ia
 ### L C O S T
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ed
-> O
-> so
-> s
-> D
-> a
-> E
-> l c
-> A
-> a
-> D
-> n
-> M
-> $$
-a l d
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> IN
-> e
-> IS
-> d
-> T
-> is
-> R
-> tr
-> A
-> ib
-> C
-> u c
-> IÓ
-> ió
-> N
-> n .
-> $$
+ed O so s D a E l c A a D n M a l d IN e IS d T is R tr A ib C u c IÓ ió N n .
 ### T O T A L
 En nota de texto, dar una explicación clara y detallada, si el saldo del concepto “Otros” supera el 5% del total de la cuenta 6.31.20.00 Costo de Administración.
 Nota 34. DETERIORO DE SEGUROS
@@ -5839,14 +5562,9 @@ Se deberá registrar el número de asegurados, correspondientes a personas natur
 N om bre C uenta/R am os N úm ero de S iniestros por R am o N úm ero de P ólizas por R am o C ontratadas en el P eríodo Total P ólizas Vigentes por R am o N úm ero de Ítem s Vigentes por R am o.
 N úm ero P ólizas N o Vigentes por R am o.
 N úm ero de asegurados por ram o- P ersonas N aturales N úm ero de asegurados por ram o- P ersonas Jurídicas Individual
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1 2 … .
-> C
-> 1
-> $$
-olectivo
+1 2 … .
+C
+1 olectivo
 2 9
 M S ubdivisión de ram asivo C artera H ipotecaria
 1 2 … .
@@ -5883,14 +5601,9 @@ C ódigo
 6.04.02.03
 6.04.02.04
 M M N om bre C uenta/R onto Asegurado D irecto (M M $) onto Asegurado R etenido (M M $) am os M oneda N acional M oneda E xtranjera Individual
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1 2 … .
-> C
-> 1
-> $$
-olectivo
+1 2 … .
+C
+1 olectivo
 2 … .
 M S ubdivisión de ram asivo C artera H ipotecaria
 1 2 … .
@@ -5920,20 +5633,14 @@ Se deberá informar el número de asegurados, correspondientes a personas natura
 En esta cuenta para el ramo Seguro Obligatorio de Accidentes Personales SOAP el número de asegurados informados siempre debe ser cero (0).
 6.04.03.07 Número de asegurados - Personas jurídicas
 Se deberá informar el número de asegurados, correspondientes a personas jurídicas, en cada subdivisión de ramos. En este caso, se deberá agrupar la información por Rut, es decir, una persona jurídica que posea más de una póliza en una misma subdivisión de ramos, se deberá contabilizar una sola vez.
-6666666
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C ó
-> .0 4
-> .0 4
-> .0 4
-> .0 4
-> .0 4
-> .0 4
-> .0 4
-> $$
-d ig o
+6666666 C ó
+.0 4
+.0 4
+.0 4
+.0 4
+.0 4
+.0 4
+.0 4 d ig o
 .0 3 .0
 .0 3 .0
 .0 3 .0
@@ -6101,20 +5808,15 @@ Corresponde a la suma de las cuentas 6.31.11.00, 6.31.12.00, 6.31.13.00, 6.31.14
 6.31.16.00, 6.31.17.00.
 6.31.11.00 Prima Retenida
 Son los ingresos de primas correspondientes al seguro directo y aceptado menos la participación del reasegurador en tales ingresos. Se refiere a aquella prima que genera compromisos por cuenta de la entidad aseguradora, es decir
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 6
-> 6
-> .0
-> .0
-> 1
-> 1
-> .0
-> .0
-> 1 C U A D R O D E M
-> $$
-### C O D IG O
+6
+6
+.0
+.0
+1
+1
+.0
+.0
+### 1 C U A D R O D E M C O D IG O
 6 .3 1 .1 0 .0 0
 6 .3 1 .1 1 .0 0
 6 .3 1 .1 1 .1 0
@@ -6601,19 +6303,15 @@ En esta cuenta se debe reconocer, sólo el efecto técnico de la variación de l
 Corresponde a la obligación de la compañía al cierre del ejercicio que se informa, para con los asegurados y reasegurados originadas por primas de contratos de seguro y reaseguro aceptado, que se constituyen con el carácter de obligatorias para hacer frente a los riesgos que permanecen vigentes al cierre de los Estados Financieros.
 6.51.20.00 Variación Reserva Matemática
 Corresponde a la diferencia entre la reserva matemática constituida a la fecha de cierre de los estados financieros y
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 6
-> 6
-> 6
-> .0
-> .0
-> .0
-> 5
-> 5
-> 5
-> $$
+6
+6
+6
+.0
+.0
+.0
+5
+5
+5
 C U A
 C O
 ### .0 1 C
@@ -6665,20 +6363,10 @@ C O
 .3 0 .0 0
 .4 0 .0 0
 .4 1 .0 0
-.4 2 .0 0
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> R
-> D
-> O
-> E
-> E
-> T
-> S
-> R
-> R
-> $$
+### .4 2 .0 0 R
+D O E
+E T S
+R R
 ### E R V A S N O M B R E C U E N T A E S E R V A S D E P R IM A
 ## V A R IA C IÓ N R E S E R V A D E R IE S G O E N C U R S O
 R e s e rva d e R ie s g o e n C u rs o E je rc ic io A n te rio r R e s e rva d e R ie s g o e n C u rs o d e l E je rc ic io
@@ -7115,83 +6803,30 @@ Registro de Número de Pólizas, Ítems y Número de asegurados
 1.- Se tiene una póliza temporal colectiva (ramo 202) con las siguientes coberturas adicionales: Muerte Accidental (210),
 Invalidez Accidental (ramo 208).
 Esta póliza se debe registrar como sigue:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> C
-> C
-> C
-> u
-> u
-> u
-> u
-> a
-> 6
-> a
-> 6
-> a
-> 6
-> a
-> 6
-> $$
-d ro 6 .0 8 .0 C ó d ig o
+C C C
+C u u u u a
+6 a
+6 a
+6 a
+6 d ro 6 .0 8 .0
+C ó d ig o
 .0 8 .0 1 .0 1 d ro 6 .0 8 .0 C ó d ig o
 .0 8 .0 3 .0 1 d ro 6 .0 8 .0 C ó d ig o
 .0 8 .0 1 .0 1 d ro 6 .0 8 .0 C ó d ig o
 .0 8 .0 3 .0 1
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1
-> 3
-> 1
-> 3
-> C
-> N
-> C
-> N
-> C
-> N
-> C
-> N
-> $$
-u a d ú m u a d ú m u a d ú m u a d ú m ro d e D a to s E sta d ístico p o r R a m o T e m p o ra l d e v id a In d iv id u a l N o m b re C u e n ta /R a m o … .. 1 0 2 1 1 0 … e ro d e S in ie stro s p o r ra m o 1 1 ro d e d a to s E sta d ístico s A g ru p a d o p o r S u b d iv isió n d e R a m S u b d N o m b re C u e n ta In d iv id u a l C o le ctiv o e ro d e S in ie stro s 1 ro d e D a to s E sta d ístico p o r R a m o In d iv id u a l N o m b re C u e n ta /R a m o e ro d e S in ie stro s p o r ra m o ro d e d a to s E sta d ístico s A g ru p a d o p o r S u b d iv isió n d e R a m S u b d N o m b re C u e n ta In d iv id u a l C o le ctiv o e ro d e S in ie stro s A ccid e n te s p e rso n a le s S u b d iv isió n d e ra m o s C o le ctiv o B a n ca S o s iv isió n d e ra m o s B a n ca S e g u ro y S e g u ro s R e ta il P re v isio n a le s D e sg ra v a m S u b d iv isió n d e ra m o s C o le ctiv o B a n ca S
+1
+3
+1
+3 C
+N C N
+C N C
+N u a d ú m u a d ú m u a d ú m u a d ú m ro d e D a to s E sta d ístico p o r R a m o T e m p o ra l d e v id a In d iv id u a l N o m b re C u e n ta /R a m o … .. 1 0 2 1 1 0 … e ro d e S in ie stro s p o r ra m o 1 1 ro d e d a to s E sta d ístico s A g ru p a d o p o r S u b d iv isió n d e R a m S u b d N o m b re C u e n ta In d iv id u a l C o le ctiv o e ro d e S in ie stro s 1 ro d e D a to s E sta d ístico p o r R a m o In d iv id u a l N o m b re C u e n ta /R a m o e ro d e S in ie stro s p o r ra m o ro d e d a to s E sta d ístico s A g ru p a d o p o r S u b d iv isió n d e R a m S u b d N o m b re C u e n ta In d iv id u a l C o le ctiv o e ro d e S in ie stro s A ccid e n te s p e rso n a le s S u b d iv isió n d e ra m o s C o le ctiv o B a n ca S o s iv isió n d e ra m o s B a n ca S e g u ro y S e g u ro s R e ta il P re v isio n a le s D e sg ra v a m S u b d iv isió n d e ra m o s C o le ctiv o B a n ca S
 … o s iv isió n d e ra m o s B a n ca S e g u ro y S e g u ro s R e ta il P re v isio n a le s
 2 e g u ro y R e ta il
 e n h ip o te ca rio e g u ro y R e ta il
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 3 1 2 …
-> 2
-> S
-> S
-> e
-> e
-> g
-> g
-> u
-> u
-> ro
-> ro
-> s P
-> s P
-> re
-> re
-> v
-> v
-> isio
-> isio
-> n
-> n
-> a
-> a
-> le
-> le
-> s
-> s
-> $$
+3 1 2 …
+2 S
+S e e g g u u ro ro s P s P re re v v isio isio n n a a le le s s
 
 2.- Para esta misma póliza se tiene que el número de ítems es 500 asegurados, todos con las mismas coberturas.
 3.- Para esta misma póliza se tiene que el número de ítems es 500 asegurados, todos con las mismas coberturas, los
@@ -7199,25 +6834,9 @@ cuales corresponden a 450 Rut distintos (hay 50 ítems que corresponde a asegura
 4.- Siniestro que afecta a póliza individual de salud, donde se registra varios pagos asociados a un evento (enfermedad
 grave o catastrófica) que afecta a un asegurado cubierta por ella.
 Este siniestro se debe registrar como sigue:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> C
-> C
-> C
-> C
-> C
-> C
-> u
-> u
-> u
-> u
-> u
-> u
-> u
-> $$
-ad ro 6.08.01 C ó d igo
+C C C
+C C C
+C u u u u u u u ad ro 6.08.01 C ó d igo
 6.08.01.07
 ad ro 6.08.03 C ó d igo
 6.08.03.05
@@ -7231,77 +6850,25 @@ ad ro 6.08.03 C ó d igo
 6.08.03.10
 ad ro 6.08.04 C ó d igo
 6.08.04.10
-C u ad ro d e D ato s Estad ístico p o r R am o Te m p o ral d e vid a In valid e z accid e n tal M u e rte accid e n Su b d ivisió n d e ram o s In d ivid u al C o le ctivo B an ca Se gu ro y R e tail N o m b re C u e n ta/R am o … . 202 208 210 To tal p ó lizas V ige n te s p o r ram o 1 1 1 C u ad ro d e d ato s Estad ístico s A gru p ad o p o r Su b d ivisió n d e R am o s Su b d ivisió n d e ram o s B an ca Se gu ro y Se gu ro s N o m b re C u e n ta In d ivid u al C o le ctivo R e tail P re visio n ale s To tal p ó lizas V ige n te s p o r su b d ivisió n 1 C u ad ro d e D ato s Estad ístico p o r R am o Su b d ivisió n d e ram o s In d ivid u al C o le ctivo B an ca Se gu ro y R e tail N o m b re C u e n ta/R am o … . 202 208 210 N ú m e ro d e ite m s vige n te s ram o . 500 500 500 C u ad ro d e d ato s Estad ístico s A gru p ad o p o r Su b d ivisió n d e R am o s Su b d ivisió n d e ram o s B an ca Se gu ro y Se gu ro s N o m b re C u e n ta In d ivid u al C o le ctivo R e tail P re visio n ale s N ú m e ro d e ite m s vige n te s. 500 C u ad ro d e D ato s Estad ístico p o r R am o Se gu ro s C U I M ixto o D o tal Su b d ivisió n d e ram o s In d ivid u al C o le ctivo B an ca Se gu ro y R e tail N o m b re C u e n ta/R am o … 103 104 … . 202 208 210 N ú m e ro d e ase gu rad o s p o r ram o 20 1 450 450 450 C u ad ro d e d ato s Estad ístico s A gru p ad o p o r Su b d ivisió n d e R am o s Su b d ivisió n d e ram o s B an ca Se gu ro y Se gu ro s N o m b re C u e n ta In d ivid u al C o le ctivo R e tail P re visio n ale s N ú m e ro d e ase gu rad o s 20 450 C u ad ro d e D ato s Estad ístico s To tal To tal N o m b re C u e n ta N ú m e ro d e ase gu rad o s To tale s 450
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> tal
-> Se
-> Se
-> Se
-> gu
-> gu
-> gu
-> ro
-> ro
-> ro
-> s P
-> s P
-> s P
-> re
-> re
-> re
-> $$
-visio visio visio
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n
-> n
-> n
-> ale
-> ale
-> ale
-> s
-> s
-> s
-> $$
+C u ad ro d e D ato s Estad ístico p o r R am o Te m p o ral d e vid a In valid e z accid e n tal M u e rte accid e n Su b d ivisió n d e ram o s In d ivid u al C o le ctivo B an ca Se gu ro y R e tail N o m b re C u e n ta/R am o … . 202 208 210 To tal p ó lizas V ige n te s p o r ram o 1 1 1 C u ad ro d e d ato s Estad ístico s A gru p ad o p o r Su b d ivisió n d e R am o s Su b d ivisió n d e ram o s B an ca Se gu ro y Se gu ro s N o m b re C u e n ta In d ivid u al C o le ctivo R e tail P re visio n ale s To tal p ó lizas V ige n te s p o r su b d ivisió n 1 C u ad ro d e D ato s Estad ístico p o r R am o Su b d ivisió n d e ram o s In d ivid u al C o le ctivo B an ca Se gu ro y R e tail N o m b re C u e n ta/R am o … . 202 208 210 N ú m e ro d e ite m s vige n te s ram o . 500 500 500 C u ad ro d e d ato s Estad ístico s A gru p ad o p o r Su b d ivisió n d e R am o s Su b d ivisió n d e ram o s B an ca Se gu ro y Se gu ro s N o m b re C u e n ta In d ivid u al C o le ctivo R e tail P re visio n ale s N ú m e ro d e ite m s vige n te s. 500 C u ad ro d e D ato s Estad ístico p o r R am o Se gu ro s C U I M ixto o D o tal Su b d ivisió n d e ram o s In d ivid u al C o le ctivo B an ca Se gu ro y R e tail N o m b re C u e n ta/R am o … 103 104 … . 202 208 210 N ú m e ro d e ase gu rad o s p o r ram o 20 1 450 450 450 C u ad ro d e d ato s Estad ístico s A gru p ad o p o r Su b d ivisió n d e R am o s Su b d ivisió n d e ram o s B an ca Se gu ro y Se gu ro s N o m b re C u e n ta In d ivid u al C o le ctivo R e tail P re visio n ale s N ú m e ro d e ase gu rad o s 20 450 C u ad ro d e D ato s Estad ístico s To tal To tal N o m b re C u e n ta N ú m e ro d e ase gu rad o s To tale s 450 tal Se Se Se gu gu gu ro ro ro s P s P s P re re re visio visio visio n n n ale ale ale s s s
 
 Registro de montos asegurados directos
 1.- Póliza colectiva Complementaria de salud (ramo 209), con 50 ítem asegurados, con un tope de UF 400 (UF 1 = $
 22.000) por cada uno.
 El monto a informar en este rubro se calcula como:
 (400 * 50 * 22.000)/ 1.000.000 = 440 MM$
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> C
-> C
-> u
-> u
-> u
-> $$
-a d ro 6 .0 8 .0 C ó d ig o
+C C C
+u u u a d ro 6 .0 8 .0 C ó d ig o
 6 .0 8 .0 1 .0 1
 a d ro 6 .0 8 .0 C ó d ig o
 6 .0 8 .0 3 .0 1
 a d ro 6 .0 8 .0 C ó d ig o
 6 .0 8 .0 2 .0 1
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1
-> 3
-> 2
-> C
-> N
-> C
-> N
-> C
-> Cp
-> $$
-u a d ro d e D a to s E sta d ístico p o r R a m o N o m b re C u e n ta /R a m o … ..
+1
+3
+2 C
+N C N
+C Cp u a d ro d e D a to s E sta d ístico p o r R a m o N o m b re C u e n ta /R a m o … ..
 ú m e ro d e S in ie stro s p o r ra m o u a d ro d e d a to s E sta d ístico s A g ru p a d o N o m b re C u e n ta ú m e ro d e S in ie stro s u a d ro d e D a to s p o r R a m o s N o m b re C u e n ta /R a m o a p ita le s A se g u ra d o s e n e l e rio d o M M $ S a lu In d iv id u a l
 1 0 9 … ..
 1 p o r S u b d iv
@@ -7312,43 +6879,4 @@ d isió n d e R
 S u b d iv isió n d e ra C o le ctiv o B a n ca a m o s S u b d iv isió n d e ra m o s C o le ctiv o B a n ca S e g u ro y R e ta il S a lu d S u b d iv isió n d e ra C o le ctiv o B a n ca
 2 0 9 … ..
 4 4 0
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> m
-> S
-> m
-> S
-> o s
-> $$
-e g u ro y R e ta il S e g u ro s P re v isio n a le s o s e g u ro y R e ta il
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S
-> S
-> e
-> e
-> g
-> g
-> u
-> u
-> ro
-> ro
-> s P
-> s P
-> re
-> re
-> v
-> v
-> isio
-> isio
-> n
-> n
-> a
-> a
-> le
-> le
-> s
-> s
-> $$
+m S m S o s e g u ro y R e ta il S e g u ro s P re v isio n a le s o s e g u ro y R e ta il S S e e g g u u ro ro s P s P re re v v isio isio n n a a le le s s

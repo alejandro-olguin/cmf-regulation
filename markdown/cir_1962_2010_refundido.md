@@ -21,9 +21,9 @@ Sin perjuicio de lo antes expuesto, cabe señalar que los corredores de bolsa y 
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.962
 FECHA: 19.01.2010
- La identidad y capacidad legal, según sea el caso, de los personas que contraten por su intermedio y a quienes abra una cuenta individual;
- La veracidad de los datos registrados de sus clientes ante la empresa de depósito y custodia de valores al momento de la apertura de la cuenta y durante todo el tiempo que ésta se mantenga vigente;
- La autenticidad e integridad de los valores que negocien por su intermedio así como también por la procedencia y respaldo de las instrucciones de sus clientes para la realización de las operaciones con valores de estos últimos.
+· La identidad y capacidad legal, según sea el caso, de los personas que contraten por su intermedio y a quienes abra una cuenta individual;
+· La veracidad de los datos registrados de sus clientes ante la empresa de depósito y custodia de valores al momento de la apertura de la cuenta y durante todo el tiempo que ésta se mantenga vigente;
+· La autenticidad e integridad de los valores que negocien por su intermedio así como también por la procedencia y respaldo de las instrucciones de sus clientes para la realización de las operaciones con valores de estos últimos.
 ## 2. AUDITORIA DE PROCESOS Y CONTROLES RELATIVOS A LA CUSTODIA DE VALORES DE TERCEROS
 Los intermediarios de valores que opten por no implementar la modalidad de cuentas individuales mencionada en el número 1 de esta sección, deberán efectuar anualmente una revisión por empresas de auditoría externa, de aquellas inscritas en la Superintendencia, de los procesos y controles asociados a la actividad de custodia de valores.
 Las empresas de auditoría externa deberán emitir un informe, el que deberá contener su opinión respecto a si los procesos y controles fueron diseñados adecuadamente para cumplir con los objetivos de control especificados en la presente circular, si éstos se implantaron a partir de una fecha determinada y si están operando con suficiente efectividad, para otorgar una seguridad razonable de que, durante el período bajo revisión, se lograron los objetivos de control. Asimismo, deberá contener una descripción general del control interno del intermediario, una mención a los objetivos de control y una descripción detallada de los controles asociados, las pruebas aplicadas y el resultado de las mismas.

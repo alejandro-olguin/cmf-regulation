@@ -217,10 +217,10 @@ comités, funciones dentro del grupo bancario y responsabilidades, reglas de org
 naturaleza, el nivel de los riesgos asumidos y la relación con el nivel de liquidez existente. Además, se debe señalar la interacción, procedimientos, políticas internas y aplicación de la gobernanza global con la gestión de los diversos tipos de riesgos de liquidez.
 • Una autoevaluación del gobierno corporativo, indicando las deficiencias (si las
 hubiere), acorde a las siguientes categorías:
- Deficiente: debilidades significativas que ponen en peligro a las entidades al impedir un control o gestión de riesgos adecuados.
- Mejorable: debilidades significativas que, sin embargo, no ponen en peligro a las entidades al no impedir un control o gestión de riesgos adecuados.
- Aceptable: no existen debilidades significativas en el gobierno interno.
- Bueno: gobierno interno apropiado para los riesgos inherentes de las entidades.
+× Deficiente: debilidades significativas que ponen en peligro a las entidades al impedir un control o gestión de riesgos adecuados.
+× Mejorable: debilidades significativas que, sin embargo, no ponen en peligro a las entidades al no impedir un control o gestión de riesgos adecuados.
+× Aceptable: no existen debilidades significativas en el gobierno interno.
+× Bueno: gobierno interno apropiado para los riesgos inherentes de las entidades.
 Circular N°2.330 / 13.01.2023 por Resolución N°438
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
@@ -235,10 +235,10 @@ planificación de la liquidez, las estructuras de límites, las infracciones de 
 diversificación y mitigación; organización de la función de riesgos, responsabilidades y delegaciones; mandato y atribuciones asignadas a la función de control de riesgos e informes emitidos por ésta.
 • Autoevaluación de la gestión individual y global del riesgo, en las siguientes
 categorías:
- Deficiente: debilidades significativas en los sistemas de gestión o control, que ponen en peligro a la capacidad de las entidades para gestionar los riesgos inherentes.
- Mejorable: debilidades significativas en los sistemas de gestión o control que, sin embargo, no ponen en duda a la capacidad de las entidades para gestionar los riesgos inherentes.
- Aceptable: debilidades menores en los sistemas de gestión o control, que aún permiten a las entidades gestionar los riesgos inherentes.
- Bueno: los sistemas de gestión o control son apropiados para los riesgos inherentes de las entidades.
+× Deficiente: debilidades significativas en los sistemas de gestión o control, que ponen en peligro a la capacidad de las entidades para gestionar los riesgos inherentes.
+× Mejorable: debilidades significativas en los sistemas de gestión o control que, sin embargo, no ponen en duda a la capacidad de las entidades para gestionar los riesgos inherentes.
+× Aceptable: debilidades menores en los sistemas de gestión o control, que aún permiten a las entidades gestionar los riesgos inherentes.
+× Bueno: los sistemas de gestión o control son apropiados para los riesgos inherentes de las entidades.
 • Una descripción de la función de auditoría interna, recursos, órgano de gobierno
 al que van dirigidos los informes y órgano responsable del cumplimiento e implementación de las medidas correctoras propuestas por la auditoría interna.
 Además, se debe incluir la función de cumplimiento normativo señalando las funciones asignadas, medios, acciones realizadas, principales conclusiones de los informes.
@@ -261,23 +261,23 @@ Capítulo 21-14 Hoja 14
 • El plan de financiamiento aprobado para el periodo actual.
 • Un resumen cuantitativo de las características de los fondos captados
 recientemente y análisis de la viabilidad de ejecución del plan donde informarán los valores de los siguientes ratios de liquidez a la fecha de referencia del IAL, así como de los requerimientos internos establecidos para dichos ratios (en el caso que estén establecidos como materiales y estén contenidos en la tabla A del anexo 2):
- Razón de cobertura de liquidez (LCR), de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
- Razón de financiación estable neto (NSFR), de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
- Concentración de financiamiento por tipo de contraparte, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
- Concentración de financiamiento por tipo de instrumento de captación, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
- Plazo residual ponderado por instrumento de captación, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
- Tasa de renovación por tipo de contraparte, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
- Descalces de plazo en moneda extranjera, base contractual y ajustada, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
- Descalces de plazo a 30 días, base contractual y ajustada. Suma de los descalces de plazo hasta 30 días entre flujos de efectivo de egreso y flujos de efectivo de ingreso.
- Descalces de plazo a 90 días, base contractual y ajustada. Suma de los descalces de plazo hasta 90 días entre flujos de efectivo de egreso y flujos de efectivo de ingreso.
- Volumen y composición de activos líquidos internos.
- Ratio de financiación mayorista a corto plazo. Proporción que supone la financiación mayorista a corto plazo, sobre el pasivo total.
- Ratio de créditos sobre depósitos. Créditos netos de provisiones, sin considerar exposiciones interbancarias, divididos por depósitos, sin considerar exposiciones interbancarias.
- Ratio de créditos sobre financiación estable neta. Créditos netos de provisiones, sin considerar exposiciones interbancarias, divididos por las fuentes de financiamiento estable disponible de acuerdo con la definición del NSFR.
- Ratio de financiación no garantizada. Financiación no garantizada proveniente de contrapartes mayoristas o minoristas, instituciones financieras o no financieras, sobre el total de pasivos con terceros.
- Montos renovados. Renovaciones mayoristas de depósitos y captaciones a plazo, entendiendo una renovación cuando en la misma fecha de vencimiento de una captación a plazo se pacte otra captación de la misma naturaleza y por un monto igual o inferior a la que haya vencido.
- Sobrevivencia de activos. Flujos de efectivo de activos líquidos N1, N2 y Otros Activos Líquidos, definidos en el numeral 9.2 del Capítulo III.B.2.1 del CNF del BCCh, sobre montos de flujos de egresos contractuales, con vencimiento menor o igual a 30 días, de obligaciones a la vista mayoristas, depósitos a plazo minoristas y mayoristas, letras de crédito, bonos hipotecarios, bonos y efectos de comercio.
- Otros indicadores que haya desarrollado el banco.
+× Razón de cobertura de liquidez (LCR), de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
+× Razón de financiación estable neto (NSFR), de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
+× Concentración de financiamiento por tipo de contraparte, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
+× Concentración de financiamiento por tipo de instrumento de captación, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
+× Plazo residual ponderado por instrumento de captación, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
+× Tasa de renovación por tipo de contraparte, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
+× Descalces de plazo en moneda extranjera, base contractual y ajustada, de acuerdo con la definición establecida en el Capítulo 12-20 de esta Recopilación.
+× Descalces de plazo a 30 días, base contractual y ajustada. Suma de los descalces de plazo hasta 30 días entre flujos de efectivo de egreso y flujos de efectivo de ingreso.
+× Descalces de plazo a 90 días, base contractual y ajustada. Suma de los descalces de plazo hasta 90 días entre flujos de efectivo de egreso y flujos de efectivo de ingreso.
+× Volumen y composición de activos líquidos internos.
+× Ratio de financiación mayorista a corto plazo. Proporción que supone la financiación mayorista a corto plazo, sobre el pasivo total.
+× Ratio de créditos sobre depósitos. Créditos netos de provisiones, sin considerar exposiciones interbancarias, divididos por depósitos, sin considerar exposiciones interbancarias.
+× Ratio de créditos sobre financiación estable neta. Créditos netos de provisiones, sin considerar exposiciones interbancarias, divididos por las fuentes de financiamiento estable disponible de acuerdo con la definición del NSFR.
+× Ratio de financiación no garantizada. Financiación no garantizada proveniente de contrapartes mayoristas o minoristas, instituciones financieras o no financieras, sobre el total de pasivos con terceros.
+× Montos renovados. Renovaciones mayoristas de depósitos y captaciones a plazo, entendiendo una renovación cuando en la misma fecha de vencimiento de una captación a plazo se pacte otra captación de la misma naturaleza y por un monto igual o inferior a la que haya vencido.
+× Sobrevivencia de activos. Flujos de efectivo de activos líquidos N1, N2 y Otros Activos Líquidos, definidos en el numeral 9.2 del Capítulo III.B.2.1 del CNF del BCCh, sobre montos de flujos de egresos contractuales, con vencimiento menor o igual a 30 días, de obligaciones a la vista mayoristas, depósitos a plazo minoristas y mayoristas, letras de crédito, bonos hipotecarios, bonos y efectos de comercio.
+× Otros indicadores que haya desarrollado el banco.
 Circular N°2.330 / 13.01.2023 por Resolución N°438
 
 ### RECOPILACION ACTUALIZADA DE NORMAS

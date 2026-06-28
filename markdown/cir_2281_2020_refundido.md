@@ -545,13 +545,9 @@ Por otro lado, para determinar la PI de las exposiciones minoristas el banco deb
 La PI determinada por los bancos, para las exposiciones minoristas no podrá ser inferior a 0,05%.
 ### 4.2 Madurez efectiva (M)
 La madurez efectiva se mide en años, está sujeta a un mínimo de un año y a un máximo de cinco, y se define como:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 𝑀 = ∑𝑡⋅𝐶𝐹 /∑𝐶𝐹
-> 𝑡 𝑡
-> 𝑡 𝑡
-> $$
+$$
+M = \frac{\sum_{t} t \cdot CF_t}{\sum_{t} CF_t}
+$$
 donde 𝐶𝐹 son los flujos de caja (capital, interés y comisiones) que el deudor está 𝑡 contractualmente obligado a pagar en el periodo t.
 Si el banco no pudiese calcular el vencimiento efectivo de los pagos contractuales definidos más arriba, podrá utilizar el vencimiento residual de acuerdo con las disposiciones contractuales de la exposición.
 En el caso de los derivados sujetos a un acuerdo marco de compensación, según lo señalado en el numeral 2.3 de este Capítulo, el vencimiento efectivo se define como el vencimiento promedio ponderado por el valor nocional de las operaciones incluidas en ese acuerdo de compensación.
@@ -615,41 +611,39 @@ El “equivalente de crédito” con una misma contraparte corresponderá a lo s
 > $$
 > E C = m a x (
 > n
-> i=
+> ∑i=
 > 1
 > V R
 > i
 > , 0 ) +
 > n
-> i=
+> ∑i=
 > 1
 > $$
-N o c i
- F c i
-
-
+N o c
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 0,4 + 0,6 
+> i
+> × F c
+> i
+> ×
+> $$
+
+> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+>
+> $$
+> 0,4 + 0,6 ×
 > m
 > n
-> $$
-I
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑I
 > =
 > a
 > 1
 > x
 > m
 > n
-> $$
- (
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑ (
 > i=
 > a x
 > V
@@ -664,20 +658,12 @@ N o c i
 > )
 > )
 > $$
-
+
 - Si el valor razonable neto de las posiciones compensadas es negativo o cero:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> E C =
-> n
-> i=
-> 1
-> $$
-N o c i
- F C
-i
- 0 , 4 Circular N°2.281 /01.12.2020 por Resolución N°5838
+$$
+EC = \sum_{i=1}^{n} Noc_i \times FC_i \times 0{,}4
+$$
+Circular N°2.281 /01.12.2020 por Resolución N°5838
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-6 Hoja 20

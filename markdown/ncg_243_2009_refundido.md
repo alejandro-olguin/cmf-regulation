@@ -286,14 +286,9 @@ Es decir:
 h : Fracción de año que se debe sumar a t para completar el período transitorio, dado el período transitorio transcurrido. En el ejemplo anterior, h = 5/12.
 k : Corresponde a la identificación de los grupos asegurados, esto es distingue entre el grupo de mujeres y el de hombres i : Tasa de interés anual vigente a la fecha de cálculo de la reserva, de acuerdo a lo definido en el Anexo Nº 1.
 OPT(i)2 : Corresponde al valor actual de las obligaciones del periodo temporal, del siniestro j del grupo kj k, calculado utilizando la tasa de interés vigente a la fecha del cálculo de la reserva, y tablas de mortalidad fijada por la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> Para t > 0
-> t
-> 1
-> $$
-OPT(i)2=PT×𝑎̈(12) +(1−ℎ)×∑[𝑚á𝑥(CNS(i) × - CI ;0 )×( P- P)] kj 𝑥:𝑡̅̅+̅̅̅ℎ̅| x+z-1 (1+i)z-1 kj z-1 x z x
+Para t > 0 t
+1 OPT(i)2=PT×𝑎̈(12) +(1−ℎ)×∑[𝑚á𝑥(CNS(i) × - CI ;0 )×( P- P)]
+kj 𝑥:𝑡̅̅+̅̅̅ℎ̅| x+z-1 (1+i)z-1 kj z-1 x z x
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
@@ -421,11 +416,7 @@ expresión:
 > =
 > n
 > k
-> $$
-r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑r
 > = 1
 > S
 > 1
@@ -436,11 +427,7 @@ expresión:
 > +
 > n
 > t
-> $$
-r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑r
 > = 1
 > R
 > 1
@@ -468,11 +455,7 @@ la siguiente expresión:
 > =
 > n
 > k
-> $$
-r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑r
 > = 1
 > S
 > 1
@@ -483,11 +466,7 @@ la siguiente expresión:
 > +
 > n
 > t
-> $$
-r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑r
 > = 1
 > R
 > 1
@@ -507,11 +486,7 @@ la siguiente expresión:
 > =
 > n
 > k
-> $$
-r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑r
 > = 1
 > S
 > n
@@ -522,11 +497,7 @@ la siguiente expresión:
 > +
 > n
 > t
-> $$
-r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑r
 > = 1
 > R E
 > n
@@ -622,7 +593,7 @@ entre 3 y 5 años:
 ## 1. SOLICITUDES DE PENSION DE INVALIDEZ
 1.1. Cálculo de probabilidades de pago de invalidez de acuerdo al primer dictamen:
 A las diez categorías definidas en la circular se les debe aplicar la probabilidad de pago que les corresponda, la que se debe calcular multiplicando la probabilidad de invalidez de cada categoría por la probabilidad de cobertura de invalidez de la compañía, de modo que a la categoría I le corresponde la probabilidad:
-n P(PI )=P(I )P(SI), donde n n
+n P(PI )=P(I )×P(SI), donde n n
 n = número de categoría
 I = categoría de invalidez n n P(PI ) = probabilidad de pago de invalidez de los siniestros en categoría n n P(I ) = probabilidad de invalidez de los siniestros en categoría n n P(SI) = probabilidad de cobertura de invalidez de la compañía Para el cálculo de las probabilidades se ocupara el registro de probabilidades con una historia de 5 años contados desde la fecha del cálculo de la reserva hacia atrás
 1.1.1. Probabilidades de invalidez
@@ -635,10 +606,11 @@ a) Invalidez total
 PT(I) = Probabilidad de declararse invalido total, estando en la I
 1 1
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
- C
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> 23
+> C
 > C
 > o
 > o
@@ -646,11 +618,7 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 2
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -659,11 +627,7 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 6
 > 5
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -674,13 +638,9 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > 1
 > 6
 > 5
-> $$
-
-+
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
+> +
+> C
 > C
 > o
 > o
@@ -688,11 +648,7 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 2
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -701,13 +657,9 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 7
 > 5
-> $$
-
-+
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
+> +
+> C
 > C
 > o
 > o
@@ -715,11 +667,7 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 4
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -730,11 +678,7 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > 1
 > 3
 > 2
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -745,13 +689,9 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > 2
 > 9
 > 7
-> $$
-
-+
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
+> +
+> C
 > C
 > o
 > o
@@ -759,11 +699,7 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 3
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -772,11 +708,7 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 9
 > 8
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -787,13 +719,9 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > 1
 > 1
 > 9
-> $$
-
-+
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
+> +
+> C
 > C
 > o
 > o
@@ -801,20 +729,16 @@ PT(I) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 3
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o l 1 0
 > $$
 o l 8
-
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> ×
 > C
 > C
 > o
@@ -826,14 +750,14 @@ o l 8
 > 5
 > 3
 > $$
-
+
 b) Invalidez parcial
 PP(I) = Probabilidad de declararse invalido parcial, estando en la I
-1 1
- C
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> 1 1
+> C
 > C
 > o
 > o
@@ -841,11 +765,7 @@ PP(I) = Probabilidad de declararse invalido parcial, estando en la I
 > l
 > 3
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -854,11 +774,7 @@ PP(I) = Probabilidad de declararse invalido parcial, estando en la I
 > l
 > 9
 > 8
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -869,13 +785,9 @@ PP(I) = Probabilidad de declararse invalido parcial, estando en la I
 > 1
 > 0
 > 9
-> $$
-
-+
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
+> +
+> C
 > C
 > o
 > o
@@ -883,22 +795,18 @@ PP(I) = Probabilidad de declararse invalido parcial, estando en la I
 > l
 > 3
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o l 1 1
 > $$
 o l 8
-
-+
- C
+
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> +
+> C
 > C
 > o
 > o
@@ -906,20 +814,16 @@ o l 8
 > l
 > 3
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o l 1 0
 > $$
 o l 8
-
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> ×
 > C
 > C
 > o
@@ -930,13 +834,9 @@ o l 8
 > 2
 > 4
 > 3
-> $$
-
-+
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
+> +
+> C
 > C
 > o
 > o
@@ -944,11 +844,7 @@ o l 8
 > l
 > 4
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -959,11 +855,7 @@ o l 8
 > 1
 > 3
 > 2
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -974,13 +866,9 @@ o l 8
 > 2
 > 0
 > 7
-> $$
-
-+
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
+> +
+> C
 > C
 > o
 > o
@@ -988,11 +876,7 @@ o l 8
 > l
 > 2
 > 1
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -1001,11 +885,7 @@ o l 8
 > l
 > 6
 > 5
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -1017,23 +897,24 @@ o l 8
 > 7
 > 5
 > $$
- It Invalidez total aprobada en análisis compañía
+
+It Invalidez total aprobada en análisis compañía
 2
 a) Invalidez total
 PT(I ) = Probabilidad de declararse invalido total, estando en la I
 2t 2t
 
-Col 7 Col 6 Col16
- +  
-Col 5 Col 5 Col15
+Col 7 Col 6 Col16
+ + × Col 5 Col 5 Col15
 b) Invalidez parcial
 PP(I ) = Probabilidad de declararse invalido parcial, estando en la I
 2t 2t
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
- C
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> 24
+> C
 > C
 > o
 > o
@@ -1041,11 +922,7 @@ PP(I ) = Probabilidad de declararse invalido parcial, estando en la I
 > l
 > 6
 > 5
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -1057,15 +934,16 @@ PP(I ) = Probabilidad de declararse invalido parcial, estando en la I
 > 7
 > 5
 > $$
- Ip Invalidez parcial aprobada, en análisis por la compañía
+
+Ip Invalidez parcial aprobada, en análisis por la compañía
 2
 a) Invalidez total
 PT(I ) = Probabilidad de declararse invalido total, estando en la I
 2p 2p
- C
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> C
 > C
 > o
 > o
@@ -1073,11 +951,7 @@ PT(I ) = Probabilidad de declararse invalido total, estando en la I
 > l
 > 9
 > 8
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -1088,22 +962,19 @@ PT(I ) = Probabilidad de declararse invalido total, estando en la I
 > 1
 > 1
 > 9
+>
+> +
+> C
+> C
 > $$
-
-+
- C
-C o l 1
+o l 1
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
 > o l
 > 0
 > 8
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > C
 > C
 > o
@@ -1115,142 +986,94 @@ C o l 1
 > 5
 > 3
 > $$
-
+
 b) Invalidez parcial
 PP(I ) = Probabilidad de declararse invalido parcial, estando en la I
-2p 2p
-Col9 Col 20 Col10 Col 24 Col11
-  +  + 
-Col8 Col19  Col8 Col 23 Col8 It Invalidez total, aprobada, reclamada por la compañía
+2p 2p Col9 Col 20 Col10 Col 24 Col11
+ × + × + Col8 Col19  Col8 Col 23 Col8 It Invalidez total, aprobada, reclamada por la compañía
 3
 a) Invalidez total
 PT(I ) = Probabilidad de declararse invalido total, estando en la I
-3t 3t
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> o
-> o
-> l
-> l
-> 1
-> 1
-> 6
-> 5
-> $$
-
+3t 3t C C o o l l
+1
+1
+6
+5
+
 b) Invalidez parcial
 PP(I ) = Probabilidad de declararse invalido parcial, estando en la I
-3t 3t
-Col17
- 
-Col15 IPc Invalidez parcial aprobada, reclamada por la compañía
+3t 3t Col17
+
+Col15 IPc Invalidez parcial aprobada, reclamada por la compañía
 3
 a) Invalidez total
 PT(I ) = Probabilidad de declararse invalido total, estando en la I
 3pc 3pc
 
-Col 21
- 
-Col19
+Col 21
+
+Col19
 b) Invalidez parcial
 PP(I ) = Probabilidad de declararse invalido parcial, estando en la I
 3pc 3pc
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> o
-> o
-> l
-> l
-> 2
-> 1
-> 0
-> 9
-> $$
- IPa Invalidez parcial aprobada, reclamada por el afiliado
+25 C
+C o o l l
+2
+1
+0
+9
+
+IPa Invalidez parcial aprobada, reclamada por el afiliado
 3
 a) Invalidez total
 PT(I ) = Probabilidad de declararse invalido total, estando en la I
-3pa 3pa
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> o
-> o
-> l
-> l
-> 2
-> 2
-> 5
-> 3
-> $$
-
+3pa 3pa C C o o l l
+2
+2
+5
+3
+
 b) Invalidez parcial
 PP(I ) = Probabilidad de declararse invalido parcial, estando en la I
-3pa 3pa
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> o
-> o
-> l
-> l
-> 2
-> 2
-> 4
-> 3
-> $$
- I Rechazadas, dentro del plazo de reclamación
+3pa 3pa C C o o l l
+2
+2
+4
+3
+
+## I Rechazadas, dentro del plazo de reclamación
 4
 a) Invalidez total
 PT(I) = Probabilidad de declararse invalido total, estando en la I
 4 4
-Col13 Col 29
-  
-Col12 Col 27
+Col13 Col 29
+ × Col12 Col 27
 b) Invalidez parcial
 PP(I) = Probabilidad de declararse invalido parcial, estando en la I
 4 4
-Col13 Col30
-  
-Col12 Col 27 I Rechazadas en proceso de reclamación
+Col13 Col30
+ × Col12 Col 27 I Rechazadas en proceso de reclamación
 5
 a) Invalidez total
 PT(I) = Probabilidad de declararse invalido total, estando en la I
 5 5
-Col 29
- 
-Col 27
+Col 29
+
+Col 27
 b) Invalidez parcial
 
 PP(I) = Probabilidad de declararse invalido parcial, estando en la I
 5 5
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> o
-> o
-> l
-> l
-> 3
-> 2
-> 0
-> 7
-> $$
- It Invalidez total definitiva
+26 C
+C o o l l
+3
+2
+0
+7
+
+It Invalidez total definitiva
 6
 a) Invalidez total
 PT(I ) =1, Probabilidad de declararse invalido total, estando en la I
@@ -1273,30 +1096,16 @@ a) Para las solicitudes que se encuentren en proceso de calificación de invalid
 calcula de la siguiente forma:
 Probabilidad de cobertura de invalidez Total Parcial
 ### P(SI) C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> o
-> o
-> l
-> l
-> 3
-> 3
-> 2
-> 1
-> C
-> C
-> o
-> o
-> l
-> l
-> 3
-> 3
-> 5
-> 4
-> $$
-En aquellos casos en que exista la certeza de cobertura, esta probabilidad deberá ser igual a uno (1).
+C o o l l
+3
+3
+2
+1 C
+C o o l l
+3
+3
+5
+4 En aquellos casos en que exista la certeza de cobertura, esta probabilidad deberá ser igual a uno (1).
 b) Para las solicitudes que se encuentran en proceso de calificación de invalidez por el segundo dictamen,
 la probabilidad de cobertura es igual a 1.
 1.2. Registros de probabilidades de invalidez:
@@ -1361,19 +1170,9 @@ A la categoría definida en el punto A.2.3. de esta norma, se le aplicará la pr
 P ( P S ) = P ( S S )
 Donde:
 P(PS) = probabilidad de pago de sobrevivencia P(SS) = probabilidad de cobertura de sobrevivencia Para el cálculo de las probabilidades se ocupará el registro de probabilidades con una historia de 5 años contados desde la fecha del cálculo de la reserva hacia atrás Probabilidad de cobertura de sobrevivencia: Es la proporción de las solicitudes de pensión de sobrevivencia del total de fallecidos, que son de cargo de la compañía de seguros.
-Categoría Probabilidad de cobertura de sobrevivencia S.1 Sin comunicación aprobatoria C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> o
-> o
-> l
-> l
-> 2
-> 1
-> $$
-En aquellos casos en que exista certeza de cobertura, esta probabilidad deberá ser igual a uno (1).
+Categoría Probabilidad de cobertura de sobrevivencia S.1 Sin comunicación aprobatoria C C o o l l
+2
+1 En aquellos casos en que exista certeza de cobertura, esta probabilidad deberá ser igual a uno (1).
 2.2. Registro de probabilidades de sobrevivencia:
 Para el cálculo de estas probabilidades, la compañía deberá mantener un registro, el cual tendrá que ser elaborado en forma separada para cada grupo.
 El mencionado registro, cuyo formato se incluye en el presente anexo, deberá ser confeccionado de acuerdo a las
@@ -1428,13 +1227,8 @@ I 1 Sin dictam en I.2t T otal aprobadas en análisis cia I2p Parcial aprobadas e
 ### N U M E R O SIN IE ST R O S
 n p rim
 ### D E C O
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T O
-> er d
-> ST O
-> $$
+T O er d
+ST O
 T A L
 icta m
 ### IN V A
@@ -1487,42 +1281,27 @@ Para los siniestros en proceso de liquidación, esta reserva debe coincidir en e
 (5) Reserva Total Compañía: Corresponde a la reserva total de la compañía para el contrato, que equivale a la suma de las columnas (2), (3) y (4).
 (6) Reaseguro: Debe señalarse el monto correspondiente al activo de reaseguro por la parte del riesgo cedida a los reaseguradores del contrato.
 (7) Reserva Neta de Reaseguro: Corresponde a la reserva retenida por la compañía, y equivalente a la resta de las columnas (5) y (6).
-### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 36
-> NCG
-> 1
-> 1111
-> 111
-> 2
-> 222
-> T
-> $$
+### COMISIÓN PARA EL MERCADO FINANCIERO CHILE 36 NCG
+1
+1111
+111
+2
+222 T
 o m b re C o m p a ñ ía :
 o n tra to :
 ru p o :
 ### . IN V A L ID E Z
 .a . In v á lid o s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> .a .1 . L iq u id a d o s
-> .a .2 . E n P ro c e so d e liq u id a c ió n
-> .a .3 . O c u rrid o s y N o R e p o rta d o s
-> $$
+.a .1 . L iq u id a d o s
+.a .2 . E n P ro c e so d e liq u id a c ió n
+.a .3 . O c u rrid o s y N o R e p o rta d o s
 .b . In v á lid o s T ra n sito rio s F a lle c id
 .b .1 . liq u id a d o s
 .b .2 . E n p ro c e so d e liq u id a c ió n
 ### . S O B R E V IV E N C IA
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> .1 . L iq u id a d o s
-> .2 . E n P o rc e so d e liq u id a c ió n
-> .3 . O c u rrid o s y N o R e p o rta d o s
-> $$
+.1 . L iq u id a d o s
+.2 . E n P o rc e so d e liq u id a c ió n
+.3 . O c u rrid o s y N o R e p o rta d o s
 ### O T A L
 o s NS úin mie e ro d e stro s (1 )
 ### R E S E
@@ -1531,25 +1310,11 @@ R e se
 ### C U A D R O N ° 2 R V A S D E IN V A L ID E Z Y S O B R E V
 (c ifra s e n u n id a d e s d e fo m e n rv a T é c n ic a R e se rv a d e In su fic ie n c ia d e P rim a (3 )
 ## IV E N C IA
-to ) R e se rv a A d ic io n a l (4 ) RC eo sem rv a T o ta
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> p a ñ ía (5
-> l
-> )
-> $$
-R e a se g u F e c h ro (6 )
+to ) R e se rv a A d ic io n a l (4 ) RC eo sem rv a T o ta p a ñ ía (5 l
+) R e a se g u F e c h ro (6 )
 a :
 R e se rv d e R e a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (7 )
-> a N
-> se g
-> $$
-eu ta ro
+(7 ) a N se g eu ta ro
 
 ## ANEXO N° 4: MÉTODO DE CALCULO PARA LA RESERVA DE SINIESTROS ONYR
 ## 1. DESARROLLO DEL MÉTODO CALCULO RESERVA ONYR
@@ -1592,7 +1357,7 @@ A partir de los C se debe construir la matriz de siniestros acumulados S , donde
 >
 > S
 > ij
-> = h
+> = ∑h
 > j
 > = 1
 > C
@@ -1638,7 +1403,7 @@ siguiente forma:
 > 39
 > O Y N R S =
 > K − 1
-> i=
+> ∑i=
 > 1
 > $$
 ### O Y N R S
@@ -1648,19 +1413,15 @@ siguiente forma:
 > i
 > =
 > K − 1
-> i=
+> ∑i=
 > 1
 > S
-> $$
-i
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> i∞
 > − S
 > i(k − i)
 > O Y N R I =
 > K − 1
-> i=
+> ∑i=
 > 1
 > $$
 ### O Y N R I
@@ -1670,12 +1431,14 @@ i
 > i
 > =
 > K − 1
-> i=
+> ∑i=
 > 1
 > S
+> i∞
+> − S
+> i(k − i)
 > $$
-i
-− S i(k − i) Esto es, se trata de estimar (S ) para i = 1,2,....,K, a fin de determinar la provisión total.
+Esto es, se trata de estimar (S ) para i = 1,2,....,K, a fin de determinar la provisión total.
 i∞ Entonces para cada mes de notificación se tendrán que calcular los siguientes factores:
 Para sobrevivencia:
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
@@ -1685,14 +1448,10 @@ Para sobrevivencia:
 > j
 > =
 > K − j− 1
-> $$
- S
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑ S
 > i= 1
 > K − j−
-> i=
+> ∑i=
 > 1
 > i(
 > 1S
@@ -1709,14 +1468,10 @@ Para invalidez:
 > j
 > =
 > K − 1 − j
-> $$
- S
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ∑ S
 > i= 1
 > K − 1 −
-> i=
+> ∑i=
 > 1
 > i(
 > jS
@@ -1732,7 +1487,7 @@ Donde qs =1 y qi = 1,
 > N N
 > Q S
 > j
-> = h
+> = ∏h
 > N
 > = j
 > q
@@ -1740,7 +1495,7 @@ Donde qs =1 y qi = 1,
 > j={1,2,…,N}
 > Q I
 > j
-> = h
+> = ∏h
 > N
 > = j
 > q
@@ -1753,7 +1508,7 @@ Finalmente para obtener el factor de reserva de OYNR se deben sumar los OYNR par
 > $$
 > O Y N R S =
 > K − 1
-> i=
+> ∑i=
 > 1
 > $$
 ### O Y N R S
@@ -1763,7 +1518,7 @@ Finalmente para obtener el factor de reserva de OYNR se deben sumar los OYNR par
 > i
 > =
 > K − 1
-> i=
+> ∑i=
 > 1
 > S
 > ( K − i)i
@@ -1776,7 +1531,7 @@ Finalmente para obtener el factor de reserva de OYNR se deben sumar los OYNR par
 > − 1 )
 > K−1 K−1
 > $$
-OYNRI = OYNRI =S (QI −1)
+OYNRI = ∑OYNRI =∑S (QI −1)
 i (K−i)i K−i i=1 i=1 En el caso de concluir la vigencia del contrato de invalidez y sobrevivencia suscritos por las AFPs, y de no ser posible determinar la reserva de ocurridos y no reportados, entonces dicha reserva deberá constituirse de acuerdo a la siguiente fórmula:
 
 Sobrevivencia:
@@ -1789,7 +1544,7 @@ K Donde K: Ultimo mes de vigencia del contrato
 > 40
 > W S =
 > K − g
-> i=
+> ∑i=
 > 1
 > O
 > O
@@ -1812,7 +1567,7 @@ K Donde K: Ultimo mes de vigencia del contrato
 > $$
 > W I =
 > K − g
-> i=
+> ∑i=
 > 1
 > O
 > O

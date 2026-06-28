@@ -66,7 +66,7 @@ Esta tasa corresponderá a la tasa de “bautizo” de la póliza y por lo tanto
 1.- DETERMINACION DE LA TCj.
 Para la determinación de la Tasa de Costo Equivalente de la póliza j (TCj), las compañías deberán calcular el valor presente de los flujos probabilísticos futuros de la póliza, utilizando el vector de tasas de descuento (VTD) correspondiente al mes de entrada en vigencia de la póliza. El VTD se aplicará para actualizar cada flujo de la póliza. El valor presente así determinado se igualará a los flujos de la póliza, de manera de determinar la TIR o tasa interna de retorno que corresponderá en definitiva a la tasa TCj.
 Lo anterior conforme a la siguiente fórmula:
-VPPj =  FPji x (1 + TCj)-i todo i
+VPPj = Σ FPji x (1 + TCj)-i todo i
 Donde:
 VPPj es el valor presente de la póliza j, al momento de su entrada en vigencia, calculado con el vector de tasas de descuento (VTD).
 FPji es el flujo probabilístico de la póliza j en el período i; sin deducciones por reaseguro.
@@ -76,16 +76,18 @@ El vector de tasas de descuento, VTD, utilizado para el cálculo de las reservas
 VTD = ET + AV
 donde:
 VTD: Vector de tasas de descuento de orden n.
-t 
-1
-  t
-### ET   2 
- 
-  t
- 
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> t
+> 1
+>
+> t
+> ET =  2
+> Μ
+>
+> t
+>
 > n
 > t
 > j
@@ -106,9 +108,15 @@ El vector de tasas de descuento, VTD, utilizado para el cálculo de las reservas
 El VTD entrega tasas anuales. Para el proceso de mensualización de dichas tasas se deberá aplicar la siguiente
 fórmula:
 imensual
-
-121ianual
-1 j j donde j = año 1, año 2, año 3, etc.
+> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+>
+> $$
+> =
+> 121+ianual
+> −1
+> j j
+> $$
+donde j = año 1, año 2, año 3, etc.
 2 Factor de conservadurismo que busca recoger la prima por iliquidez de las inversiones de largo plazo de las
 compañías de seguros.
 3 Factor de conservadurismo que busca aislar el efecto de riesgo de crédito en el ajuste por volatilidad, AV.

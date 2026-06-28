@@ -46,55 +46,55 @@ Para aquellos campos en los que al momento del reporte no se cuente con la infor
 Se debe señalar la fecha (DD/MM/AAAA) y la hora (HH: MM: SS) en que comenzó el incidente.
 ## 2. TIPO DE INCIDENTE:
 En este campo se debe señalar el tipo de incidente, eligiendo entre las siguientes opciones:
- Afectación de instalaciones
- Ausencia de Colaboradores
- Sin acceso dependencias y otras áreas específicas
- Falla Sistemas Base (SO, BD)
- Falla aplicativos (negocio, web, batch)
- Falla de comunicaciones
- Falla Hardware
- Falla en servicios básicos (electricidad/agua)
- Pérdida de Recursos Monetarios de la entidad o de clientes
- Pérdida de Información de la entidad o de clientes
- Interrupción / latencia en servicios otorgados en canales electrónicos
- Error de envío de información de cuentas de clientes
- Error en cobro de producto o servicios a clientes
- Interrupción de servicios en canales físicos
+· Afectación de instalaciones
+· Ausencia de Colaboradores
+· Sin acceso dependencias y otras áreas específicas
+· Falla Sistemas Base (SO, BD)
+· Falla aplicativos (negocio, web, batch)
+· Falla de comunicaciones
+· Falla Hardware
+· Falla en servicios básicos (electricidad/agua)
+· Pérdida de Recursos Monetarios de la entidad o de clientes
+· Pérdida de Información de la entidad o de clientes
+· Interrupción / latencia en servicios otorgados en canales electrónicos
+· Error de envío de información de cuentas de clientes
+· Error en cobro de producto o servicios a clientes
+· Interrupción de servicios en canales físicos
 3
 
- Otros: especificar1
+· Otros: especificar1
 ## 3. DESCRIPCIÓN DETALLADA DEL INCIDENTE:
 En este campo se debe detallar en qué consiste el incidente reportado.
 ## 4. CAUSA:
 En este campo se debe señalar la causa del incidente, eligiendo entre las siguientes opciones:
- Inundación por causas naturales
- Terremoto
- Tsunami
- Huelga
- Pandemia
- Incendio
- Corte de energía
- Corte de agua
- Asalto a dependencias
- Robo o hurto de activos físicos
- Robo o hurto de activos digitales
- Daño de infraestructura tecnológica
- Daño de infraestructura de comunicaciones
- Ataque denegación de servicio
- Clonación
- Ataque de virus maliciosos
- Retraso / Errores en procesos operativos/tecnológicos
- Otros: especificar2
+· Inundación por causas naturales
+· Terremoto
+· Tsunami
+· Huelga
+· Pandemia
+· Incendio
+· Corte de energía
+· Corte de agua
+· Asalto a dependencias
+· Robo o hurto de activos físicos
+· Robo o hurto de activos digitales
+· Daño de infraestructura tecnológica
+· Daño de infraestructura de comunicaciones
+· Ataque denegación de servicio
+· Clonación
+· Ataque de virus maliciosos
+· Retraso / Errores en procesos operativos/tecnológicos
+· Otros: especificar2
 ## 5. Dependencias afectadas:
 En este campo se deben señalar las dependencias afectadas, eligiendo entre las siguientes
 opciones:
- Casa Matriz
- Sucursal
- Caja Auxiliar
- Sitio Producción
- Sitio Contingencia
- Dependencias proveedor
- Otros: especificar3
+· Casa Matriz
+· Sucursal
+· Caja Auxiliar
+· Sitio Producción
+· Sitio Contingencia
+· Dependencias proveedor
+· Otros: especificar3
 1 En caso de utilizarse este campo, se deberá completar con texto la información, la cual debe dar cuenta del tipo
 de incidente.
 2 En caso de utilizarse este campo, se deberá completar con texto la información, la cual debe dar cuenta de la ca
@@ -108,24 +108,24 @@ En este campo se debe informar la dirección de la dependencia afectada, incluye
 (;).
 ## 7. CANALES AFECTADOS
 En este campo se deben seleccionar los canales afectados por el incidente:
- Sucursales
- Página web
- Aplicación móvil
- Cajeros automáticos
- Atención telefónica
- POS
- Otros: especificar4
+· Sucursales
+· Página web
+· Aplicación móvil
+· Cajeros automáticos
+· Atención telefónica
+· POS
+· Otros: especificar4
 ## 8. NOMBRE DE PROVEEDORES INVOLUCRADOS:
 Corresponde al nombre o razón social del proveedor.
 ## 9. TIPO DE PROVEEDOR INVOLUCRADO:
- SAG
- Servicios básicos
- Telecomunicaciones
- Infraestructura tecnológica
- Transporte de valores y custodia
- Procesamiento
-###  N/A5
- Otros: especificar6
+· SAG
+· Servicios básicos
+· Telecomunicaciones
+· Infraestructura tecnológica
+· Transporte de valores y custodia
+· Procesamiento
+### · N/A5
+· Otros: especificar6
 ## 10. NÚMERO DE CLIENTES AFECTADOS:
 En este campo se debe completar el número de clientes que fueron afectados por el incidente que se reporta.
 ## 11. TIPO DE CLIENTES AFECTADOS:
@@ -136,12 +136,12 @@ canales afectados.
 de proveedor afectado.
 5
 
- En este campo se debe seleccionar el tipo de cliente afectado, entre las siguientes
+· En este campo se debe seleccionar el tipo de cliente afectado, entre las siguientes
 opciones:
- Personas
- Empresas
- Ambos
- N/A
+· Personas
+· Empresas
+· Ambos
+· N/A
 ## 12. NÚMERO DE EMPLEADOS AFECTADOS:
 En este campo se debe completar con el número de empleados que fueron afectados por el incidente que se reporta.
 ## 13. PRODUCTOS O SERVICIOS AFECTADOS:

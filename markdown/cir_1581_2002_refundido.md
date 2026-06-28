@@ -8,7 +8,7 @@
 
 Para todas las sociedades administradoras de fondos mutuos y administradoras generales de fondos Esta Superintendencia, en uso de sus facultades legales, ha estimado necesario impartir las
 siguientes instrucciones:
-Las sociedades administradoras deberán publicar la cartera de inversiones vigente al último día de cada trimestre calendario de cada uno de los fondos mutuos que administren. Esta publicación deberá efectuarse en su sitio en Internet, dentro de los ocho días hábiles siguientes al término de cada trimestre, ajustándose al formato que se incluye como Anexo N 1 de la presente circular.
+Las sociedades administradoras deberán publicar la cartera de inversiones vigente al último día de cada trimestre calendario de cada uno de los fondos mutuos que administren. Esta publicación deberá efectuarse en su sitio en Internet, dentro de los ocho días hábiles siguientes al término de cada trimestre, ajustándose al formato que se incluye como Anexo N° 1 de la presente circular.
 Para estos efectos, se entenderá como trimestre calendario a los períodos terminados los días 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre.
 Adicionalmente, en las oficinas de la sociedad administradora y en las de los agentes colocadores autorizados, deberá destacarse el hipervínculo y lugar dentro del sitio en Internet en que se hará la publicación antes referida.
 Para esta publicación deberán considerarse las definiciones y normas que se indican a continuación:
@@ -147,45 +147,38 @@ Fr = Factor de reparto, que puede estar determinado por las siguientes situacion
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 7 R
 m ( %
-
+=
 )
-
-
-###  V
+
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> V
 > V
 > C
 > C
 > 1
 > 0
-> $$
- F a
- F
- r  
-1
-
-
-
-1 0 0
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> CE
-> x
-> F   1
+> × F
 > a
-> CC
-> x
+> × F
+>
+> r −
+> 1
+>
+> ×
 > $$
+
+1 0 0
+CE x
+F = + 1
+a CC x
 i) Si se efectuaron repartos de beneficios en dinero durante el mes, de acuerdo a la
 siguiente expresión:
- d   d   d 
+ d   d   d
 1 2 n
 F r
- 1 1*.... 1
-VC1  VC2  VC n 
+= +1× +1*.... +1 VC1  VC2  VC n
 donde:
 Fr = Factor de Reparto.
 dn = Monto repartido por cuota “n”, del fondo o de la serie que corresponda.
@@ -200,18 +193,12 @@ CCn = Número de cuotas en circulación del fondo o de la serie, según correspo
 n = Número de repartos.
 a.1.2) Rentabilidad nominal del último trimestre:
 Acumulada Promedio mensual
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
->  VC1    VC1 1 
-> R pt ( % )       F a F r    1   100 R ptm ( % )       F a F r   3  1   100
-> VC0   VC0  
-> $$
-     
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-8 F  r
-
-
+### VC1    VC1 1
+R pt ( % ) =     × F a ×F r   − 1  × 100 R ptm ( % ) =     × F a ×F r   3 − 1  × 100
+### VC0   VC0
+### VC0   VC0 SUPERINTENDENCIA DE VALORES Y SEGUROS
+F = r
+
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
@@ -221,35 +208,27 @@ Acumulada Promedio mensual
 > C
 > 1
 > 1
-> $$
- 1
-
-*
- C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+> + 1
 >
-> $$
+> *
+> C
 > C
 > E
 > C
 > 2
 > 2
-> $$
- 1
-
-* . . .
-### . C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+> + 1
 >
-> $$
+> * . . .
+> . C
 > C
 > E
 > C
 > n
 > n
+> + 1
 > $$
- 1
-
+
 donde:
 Rpt(%) = Rentabilidad acumulada del último trimestre terminado el día para el cual se publica la cartera, expresada como porcentaje.
 Rptm(%) = Rentabilidad promedio mensual del último trimestre terminado el día para el cual se publica la cartera, expresada como porcentaje.
@@ -269,36 +248,33 @@ Fr = Factor de reparto, si se efectuaron repartos de beneficios durante los últ
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 9 R
 a ( %
-
+=
 )
-
-
-###  V
+
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> V
 > V
 > C
 > C
 > 1
 > 0
-> $$
- F a
- F r
-
- 
-1  
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+> × F
+> a
+> × F
+> r
 >
-> $$
-> 1 0 0 R a m ( %  )    V
+> −
+> 1  ×
+>
+> 1 0 0 R a m ( % = )    V
 > V
 > C
 > C
 > 1
 > 0
->  F a  F r  1 1 2  1   1 0 0
+> × F a × F r  1 1 2 − 1  × 1 0 0
 > $$
 a.1.4) Rentabilidad nominal de los últimos tres años:
 Acumulada Promedio mensual
@@ -314,49 +290,44 @@ b) Cargos efectuados al fondo
 b.1) Remuneración de la sociedad administradora Se deberá indicar por fondo o para cada serie de cuotas, según corresponda, lo
 siguiente:
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 10
-> R
-> a 3 ( %
-> $$
-
+10 R
+a 3 ( %
+=
 )
-
-
-###  V
+
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> V
 > V
 > C
 > C
 > 1
 > 0
+> × F
+> a
+> × F
+> r
+>
+> −
+> 1  × 1 0 0 R a m 3 ( % = )
 > $$
- F a
- F r
-
- 
-1   1 0 0 R a m 3 ( %  )
-
-
-###  V
+
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> V
 > V
 > C
 > C
 > 1
 > 0
+> × F a × F r
+> 1
+> 3 6 − 1
+>
+> × 1 0 0
 > $$
- F a  F r
- 1
-3 6  1
-
- 1 0 0
 
 - La remuneración de la sociedad administradora establecida en el reglamento
 interno del fondo en términos anuales.
@@ -382,7 +353,7 @@ Se deberá indicar el porcentaje o monto de comisión por concepto de colocació
 d) Otra información
 Se deberá indicar que para una mayor información sobre los aspectos señalados en las letras b) y c) anteriores, el partícipe puede informarse al respecto en el reglamento interno del fondo y/o en los estados financieros del mismo. Respecto de la información proporcionada en las letras b) y c) precedentes, se deberá señalar si la información proporcionada incluye el Impuesto al Valor Agregado (I.V.A.) o si éste debe adicionarse.
 Asimismo, en caso de que los cargos efectuados al fondo y/o las comisiones sean cero, deberá indicarse expresamente tal situación.
-DEROGACIÓN Derógase la Circular N 716 de 30 de junio de 1987 y la Circular Nº 888 de septiembre de 1989.
+DEROGACIÓN Derógase la Circular N° 716 de 30 de junio de 1987 y la Circular Nº 888 de septiembre de 1989.
 ### DISPOSICIÓN TRANSITORIA
 Las sociedades administradoras deberán continuar publicando mensualmente las carteras de los fondos que administren conforme a la Circular Nº 716 de 1987, hasta que estén en condiciones de implementar las instrucciones impartidas por la presente circular. En todo caso, la información correspondiente al segundo trimestre de este año (30 de junio de 2002), deberá ser publicada conforme a lo dispuesto en esta circular.
 VIGENCIA.

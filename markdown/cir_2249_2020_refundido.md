@@ -174,24 +174,9 @@ La exposición afecta a provisiones corresponde a las colocaciones más los cré
 Tratándose de garantías reales, para aplicar el método de deducción que se menciona en el párrafo precedente, el banco deberá poder demostrar que el valor asignado a esa deducción refleja razonablemente el valor que se obtendría en la enajenación de los bienes o instrumentos de capital, ciñéndose a lo que se señala en el numeral 4.1 de este Capítulo.
 En el caso de sustitución del riesgo de crédito del deudor directo por la calidad crediticia del aval o fiador, el banco deberá observar lo que se indica en la letra a) del numeral 4.1 de este Capítulo. En ningún caso los valores avalados podrán descontarse del monto de la exposición, pues ese procedimiento sólo es aplicable cuando se trate de garantías financieras o reales.
 Para efectos de cálculo debe considerarse lo siguiente:
-P r o v is ió n d eu d o r
-= ( E A P − E A )  ( P I
-d eu d o r
-### / 1 0 0 )  ( P D I
-d eu d o r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> / 1 0 0 ) + E A  ( P I
-> av
-> /
-> al
-> 1 0 0 )  ( P D I
-> av
-> /
-> al
-> 1 0 0 )
-> $$
+$$
+Provisi\acute{o}n_{deudor} = (EAP - EA) \times \frac{PI_{deudor}}{100} \times \frac{PDI_{deudor}}{100} + EA \times \frac{PI_{aval}}{100} \times \frac{PDI_{aval}}{100}
+$$
 En que:
 EAP = Exposición afecta a provisiones
 EA = Exposición avalada
@@ -215,7 +200,7 @@ Esas categorías, su rango de pérdida según lo estimado por el banco y los por
 |  | C6 | Más de 80% | 90 |
 
 Para efectos de su cálculo, debe considerarse lo siguiente:
-T a s a d e P é r d i d a E s p e r a d a = ( E − R ) / E Provisión =E(PP/100) Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
+T a s a d e P é r d i d a E s p e r a d a = ( E − R ) / E Provisión =E×(PP/100) Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
 
 Compendio de Normas Contables Capítulo B-1 Hoja 9
 En que:
@@ -437,7 +422,7 @@ con estados financieros auditados y que hayan sido clasificados por el banco, ap
 Para proceder a realizar la sustitución que aquí se trata, el banco debe llevar a cabo el control y seguimiento y demás actos que sean necesarios a objeto de asegurar el continuo cumplimiento de todas las condiciones legales, reglamentarias y contractuales que aseguren el cobro contra el garante, conforme a la cobertura que se haya definido contractualmente para la operación.
 Por otra parte, el procedimiento para obtener el pago debe permitir el cobro sin que medien inconvenientes operativos, debiendo existir evidencia de que los rechazos son mínimos en relación con las solicitudes que se presenta y que no suelen presentarse demoras en los pagos.
 Para efectos de la sustitución en la cartera grupal, cuando se utilice el primer método indicado en el número 3 de este Capítulo, los montos avalados pueden ser utilizados para la determinación de las provisiones, teniendo en cuenta lo siguiente:
-Provisión =EG(1−EA/100)(PE /100) +EG(EA/100)(PE /100) grupo aval Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
+Provisión =EG×(1−EA/100)×(PE /100) +EG×(EA/100)×(PE /100) grupo aval Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
 
 Compendio de Normas Contables Capítulo B-1 Hoja 18
 En que:
@@ -447,10 +432,10 @@ EA = Porcentaje de exposición avalada, para el grupo de créditos.
 PE = Porcentaje de pérdida esperada asociada al aval, según tabla del numeral aval
 2.1 de este Capítulo.
 En caso de que se utilice el segundo método del numeral 3, los montos avalados pueden ser utilizados para la determinación de las provisiones, de acuerdo a lo siguiente:
-P r o v i s i ó n = E G  ( 1 − E A / 1 0 0 )  ( P I g ru p o
-### / 1 0 0 )  ( P D I
+P r o v i s i ó n = E G × ( 1 − E A / 1 0 0 ) × ( P I g ru p o
+### / 1 0 0 ) × ( P D I
 g ru p o
-### / 1 0 0 ) + E G  E A / 1 0 0  ( P E
+### / 1 0 0 ) + E G × E A / 1 0 0 × ( P E
 a v a
 /l 1 0 0 )
 En que:
@@ -1597,33 +1582,7 @@ Circular N° 2.243 / 20.12.2019 por Resolución N° 9127 CPCCCDDOOPOS CDDOS T
 A l 3 1 d e d ic ie m b re d e 2 0 Y Y
 (e n M M $ ) o lo c a c io n e s c o m e rc ia le s ré s ta m o s c o m e rc ia le s ré d ito s c o m e rc io e x te rio r e x p o rta c io n e s c h ile ré d ito s c o m e rc io e x te rio r im p o rta c io n e s c h ile ré d ito s c o m e rc io e x te rio r e n tre te rc e ro s p a ís e e u d o re s e n c u e n ta s c o rrie n te s e u d o re s p o r ta rje ta s d e c ré d ito p e ra c io n e s d e fa c to ra je p e ra c io n e s d e le a s in g fin a n c ie ro c o m e rc ia le s ré s ta m o s e s tu d ia n tile s tro s c ré d ito s y c u e n ta s p o r c o b ra r u b to ta l o lo c a c io n e s d e c o n s u m o e u d o re s e n c u e n ta s c o rrie n te s e u d o re s p o r ta rje ta s d e c ré d ito tro s u b to ta l
 ### O T A L
-nns aa ss
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> In
-> E
-> d
-> $$
-x p o s ic ió n p o C a rte ra N o rm a l E v a lu a c ió n iv id u a l G ru r c ré p a l d ito s c o n tin g e C a rte ra S u b e s tá n d a r E v a lu a c ió n In d iv id u a l n te s a n te s d e p ro v C a rte ra e n In c u m p lim ie n to E v a lu a c ió n In d iv id u a l G ru p a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> is
-> l
-> io n
-> T
-> e
-> o
-> s
-> ta l
-> In d
-> Eiv
-> CNv
-> a
-> id
-> $$
-a rte ra o rm a l lu a c ió n u a l G ru p a P l ro v is io n e s c C a rte ra S u b e s tá n d a E v a lu a c ió n In d iv id u a l o r n s titu id a s C a rte ra In c u m p lim E v a lu a c In d iv id u a l e n ie n to ió n G ru p a l T o ta l E xp c p o s ic ió n n e ta o r rie s g o d e c ré d ito d e c ré d ito s o n tin g e n te s
+nns aa ss In E d x p o s ic ió n p o C a rte ra N o rm a l E v a lu a c ió n iv id u a l G ru r c ré p a l d ito s c o n tin g e C a rte ra S u b e s tá n d a r E v a lu a c ió n In d iv id u a l n te s a n te s d e p ro v C a rte ra e n In c u m p lim ie n to E v a lu a c ió n In d iv id u a l G ru p a is l io n T e o s ta l In d Eiv CNv a id a rte ra o rm a l lu a c ió n u a l G ru p a P l ro v is io n e s c C a rte ra S u b e s tá n d a E v a lu a c ió n In d iv id u a l o r n s titu id a s C a rte ra In c u m p lim E v a lu a c In d iv id u a l e n ie n to ió n G ru p a l T o ta l E xp c p o s ic ió n n e ta o r rie s g o d e c ré d ito d e c ré d ito s o n tin g e n te s
 
 Compendio de Normas Contables Capítulo C-1 Anexo N°2 Hoja 4 Cuadro N° 2A: Resumen del movimiento de provisiones constituidas – Adeudado por bancos
 
@@ -1677,45 +1636,9 @@ Compendio de Normas Contables Capítulo C-1 Anexo N°2 Hoja 8 Cuadro N° 2E: Res
 ### R E S U M E N D E L M O V IM IE N T O E N P R O V IS IO N C O N S T IT U ID A S P O R C A R T E R A D E R IE S G O D E C R É D IT O E N E L P E R IO D O
 A l 3 1 d e d ic ie m b r e d e 2 0 Y Y
 ( e n M M $ ) E x p o s ic ió n p o r c r é d it o s c o n t in g e n t e s S a ld o a l 1 d e e n e r o d e 2 0 Y Y C o n s t it u c ió n / ( lib e r a c ió n ) d e p r o v is io n e s p o r :
-C a m b io e n la m e d ic ió n s in r e c la s if ic a c ió n d e c a r t e r a d u r a n t C a m b io e n la m e d ic ió n p o r r e c la s if ic a c ió n d e c a r t e r a d e s d e in ic io h a s t a e l c ie r r e d e l p e r io d o [ c a r t e r a d e s d e ( - ) h a s t a ( + ) N o r m a l in d iv id u a l h a s t a S u b e s t á n d a r N o r m a l in d iv id u a l h a s t a In c u m p lim ie n t o in d iv id u a l S u b e s t á n d a r h a s t a In c u m p lim ie n t o in d iv id u a l S u b e s t á n d a r h a s t a N o r m a l in d iv id u a l In c u m p lim ie n t o in d iv id u a l h a s t a S u b e s t á n d a r In c u m p lim ie n t o in d iv id u a l h a s t a N o r m a l in d iv id u a l N o r m a l g r u p a l h a s t a In c u m p lim ie n t o g r u p a l In c u m p lim ie n t o g r u p a l h a s t a N o r m a l g r u p a l N u e v o s c r é d it o s c o n t in g e n t e s o t o r g a d o s C r é d it o s c o n t in g e n t e s p o r c o n v e r s ió n a c o lo c a c io n e s C a m b io s e n m o d e lo s y m e t o d o lo g ia s D if e r e n c ia s d e c o n v e r s ió n O t r o s c a m b io s e n p r o v is io n e s ( s i a p lic a )
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S a ld o a l 3 1 d e d ic ie m b r e d e 2 0 Y Y
-> E
-> e
-> e
-> ]
-> S
-> $$
-el: l p e r io d o :
-In d iv id u a l
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> E
-> CNv
-> a
-> $$
-M o v a r t e r a o r m a l lu a c ió
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> im
-> n
-> G
-> $$
-ie n t o r u p a e l n p r o v is io n e s c o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S
-> n
-> u
-> s
-> Cb
-> $$
-t it u id a s p a r t e r a e s t á n d a r o r c a r t e r a e n e In In d l p e r io d o C a r t e r a e n c u m p lim ie n t o E v a lu a c ió n iv id u a l G r u p a l T o t a l
+C a m b io e n la m e d ic ió n s in r e c la s if ic a c ió n d e c a r t e r a d u r a n t C a m b io e n la m e d ic ió n p o r r e c la s if ic a c ió n d e c a r t e r a d e s d e in ic io h a s t a e l c ie r r e d e l p e r io d o [ c a r t e r a d e s d e ( - ) h a s t a ( + ) N o r m a l in d iv id u a l h a s t a S u b e s t á n d a r N o r m a l in d iv id u a l h a s t a In c u m p lim ie n t o in d iv id u a l S u b e s t á n d a r h a s t a In c u m p lim ie n t o in d iv id u a l S u b e s t á n d a r h a s t a N o r m a l in d iv id u a l In c u m p lim ie n t o in d iv id u a l h a s t a S u b e s t á n d a r In c u m p lim ie n t o in d iv id u a l h a s t a N o r m a l in d iv id u a l N o r m a l g r u p a l h a s t a In c u m p lim ie n t o g r u p a l In c u m p lim ie n t o g r u p a l h a s t a N o r m a l g r u p a l N u e v o s c r é d it o s c o n t in g e n t e s o t o r g a d o s C r é d it o s c o n t in g e n t e s p o r c o n v e r s ió n a c o lo c a c io n e s C a m b io s e n m o d e lo s y m e t o d o lo g ia s D if e r e n c ia s d e c o n v e r s ió n O t r o s c a m b io s e n p r o v is io n e s ( s i a p lic a ) S a ld o a l 3 1 d e d ic ie m b r e d e 2 0 Y Y E e e
+] S el: l p e r io d o :
+In d iv id u a l E CNv a M o v a r t e r a o r m a l lu a c ió im n G ie n t o r u p a e l n p r o v is io n e s c o S n u s Cb t it u id a s p a r t e r a e s t á n d a r o r c a r t e r a e n e In In d l p e r io d o C a r t e r a e n c u m p lim ie n t o E v a lu a c ió n iv id u a l G r u p a l T o t a l
 
 Compendio de Normas Contables Capítulo C-1 Anexo N°2 Hoja 9 Cuadro N° 3 A: Concentración de créditos por actividad económica
 
@@ -1787,115 +1710,34 @@ Subtotal Total Colocaciones Circular N° 2.243 / 20.12.2019 por Resolución N° 
 
 Compendio de Normas Contables Capítulo C-1 Anexo N°3 Hoja 1
 ## ANEXO N° 3
-Cuadro N° 1: Créditos contingentes – Detalles Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> A
-> A
-> A
-> C
-> C
-> B
-> B
-> B
-> L
-> S
-> S
-> S
-> S
-> O
-> O
-> O
-> O
-> $$
+Cuadro N° 1: Créditos contingentes – Detalles Circular N° 2.243 / 20.12.2019 por Resolución N° 9127 A A A C C B B B L S S S S O O O O
 ### M O N T O S P A R A D IS T IN T O S C R É D IT O S C O N T IN G E N T E S
 v a le s y fia n z a s v a le s y fia n z a s e n m o n e d a c h ile n a v a le s y fia n z a s e n m o n e d a e x tra n je ra a rta s d e c ré d ito d e l e x te rio r c o n firm a d a s a rta s d e c ré d ito s d o c u m e n ta ria s e m itid a s o le ta s d e g a ra n tía o le ta s d e g a ra n tía e n m o n e d a c h ile n a o le ta s d e g a ra n tía e n m o n e d a e x tra n je ra ín e a s d e c ré d ito d e lib re d is p o s ic ió n a ld o d is p o n ib le lín e a d e c ré d ito y d e s o b re g iro p a c ta d o e n c u e n ta c o rrie n te a ld o d is p o n ib le lín e a d e c ré d ito e n ta rje ta d e c ré d ito – c a rte ra c o m e rc ia l a ld o d is p o n ib le lín e a d e c ré d ito y d e s o b re g iro p a c ta d o e n c u e n ta c o rrie n te a ld o d is p o n ib le lín e a d e c ré d ito e n ta rje ta d e c ré d ito – c a rte ra c o n s u m o tro s c o m p ro m is o s d e c ré d ito tro s c o m p ro m is o s d e c ré d ito p o r c ré d ito s p a ra e s tu d io s s u p e rio re s - C A E tro s c o m p ro m is o s d e c ré d ito irre v o c a b le s tro s c ré d ito s c o n tin g e n te s
 –
-–
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> c
-> c
-> a
-> a
-> rte
-> rte
-> ra
-> ra
-> c
-> c
-> o
-> o
-> m
-> n
-> e
-> s u
-> rc
-> m
-> ia
-> o
-> l
-> C
-> A
-> $$
-ré d ito l 3 1 d
+– c
+c a a rte rte ra ra c c o o m n e s u rc m ia o l C A ré d ito l 3 1 d
 ### 2 0 Y Y
 M M $
-s c e d o n tin ic ie m
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> g
-> b
-> 2
-> M
-> e n
-> re
-> 0 X
-> M
-> te s
-> d e
-> X
-> $$
+s c e d o n tin ic ie m g b
+2 M
+e n re
+0 X
+M te s d e X
 $
 
 Compendio de Normas Contables Capítulo C-1 Anexo N°4 Hoja 1
 ## ANEXO N° 4
 CUADRO N° 1A: GASTO POR PÉRDIDAS CREDITICIAS
-Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> c
-> p
-> R
-> a
-> o
-> $$
+Circular N° 2.243 / 20.12.2019 por Resolución N° 9127 c p R a o
 ### R E S U M E N D E L G A S T O P O R P É R D I D A S C R E D I T I C I A S E N E L P E R I O D O
 G a s t o d e p r o v is io n e s c o n s t it u id a s o r r ie s g o d e c r é d it o d e c o lo c a c io n e s G a s t o d e p r o v is io n e s e s p e c ia le s p o r r ie s g o d e c r é d it o e c u p e r a c ió n d e c r é d it o s c a s t ig a d o s D e t e r io r o p o r r ie s g o d e c r é d it o d e o t r o s a c t iv o s f in a n c ie r o s a c o s t o a m o r t iz a d o D e t e r io r o p o r r ie s g o d e c r é d it o d e c t iv o s f in a n c ie r o s a v a lo r r a z o n a b le n c a m b io s e n o t r o r e s u lt a d o in t e g r a l A l 3 1
 2 0 Y
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> M M
-> d
-> Y
-> $$
+M M d Y
 $ e d ic ie m b
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 2
-> M
-> r e
-> 0 X
-> M
-> d
-> X
-> $$
+2 M
+r e
+0 X
+M d X
 $ e
 
 Compendio de Normas Contables Capítulo C-1 Anexo N°4 Hoja 2
@@ -1905,43 +1747,20 @@ Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
 ### R E S U M E N D E L G A S T O D E P R O V IS IO N E S C O N S T IT U ID A S P O R R IE S G O D E C R É D IT O Y G A S T O P O R P É R D ID A S C R E D IT IC IA S D E C O L O C A C IO N E S E N E L P E R IO D O
 A l 3 1 d e d ic ie m b re d e 2 0 Y Y (M M $ ) A d e u d a d o p o r b a n c o s C o n stitu c ió n d e p ro v isio n e s L ib e ra c ió n d e p ro v isio n e s D ife re n c ia s d e c o n v e rsió n (i) S u b to ta l C o lo c a c io n e s C o m e rc ia le s C o n stitu c ió n d e p ro v isio n e s L ib e ra c ió n d e p ro v isio n e s D ife re n c ia s d e c o n v e rsió n (i) S u b to ta l C o lo c a c io n e s p a ra V iv ie n d a C o n stitu c ió n d e p ro v isio n e s L ib e ra c ió n d e p ro v isio n e s D ife re n c ia s d e c o n v e rsió n (i) S u b to ta l C o lo c a c io n e s d e C o n su m o C o n stitu c ió n d e p ro v isio n e s L ib e ra c ió n d e p ro v isio n e s D ife re n c ia s d e c o n v e rsió n (i) S u b to ta l G a sto d e p ro v isio n e s c o n stitu id a s d e c o lo c a c io n e s R e c u p e ra c ió n d e c ré d ito s c a stig a d o s A d e u d a d o p o r b a n c o s C o lo c a c io n e s c o m e rc ia le s C o lo c a c io n e s p a ra v iv ie n d a C o lo c a c io n e s d e c o n su m o D ife re n c ia s d e c o n v e rsió n (i) S u b to ta l G a sto p o r p é rd id a s c re d itic ia s d e c o lo c a c io n e s
 i) si a p lic a .
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> In
-> G
-> d
-> $$
-a sto d e p ro v isio C a rte ra N o rm a l E v a lu a c ió n iv id u a l G ru p a l n e s c o n stitu id a C a rte ra S u b e stá n d a E v a lu a c ió n In d iv id u a l s d r e c o lo c a c io n e s e n e l p C a rte ra e n In c u m p lim ie n to E v a lu a c ió n In d iv id u a l G ru p a l e rio d o T o ta l
+In G d a sto d e p ro v isio C a rte ra N o rm a l E v a lu a c ió n iv id u a l G ru p a l n e s c o n stitu id a C a rte ra S u b e stá n d a E v a lu a c ió n In d iv id u a l s d r e c o lo c a c io n e s e n e l p C a rte ra e n In c u m p lim ie n to E v a lu a c ió n In d iv id u a l G ru p a l e rio d o T o ta l
 
 Compendio de Normas Contables Capítulo C-1 Anexo N°4 Hoja 3
 CUADRO N° 1C: GASTO POR PROVISIONES ESPECIALES POR RIESGO DE
 CRÉDITO Circular N° 2.243 / 20.12.2019 por Resolución N° 9127
 ### R E S U M E N D E L G A S T O P O R P R O V I S I O N E S E S P E C I A L E S P O R R I E S G O D E C R É D I T O E N E L P E R I O D
-G a s t o d e p r o v is io n e s p a r a c r é d it o s c o n t in g A d e u d a d o p o r b a n c o s C o lo c a c io n e s c o m e r c ia le s C o lo c a c io n e s d e c o n s u m o G a s t o d e p r o v is io n e s p o r r ie s g o p a ís p a r a o p e r a c io n e s c o n d e u d o r e s d o m ic ilia d o s e n e l e x t e r io r G a s t o d e p r o v is io n e s e s p e c ia le s p a r a c r é d it o s a l e x t e r io r G a s t o d e p r o v is io n e s a d ic io n a le s p a r a c o lo C o lo c a c io n e s c o m e r c ia le s C o lo c a c io n e s p a r a v iv ie n d a C o lo c a c io n e s d e c o n s u m o G a s t o d e p r o v is io n e s p o r a ju s t e s a p r o v is ió m ín im a e x ig id a p a r a c a r t e r a n o r m a l c o n e v in d iv id u a l G a s t o d e o t r a s p r o v is io n e s e s p e c ia le s c o n s t it u id a s p o r r ie s g o d e c r é d it o O e n t e c a c io n a lu a c
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> s
-> n e
-> ió n
-> s
-> A l 3 1 d
-> 2 0 Y Y
-> $$
+G a s t o d e p r o v is io n e s p a r a c r é d it o s c o n t in g A d e u d a d o p o r b a n c o s C o lo c a c io n e s c o m e r c ia le s C o lo c a c io n e s d e c o n s u m o G a s t o d e p r o v is io n e s p o r r ie s g o p a ís p a r a o p e r a c io n e s c o n d e u d o r e s d o m ic ilia d o s e n e l e x t e r io r G a s t o d e p r o v is io n e s e s p e c ia le s p a r a c r é d it o s a l e x t e r io r G a s t o d e p r o v is io n e s a d ic io n a le s p a r a c o lo C o lo c a c io n e s c o m e r c ia le s C o lo c a c io n e s p a r a v iv ie n d a C o lo c a c io n e s d e c o n s u m o G a s t o d e p r o v is io n e s p o r a ju s t e s a p r o v is ió m ín im a e x ig id a p a r a c a r t e r a n o r m a l c o n e v in d iv id u a l G a s t o d e o t r a s p r o v is io n e s e s p e c ia le s c o n s t it u id a s p o r r ie s g o d e c r é d it o O e n t e c a c io n a lu a c s n e ió n s A l 3 1 d
+### 2 0 Y Y
 M M $
 e d ic ie m b
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 2
-> M
-> r e
-> 0 X
-> M
-> d
-> X
-> $$
+2 M
+r e
+0 X
+M d X
 $ e
 
 Compendio de Normas Contables Capítulo C-1 Anexo N° 5 Hoja 1
@@ -1955,16 +1774,11 @@ A ctiv o s fin a n cie ro s p a ra n e g o cia r a v a lo r ra zo n a b le co n 
 ### P A S IV O S
 P a siv o s fin a n cie ro s p a ra n e g o cia r a v a lo r ra zo n a b le co n ca m b io s e n re su lta d o s C o n tra to s d e d e riv a d o s fin a n cie ro s P a siv o s fin a n cie ro s d e sig n a d o s a v a lo r ra zo n a b le co n ca m b io s e n re su lta d o s C o n tra to s d e d e riv a d o s fin a n cie ro s p a ra co b e rtu ra co n ta b le P a siv o s fin a n cie ro s a co sto a m o rtiza d o D e p ó sito s y o tra s o b lig a cio n e s a la v ista D e p ó sito s y o tra s ca p ta cio n e s a p la zo O b lig a cio n e s p o r p a cto s d e re tro co m p ra y p ré sta m o s d e v a lo re s O b lig a cio n e s co n b a n co s In stru m e n to s fin a n cie ro s d e d e u d a e m itid o s O tra s o b lig a cio n e s fin a n cie ra s O b lig a cio n e s p o r co n tra to s d e a rre n d a m ie n to O tro s p a siv o s
 N o ta s:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> i) S e re fie re a la s p a rte s re la cio n a d a s d e la m a triz d e l b a n co , d e fin id a s e n e l p a rra fo 1 9 a d e la N IC 2 4 .
-> ii) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 b ,c,d ,e d e la N IC 2 4 .
-> iii) S e re fie re a l p e rso n a l cla v e d e la a d m in istra ció n d e l b a n co se g ú n p a rra fo 1 9 f d e la N IC 2 4 .
-> iv ) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 g d e la N IC 2 4 .
-> B
-> $$
-T ip o d e p a rte re la cio n P e rso n a l cla v e d e l a n co co n so lid a d o (iii) a d a R O tra s p a rte s e la cio n a d a s (iv ) T o ta l
+i) S e re fie re a la s p a rte s re la cio n a d a s d e la m a triz d e l b a n co , d e fin id a s e n e l p a rra fo 1 9 a d e la N IC 2 4 .
+ii) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 b ,c,d ,e d e la N IC 2 4 .
+iii) S e re fie re a l p e rso n a l cla v e d e la a d m in istra ció n d e l b a n co se g ú n p a rra fo 1 9 f d e la N IC 2 4 .
+iv ) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 g d e la N IC 2 4 .
+B T ip o d e p a rte re la cio n P e rso n a l cla v e d e l a n co co n so lid a d o (iii) a d a R O tra s p a rte s e la cio n a d a s (iv ) T o ta l
 
 Compendio de Normas Contables Capítulo C-1 Anexo N° 5 Hoja 2
 b) Ingresos y gastos por transacciones con partes relacionadas
@@ -1992,14 +1806,10 @@ Circular N° 2.243 / 20.12.2019 por Resolución N° 9127 T ip o d e in g re so s
 G a sto s p o r in te re se s G a sto s p o r re a ju ste s G a sto s p o r co m isio n e s G a sto p o r p é rd id a s cre d iticia s G a sto s p o r o b lig a cio n e s d e b e n e ficio s a e m p le a d o s G a sto s d e a d m in istra ció n O tro s g a sto s
 ### T O T A L G A S T O S
 N o ta s:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> i) S e re fie re a la s p a rte s re la cio n a d a s d e la m a triz d e l b a n co , d e fin id a s e n e l p a rra fo 1 9 a d e la N IC 2 4 .
-> ii) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 b ,c,d ,e d e la N IC 2 4 .
-> iii) S e re fie re a l p e rso n a l cla v e d e la a d m in istra ció n d e l b a n co se g ú n p a rra fo 1 9 f d e la N IC 2 4 .
-> iv ) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 g d e la N IC 2 4 .
-> $$
+i) S e re fie re a la s p a rte s re la cio n a d a s d e la m a triz d e l b a n co , d e fin id a s e n e l p a rra fo 1 9 a d e la N IC 2 4 .
+ii) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 b ,c,d ,e d e la N IC 2 4 .
+iii) S e re fie re a l p e rso n a l cla v e d e la a d m in istra ció n d e l b a n co se g ú n p a rra fo 1 9 f d e la N IC 2 4 .
+iv ) S e re fie re a la s o tra s p a rte s re la cio n a d a s, d e fin id a s e n e l p a rra fo 1 9 g d e la N IC 2 4 .
 T o ta l
 
 Compendio de Normas Contables Capítulo C-1 Anexo N° 6 Hoja 1

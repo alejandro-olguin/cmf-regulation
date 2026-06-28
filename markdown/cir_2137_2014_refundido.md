@@ -1027,28 +1027,7 @@ Las conciliaciones presentadas a continuación muestran la cuantificación del i
 La conciliación para el ejercicio terminado el 31 de diciembre de 2015 proporciona el impacto de la transición con el detalle de los principales ajustes del Patrimonio Neto
 
 Resumen de la conciliación del patrimonio neto al 1 de enero de 2015.
-TcAAAOAinApAAmEsA AT o t a l p a t r im o n io n e t o s e g ú n p r in c ip io h ile n o s ju s t e a p r o p ie d a d e s , p la n t a y e q u ip ju s t e p o r m o n e d a f u n c io n a l ju s t e s d e c o n v e r s ió n a c u m u la d o s t r o s a ju s t e s d e in v e r s io n e s ju s t e d e g a s t o s d if e r id o s y o t r o s a t a n g ib le s ju s t e p o r v a lo r r a z o n a b le d e in s t r u m a t r im o n io ju s t e d e in s t r u m e n t o s f in a n c ie r o s ju s t e e n in v e r s io n e s c o n t a b iliz a d a s é t o d o d e la p a r t ic ip a c ió n f e c t o a c u m u la d o d e o t r o s c o n c e p t o ig n if ic a t iv o s ju s t e d e im p u e s t o s d if e r id o s ju s t e d e p a r t ic ip a c io n e s n o c o n t r o la o t a l p a t r i m o n i o n e t o s e g ú n N I I F s c o o c t iv o e n t o a p lic s n o d o r a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n
-> s
-> s
-> a
-> s
-> t a
-> n
-> d
-> b
-> d
-> e
-> le
-> o
-> s
-> e l
-> N o t a ( * )
-> A l 0 1 -M 0 1$ - 2 0 1 5
-> $$
+TcAAAOAinApAAmEsA AT o t a l p a t r im o n io n e t o s e g ú n p r in c ip io h ile n o s ju s t e a p r o p ie d a d e s , p la n t a y e q u ip ju s t e p o r m o n e d a f u n c io n a l ju s t e s d e c o n v e r s ió n a c u m u la d o s t r o s a ju s t e s d e in v e r s io n e s ju s t e d e g a s t o s d if e r id o s y o t r o s a t a n g ib le s ju s t e p o r v a lo r r a z o n a b le d e in s t r u m a t r im o n io ju s t e d e in s t r u m e n t o s f in a n c ie r o s ju s t e e n in v e r s io n e s c o n t a b iliz a d a s é t o d o d e la p a r t ic ip a c ió n f e c t o a c u m u la d o d e o t r o s c o n c e p t o ig n if ic a t iv o s ju s t e d e im p u e s t o s d if e r id o s ju s t e d e p a r t ic ip a c io n e s n o c o n t r o la o t a l p a t r i m o n i o n e t o s e g ú n N I I F s c o o c t iv o e n t o a p lic s n o d o r a n s s a s t a n d b d e le o s e l N o t a ( * ) A l 0 1 -M 0 1$ - 2 0 1 5
 (*) Incluir explicación conceptual de la naturaleza del ajuste, por efectos de la transición a IFRS, en los casos que corresponda.
 Dada la transición a NIIF, se espera que no existan ajustes en resultado y patrimonio al 31 de diciembre de
 2014, esto debido a que todos los ajustes de primera adopción deben ser efectuados el 1 de enero de 2015.
@@ -1062,37 +1041,16 @@ La Sociedad revelará información que permita, a los usuarios de sus estados fi
 Los instrumentos financieros y sus respectivas categorías que introducen riesgos financieros a la entidad son
 los siguientes:
 
-E fe c tiv o y e q u iv a le n te s a l e fe c tiv o O tro s a c tiv o s fin a n c ie ro s D e u d o re s c o m e rc ia le s y o tra s c u e n ta s p o r c o b ra r C u e n ta s p o r c o b ra r a e n tid a d e s re la c io n a d a s T o ta l A c tiv o s F in a n c ie r o s P ré s ta m o s b a n c a rio s O b lig a c io n e s c o n e l p ú b lic o O b lig a c io n e s p o r a rre n d a m ie n to fin a n c ie ro In s tru m e n to s d e riv a d o s P a s iv o s d e c o b e rtu ra T o ta l o tr o s p a s iv o s fin a n c ie r o s C u e n ta s p o r p a g a r c o m e rc ia le s y o tra s c u e n ta s p o C u e n ta s p o r p a g a r a e n tid a d e s re la c io n a d a s T o ta l P a s iv o s fin a n c ie r o s r p a g a r V a lo rM ju$
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D
-> s
-> D /M
-> to
-> M /A A A
-> a m
-> A
-> $$
-Co orM s to tiz a
-$ d o V a lo rM D ju$
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D
-> s
-> /M
-> to
-> M /A A A
-> a
-> A
-> m
-> -1
-> C o
-> o rM
-> s to
-> $$
-tiz a
+E fe c tiv o y e q u iv a le n te s a l e fe c tiv o O tro s a c tiv o s fin a n c ie ro s D e u d o re s c o m e rc ia le s y o tra s c u e n ta s p o r c o b ra r C u e n ta s p o r c o b ra r a e n tid a d e s re la c io n a d a s T o ta l A c tiv o s F in a n c ie r o s P ré s ta m o s b a n c a rio s O b lig a c io n e s c o n e l p ú b lic o O b lig a c io n e s p o r a rre n d a m ie n to fin a n c ie ro In s tru m e n to s d e riv a d o s P a s iv o s d e c o b e rtu ra T o ta l o tr o s p a s iv o s fin a n c ie r o s C u e n ta s p o r p a g a r c o m e rc ia le s y o tra s c u e n ta s p o C u e n ta s p o r p a g a r a e n tid a d e s re la c io n a d a s T o ta l P a s iv o s fin a n c ie r o s r p a g a r V a lo rM ju$ D s
+D /M
+to
+### M /A A A
+a m A Co orM s to tiz a
+$ d o V a lo rM D ju$ D s
+/M to
+### M /A A A
+a A m
+-1 C o o rM s to tiz a
 $ d o
 ### 5.2 RIESGOS FINANCIEROS
 Información cualitativa Para los riesgos de crédito, liquidez y mercado, la Sociedad revelará lo siguiente;
@@ -1176,42 +1134,14 @@ A - 1
 ### NOTA 8 - OTROS ACTIVOS FINANCIEROS
 8.1. Detalle de otros activos financieros
 (Corresponde al saldo presentado en la cuenta 2.18.00.00 del estado de situación financiera) El detalle de los otros activos financieros al DD/MM/AAAA y DD/MM/AAAA-1 es el siguiente:
-C o n c e p t D e p ó s ito s F o n d o s M A c c io n e s O tr o s T o t a l o t r f in a n c ie o a p la u tu o s o s a c r o s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> z
-> t
-> o
-> $$
-iv o s In s t it u c ió n M o n e d a M
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> V
-> o
-> a
-> n
-> lo
-> e
-> r
-> $$
-d a C a n t id a d
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M M
-> M
-> /A
-> $$
+C o n c e p t D e p ó s ito s F o n d o s M A c c io n e s O tr o s T o t a l o t r f in a n c ie o a p la u tu o s o s a c r o s z t o iv o s In s t it u c ió n M o n e d a M V o a n lo e r d a C a n t id a d
+### D D /M M
+M
+/A
 $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> A A A D D /M M
-> M
-> /A
-> $$
+### A A A D D /M M
+M
+/A
 $
 ### A A A - 1
 8.2. Instrumentos derivados
@@ -1252,74 +1182,13 @@ La Sociedad debe incluir el detalle de los vencimientos, el número de contratos
 8.2.3 Indicar en qué rubro son registrados los efectos del instrumento derivado.
 
 ### 8.3 Cuadro específico por acciones
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> R
-> V
-> u
-> a
-> t
-> $$
-lo r c o n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> V
-> t
-> a
-> a
-> lo r
-> b le
-> N
-> c
-> c
-> o
-> a
-> a
-> m
-> r t
-> r t
-> $$
-b r e E n t id e r a d e in v e r a d e in v
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a
-> e
-> D
-> e
-> d
-> r
-> e
-> r
-> s
-> t
-> s
-> io
-> e r
-> io
-> n
-> io
-> n
-> e
-> r
-> e
-> s
-> o
-> s
-> $$
-N ua mc c eio r on d e s e Pp oa r cr t eic n t ip aa jec d ió en V a lo In r B v e r us r s ió án t il C o Cr or se tg o id o
+R V u a t lo r c o n V t a a lo r b le N c c o a a m r t r t b r e E n t id e r a d e in v e r a d e in v a e D e d r e r s t s io e r io n io n e r e s o s N ua mc c eio r on d e s e Pp oa r cr t eic n t ip aa jec d ió en V a lo In r B v e r us r s ió án t il C o Cr or se tg o id o
 ### NOTA 9 - IMPUESTO A LAS GANANCIAS E IMPUESTOS DIFERIDOS
 9.1. Activos por impuesto corrientes
 (Corresponde al saldo presentado en la cuenta 2.12.00.00 del estado de situación financiera) ImImCPPOT p u e s to p o r r p u e s to e n r e r é d ito s p o r im a g o s p r o v is io a g o p r o v is io n tr o s c r é d ito s o t a l e c u p e r a r a c la m o p u e s to s d n a le s m e n a l u tilid a d e ñ ess o a n te r io r s u b s id ia r ia s u a le s a b s o r b id a s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 9.2. Pasivos por impuestos corrientes
 (Corresponde al saldo presentado en la cuenta 3.11.02.00 del estado de situación financiera)
 
@@ -1336,47 +1205,20 @@ N ua mc c eio r on d e s e Pp oa r cr t eic n t ip aa jec d ió en V a lo In r B
 (Corresponde al saldo presentado en la cuenta 4.15.00.00 del estado de situación financiera) Detallar el gasto por impuesto a la renta e impuestos diferidos por los ejercicios terminados al DD/MM/AA y AA-1, en el siguiente cuadro:
 
 GGAOGGGrRdGG a s t o p o r im p u e s t o c o r r ie n t e a la s g a n a n c ia s a s to p o r im p u e s to c o r r ie n te ju s te a l im p u e s to c o r r ie n te d e l e je r c ic io a n te r io r tr o s G a s to s p o r im p u e s to C o r r ie n te a s t o p o r im p u e s t o c o r r ie n t e , n e t o ,t o t a l a s t o p o r im p u e s t o d if e r id o a la s g a n a n c ia s a s to d if e r id o p o r im p u e s to s r e la tiv o s a la c r e a c ió n e v e r s ió n d e d if e r e n c ia s te m p o r a r ia s e d u c c io n e s ( a u m e n to s ) d e v a lo r d e a c tiv o s p o r im u r a n te la e v a lu a c ió n d e s u u tilid a d a s t o s p o r im p u e s t o s d if e r id o s , n e t o , t o t a l a s t o p o r im p u e s t o a la g a n a n c ia s y p u e s to s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 Detallar la composición del gasto (ingreso) por impuesto a las ganancias:
-GGGGGGG aaaaaaa sssssss totot o totot o t o s p o s p o s p s p o s p o s p p o rrorror im p
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> im p
-> r im
-> im p
-> im p
-> r im
-> im
-> uu
-> uu
-> p
-> $$
-eepeepu ssussue totoetotoes s c o r r ie n te s , n e to s , e x tr a n je r o s c o r r ie n te s , n e to s , n a c io n a l s t o s c o r r ie n t e s , n e t o s , t o t s d if e r id o s , n e to s , e x tr a n je r o s d if e r id o s , n e to s , n a c io n a l s t o s d if e r id o s , n e t o , t o t a l t o a la s g a n a n c ia s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a l
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+GGGGGGG aaaaaaa sssssss totot o totot o t o s p o s p o s p s p o s p o s p p o rrorror im p im p r im im p im p r im im uu uu p eepeepu ssussue totoetotoes s c o r r ie n te s , n e to s , e x tr a n je r o s c o r r ie n te s , n e to s , n a c io n a l s t o s c o r r ie n t e s , n e t o s , t o t s d if e r id o s , n e to s , e x tr a n je r o s d if e r id o s , n e to s , n a c io n a l s t o s d if e r id o s , n e t o , t o t a l t o a la s g a n a n c ia s a l
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 9.4. Tasa efectiva
 Incluir en el siguiente cuadro la conciliación del gasto por impuestos utilizando la tasa legal con el gasto por impuestos utilizando la tasa efectiva:
 G a s t o p o r im p u e s t o s u t iliz a n d o la t a s a le g a l E f e c to im p o s itiv o p o r c a m b io d e ta s a le g a l E f e c to im p o s itiv o d e ta s a s e n o tr a s ju r is d ic c io n e s E f e c to im p o s itiv o d e in g r e s o s o r d in a r io s n o im p o n ib le s E f e c to im p o s itiv o d e g a s to s n o d e d u c ib le s im p o s itiv a m e n O tr o s in c r e m e n to s ( d is m in u c io n e s ) e n c a r g o p o r im p u e s le g a le s T o t a l a ju s t e s a l g a s t o p o r im p u e s t o s u t iliz a n d o la le g a l G a s t o p o r im p u e s t o s u t iliz a n d o la t a s a e f e c t iv a te to s t a s a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 9.5. Activos y pasivos por impuestos diferidos
 (Corresponde al saldo presentado en la cuenta 2.19.00.00 y 3.11.05.00 del estado de situación financiera) Se deberá presentar al cierre de cada ejercicio el activo y pasivo por impuesto diferido en el siguiente cuadro:
 
@@ -1408,57 +1250,23 @@ M $
 (Corresponde al saldo presentado en la cuenta 3.11.01.00 del estado de situación financiera)
 
 La Sociedad deberá presentar los saldos de cuentas por pagar al cierre del ejercicio, en el siguiente cuadro:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T o
-> R
-> ta
-> U
-> l
-> $$
-T S o c ie d a d D e s c r ip tr a n s c ió a c n d e c ió n la tr Pa la z o d n s a c c eió n N a tu r a le z a la r e la c ió dn e M o n e d a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M M
-> S a
-> /A A
-> ld o
-> A A
-> $$
-s e n M
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> $/M a lM
-> /A A A A -1
-> $$
+T o R ta U l T S o c ie d a d D e s c r ip tr a n s c ió a c n d e c ió n la tr Pa la z o d n s a c c eió n N a tu r a le z a la r e la c ió dn e M o n e d a
+### D D /M M
+S a
+/A A
+ld o A A s e n M D D
+$/M a lM
+### /A A A A -1
 11.3. Transacciones con relacionadas y su efecto en resultados
 La Sociedad deberá presentar las transacciones con empresas relacionadas realizadas durante el ejercicio,
 en el siguiente cuadro:
-R U T S o c ie d a d N a tu r a le z a la r e la c ió dn e D e s c la tr ra ip c ió n s a c nc dio en M o n e d a PO a ís r ig de en D D /MM M$ /A A c E fe c to e r e s u lta d a r g o (a b o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> non
-> o )
-> D D /M M
-> 1 M
-> /A
-> $$
+R U T S o c ie d a d N a tu r a le z a la r e la c ió dn e D e s c la tr ra ip c ió n s a c nc dio en M o n e d a PO a ís r ig de en D D /MM M$ /A A c E fe c to e r e s u lta d a r g o (a b o non o )
+### D D /M M
+1 M
+/A
 $ A -
 r e s E fe c to u lta d o
-(a b o n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> e
-> co
-> na)
-> $$
-r g o
+(a b o n e co na) r g o
 11.4. Directorio y administración superior de la sociedad
 Detallar los integrantes del directorio de la Sociedad al DD/MM/AAAA:
 D ir ec co tm o rp ioa d e ñ ía la C a r g o P r o f e s ió n Incluir información de la administración superior de la compañía al DD/MM/AAAA:
@@ -1481,51 +1289,19 @@ Indicar la remuneración
 los directores.
 ### NOTA 12 - OTROS ACTIVOS NO FINANCIEROS
 (Corresponde al saldo presentado en la cuenta 2.15.00.00 del estado de situación financiera) Se deberá presentar un detalle del rubro Otros activos financieros a la fecha de los estados financieros de acuerdo al siguiente cuadro:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> R
-> A
-> S
-> G
-> O
-> C
-> $$
+R A S
+G O C
 e m a n e n te IV A r r ie n d o s a n tic e g u r o s a n tic ip a s to s a n tic ip a tr o s ( * ) o n c e C F p ip a d o a d o s d o s
 ### T O T A
-p t o o r r s L e c u p e r a r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> S
-> /M
-> a ld
-> M
-> M
-> o
-> /A
-> $$
-$
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a
-> A
-> l
-> $$
+p t o o r r s L e c u p e r a r D D S
+/M a ld M M o
+/A
+$ a A l
 ### A A D D
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S
-> /M
-> a
-> M
-> ld o
-> /A
-> $$
-M $ a l
+S
+/M a M ld o
+### /A M $
+a l
 ### A A A - 1
 * Se debe realizar una explicación breve del concepto al cual corresponde dicho monto y de superar el 5%
 del saldo se deberá abrir en nota el monto y concepto.
@@ -1547,92 +1323,32 @@ DD/MM/AA-1, en el siguiente cuadro:
 
 ### 13.2 Incluir el movimiento del deterioro en el siguiente cuadro:
 MSInInUDT o v im ie n t o d e d e t e r io r o a ld o in c ia l c r e m e n to e n la p r o v is ió n c r e m e n to p o r c o m b in a c ió n s o s d e p r o v is ió n e c r e m e n to s e n la p r o v is ió n o t a l d e n e g o c io s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 Mencionar cual es la exposición máxima al riesgo de crédito a la fecha de reporte. Indicar si existen activos en garantía.
 ### NOTA 14 - INVERSIONES CONTABILIZADAS UTILIZANDO EL MÉTODO DE LA PARTICIPACIÓN
 (Corresponde al saldo presentado en la cuenta 2.20.00.00 del estado de situación financiera)
 ### 14.1 Detallar al DD/MM/AAAA y DD/MM/AAAA-1 las inversiones contabilizadas bajo este rubro en el
 siguiente cuadro:
-InInT vvo eet a r s r sle ioios nn ee ss e
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> e
-> nn
-> D
-> c
-> o
-> $$
-e t a lle o lig a d tr a s s ao sc a ie
+InInT vvo eet a r s r sle ioios nn ee ss e e nn D c o e t a lle o lig a d tr a s s ao sc a ie
 )d a d e s b )
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M M /A
-> M
-> A$ A A D D /M M /A
-> M
-> A$ A A - 1
-> $$
+### D D /M M /A
+M
+### A$ A A D D /M M /A
+M
+### A$ A A - 1
 a) Incluir el movimiento de las inversiones en coligadas al DD/MM/AAAA y AAAA-1, en el siguiente cuadro:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T
-> C
-> o
-> $$
-o lig ta l a d a s a l D D /M M /A A A A PO a ís r ig de en
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> P
-> P
-> a
-> o
-> r
-> $$
-r c e n ta je d e tic ip a c ió n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 0
-> S a
-> 1 /M
-> ldMA
-> M
-> $$
-o a l
+T C o o lig ta l a d a s a l D D /M M /A A A A PO a ís r ig de en P P a o r r c e n ta je d e tic ip a c ió n
+0 S a
+1 /M
+ldMA M o a l
 ### /A A A
 $ A d(v ic io n e n ta M $ es s) P e a r tic ip a c ió n g a n a n c ia
-(p é r d id a ) M $ ns D r iv id e n s e c ib id M $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> d
-> o
-> o
-> s
-> $$
-O tr(d oe Inc r c r e e m M $ me e n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n to
-> to)
-> 3
-> S a
-> 1 /M
-> ldMA
-> M
-> $$
-o a l
+(p é r d id a ) M $ ns D r iv id e n s e c ib id M $ d o o s O tr(d oe Inc r c r e e m M $ me e n n to to)
+3 S a
+1 /M
+ldMA M o a l
 ### /A A A
 $ d V a lo r R a z o n a b le e a s o c ia d c o n c o tiz a c ió n a
 
@@ -1647,100 +1363,38 @@ b) Indicar si la Sociedad ha constituido provisiones sobre las inversiones en co
 de los estados financieros se encuentra registrado. Detallar en el siguiente cuadro:
 
 T o ta R l U T C o lig a d a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A -1
-> $$
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A -1
 c) Incluir en el movimiento de las inversiones en otras sociedades al DD/MM/AAAA y DD/MM/AAAA-1, en
 el siguiente cuadro:
 DD/MM/AAAA T o
 R U T
-ta l O tra s S o c ie d a d e s P a ís
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> P
-> P
-> a
-> $$
-o rc e n ta je d e rtic ip a c ió n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 0 1
-> S/M a ld o
-> M /A
-> $$
+ta l O tra s S o c ie d a d e s P a ís P P a o rc e n ta je d e rtic ip a c ió n
+0 1
+S/M a ld o
+M /A
 M $ aA l A A A d(v ic io n e s e n ta s ) M $ Pe a rtic ip a c ió n n g a n a n c ia s
 (p é rd id a ) M $ D ivre id e c ib M n d o s id o s
 $ O tro In c re m e n to
 (d e c re m e n to ) M $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 3 1
-> S/M a ld o
-> M /A
-> $$
-M $ aA l A A V a lo r R a z o n a b le d e a s o c ia d a c o n c o tiz a c ió n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> DD/MM/AAAA-1
-> T
-> R U
-> o ta
-> T
-> l
-> $$
-O tr a s S o c ie d a d e s P a ís
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> P
-> P
-> a
-> o
-> r
-> $$
-r c e n ta je d e tic ip a c ió n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 0 1
-> S
-> /M
-> $$
-aM ld o a l
+3 1
+S/M a ld o
+M /A
+M $ aA l A A V a lo r R a z o n a b le d e a s o c ia d a c o n c o tiz a c ió n DD/MM/AAAA-1 T R U o ta T l O tr a s S o c ie d a d e s P a ís P P a o r r c e n ta je d e tic ip a c ió n
+0 1
+S
+/M aM ld o a l
 ### /A A A A
 M $
 -1 A d(v ic io n e n ta M $ es s) Pe a r tic ip a c ió n g a n a n c ia
-(p é r d id a ) M $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ns
-> D iv
-> r e
-> id e
-> c ib
-> M
-> $$
-n d o s id o s
+(p é r d id a ) M $ ns D iv r e id e c ib M n d o s id o s
 $ O tr o In c r e m e n to
 (d e c r e m e n to
 ) M $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 3 1
-> S
-> /M
-> $$
-aM ld o a l
+3 1
+S
+/M aM ld o a l
 ### /A A A A
 M $
 -1 d V a lo r R a z o n a b le e a s o c ia d c o n c o tiz a c ió n a
@@ -1782,38 +1436,15 @@ f) Una descripción general de los acuerdos de arrendamiento significativos conc
 arrendador
 g) Las correcciones de valor acumuladas que cubran insolvencias relativas a los pagos mínimos por el
 arrendamiento
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 0
-> 1
-> 5
-> T
-> $$
+0
+1
+5 T
 A ñ o s r e c o n tr a to
 - 1
 - 5
 y m á s
 ### O T A L E S
-m L ae na es n te in g N Vo am loin r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a l
-> In
-> p o
-> te r
-> r r
-> $$
-ee sc eib
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> V
-> s
-> ir
-> $$
-a lo r p d e l C o n V a lo r r e s e n te tr a to D e te r io r o d Ve a lo r f in a l l c o n tr a to V ac lo r d o s to e Vta as loa rc dió en V aL lo e a r f in a s in g l
+m L ae na es n te in g N Vo am loin r a l In p o te r r r ee sc eib V s ir a lo r p d e l C o n V a lo r r e s e n te tr a to D e te r io r o d Ve a lo r f in a l l c o n tr a to V ac lo r d o s to e Vta as loa rc dió en V aL lo e a r f in a s in g l
 ### 15.2 Cuentas por Pagar Leasing
 Indicar las características y condiciones relevantes de los contratos de leasing vigentes sean éstos contraídos, tales como monto del compromiso adquirido, vigencia del contrato, condiciones para la anticipación de la compra en caso de existir, así como cualquier otro antecedente relevante al respecto.
 
@@ -1825,35 +1456,9 @@ DD/MM/AAAA M o v im ie n t o s e n a c t iv o s in t a n g ib le s id e n t if i
 ( r e v e r s io n e s ) r e c o n o c id o s e n e l p a tr im o n io n e to In c r e m e n to ( d is m in u c ió n ) p o r r e v a lu a c ió n r e c o n o c id o e n p a tr im o n io n e to P é r d id a p o r d e te r io r o r e c o n o c id a e n e l p a tr im o n io n e to R e v e r s io n e s d e d e te r io r o d e v a lo r r e c o n o c id a s e n e l p a tr im o n io n e to In c r e m e n to ( d is m in u c ió n ) p o r r e v a lu a c ió n r e c o n o c id o e n e l e s ta d o d e r e s u lta d o s P é r d id a p o r d e te r io r o r e c o n o c id a e n e l e s ta d o d e r e s u lta d o s R e v e r s io n e s d e d e te r io r o d e v a lo r r e c o n o c id a s e n e l e s ta d o d e r e s u lta d o s In c r e m e n to ( d is m in u c ió n ) e n e l c a m b io d e m o n e d a e x tr a n je r a O tr o s in c r e m e n to s ( d is m in u c io n e s ) d Ce o s t o d e s a r r o llo
 ( n e t o ) M $ Pm d a tao e r
 ( n e n t e s r c a s y t r o s e c h o s e t o ) M $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ,
-> P
-> in
-> $$
-r o g r f o r m
-( n eM aat$ mto a s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ic o
-> )
-> s
-> O
-> id
-> $$
-t rine atn sat a c n g if ic e s M $ t iv o ib ls a c a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> s
-> b l
-> T o
-> in
-> id e
-> $$
-t a l a t iv o s t a n g ib le s n t if ic a b le
+, P in r o g r f o r m
+( n eM aat$ mto a s ic o
+) s O id t rine atn sat a c n g if ic e s M $ t iv o ib ls a c a s b l T o in id e t a l a t iv o s t a n g ib le s n t if ic a b le
 ( n e t o ) M $ s
 
 DD/MM/AAAA-1
@@ -1899,88 +1504,18 @@ DD/MM/AAAA-1
 AAACPPOA C la s e s d e a c t iv o s in t a n g ib le s , b r u t o
 ( p r e s e n t a c ió n ) c tiv o s in ta n g ib le s d e v id a d e f in id a , n e to c tiv o s in ta n g ib le s d e v id a in d e f in id a , n e to c t iv o s in t a n g ib le s id e n t if ic a b le s , n e t o o s to s d e d e s a r r o llo , n e to a te n te s , m a r c a s r e g is tr a d a s y o tr o s d e r e c h o s r o g r a m a s in f o r m á tic o s , n e to tr o s a c tiv o s in ta n g ib le s id e n tif ic a b le s , n e to c t iv o s in t a n g ib le s , n e t o
 , n e to
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M M
-> M
-> /A
-> $$
+### D D /M M
+M
+/A
 $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> A A A D D /M M
-> M
-> /A
-> $$
+### A A A D D /M M
+M
+/A
 $
 ### A A A - 1
-AAAAdAA mmmmemm C la s e s o r t iz a o r tiz a c o r tiz a c o r tiz a c r e c h o s o r tiz a c o r tiz a c d e a m c ió n a ió n a c u ió n a c u ió n a c u ió n a c u ió n a c u
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> cmmm
-> mm
-> o
-> u
-> r t
-> mu
-> la
-> u la
-> u la
-> u la
-> u la
-> iz
-> uddd
-> dd
-> $$
-a c ió la d a a y d a y d a y d a y d a y d
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n
-> yeee
-> ee
-> a
-> d
-> $$
-tetete
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> tete
-> c u
-> er
-> io
-> r io
-> r io
-> r io
-> r io
-> m
-> t er
-> o
-> r o
-> r o
-> r o
-> r o
-> $$
-u la d a y d e t e r io r o d e l v a lo r , a c t iv o s in t a
-( p r e s e n t a c ió n ) r io r o d e l v a lo r , a c t iv o s in t a n g ib le s , t o t a d e l v a lo r , a c tiv o s in ta n g ib le s id e n tif ic a b le s d e l v a lo r , c o s to s d e d e s a r r o llo d e l v a lo r , p a te n te s , m a r c a s r e g is tr a d a s y o d e l v a lo r , p r o g r a m a s in f o r m á tic o s d e l v a lo r , o tr o s a c tiv o s in ta n g ib le s id e n tif ic a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n g
-> l
-> tr o
-> b le
-> ib
-> s
-> s
-> le s D D /M MM /A$ A A A D D /M M /A
-> M
-> A$ A A - 1
-> $$
+AAAAdAA mmmmemm C la s e s o r t iz a o r tiz a c o r tiz a c o r tiz a c r e c h o s o r tiz a c o r tiz a c d e a m c ió n a ió n a c u ió n a c u ió n a c u ió n a c u ió n a c u cmmm mm o u r t mu la u la u la u la u la iz uddd dd a c ió la d a a y d a y d a y d a y d a y d n yeee ee a d tetete tete c u er io r io r io r io r io m t er o r o r o r o r o u la d a y d e t e r io r o d e l v a lo r , a c t iv o s in t a
+( p r e s e n t a c ió n ) r io r o d e l v a lo r , a c t iv o s in t a n g ib le s , t o t a d e l v a lo r , a c tiv o s in ta n g ib le s id e n tif ic a b le s d e l v a lo r , c o s to s d e d e s a r r o llo d e l v a lo r , p a te n te s , m a r c a s r e g is tr a d a s y o d e l v a lo r , p r o g r a m a s in f o r m á tic o s d e l v a lo r , o tr o s a c tiv o s in ta n g ib le s id e n tif ic a n g l tr o b le ib s s le s D D /M MM /A$ A A A D D /M M /A M
+### A$ A A - 1
 La Sociedad deberá incluir información sobre los activos intangibles que hayan sufrido pérdidas por deterioro del valor.
 ### NOTA 17 - PLUSVALÍA
 (Corresponde al saldo presentado en la cuenta 2.22.00.00 del estado de situación financiera) Incluir el movimiento de la plusvalía entre el DD/MM/AAAA y el DD/MM/AAAA-1, en el cuadro siguiente:
@@ -2009,54 +1544,23 @@ La Sociedad debe indicar la fecha en que realizó la prueba del deterioro y el m
 ### 18.1 Indicar el movimiento de las propiedades de inversión al DD/MM/AAAA y al DD/MM/AAAA-1, en
 el siguiente cuadro:
 M o d e lo d e l c o s t o S a ld o in ic ia l A d ic io n e s D e s e m b o ls o p o s te r io r c a p ita liz a d o A d q u is ic io n e s m e d ia n te c o m b in a c io n e s d e n e g o c io s D e s a p r o p ia c io n e s D e s a p r o p ia c io n e s m e d ia n te e n a je n a c ió n d e n e g o c io s T r a n s f e r e n c ia s a ( d e s d e ) p r o p ie d a d e s o c u p a d a s p o r e l d u T r a n s f e r e n c ia s a ( d e s d e ) a c tiv o s n o c o r r ie n te s y g r u p o s e d e s a p r o p ia c ió n m a n te n id o s p a r a la v e n ta .
-R e tir o s G a s to s p o r d e p r e c ia c ió n P é r d id a p o r d e te r io r o d e l v a lo r r e c o n o c id a e n e l e s ta d o d e r e s u lta d o s R e v e r s io n e s d e D e te r io r o d e V a lo r R e c o n o c id a s e n e l E s ta d e R e s u lta d o s In c r e m e n to ( D e c r e m e n to ) e n e l C a m b io d e M o n e d a E x tr a n je O tr o In c r e m e n to ( D e c r e m e n to ) ( * ) T o t a l c a m b io s e n P r o p ie d a d e s d e In v e r s ió n S a ld o f in a l
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> en
-> d
-> r
-> ñ
-> o
-> a
-> o
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+R e tir o s G a s to s p o r d e p r e c ia c ió n P é r d id a p o r d e te r io r o d e l v a lo r r e c o n o c id a e n e l e s ta d o d e r e s u lta d o s R e v e r s io n e s d e D e te r io r o d e V a lo r R e c o n o c id a s e n e l E s ta d e R e s u lta d o s In c r e m e n to ( D e c r e m e n to ) e n e l C a m b io d e M o n e d a E x tr a n je O tr o In c r e m e n to ( D e c r e m e n to ) ( * ) T o t a l c a m b io s e n P r o p ie d a d e s d e In v e r s ió n S a ld o f in a l en d r ñ o a o
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 * Se deberá abrir este monto si supera el 5% del total del rubro.
 M o d e lo d e l V a lo r R a z o n a b le S a ld o in ic ia l A d ic io n e s D e s e m b o ls o p o s te r io r c a p ita liz a d o A d q u is ic io n e s m e d ia n te c o m b in a c io n e s d e n e g o c io s D e s a p r o p ia c io n e s D e s a p r o p ia c io n e s m e d ia n te e n a je n a c ió n d e n e g o c io s T r a n s f e r e n c ia s a ( d e s d e ) in v e n ta r io s T r a n s f e r e n c ia s a ( d e s d e ) p r o p ie d a d e s o c u p a d a s p o r e l d u T r a n s f e r e n c ia s a ( d e s d e ) a c tiv o s n o c o r r ie n te s y g r u p o s e d e s a p r o p ia c ió n m a n te n id o s p a r a la v e n ta .
-R e tir o s G a s to s p o r d e p r e c ia c ió n P é r d id a p o r d e te r io r o d e l v a lo r r e c o n o c id a e n e l e s ta d o d e r e s u lta d o s R e v e r s io n e s d e D e te r io r o d e V a lo r R e c o n o c id a s e n e l E s ta R e s u lta d o s In c r e m e n to ( D e c r e m e n to ) e n e l C a m b io d e M o n e d a E x tr a n je O tr o In c r e m e n to ( D e c r e m e n to ) ( * ) T o t a l c a m b io s e n P r o p ie d a d e s d e In v e r s ió n S a ld o f in a l
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> en
-> d
-> r
-> ñ
-> o
-> a
-> o
-> d e
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+R e tir o s G a s to s p o r d e p r e c ia c ió n P é r d id a p o r d e te r io r o d e l v a lo r r e c o n o c id a e n e l e s ta d o d e r e s u lta d o s R e v e r s io n e s d e D e te r io r o d e V a lo r R e c o n o c id a s e n e l E s ta R e s u lta d o s In c r e m e n to ( D e c r e m e n to ) e n e l C a m b io d e M o n e d a E x tr a n je O tr o In c r e m e n to ( D e c r e m e n to ) ( * ) T o t a l c a m b io s e n P r o p ie d a d e s d e In v e r s ió n S a ld o f in a l en d r ñ o a o d e
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 * Se deberá abrir este monto si supera el 5% del total del rubro.
 
 18.2. Detallar en el siguiente cuadro los ingresos y gastos de Propiedades de Inversión:
-InpGinGin gr oagag r e s p ie s to r e s s to r e s odsoso E f e c t o e n r e d e r iv a d o s d e r e n ta s a d e s d e in v e r s ió n d ir e c to s d e o p e r a c o s p o r r e n ta d ir e c to s d e o p e r a c ió s p o r c o n c e p to d e r e s u lt a d o p r o v e n ie n n q u e g e n e n q u e n o g n ta te s d e r a r o n e n e r a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> la
-> r o
-> s
-> n
-> D D /M MM /A$ A A A D D /M M
-> M
-> /A$ A A A - 1
-> $$
+InpGinGin gr oagag r e s p ie s to r e s s to r e s odsoso E f e c t o e n r e d e r iv a d o s d e r e n ta s a d e s d e in v e r s ió n d ir e c to s d e o p e r a c o s p o r r e n ta d ir e c to s d e o p e r a c ió s p o r c o n c e p to d e r e s u lt a d o p r o v e n ie n n q u e g e n e n q u e n o g n ta te s d e r a r o n e n e r a la r o s n
+### D D /M MM /A$ A A A D D /M M
+M
+### /A$ A A A - 1
 También deberá ser revelado lo siguiente:
 a) El cambio acumulado en el valor razonable que se haya reconocido en el resultado por la venta de
 una propiedad de inversión, perteneciente al conjunto de activos en los que se aplica el modelo del costo, al otro conjunto de activos en los que se aplica el modelo de valor razonable.
@@ -2150,37 +1654,12 @@ cada ejercicio, a valores neto y bruto en el siguiente cuadro:
 | --- | --- | --- | --- | --- |
 
 ### DDDDDDD D
-C eeeeeee e la s e s d e p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p r e c ia c ió
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D
-> A
-> A
-> A
-> A
-> A
-> A
-> A
-> n
-> e
-> $$
-ccccccc A p r e c ia u m u la d u m u la d u m u la d u m u la d u m u la d u m u la d u m u la d c u m u c ió n A c u m u la d a y D e te r io r o d e l V a lo r , P r o p ie d a d e s , P la n ta y E q u ip o (P r e s e n ta c ió n ) a y D e te rio ro d e l V a lo r, E d ific io s a y D e te rio ro d e l V a lo r, P la n ta y E q u ip o a y D e te rio ro d e l V a lo r, E q u ip a m ie n to d e T e c n o lo g ía s d e la In fo a y D e te rio ro d e l V a lo r, In s ta la c io n e s F ija s y A c c e s o rio s a y D e te rio ro d e l V a lo r, V e h íc u lo s d e M o to r a y D e te rio ro d e l V a lo r, M e jo ra s d e lo s B ie n e s A rre n d a d o s a y D e te rio ro d e l V a lo r, O tro s (*) la d a y D e te r io r o d e l V a lo r , P r o p ie d a d e s , P la n ta y E q u ip o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> rm
-> , T
-> D D
-> $$
+C eeeeeee e la s e s d e p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p re c ia c ió n p r e c ia c ió D A A A A A A A n e ccccccc A p r e c ia u m u la d u m u la d u m u la d u m u la d u m u la d u m u la d u m u la d c u m u c ió n A c u m u la d a y D e te r io r o d e l V a lo r , P r o p ie d a d e s , P la n ta y E q u ip o (P r e s e n ta c ió n ) a y D e te rio ro d e l V a lo r, E d ific io s a y D e te rio ro d e l V a lo r, P la n ta y E q u ip o a y D e te rio ro d e l V a lo r, E q u ip a m ie n to d e T e c n o lo g ía s d e la In fo a y D e te rio ro d e l V a lo r, In s ta la c io n e s F ija s y A c c e s o rio s a y D e te rio ro d e l V a lo r, V e h íc u lo s d e M o to r a y D e te rio ro d e l V a lo r, M e jo ra s d e lo s B ie n e s A rre n d a d o s a y D e te rio ro d e l V a lo r, O tro s (*) la d a y D e te r io r o d e l V a lo r , P r o p ie d a d e s , P la n ta y E q u ip o rm
+### , T D D
 a c ió n o ta l
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> /M M
-> M
-> /A
-> $$
+/M M
+M
+/A
 $
 A A A
 ### D D /M M /A A A A -1
@@ -2248,57 +1727,12 @@ DD/MM/AAAA y DD/MM/AAAA-1.
 ### 19.7 Incluir información relativa al deterioro de valor de las propiedades, planta y equipo.
 ### NOTA 20 - OTROS PASIVOS NO FINANCIEROS
 (Corresponde al saldo presentado en la cuenta 3.11.03.00 del estado de situación financiera) Se deberá presentar el saldo al cierre de los estados financieros de acuerdo al siguiente cuadro:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> In
-> O
-> O
-> O
-> T
-> $$
-g r e s o tr o s p tr o s p tr o s p
+In O O O T g r e s o tr o s p tr o s p tr o s p
 ### O T A L
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> s
-> a
-> a
-> a
-> $$
-d if e s iv o s iv o s iv o C o n c e r id o s s n o f in s n o f in s n o f in
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> p
-> a
-> a
-> a
-> t o
-> n c
-> n c
-> n c
-> ie
-> ie
-> ie
-> r
-> r
-> r
-> o
-> o
-> o
-> s
-> s
-> s
-> 1
-> 2
-> n ( * )
-> D D
-> S/M a ld
-> MM
-> o/A$ aA l
-> $$
+s a a a d if e s iv o s iv o s iv o C o n c e r id o s s n o f in s n o f in s n o f in p a a a t o n c n c n c ie ie ie r r r o o o s s s
+1
+2 n ( * )
+D D S/M a ld MM o/A$ aA l
 ### A A D D
 S
 /M aM ld o
@@ -2312,14 +1746,7 @@ a l
 21.1 La Sociedad deberá incluir un detalle con la composición de las Cuentas por pagar comerciales y otras
 cuentas por pagar en el siguiente cuadro:
 PHGPO r o v e e d o r e s o n o r a r io s a r a n tía d e a r im a s r e c a u tr a s c u e n ta rds D e t a lle r ie n d o r e c ib id a s a d a s p o r c u e n ta d p o r p a g a r ( * ) e c ía d e s e g .
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> S/M a ld
-> MM
-> o/A$ aA l
-> $$
+D D S/M a ld MM o/A$ aA l
 ### A A D D
 S
 /M aM ld o
@@ -2329,74 +1756,13 @@ a l
 * Se deberá abrir este monto si supera el 5% del total del rubro.
 ### 21.2 La sociedad deberá detallar la composición de las primas recaudadas por cuenta de compañías de
 seguros para los períodos DD/MM/AAAA y al DD/MM/AAAA-1, en el siguiente cuadro:
-AAAA CCCCTr CCCCTTr
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T
-> ía n ° 1
-> ía n ° 2
-> ía n ° 3
-> $$
-ía n ° N o ta l C o e la c io n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ía n ° 1
-> ía n ° 2
-> ía n ° 3
-> $$
-ía n ° N
+AAAA CCCCTr CCCCTTr T ía n ° 1 ía n ° 2 ía n ° 3 ía n ° N o ta l C o e la c io n ía n ° 1 ía n ° 2 ía n ° 3 ía n ° N
 ### O T A L
 o ta l C o e la c io n
 ### O T A L
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ma
-> ma
-> d
-> d
-> $$
-P r im p a ñ ía a s p a ñ ía
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a s
-> a
-> s
-> s
-> s p
-> d e
-> d e
-> $$
-o r P s e g s e g
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a
-> u
-> u
-> g
-> r
-> r
-> a
-> o
-> o
-> r
-> s
-> $$
-s n o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 3 mM e s$ e s 6 m
-> M
-> e s$ e s 9 m
-> M
-> e s$ e s 1 aM ñ$ o
-> $$
-m á s d e a ñ o M $ u n T oM ta$ l AAAA-1
+ma ma d d P r im p a ñ ía a s p a ñ ía a s a s s s p d e d e o r P s e g s e g a u u g r r a o o r s s n o
+3 mM e s$ e s 6 m
+M e s$ e s 9 m M e s$ e s 1 aM ñ$ o m á s d e a ñ o M $ u n T oM ta$ l AAAA-1
 
 | Primas por Pagar | 3 meses M$ | 6 meses M$ | 9 meses M$ | 1 año M$ | más de un año M$ | Total M$ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2418,36 +1784,13 @@ m á s d e a ñ o M $ u n T oM ta$ l AAAA-1
 ### 22.1 La Sociedad deberá detallar la composición de este rubro al DD/MM/AAAA y al
 DD/MM/AAAA-1, en el siguiente cuadro:
 OOODOOOOT b lig a c b lig a c tr o s P iv id e n tr o s p tr o s p b lig a c tr o s o o t a l P io n e s c o n b a n c o io n e s c o n e l p ú b lic o r é s ta m o s ( le a s in g ) d o s p o r P a g a r a s iv o s f in a n c ie r o s ( C C S R a s iv o s f in a n c ie r o s ( d e r iv a io n e s a la v is ta b lig a c io n e s f in a n c ie r a s ( * ) a s iv o s f in a n c ie r o s ed so us lta
-) d o )
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> S
-> /M
-> a ld
-> MM
-> o
-> /A$
-> a
-> A
-> l
-> $$
+) d o ) D D S
+/M a ld MM o
+/A$ a A l
 ### A A D D
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S
-> /M
-> a ld
-> MM
-> o
-> /A$
-> a
-> A
-> l
-> A A
-> $$
+S
+/M a ld MM o
+/A$ a A l A A
 * Se deberá abrir este monto si supera el 5% del total del rubro.
 
 22.2 Detallar los otros pasivos financieros por tramos de vencimiento al DD/MM/AAAA y DD/MM/AAAA-1, a valores nominal:
@@ -2459,75 +1802,20 @@ AAAA Más de 90 Tipo de Total hasta 90 Más de 1 Más de 3 Más de 5 Total Vaor 
 ### 23.1 Provisiones para beneficios y remuneraciones al personal
 La sociedad deberá detallar la información de beneficios a los empleados en el siguiente cuadro:
 PPT roroo v is ió v is ió ta l B nne In d e m p o r o n e fic n iz a c io n a ñ o tro s b e n e fic io io s a lo s e m s d e s e rv ic s a l p e rs o n p le a d o s ioa l (1 )
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D /M MM /A$ A
-> S
-> A
-> a
-> A
-> ld o
-> D
-> a l
-> D /M M
-> M
-> /A$ A A A -1
-> $$
+### D D /M MM /A$ A
+S A a A ld o D a l
+### D /M M
+M
+### /A$ A A A -1
 (1) Dentro de este rubro se deben clasificar los bonos por desempeño.
-VeInVT In d e m n iz a c io n p a lo r a c tu a l d e la s o je r c ic io c r e m e n to d e la p r o a r ia c ió n d e la p r o v o t a l
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> o
-> b
-> vis
-> r a
-> $$
-lig a is ió
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ió n
-> ñ
-> c
-> n
-> o
-> io
-> s
-> n
-> d
-> e s
-> $$
-e s e a l in r ic v ic io io d e l
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> S/M a ld
-> M
-> o/A aA l
-> $$
+VeInVT In d e m n iz a c io n p a lo r a c tu a l d e la s o je r c ic io c r e m e n to d e la p r o a r ia c ió n d e la p r o v o t a l o b vis r a lig a is ió ió n ñ c n o io s n d e s e s e a l in r ic v ic io io d e l D D S/M a ld M o/A aA l
 ### A A D D
 S
 /M aM ld o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> /A
-> a l
-> A A A - 1
-> $$
+/A a l
+### A A A - 1
 ### 23.2 Detallar en el siguiente cuadro los movimientos del ejercicio:
-SPRLS D e t a lle a ld o a l 3 1 /M M /A A A A r o v is io n e s r e c o n o c id a s e d u c c io n e s d e r iv a d a s d e ib e r a c ió n d e p r o v is io n e s a ld o a l 3 1 /M M /A A A A p a g o s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> S/M a ld
-> MM
-> o/A$ aA lA
-> $$
+SPRLS D e t a lle a ld o a l 3 1 /M M /A A A A r o v is io n e s r e c o n o c id a s e d u c c io n e s d e r iv a d a s d e ib e r a c ió n d e p r o v is io n e s a ld o a l 3 1 /M M /A A A A p a g o s D D S/M a ld MM o/A$ aA lA
 A D D
 S
 /M aM ld o
@@ -2550,108 +1838,25 @@ e t a lle a ld o a l 0 1 /M M /A A r o v is io n e s A d ic io e d u c c io n e 
 ### A A - 1
 n a le s a d a s d is io n e s
 A A A
-e p a g o s Ppc o r o v is io o r c r e d n t in g e M $ n e it o n t e sss Pp ro or v
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> p
-> isr
-> M
-> io
-> e p
-> $$
+e p a g o s Ppc o r o v is io o r c r e d n t in g e M $ n e it o n t e sss Pp ro or v p isr M io e p
 $ na eg so pn P r o v a t r im e g a t c o ligM is ió n o n io iv o e n a d a s
-$ r Pe rc o v is
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> la m
-> le g
-> M
-> $$
-ó n p o a c io n e a le s
+$ r Pe rc o v is la m le g M ó n p o a c io n e a le s
 $ r s T o M t a
-$
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> l
-> D
-> S
-> P
-> R
-> L
-> S
-> $$
-e t a lle a ld o a l 0 1 /M M /A A r o v is io n e s A d ic io e d u c c io n e s d e r iv ib e r a c ió n d e p r o v a ld o a l 3 1 /M M /A
+$ l D S P R L S e t a lle a ld o a l 0 1 /M M /A A r o v is io n e s A d ic io e d u c c io n e s d e r iv ib e r a c ió n d e p r o v a ld o a l 3 1 /M M /A
 ### A A - 1
 n a le s a d a s d e is io n e s
 ### A A A - 1
-p a g o s Ppc o r o v is io o r c r e d n t in g e M $ n e it o n t e sss Pp ro or v
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> p
-> isr
-> M
-> io
-> e p
-> $$
+p a g o s Ppc o r o v is io o r c r e d n t in g e M $ n e it o n t e sss Pp ro or v p isr M io e p
 $ na eg so pn P r o v a t r im e g a t c o ligM is ió n o n io iv o e n a d a s
-$ r Pe rc o v is
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> la m
-> le g
-> M
-> $$
-ó n p o a c io n e a le s
+$ r Pe rc o v is la m le g M ó n p o a c io n e a le s
 $ r s T o M t a
 $ l La Sociedad deberá incluir un detalle de los litigios provisionados durante el DD/MM/AAAA y el DD/MM/AAAA-1.
 ### NOTA 25 - COMISIONES NO DEVENGADAS
 (Corresponde al saldo presentado en la cuenta 3.11.10.00 del estado de situación financiera) Estratificación de comisiones no devengadas La entidad deberá presentar los vencimientos futuros de las comisiones no devengadas de seguros no previsionales de acuerdo al siguiente cuadro:
 ### AAAA C
-pnprT o m is io o r c o r r e o p r e v is o r c o r r e e la c io n a o t a l n e s n ta je d e o n a le s ta je d e d o s n o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> o
-> s
-> s
-> p
-> $$
-d e v e e g u r o e g u r o r e v is o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n
-> s
-> sn
-> g
-> r
-> na
-> a d
-> e la
-> o
-> le s
-> a
-> c
-> s
-> $$
-io n a d o s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 3 m
-> M
-> e s$ e s 6 m
-> M
-> e s$ e s 9 m
-> M
-> e s$ e s 1 aM ñ$ o
-> $$
-m á s d a ñ M eo$ u n T oM t a$ l AAAA-1
+pnprT o m is io o r c o r r e o p r e v is o r c o r r e e la c io n a o t a l n e s n ta je d e o n a le s ta je d e d o s n o o s s p d e v e e g u r o e g u r o r e v is o n s sn g r na a d e la o le s a c s io n a d o s
+3 m
+M e s$ e s 6 m M e s$ e s 9 m M e s$ e s 1 aM ñ$ o m á s d a ñ M eo$ u n T oM t a$ l AAAA-1
 
 | Comisiones no devengadas | 3 meses M$ | 6 meses M$ | 9 meses M$ | 1 año M$ | más de un año M$ | Total M$ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2707,24 +1912,7 @@ La Sociedad deberá incluir al DD/MM/AAAA y AAAA-1, un detalle de los Costos de 
 M$ M$
 Costos por Comisiones de Intermediación Costos por Servicios contractuales adicionales Otros costos Total
 ### NOTA 29 - GASTOS DE ADMINISTRACIÓN
-(Corresponde al saldo presentado en la cuenta 4.12.00.00 del estado resultados integrales) RDMPSASCAPOT C o n c e p t o e m u n e r a c io n e s y b e n e f ic io e p r e c ia c ió n y A m o r tiz a c ió n u lta s r o v is io n e s e r v ic io s b á s ic o s r r ie n d o s e r v ic io s P r o f e s io n a le s o n tr ib u c io n e s lm a c e n a je d e d o c u m e n to s a te n te s tr o s G a s to s d e a d m in is tr a c o t a l g a s t o s d e a d m in is t s a ió n r a c
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> l p
-> ió
-> e
-> n
-> $$
-r s o n a l
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> S/M a ld
-> MM
-> o/A$ aA l
-> $$
+(Corresponde al saldo presentado en la cuenta 4.12.00.00 del estado resultados integrales) RDMPSASCAPOT C o n c e p t o e m u n e r a c io n e s y b e n e f ic io e p r e c ia c ió n y A m o r tiz a c ió n u lta s r o v is io n e s e r v ic io s b á s ic o s r r ie n d o s e r v ic io s P r o f e s io n a le s o n tr ib u c io n e s lm a c e n a je d e d o c u m e n to s a te n te s tr o s G a s to s d e a d m in is tr a c o t a l g a s t o s d e a d m in is t s a ió n r a c l p ió e n r s o n a l D D S/M a ld MM o/A$ aA l
 ### A A D D
 S
 /M aM ld o
@@ -2734,34 +1922,11 @@ a l
 (Corresponde al saldo presentado en la cuenta 4.13.04.00 del estado de resultados integrales) Se deberá presentar el saldo al cierre de los estados financieros de acuerdo al siguiente cuadro:
 In te re A c c io A rre n O tro s O tro s
 ### T O T A
-s e s n e s d a m
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> in s
-> (* )
-> L
-> p ré
-> p re
-> ie n
-> $$
-tru m C o n c e p s ta m o s b a n c a fe re n te s to s fin a n c ie ro s e n to s fin a n c ie
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> to
-> rio
-> ro
-> s
-> s
-> D D
-> S a
-> /M
-> ldM
-> M
-> o a
-> /A A
-> $$
+s e s n e s d a m in s
+### (* ) L
+p ré p re ie n tru m C o n c e p s ta m o s b a n c a fe re n te s to s fin a n c ie ro s e n to s fin a n c ie to rio ro s s D D S a
+/M ldM M o a
+/A A
 $ l
 ### A A D D
 S/M aM ld o
@@ -2777,79 +1942,17 @@ re s u lta d o s :
 P é rd id a s e n v a lo r ra z o n a b le G a n a n c ia s e n v a lo r ra z o n a b le C o n tra to s a p la z o d e m o n e d a e x tra n je ra :
 M a n te n id o s p a ra n e g o c ia r G a n a n c ia s / (p é rd id a s ) n e ta s e n m o n e d a e x tra n P a rte n o e fe c tiv a d e c o b e rtu ra s d e v a lo r ra z o n a P a rte n o e fe c tiv a d e c o b e rtu ra s d e flu jo s d e e fe S u b v e n c io n e s
 ### T O T A L
-je ra b le c tiv o
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> D D
-> S a
-> /M
-> ldM
-> M
-> o a
-> /A A
-> $$
+je ra b le c tiv o D D S a
+/M ldM M o a
+/A A
 $ l
 ### A A D D
 S/M aM ld o
 ### /A M $
 a l
 ### A A A -1 NOTA 32 - OTROS INGRESOS Y GASTOS OPERATIVOS
-(Corresponde al saldo presentado en la cuenta 4.13.01.00 del estado de resultados integrales) Se deberán detallar en el siguiente cuadro los otros ingresos obtenidos durante el ejercicio DD/MM/AAAA y
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> DD/MM/AAAA-1:
-> OOOSOOOST tro s In g re s o s 1
-> tro s In g re s o s 2
-> $$
-tro s In g re s o s N u b to ta l In g r e tro s E g re s o s 1 tro s E g re s o s 2 tro s E g re s o s N u b to ta l E g r e s o ta l N e to In g r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> s
-> oe
-> o
-> ss
-> s O
-> O
-> o s
-> p e
-> $$
-p e r
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> y E
-> r
-> ag
-> $$
-a tiv tiv o r e s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> o
-> so
-> s
-> $$
-s O p
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> e
-> o
-> r a
-> n c
-> tiv
-> e
-> o
-> p
-> s
-> to
-> D D
-> $$
-S/M a ldMM o/A$ aA l
+(Corresponde al saldo presentado en la cuenta 4.13.01.00 del estado de resultados integrales) Se deberán detallar en el siguiente cuadro los otros ingresos obtenidos durante el ejercicio DD/MM/AAAA y DD/MM/AAAA-1:
+OOOSOOOST tro s In g re s o s 1 tro s In g re s o s 2 tro s In g re s o s N u b to ta l In g r e tro s E g re s o s 1 tro s E g re s o s 2 tro s E g re s o s N u b to ta l E g r e s o ta l N e to In g r s oe o ss s O O o s p e p e r y E r ag a tiv tiv o r e s o so s s O p C e o r a n c tiv e o p s to D D S/M a ldMM o/A$ aA l
 ### A A D D
 S
 /M aM ld o
@@ -2860,27 +1963,10 @@ a l
 
 In te re A c c io A rre n O tro s O tro s
 ### T O T A
-s e s n e s d a m
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> in s
-> *
-> L
-> $$
-g a n a p re fe ie n to tru m e C o n c e p d o s re n te s s fin a n c ie ro s n to s fin a n c ie
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> to
-> ro s
-> D D
-> S a
-> /M
-> ldM
-> M
-> oA
-> $$
+s e s n e s d a m in s
+*
+L g a n a p re fe ie n to tru m e C o n c e p d o s re n te s s fin a n c ie ro s n to s fin a n c ie to ro s D D S a
+/M ldM M oA
 $ aA l
 ### A A D D
 S/M a ld o M A M $ a l
@@ -3006,19 +2092,7 @@ Co m isio n es (M $) R elacio n ad as las q u e in term ed ió en
 7 .2 0 .3 0 .0 0
 Co m isio n es (M $) n o R elacio n ad as el añ o q u e in fo rm a.
 7 G u a rd a
-.2 0 .4 0 .0 0 P rem io s (M $) R elacio n ad as G u a rd a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> r y
-> r y
-> c
-> c
-> o
-> o
-> P ágin a 5 d e 7
-> $$
-n tin u a r
+.2 0 .4 0 .0 0 P rem io s (M $) R elacio n ad as G u a rd a r y r y c c o o P ágin a 5 d e 7 n tin u a r
 7 .2 0 .5 0 .0 0
 P rem io s (M $) n relacio n ad as P ágin a 5 d e 7 n tin u a r o
 

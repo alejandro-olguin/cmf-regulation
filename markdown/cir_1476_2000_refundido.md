@@ -18,19 +18,16 @@ manera que:
 a) Fórmula para su generación:
 i) La compañía que desee aplicar en sus sistemas la tabla anualizada, deberá ajustarse a la
 siguiente ecuación:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ( cx⋅(c−1))
-> p = s⋅ g
-> x
-> $$
+$$
+p_x = s \cdot g^{c^x \cdot (c-1)}
+$$
 donde:
 x = edad expresada en años Las tablas anuales M-95 Hombres y M-95 Mujeres se adjuntan a este anexo.
 ii) La compañía que desee aplicar en sus sistemas la tabla mensualizada, deberá ajustarse a la
 siguiente ecuación para una probabilidad mensual:
-( ( ))
-p = st ⋅ g cxt⋅ct−1 x
+$$
+p_x = s^t \cdot g^{c^{xt} \cdot (c^t-1)}
+$$
 donde:
 t = 1/12, la fracción de año
 x = edad expresada en meses

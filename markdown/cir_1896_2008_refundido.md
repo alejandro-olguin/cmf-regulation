@@ -51,68 +51,31 @@ Se autorizará el reenvío cuando lo requiera esta Comisión o cuando la compañ
 La solicitud de reenvío deberá hacerla el usuario habilitado en la Comisión para el envío de la información. Para ello, se remitirá un correo electrónico a la casilla rgpre_reenvio@svs.cl, con el siguiente formato:
 3
 ### CRPNT OUEOE M P
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> TR
-> IO
-> M B
-> $$
+TR IO
+M B
 L E F
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S
-> A
-> DRO
-> O
-> Ñ
-> OEN
-> A
-> L IC
-> ÍA
-> IN F
-> $$
+### S A DRO O Ñ OEN
+A
+L IC
+ÍA
+IN F
 U S U
 O
 R C H
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> IT
-> OA
-> IV
-> U
-> RR
-> O
-> D R
-> $$
+IT OA
+## IV U
+RR O
+D R
 M A C
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> IO
-> E
-> IO
-> E N
-> N
-> V
-> $$
+IO E
+### IO E N
+N V
 :::::
 ### IO D E IN F
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> M
-> O
-> O
-> R
-> T
-> M
-> IV
-> A
-> O
-> $$
+M O O
+R T M
+## IV A
+O
 ### C IO N
 Cuando la Comisión autorice un reenvío se lo comunicará a la compañía, por mail, al mismo usuario que efectuó el envío a esta Comisión. La compañía deberá tener habilitado el mail comunicado a la Comisión, con anterioridad al primer envío de información. Una vez recepcionado el correo, la compañía podrá enviar nuevamente la información.
 ## III. VIGENCIA, APLICACION Y DEROGACION.

@@ -424,7 +424,7 @@ Deberá incluirse un resumen de los hechos esenciales o relevantes divulgados po
 Asimismo, deberá incluirse información respecto a aquellos hechos esenciales o relevantes que, aunque hayan ocurrido con anterioridad al período cubierto por la Memoria, hayan tenido durante el ejercicio influencia importante o efecto en el desenvolvimiento de los negocios de la entidad, en sus estados financieros, en sus valores o en la oferta de ellos, o puedan tenerlo en los ejercicios futuros.
 ## 10. Comentarios de accionistas y del comité de directores
 Deberá incluirse una síntesis fiel de los comentarios y proposiciones relativos a la marcha de los negocios sociales, formuladas por accionistas y el Comité de Directores, en su caso, de acuerdo a lo prescrito en el inciso tercero del artículo
-74 de la Ley N18.046. En caso de no existir, deberá señalarlo expresamente.
+74 de la Ley N°18.046. En caso de no existir, deberá señalarlo expresamente.
 ## 11. Informes financieros
 Se deberá señalar que los estados financieros de la entidad están disponibles en el sitio en Internet de la Comisión para el Mercado Financiero y en el de la propia entidad, en caso de tenerlo, indicando las URLs de ambos sitios.
 Además, la entidad podrá incluir sus estados financieros resumidos, junto al de las sociedades señaladas en la letra A.4.2 del número 2.1 de la Sección II de la NCG N°30, si así lo estima conveniente.”

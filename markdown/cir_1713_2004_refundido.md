@@ -313,7 +313,7 @@ Registro tipo 3: CAMBIO DE ESTADO
 |  |  |  |  |  |
 | OTRO_ESTADO |  |  |  | X(80) |
 |  |  | Si CAMBIO_EST = 9, deberá indicarse la razón por la cual el mutuo |  |  |
-|  |  | pasó al estado de no vigente. Si CAMBIO_EST  9 este campo debe |  |  |
+|  |  | pasó al estado de no vigente. Si CAMBIO_EST ≠ 9 este campo debe |  |  |
 |  |  | incluir sólo blancos o espacios. |  |  |
 |  |  |  |  |  |
 |  |  | Debe expresarse en letra mayúscula. |  |  |

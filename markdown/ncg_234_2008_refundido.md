@@ -266,21 +266,8 @@ NORMA DE CARÁCTER GENERAL CMF N° 234
 FECHA : 25.11.2008
 afiliados al sistema sujetos a dicha cotización, independientemente de la prima establecida en los contratos que las Administradoras celebren con cada Compañía de Seguros, en el respectivo proceso de licitación. Esta cotización será determinada por las Administradoras de Fondos de Pensiones y corresponderá al máximo entre las tasas de prima promedio ponderado de ambos grupos.
 ### COMISIÓN PARA EL MERCADO FINANCIERO DE CHILE
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 11
-> C
-> T
-> T
-> o
-> a
-> a
-> t
-> s
-> s
-> $$
-i z a
+11 C
+T T o a a t s s i z a
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
@@ -305,34 +292,41 @@ i z a
 > X
 > Y
 > i o
+> =
+> =
+> n a l =
+> C
+> ∑ X
+> i= 1
+> C
+> ∑i=
+> 1
+> C
+> ∑ Y
+> i
+> i= 1
+> C
+> ∑i=
+> 1
 > $$
-
- n a l  C
- X i 1 C
-i
-1 C
- Y i i 1 C
-i
-1 M a x
- P
+M a x
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> × P
 > i
 > X P
 > i
-> $$
-Y  P
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> Y × P
 > i
 > Y P
 > i
+> (T
+> X
+> i
 > $$
-T X
-i a s a d e p r i m a X , T a s a d e p r i m a Y
- d o n d e
+a s a d e p r i m a X , T a s a d e p r i m a Y
+) d o n d e
 Donde:
 Cotización Adicional: Corresponde a la tasa de prima máxima entre la tasa de prima promedio que se cobraría al grupo de hombres y la que se cobraría al grupo de mujeres.
 Tasa de primaX: Corresponde al promedio de las tasas de primas ofertadas por las Compañías adjudicatarias para el grupo de sexo X.
@@ -404,15 +398,15 @@ datos agregados de afiliados cotizantes, datos individuales de siniestros y esta
 ## 1. Datos de afiliados cotizantes2 :
 Tiempo de exposición: 6 años de historia, con información de cotizantes por remuneraciones devengadas hasta a los menos tres meses antes del llamado a licitación.
 Base de datos de cotizantes que contenga la siguiente información:
- Número de cotizantes Para cada una de las siguientes variables:
- Año
- Mes
- Tipo de afiliado (dependiente – independiente - voluntario)3
- Sexo
- Región4
- Edad
- Ingreso Imponible
- Saldo Cuenta de Capitalización Individual de Cotizaciones Obligatorias5 Según la siguiente descripción de archivo:
+· Número de cotizantes Para cada una de las siguientes variables:
+· Año
+· Mes
+· Tipo de afiliado (dependiente – independiente - voluntario)3
+· Sexo
+· Región4
+· Edad
+· Ingreso Imponible
+· Saldo Cuenta de Capitalización Individual de Cotizaciones Obligatorias5 Según la siguiente descripción de archivo:
 2 Según se define en la sección 2.2.4 de la Circular Nº1536 de la Superintendencia de Pensiones.
 3 Según se define en la sección 2.2.2 de la Circular Nº1536 de la Superintendencia de Pensiones.
 4 Según se define en la sección 2.3.1 de la Circular Nº1536 de la Superintendencia de Pensiones.
@@ -456,42 +450,34 @@ Notas:
 > 11 = mas de 65
 > $$
 (2) Corresponde a los siguientes tramos de remuneración o renta imponible (en UF):
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1 = + 0 – 5
-> 2 = + 5 – 7
-> 3 = + 7 – 10
-> 4 = + 10 – 12
-> 5 = + 12 – 14
-> 6 = + 14 – 17
-> 7 = + 17 – 19
-> 8 = + 19 – 24
-> 9 = + 24 – 29
-> 10 = + 29 – 33
-> 11 = + 33 – 43
-> 12 = + 43 – 52
-> 13 = + 52 – 60
-> $$
+1 = + 0 – 5
+2 = + 5 – 7
+3 = + 7 – 10
+4 = + 10 – 12
+5 = + 12 – 14
+6 = + 14 – 17
+7 = + 17 – 19
+8 = + 19 – 24
+9 = + 24 – 29
+10 = + 29 – 33
+11 = + 33 – 43
+12 = + 43 – 52
+13 = + 52 – 60
 (3) Corresponde a los siguientes tramos de saldo Cuenta de Capitalización Individual de Cotizaciones Obligatorias (en UF):
 ### COMISIÓN PARA EL MERCADO FINANCIERO DE CHILE
 
 NORMA DE CARÁCTER GENERAL CMF N° 234
 ### CIRCULAR SP N° 1570
 FECHA : 25.11.2008
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1 = + 0 – 5
-> 2 = + 5 – 25
-> 3 = + 25 – 50
-> 4 = + 50 – 95
-> 5 = + 95 – 140
-> 6 = + 140 – 190
-> 7 = + 190 – 240
-> 8 = + 240 – 350
-> 9 = + 350 – 480
-> $$
+1 = + 0 – 5
+2 = + 5 – 25
+3 = + 25 – 50
+4 = + 50 – 95
+5 = + 95 – 140
+6 = + 140 – 190
+7 = + 190 – 240
+8 = + 240 – 350
+9 = + 350 – 480
 10 = + 480 – 950
 11 = + 950 – 2.400
 12 = + 2.400 – 4.800
@@ -499,9 +485,9 @@ FECHA : 25.11.2008
 ## 2. Datos de afiliados cubiertos6:
 Tiempo de exposición: Sólo en este caso se considerarán 3 años de historia con fecha de corte de la información a lo menos tres meses antes del llamado a licitación.
 Base de datos de afiliados cubiertos que contenga la siguiente información:
- Número de afiliados cubiertos Para cada una de las siguientes variables:
- Año
- Mes Según la siguiente descripción de archivo:
+· Número de afiliados cubiertos Para cada una de las siguientes variables:
+· Año
+· Mes Según la siguiente descripción de archivo:
 
 | Archivo:cubaaaamm.ext |  |  |  |
 | --- | --- | --- | --- |
@@ -514,8 +500,8 @@ Base de datos de afiliados cubiertos que contenga la siguiente información:
 ## 3. Datos de Siniestros7:
 Período: Fecha de solicitud de pensión últimos 6 años hasta a lo menos tres meses antes del llamado a licitación..
 a) Siniestros de Sobrevivencia8
- Identificador del afiliado9
- Tipo de afiliado (dependiente - independiente - voluntario) 10
+· Identificador del afiliado9
+· Tipo de afiliado (dependiente - independiente - voluntario) 10
 6 Según se define en el artículo 54 del decreto ley Nº 3.500, de 1980.
 7 Incluye todos los siniestros informados a las AFP.
 8 Afiliados cubiertos por el SIS y activos.
@@ -526,20 +512,20 @@ a) Siniestros de Sobrevivencia8
 NORMA DE CARÁCTER GENERAL CMF N° 234
 ### CIRCULAR SP N° 1570
 FECHA : 25.11.2008
- Región
- Pensión de referencia del causante (en UF)
- Fecha de nacimiento causante
- Sexo causante
- Fecha de ocurrencia
- Fecha de solicitud de pensión
- Ingreso base (en UF)
- Capital Necesario (en UF)11
- Saldo Cuenta de Capitalización Individual de Cotizaciones Obligatorias (en UF)12
- Bono de reconocimiento liquidado (en UF)
- Aporte (en UF)
- Tasa de interés aporte (cálculo cnu)
- Fecha de abono aporte
- Estado trámite Según la siguiente descripción de archivo:
+· Región
+· Pensión de referencia del causante (en UF)
+· Fecha de nacimiento causante
+· Sexo causante
+· Fecha de ocurrencia
+· Fecha de solicitud de pensión
+· Ingreso base (en UF)
+· Capital Necesario (en UF)11
+· Saldo Cuenta de Capitalización Individual de Cotizaciones Obligatorias (en UF)12
+· Bono de reconocimiento liquidado (en UF)
+· Aporte (en UF)
+· Tasa de interés aporte (cálculo cnu)
+· Fecha de abono aporte
+· Estado trámite Según la siguiente descripción de archivo:
 
 | Archivo:sisoaaaamm.ext |  |  |  |
 | --- | --- | --- | --- |
@@ -570,29 +556,29 @@ b) Siniestros de Invalidez13
 NORMA DE CARÁCTER GENERAL CMF N° 234
 ### CIRCULAR SP N° 1570
 FECHA : 25.11.2008
- Identificador del afiliado14
- Tipo de afiliado (dependiente - independiente - voluntario) 15
- Región16
- Fecha de nacimiento causante
- Sexo causante
- Fecha de solicitud de pensión
- Tipo de invalidez 1° dictamen (total, parcial, rechazado, sin dictamen)
- Fecha 1° dictamen17
- Ingreso base (en UF)18
- Saldo Cuenta de Capitalización Individual de Cotizaciones Obligatorias 1° dictamen (en UF)19
- Bono de reconocimiento actualizado al 1° dictamen (en UF)
- Pensión mensual transitoria (en UF)
- Tipo de siniestro final (Calificación del único o 2° dictamen -Total, Parcial, Rechazado-, o Sobrevivencia de invalidez)
- Fecha final siniestro (fecha del único o 2° dictamen o fecha de fallecimiento)
- Capital Necesario (capital necesario del único o 2° dictamen o capital necesario de sobrevivencia) (en UF)20
- Saldo Cuenta de capitalización Individual de Cotizaciones Obligatorias final (cuenta individual fecha aporte o cuenta individual de sobrevivencia) (en UF)
- Bono de reconocimiento liquidado al único ó 2° dictamen (en UF)
- Aporte (en UF)
- Tasa aporte
- Fecha de abono del aporte
- Contribuciones (en UF)
- Estado etapa de calificación21
- Monto primera reserva transitoria (en UF) 22 Según la siguiente descripción de archivo:
+· Identificador del afiliado14
+· Tipo de afiliado (dependiente - independiente - voluntario) 15
+· Región16
+· Fecha de nacimiento causante
+· Sexo causante
+· Fecha de solicitud de pensión
+· Tipo de invalidez 1° dictamen (total, parcial, rechazado, sin dictamen)
+· Fecha 1° dictamen17
+· Ingreso base (en UF)18
+· Saldo Cuenta de Capitalización Individual de Cotizaciones Obligatorias 1° dictamen (en UF)19
+· Bono de reconocimiento actualizado al 1° dictamen (en UF)
+· Pensión mensual transitoria (en UF)
+· Tipo de siniestro final (Calificación del único o 2° dictamen -Total, Parcial, Rechazado-, o Sobrevivencia de invalidez)
+· Fecha final siniestro (fecha del único o 2° dictamen o fecha de fallecimiento)
+· Capital Necesario (capital necesario del único o 2° dictamen o capital necesario de sobrevivencia) (en UF)20
+· Saldo Cuenta de capitalización Individual de Cotizaciones Obligatorias final (cuenta individual fecha aporte o cuenta individual de sobrevivencia) (en UF)
+· Bono de reconocimiento liquidado al único ó 2° dictamen (en UF)
+· Aporte (en UF)
+· Tasa aporte
+· Fecha de abono del aporte
+· Contribuciones (en UF)
+· Estado etapa de calificación21
+· Monto primera reserva transitoria (en UF) 22 Según la siguiente descripción de archivo:
 
 | Archivo:siinaaaamm.ext |  |  |  |
 | --- | --- | --- | --- |
@@ -641,18 +627,18 @@ FECHA : 25.11.2008
 | Monto primera reserva transitoria (en UF) | 9(05)V9(02) |  | 23 |
 | Total | X(129) |  |  |
 c) Datos de Beneficiarios
- Identificador del afiliado23
- Grupo familiar del beneficiario (número que identifica al grupo familiar)
- Relación parentesco
- Fecha de nacimiento del beneficiario
- Sexo del beneficiario
+· Identificador del afiliado23
+· Grupo familiar del beneficiario (número que identifica al grupo familiar)
+· Relación parentesco
+· Fecha de nacimiento del beneficiario
+· Sexo del beneficiario
 23 Corresponde al mismo identificador de los datos de siniestros.
 ### COMISIÓN PARA EL MERCADO FINANCIERO DE CHILE
 
 NORMA DE CARÁCTER GENERAL CMF N° 234
 ### CIRCULAR SP N° 1570
 FECHA : 25.11.2008
- Situación de invalidez del beneficiario Según la siguiente descripción de archivo:
+· Situación de invalidez del beneficiario Según la siguiente descripción de archivo:
 
 | Archivo:babeaaaamm.ext |  |  |  |
 | --- | --- | --- | --- |

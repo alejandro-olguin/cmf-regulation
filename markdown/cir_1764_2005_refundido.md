@@ -77,14 +77,8 @@ i
 - Comercio Comercio
 i
 - Corredora de Seguros Corredora
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> i
-> -Otro Otro
-> i
-> $$
-Donde i representa individualmente a cada contratante.
+i
+-Otro Otro i Donde i representa individualmente a cada contratante.
 3. Contraparte - Relación: Se debe Indicar con una R si la contraparte es empresa relacionada de
 la compañía o pertenecen al mismo grupo económico, y con NR, si no hay relación.
 4. Año Vigencia: Se debe indicar el número de años de vigencia del contrato. Este campo indica

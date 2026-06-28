@@ -46,22 +46,22 @@ b. Acreditar la adquisición y existencia de estos instrumentos en el patrimonio
 Empresa Minera, a través del envío al Servicio de copia auténtica del último balance y estados financieros de la respectiva empresa minera, auditados por alguna Empresa de Auditoría Externa inscrita en la SVS, correspondiendo al ejercicio anual que termina el 31 de diciembre del año inmediatamente anterior al de su presentación.
 c. En nota a dichos estados financieros se deberá presentar el detalle de los instrumentos
 que componen la garantía, indicando para cada instrumentos, cuando corresponda:
- Emisor.
- Faena minera a la cual garantiza.
- Capital y su forma de amortización.
- Moneda.
- Fecha de emisión y vencimiento.
+· Emisor.
+· Faena minera a la cual garantiza.
+· Capital y su forma de amortización.
+· Moneda.
+· Fecha de emisión y vencimiento.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 411
 FECHA: 30.08.2016
- Tasa de emisión y monto y periodicidad del pago de cupones.
- Tasa de compra (TIR de compra del instrumento).
- Tasa de mercado correspondiente a la fecha del estado financiero.
- La tasa de mercado, en el caso de instrumentos extranjeros, que se deberá informar es la tasa proveniente de la última observada del instrumento en el mercado donde se adquirió, obtenida en virtud de medios de información de reconocido prestigio.
- Para el caso de instrumentos extranjeros, adicionalmente se deberá informar el código internacional de identificación (ISIN).
- Valor del instrumento calculado a tasa de compra y calculado a tasa de mercado.
- Clasificación de riesgo del instrumento a esa fecha, sea clasificación nacional o internacional, según corresponda al origen del instrumento.
+· Tasa de emisión y monto y periodicidad del pago de cupones.
+· Tasa de compra (TIR de compra del instrumento).
+· Tasa de mercado correspondiente a la fecha del estado financiero.
+· La tasa de mercado, en el caso de instrumentos extranjeros, que se deberá informar es la tasa proveniente de la última observada del instrumento en el mercado donde se adquirió, obtenida en virtud de medios de información de reconocido prestigio.
+· Para el caso de instrumentos extranjeros, adicionalmente se deberá informar el código internacional de identificación (ISIN).
+· Valor del instrumento calculado a tasa de compra y calculado a tasa de mercado.
+· Clasificación de riesgo del instrumento a esa fecha, sea clasificación nacional o internacional, según corresponda al origen del instrumento.
 Requisitos de los instrumentos A.3.- Los instrumentos descritos como a.3 en el artículo 52 de la Ley y en el artículo 103 de su Reglamento, deben ser puestos a disposición del Servicio, debidamente endosados en garantía o entregados en otras forma de caución que permita al Servicio su real ejecución y liquidación.
 En la categoría A.3, no serán considerados idóneos y/o suficientes aquellos instrumentos emitidos, adeudados o garantizados por la empresa minera que rinde la caución o sus entidades relacionadas, de acuerdo a la Ley N° 18.045, a excepción de lo descrito textualmente en la categoría A.3 del artículo 52 de la Ley N° 20.551, referente a la fianza solidaria del socio controlador de la empresa minera.
 ## II. SUFICIENCIA DE LA GARANTÍA

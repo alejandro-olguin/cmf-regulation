@@ -56,38 +56,20 @@ Compañía:
 Rut:
 Período:
 N °
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1
-> 2.
-> ...
-> ...n
-> $$
-GR raie ns dg eo ss A s e Rg Uu T ra d o P ó liz a Id e n tific R ie a c ió s g o n d e l CD O S IRA
+1
+2.
+...
+...n GR raie ns dg eo ss A s e Rg Uu T ra d o P ó liz a Id e n tific R ie a c ió s g o n d e l CD O S IRA
 T O S
 ### . U L T
 Ñ O S
-M $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> IN.
-> 3
-> .
-> D
-> $$
+### M $ IN.
+3
+.
+D
 ### C O S T O S IN .
 ### IR E C T O
-p i M $
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S
-> SD
-> C o
-> $$
-in ie ire cM s to s tro s to s p i
+p i M $ S SD C o in ie ire cM s to s tro s to s p i
 $ C o s to S in ie s tro s D ire c to s d ic i-1 M $ C o s to S in ie s tro s D ire c to s p i-1 M $ D
 ### C O S T O S IN .
 ### IR E C T O

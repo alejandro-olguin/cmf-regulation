@@ -459,14 +459,7 @@ NORMA DE CARÁCTER GENERAL SVS N° 330
 FECHA: 21.03.2012
 Fecha de ocurrencia del siniestro (año, N ° de m es) siniestros m es 1, año 1 m es 2, año 1
 … .
-N ° d e sin ie stro s n o tificad o s Fe ch a d e o cu rre n cia d e l sin ie stro (añ o ,
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> m e s) 1
-> m e s 1, añ o 1
-> m e s 2, añ o 1
-> $$
+N ° d e sin ie stro s n o tificad o s Fe ch a d e o cu rre n cia d e l sin ie stro (añ o , m e s) 1 m e s 1, añ o 1 m e s 2, añ o 1
 … .
 To tal sin ie stro s Siniestros Pagados Capital M onto A segurado Plazo del Saldo Indem nizado Inicial U F Crédito Insoluto U F U F D e m o ra e n m e se
 2 3 4

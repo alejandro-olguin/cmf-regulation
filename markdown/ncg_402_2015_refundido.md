@@ -57,58 +57,20 @@ Anexo N°2:
 Cálculo del Patrimonio Neto Consolidado del Controlador.
 Nombre del controlador :
 Controlador de la compañía :
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> C
-> P
-> (
-> (
-> $$
-á lc u lo d e l P a t r im o n io N e t o
+C P
+(
+( á lc u lo d e l P a t r im o n io N e t o
 ( 1 ) A c t iv o s T o t a le s d e l C o
 ( 2 ) P a s iv o s T o t a le s d e l C o a t r im o n io N e t o C o n s o lid a d
 * ) E n e l c a s o d e p e r s o n a s ju
 * * ) D e b e in c lu ir s e e l in t e r é
-C o n s o lid a d o d n t r o l a d o r n t r o l a d o r ( * * ) o d e l C o n t r o la r íd ic a s , lo s v a lo s m in o r it a r io , e
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> e
-> d
-> r
-> n
-> $$
-l C o o r ( ( e s d c a s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n
-> 1
-> e
-> o
-> $$
-t r o la d
-) - ( 2 ) ) b e n s e d e e x
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> o
-> r
-> is
-> $$
-r ( P N s o b t ir .
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> r
-> C
-> e
-> ) ( *
-> b a
-> )
-> $$
-s e c o n s o l id a d a M
+C o n s o lid a d o d n t r o l a d o r n t r o l a d o r ( * * ) o d e l C o n t r o la r íd ic a s , lo s v a lo s m in o r it a r io , e e d r n l C o o r ( ( e s d c a s n
+1 e
+o t r o la d
+) - ( 2 ) ) b e n s e d e e x o r is r ( P N s o b t ir .
+r C e
+) ( * b a
+) s e c o n s o l id a d a M
 .
 M $
 

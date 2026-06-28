@@ -280,13 +280,9 @@ qx Brutos
 |  |  |  |
 |  |  |  |
 
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 0
-> 0 3 6 9 2 5 8 1 4 7 0 3 6 9 2 5 8
-> 5 5 5 5 6 6 6 7 7 7 8 8 8 8 9 9 9
-> $$
+0
+0 3 6 9 2 5 8 1 4 7 0 3 6 9 2 5 8
+5 5 5 5 6 6 6 7 7 7 8 8 8 8 9 9 9
 qx Brutos Mujeres qx Brutos Hombres Se puede observar a simple vista que la volatilidad es pequeña en los datos.
 ## IV. TÉCNICA DE AJUSTE.
 a. Método de Ajuste Whittaker Henderson Tipo B

@@ -403,19 +403,11 @@ ___,___ o superiores a éstas, a que se refieren los incisos segundo y tercero d
 (7) “El fondo podrá invertir en instrumentos de los señalados en el primer párrafo, de emisores extranjeros, aún cuando no hubieren sido sometidos a clasificación de riesgo”.
 Los espacios en blanco se deberán completar con alguna de las siguientes clasificaciones, según corresponda:
 Primer espacio Segundo espacio
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> AAA N-1
-> AA N-2
-> A N-3
-> BBB N-4
-> BB N-5
-> B
-> C
-> D
-> E
-> $$
+### AAA N-1 AA N-2
+A N-3
+### BBB N-4 BB N-5
+B C D
+E
 d) Cuarto párrafo: en este párrafo podrá estipularse libremente alguna otra condición
 especial que quiera establecer la sociedad administradora respecto de las inversiones que podrá efectuar el fondo, como por ejemplo, en cuanto a características particulares de los emisores de los valores.
 Asimismo, se deberán indicar las monedas en las cuales la sociedad administradora efectuará las inversiones por cuenta del fondo mutuo y el porcentaje máximo del activo que el fondo podrá mantener en cada moneda. El numerador de dicho cálculo deberá incluir tanto el disponible como las inversiones expresadas en esa moneda; tratándose del disponible, la sociedad deberá señalar las razones por las cuales lo mantendrá. Esto, en conformidad con lo dispuesto en la Circular N° 1.400 o aquella que la reemplace.

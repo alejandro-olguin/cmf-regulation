@@ -15,7 +15,7 @@ Los intermediarios de deberán remitir información diaria sobre sus operaciones
 1.1.1. Fecha: Corresponde a la fecha en que se ha efectuado la operación, registrándose con una
 cifra de ocho números, donde los cuatro primeros corresponderán al año, los dos siguientes al mes, y los dos últimos al día. Así por ejemplo, el 1 de diciembre de 1992, deberá registrarse
 19921201.
-(1) Párrafos reemplazados por Circular N1.972, de 2010.
+(1) Párrafos reemplazados por Circular N°1.972, de 2010.
 (3) Párrafos modificados por la Norma de Carácter General N°515, de 2024.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
@@ -28,7 +28,7 @@ de esta circular, cuando se haga referencia a las operaciones en rueda, se enten
 R : Cuando se trate de operaciones transadas en rueda.
 F : Cuando se trate de operaciones transadas fuera de rueda.
 X : Cuando se trate de una operación en la que un intermediario de valores de una orden a un corredor de bolsa para que efectúe dicha transacción en rueda por él.
-Cabe señalar que sólo corresponderá informar el código definido como X, cuando las transacciones allí descritas correspondan a inversiones del capital propio del intermediario de valores. Asimismo, las operaciones que algún Agente de Valores realice al amparo de la Circular N 445 de 1984, sólo deberán ser informadas por el Corredor de Bolsa que realice dichas transacciones en rueda, y al que le corresponderá facturarlas.(1)
+Cabe señalar que sólo corresponderá informar el código definido como X, cuando las transacciones allí descritas correspondan a inversiones del capital propio del intermediario de valores. Asimismo, las operaciones que algún Agente de Valores realice al amparo de la Circular N° 445 de 1984, sólo deberán ser informadas por el Corredor de Bolsa que realice dichas transacciones en rueda, y al que le corresponderá facturarlas.(1)
 1.1.4. Número de bolsa: Corresponde al número asignado a cada bolsa donde opere el corredor
 Se deberá anotar uno de los siguientes códigos:
 01: Bolsa de Comercio de Santiago, Bolsa de Valores.
@@ -39,8 +39,8 @@ Se deberá anotar uno de los siguientes códigos:
 cual deberá llevar un orden en el tiempo. A continuación se señalan los folios que se deberán asignar por cada bolsa a dichas operaciones:
 - Bolsa de Comercio de Santiago, Bolsa de Valores: Del 0500000 al 0599999.
 - Bolsa de Corredores, Bolsa de Valores: Del 0600000 al 0699999.
-(1) Párrafo agregado por Circular N 1.089, de 1992.
-(2) Código modificado por Circular N 1.089, de 1992.
+(1) Párrafo agregado por Circular N° 1.089, de 1992.
+(2) Código modificado por Circular N° 1.089, de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 - Bolsa Electrónica de Chile, Bolsa de Valores: Del 0700000 al 0799999.
@@ -59,7 +59,7 @@ de Informaciones de esta Superintendencia se encuentra disponible un listado de 
 1.1.9. Número de orden: Corresponde a los últimos cuatro dígitos del número de orden o
 comprobante en que consta la operación que se informa. Esta información sólo deberá entregarse cuando se trate de operaciones fuera de rueda. Este campo deberá ser informado con la cifra alineada a la derecha y rellena de ceros a la izquierda. Por ejemplo si el número de comprobante es 18, se debe informar 0018. En caso de que se trate de operaciones distintas a las mencionadas, este campo deberá llenarse con el código XXXX.
 (1) Subnumeral y código modificados por Circular Nº 1.097, de 1992.
-(2) Subnumeral modificado por Circular N 1.089, de 1992
+(2) Subnumeral modificado por Circular N° 1.089, de 1992
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 1.2. Identificación y características del instrumento
@@ -82,7 +82,7 @@ entrega su último pago. Se deberá registrar esta fecha anotando en los cuatro 
 1.3. Características de la operación
 1.3.1. Tipo de operación: Corresponde al código que permite identificar la operación. Para ello se
 deberá utilizar un código de siete caracteres, el que a continuación se define:
-- Los dos primeros caracteres (1 y 2) definen la operación y pueden ser:
+- Los dos primeros caracteres (1° y 2°) definen la operación y pueden ser:
 CO : Corresponde a la compra simple de un instrumento. Cabe señalar, que tratándose de operaciones en rueda, este código deberá utilizarse independientemente se trate de una operación por cuenta propia o de una operación por cuenta de un tercero; en casode tratarse de operaciones fuera de rueda deberá utilizarse el código IT para las operaciones por cuenta de terceros.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
@@ -94,10 +94,10 @@ Deberá utilizarse este código tanto cuando se trate de la operación a contado
 VS : Corresponde a la venta asociada a una operación simultánea de acciones.
 Deberá utilizarse este código tanto cuando se trate de la operación a contado como a plazo.
 IT : Corresponde a la intermediación de un instrumento. Cabe señalar que este código sólo deberá utilizarse cuando se trate de operaciones por cuenta de terceros, efectuadas fuera de rueda.
-(1) Definiciones de códigos modificadas por Circular N 1.089 de 1992.
+(1) Definiciones de códigos modificadas por Circular N° 1.089 de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-- Los dos caracteres siguientes (3 y 4) corresponden al tipo de instrumento
+- Los dos caracteres siguientes (3° y 4°) corresponden al tipo de instrumento
 transado, y pueden ser:
 AC : Corresponde a acciones.
 DS : Corresponde a derechos preferentes de suscripción.
@@ -109,22 +109,22 @@ DO : Corresponde a dólar.
 MO : Corresponde a otras monedas extranjeras distintas de dólar.
 FU : Corresponde a contratos de futuro.
 OT : Cuando no corresponde a ninguno de los valores considerados en los códigos anteriores.
-- Los dos caracteres siguientes (5 y 6) se refieren a otras características que definen
+- Los dos caracteres siguientes (5° y 6°) se refieren a otras características que definen
 la operación, y pueden ser:
-CM : Cuando la operación corresponde a un compromiso de compra o a un compromiso de venta. Cabe señalar que cuando se trate de este tipo de operaciones, se deberá informar la operación inicial en que las partes acuerdan el compromiso a futuro, anotando los códigos CP o VP, en los caracteres 1 y 2, según correspondan. En caso que la operación sea liquidada antes de la fecha acordada por las partes en su inicio, deberá informarse esta liquidación, utilizando los códigos CF o VF, en los caracteres
-1 y 2, según correspondan.
+CM : Cuando la operación corresponde a un compromiso de compra o a un compromiso de venta. Cabe señalar que cuando se trate de este tipo de operaciones, se deberá informar la operación inicial en que las partes acuerdan el compromiso a futuro, anotando los códigos CP o VP, en los caracteres 1° y 2°, según correspondan. En caso que la operación sea liquidada antes de la fecha acordada por las partes en su inicio, deberá informarse esta liquidación, utilizando los códigos CF o VF, en los caracteres
+1° y 2°, según correspondan.
 PA : Cuando la operación corresponde a operaciones de pacto, ya sea a una compra con compromiso de retroventa o a una venta con compromiso de retrocompra. Se deberá utilizar este código tanto cuando se informe la operación inicial como la operación final o materialización del pacto.
 Cabe señalar que, cuando se informe la operación inicial, corresponderá utilizar en los dos primeros caracteres, el código CI o VI, y cuando se informe la operación final, el código VF o CF, ya sea que se trate de una compra con compromiso de retroventa o una venta con compromiso de retrocompra, respectivamente.(1) PL : Cuando la operación corresponde a una operación a plazo de acciones.
-Cabe señalar que cuando se trate de este tipo de operaciones, se deberá informar esta operación al inicio, anotando los códigos CP o VP, en los caracteres 1 y 2, según correspondan. En caso que la operación sea liquidada antes de la fecha acordada por las partes en su inicio, deberá informarse esta liquidación, utilizando los códigos CF o VF, en los caracteres
-1 y 2, según correspondan. Asimismo, tratándose de operaciones simultáneas, sólo deberá utilizarse este código, cuando se informe la operación a plazo de la misma.
-(1) Párrafo agregado por Circular N 1.089, de 1992.
+Cabe señalar que cuando se trate de este tipo de operaciones, se deberá informar esta operación al inicio, anotando los códigos CP o VP, en los caracteres 1° y 2°, según correspondan. En caso que la operación sea liquidada antes de la fecha acordada por las partes en su inicio, deberá informarse esta liquidación, utilizando los códigos CF o VF, en los caracteres
+1° y 2°, según correspondan. Asimismo, tratándose de operaciones simultáneas, sólo deberá utilizarse este código, cuando se informe la operación a plazo de la misma.
+(1) Párrafo agregado por Circular N° 1.089, de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 AP : Cuando tratándose de un contrato de futuros, la operación produzca un aumento de sus posiciones abiertas, ya sea que el corredor opere por cuenta propia, o por cuenta de un tercero. Cabe señalar que cuando en una misma operación se efectúe una apertura de posiciones y a la vez un cierre de posiciones, esta operación deberá informarse en registros separados, e identificarse con un mismo número de folio, pero un número de secuencia distinto.
 CI : Cuando tratándose de un contrato de futuros, la operación produzca el cierre de posiciones abiertas, ya sea que el corredor opere por cuenta propia, o por cuenta de un tercero. Cabe señalar que cuando en una misma operación se efectúe una apertura de posiciones y a la vez un cierre de posiciones, esta operación deberá informarse en registros separados, e identificarse con un mismo número de folio, pero un número de secuencia distinto.
 NO : Cuando no corresponde a ninguna de las alternativas antes señaladas, y se trate de la compra o venta simple o intermediación de algún instrumento.
 Asimismo, tratándose de operaciones simultáneas, sólo deberá utilizarse este código, cuando se informe la operación a contado de la misma.
-- Finalmente el último carácter (7) señala si se refiere a una operación por cuenta
+- Finalmente el último carácter (7°) señala si se refiere a una operación por cuenta
 propia o por cuenta de terceros, debiendo considerar uno de los siguientes códigos:
 P : Cuando se trata de una operación por cuenta propia.
 T : Cuando se trata de un operación por cuenta de terceros.
@@ -137,7 +137,7 @@ CN : Contado normal.
 PH : Pagadero hoy.
 PM : Pagadero mañana.
 TP : Transacción a plazo.
-(1) Expresión agregada por Circular N 1.089, de 1992.
+(1) Expresión agregada por Circular N° 1.089, de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Este campo sólo deberá ser llenado con los códigos señalados cuando se trate de una operación en rueda; sin embargo, cuando se trate de la materialización anticipada de una operación de compromiso puro, de venta con compromiso de retrocompra o compra con compromiso de retroventa, de operaciones a plazo, o de contratos a futuros, o de cualquiera que se transe en el futuro en el mercado, que reúna las características de las operaciones señaladas, deberá utilizarse el código LA. Cuando la operación no corresponda a ninguna de las señaladas, se deberá llenar este campo con el código XX.(1)
@@ -170,7 +170,7 @@ El número de unidades transadas deberá estar referido al valor de emisión del
 Tratándose de acciones, operaciones a plazo en acciones, derechos preferentes de suscripción de acciones, dólar, otras monedas distintas a dólar, oro, cuotas de fondos de inversión, contratos a futuros, deberá colocarse el número de unidades transadas de éstos.
 En el caso de transacciones a plazo de acciones, se deberá colocar el número de acciones prometidas en la operación. En el caso de contratos a futuros, deberá colocarse el número total de unidades transadas en la operación, expresado en el tipo de unidades definidas para tales efectos en los manuales correspondientes.
 1.3.7. Tipo de unidades transadas: Corresponde al tipo de unidades en que se expresa el número
-de unidades nominales transadas del instrumento. Para informar este campo deberán utilizarse los códigos que se señalan en el Anexo N 2.
+de unidades nominales transadas del instrumento. Para informar este campo deberán utilizarse los códigos que se señalan en el Anexo N° 2.
 1.3.8. Tipo de dólar: Corresponde al tipo de dólar en que se expresa el instrumento, pudiendo
 tomar uno de los siguientes códigos:
 PROM : Promedio.
@@ -195,12 +195,12 @@ Tratándose de instrumentos distintos a los mencionados, se deberá llenar este 
 caso, al valor de transacción. Este monto, deberá expresarse en pesos chilenos, o en la moneda extranjera que corresponda cuando dicho pago se acuerde en una moneda extranjera distinta de pesos, con cuatro decimales, sin considerar comisiones e impuestos.
 Cabe señalar que cuando se trate de operaciones cuyo pago y materialización sea acordado a una fecha futura, deberá indicarse el monto total a pagar, expresado en la unidad de reajuste que las partes acuerden, cuando dicha unidad de reajuste no tenga un valor conocido a la fecha en que se informe.
 1.3.12. Unidad de reajuste del total transado: Corresponde a la unidad de reajuste o moneda en
-que se encuentra expresado o se haya pagado el total transado. Este campo deberá informarse con los códigos indicados en el anexo N 2, de la presente circular.
+que se encuentra expresado o se haya pagado el total transado. Este campo deberá informarse con los códigos indicados en el anexo N° 2, de la presente circular.
 1.3.13. Porcentaje valor par: Corresponde al porcentaje que se determina de la relación entre el
 precio pagado por el instrumento y su valor par, el que deberá registrarse con dos decimales.
 Cabe señalar, que este porcentaje sólo deberá calcularse cuando el valor transado corresponda a un instrumento de renta fija; en caso contrario se deberá anotar en este campo la cifra 000.00.
-(1) Subnumeral modificado por Circular N 1.089, de 1992.
-(2) Párrafos modificados por Circular N 1.089, de 1992.
+(1) Subnumeral modificado por Circular N° 1.089, de 1992.
+(2) Párrafos modificados por Circular N° 1.089, de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Sin perjuicio de lo expuesto, este precio no deberá ser informado, cuando se trate de la retrocompra o la retroventa de una operación de pacto, o de la materialización anticipada de una operación de compromiso puro, debiendo anotarse en su lugar la cifra 000.00.(1)
@@ -224,7 +224,7 @@ MO : Otras monedas extranjeras distintas a dólar.
 ** : Otra unidad de reajuste.
 En caso que el tipo de operación no corresponda a un pacto, se deberá anotar el código XX.
 1.5. Observaciones y Modificaciones
-(1) Párrafos modificados por Circular N 1.089, de 1992.
+(1) Párrafos modificados por Circular N° 1.089, de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 1.5.1. Observaciones: Corresponde a observaciones realizadas a la operación informada. Estos
@@ -271,7 +271,7 @@ En las cuatro primeras posiciones deberá anotar el día y mes de la operación 
 1992, desea modificar una transacción que efectuó el día 2 de Junio de 1992, el número de folio modificación que corresponderá asignarle, será el 020633300001.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-El objetivo de este número de folio es poder identificar los ingresos que se encuentren asociados a un egreso, por lo que tanto el ingreso como el egreso de una determinada modificación deberán tener un mismo y único N de folio que los asocie con una misma modificación. Cuando no corresponda a una modificación o anulación, este N de folio deberá completarse con ceros.
+El objetivo de este número de folio es poder identificar los ingresos que se encuentren asociados a un egreso, por lo que tanto el ingreso como el egreso de una determinada modificación deberán tener un mismo y único N° de folio que los asocie con una misma modificación. Cuando no corresponda a una modificación o anulación, este N° de folio deberá completarse con ceros.
 ## 2. Forma de informar las operaciones:
 2.1. Normas generales
 Cuando en una operación, cualquiera sea su naturaleza, intervengan dos intermediarios como contrapartes de la misma, ya sean agentes de valores o corredores de bolsa, ambos intermediarios deberán informar la operación, tanto el intermediario que actuó como vendedor de la operación, como el intermediario que actuó como comprador de la misma, señalándose en el campo observaciones la posición compradora con el código que corresponda.
@@ -298,21 +298,22 @@ entendiéndose que dadas las características de la operación, ésta se informa
 deberá presentar en registros distintos, bajo un mismo folio pero con diferente número de secuencia, la operación de compra y la operación de venta implícita en la transacción. Por tanto, en una operación de este tipo deberán presentarse, a lo menos, dos secuencias, diferenciándose ambas por la identificación del tipo de operación, esto es una de compra y una de venta.(2)
 ## 3. Operaciones fuera de rueda, instrucciones específicas
 Cuando un corredor opere en más de una bolsa e informe sus operaciones a través de ellas, podrá informar sus operaciones fuera de rueda a través de sólo una de las bolsas en las que opere, debiendo comunicar esta decisión a esta Superintendencia y a las bolsas correspondientes, en forma escrita y con al menos 5 días hábiles de anticipación a la entrada en vigencia de esta circular. En adelante el corredor deberá informar siempre por medio de la bolsa que se determinó para estos efectos. Sin perjuicio de lo anterior, cualquier cambio que pudiera producirse posteriormente en el sentido de que el corredor decida cambiar la bolsa a través de la cual informa, deberá ser comunicado con cinco días hábiles de anticipación a esta Superintendencia y a las bolsas respectivas.
-(1) Subnumeral agregado por Circular N 1.089, de 1992.
+(1) Subnumeral agregado por Circular N° 1.089, de 1992.
 (2) Subnumeral agregado por Circular Nº 1.097, de 1992, y reemplazado por Circular Nº 1.102 de
 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## II. DEROGACION
-Se deroga, a partir de la fecha de vigencia de la presente circular, la Circular N 561 de 1985, así como las normas que la complementan, éstas son el oficio circular N 86 de 1986, y circulares N
-755 de 1987 y N 828 de 1988.
+Se deroga, a partir de la fecha de vigencia de la presente circular, la Circular N° 561 de 1985, así como las normas que la complementan, éstas son el oficio circular N° 86 de 1986, y circulares N°
+755 de 1987 y N° 828 de 1988.
 ## III. VIGENCIA
 La presente circular entrará en vigencia el 02 de Enero de 1993.(3)
-(1) Vigencia modificada por Circulares N 1.076, Nº 1.089 y Nº 1.097, todas de 1992.
+(1) Vigencia modificada por Circulares N° 1.076, Nº 1.089 y Nº 1.097, todas de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS ANEXO N 1 DESCRIPCION TECNICA PARA INFORMAR LAS TRANSACCIONES DIARIAS DE LOS INTERMEDIARIOS DE VALORES(1)
+
+## ANEXO N° 1 DESCRIPCION TECNICA PARA INFORMAR LAS TRANSACCIONES DIARIAS DE LOS INTERMEDIARIOS DE VALORES(1)
 #### A. Características del archivo en diskette(2)
-La información deberá grabarse en un archivo único, consecutivo o secuencial de tipo texto. Con registros de largo fijo cuyo formato, contenido y orden deberá adaptarse a las especificaciones detalladas en el Anexo N 1, letra C. Estructura de registro.
+La información deberá grabarse en un archivo único, consecutivo o secuencial de tipo texto. Con registros de largo fijo cuyo formato, contenido y orden deberá adaptarse a las especificaciones detalladas en el Anexo N° 1, letra C. Estructura de registro.
 #### B. Nombre del archivo(2)
 El nombre del archivo deberá ser codificado de la siguiente forma:
 "TIaammdd.txt", donde:
@@ -331,7 +332,7 @@ F: FUERA DE RUEDA.
 X: OPERACION ORDENADA A OTRO INTERMEDIARIO.
 (1) Título reemplazado por Circular N° 1972, de 2010.
 (2) Letras reemplazadas por Circular N° 1.972, de 2010
-(3) Letra modificada por Circular N 1.089 de 1992.
+(3) Letra modificada por Circular N° 1.089 de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS 4. NUMBOLSA NUMERO ASIGNADO A CADA BOLSA 9(2)
 01:BOLSA DE COMERCIO DE SANTIAGO, BOLSA DE VALORES.
@@ -359,7 +360,7 @@ S.V.S.
 ## 10. NEMOTECNICO IDENTIFICACION DEL INSTRUMENTO X(20) 11. FECHVEN FECHA DE VENCIMIENTO DEL INSTRUMENTO, 9(8) DE LA FORMA AAAMMDD. SI NO TIENE, ANOTAR
 00000000.
 ### 12. TIPOPERC TIPO DE OPERACION, CODIGO DE 7 CARACTERES X(7)
--1 Y 2 POSICION, TIPO DE OPERACION:
+-1° Y 2° POSICION, TIPO DE OPERACION:
 CO: COMPRA SIMPLE.
 VE: VENTA SIMPLE.
 CP: COMPRA A PLAZO.
@@ -374,7 +375,7 @@ VF: VENTA FINAL.
 CS: COMPRA SIMULTANEA.
 VS: VENTA SIMULTANEA.
 IT: INTERMEDIACION.
--3 y 4 POSICION, TIPO DE INSTRUMENTO:
+-3° y 4° POSICION, TIPO DE INSTRUMENTO:
 AC: ACCIONES.
 DS: DERECHO PREFERENTE DE SUSCRIPCION.
 RF: RENTA FIJA.
@@ -386,7 +387,7 @@ MO: OTRAS MONEDAS EXTRANJERAS DISTINTAS
 ### A DOLAR.
 FU: CONTRATOS DE FUTURO.
 OT: OTRO.
--5 y 6 POSICION, OTRAS CARACTERISTICAS DE
+-5° y 6° POSICION, OTRAS CARACTERISTICAS DE
 LA OPERACION:
 CM: COMPROMISO DE COMPRA/VENTA.
 PA: PACTO DE COMPRA CON RETROVENTA O
@@ -395,7 +396,7 @@ PL: OPERACION A PLAZO.
 AP: FUTUROS, AUMENTO DE POSICIONES ABIERTAS.
 CI: FUTUROS, CIERRE DE POSICIONES ABIERTAS.
 NO: OPERACION NORMAL.
--7 POSICION, PERSONA:
+-7° POSICION, PERSONA:
 P : POR CUENTA PROPIA.
 T : POR CUENTA DE TERCEROS.
 ### 13. PLAZO DIFERENCIA EN DIAS ENTRE LA OPERACION 9(5) INICIAL Y LA MATERIALIZACION DE UNA OPERAC. DE COMPRA/VENTA CON COMPROMISO DE RETROVENTA/RETROCOMPRA, COMPROMISO DE COMPRA/VENTA, OPER. A PLAZO, CONTRATO FUTURO. SI NO INFORMA, SE ANOTA 00000.
@@ -412,7 +413,7 @@ RUED: RUEDA, PREGON O TELEPREGON,
 REMT: REMATE, TRADICIONAL O ELECTRONICO.
 LICI: LICITACION, TRADICIONAL O ELECTRONICA.
 FRUE: FUERA DE RUEDA.
-(1) Código agregado por Circular N 1.089 de 1992
+(1) Código agregado por Circular N° 1.089 de 1992
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS 16. TIPOCLIENTE TIPOS DE CLIENTES(1) X(2)
 N: NO VINCULADO.
@@ -420,7 +421,7 @@ P: VINCULADO POR PROPIEDAD.
 L: VINCULADO LABORALMENTE.
 A: VINCULADO POR ADMINISTRACION.
 X: NO CORRESPONDE INFORMAR.
-### 17. UNIDTRANS N DE UNIDADES TRANSADAS 9(10)V9(4) 18. TIPOUNTRA TIPO DE UNIDADES TRANSADAS, X(2)
+### 17. UNIDTRANS N° DE UNIDADES TRANSADAS 9(10)V9(4) 18. TIPOUNTRA TIPO DE UNIDADES TRANSADAS, X(2)
 DEFINIDAS EN EL ANEXO Nº 2.(1)
 ### 19. TIPO DÓLAR CORRESPONDE AL TIPO DE DOLAR EN QUE SE X(4) EXPRESA EL VALOR
 PROM: PROMEDIO.
@@ -437,7 +438,7 @@ DE ACCIONES, ORO, DOLAR, OTRAS MONEDAS EXTRANJERAS, CONTRATOS A FUTURO, DER. PRE
 ### SUSCRIPCION, CUOTAS DE FONDOS DE INVERS., Y OPERACIONES A PLAZO.
 ### 22. TOTRANS TOTAL TRANSADO (2) 9(11)V9(4) 23. REATTRAN UNIDAD DE REAJUSTE DEL TOTAL TRANSADO. X(2) 24. PORPAR PORCENTAJE DEL VALOR PAR. 9(3)V9(2) SI NO INFORMA, SE ANOTA 000.00.
 ### 25. TIR TIR PARA IRF E IIF. -9(3)V9(2) SI NO INFORMA, SE ANOTA 000.00.(3) 26. RENTAB CORRESPONDE A LA RENTABILIDAD DEL 9(3)V9(2) COMPROMISO. SI NO INFORMA 000.00.
-(1) Campos modificados por Circular N 1.089 de 1992.
+(1) Campos modificados por Circular N° 1.089 de 1992.
 (2) Formato de campo modificado por Circular Nº 1.097 de 1992.
 (3) Largo y formato de campo modificado por Circular Nº 1.089 de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
@@ -470,9 +471,10 @@ IC: INGRESO, INTERMEDIARIO DETECTA ERROR.
 AC: ANULACION, INTERMEDIARIO LA DETERMINA.
 XX: NO CORRESPONDE A MODIFICACION O ANULACION.
 ## 30. FOLIOMODIF FOLIO DE MODIFICACION (12) 31. ESPACIOS ESPACIOS ADICIONALES DISPONIBLES (1) X(18)
-(1) Largo de campo modificado por Circulares Ns 1.089 y 1.097 de 1992.
+(1) Largo de campo modificado por Circulares N°s 1.089 y 1.097 de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS ANEXO N 2 UNIDADES DE TRANSACCION(1)
+
+## ANEXO N° 2 UNIDADES DE TRANSACCION(1)
 $$ : Peso Chileno.
 UF : Unidad de Fomento.
 IV : Indice de Valor Promedio.
@@ -496,5 +498,5 @@ PE : Peseta.
 YY : Yen.
 MO : Otras monedas distintas a las definidas.
 ** : Otra Unidad de Reajuste.
-(1) Eliminado código US por Circular N 1.089, de 1992.
+(1) Eliminado código US por Circular N° 1.089, de 1992.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS

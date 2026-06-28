@@ -429,78 +429,78 @@ NORMA DE CARÁCTER GENERAL CMF N° 221
 FECHA: 20.08.2008
 APENDICE II: TÓPICOS PARA LA PRUEBA
 ## 1. Seguros en General
- Orígenes del Seguro.
- Contrato de Seguro y su normativa.
- Clasificaciones de los seguros.
- Elementos del contrato de seguros.
- Principios básicos del seguro.
- Siniestro e indemnización.
- Franquicia y deducible.
+· Orígenes del Seguro.
+· Contrato de Seguro y su normativa.
+· Clasificaciones de los seguros.
+· Elementos del contrato de seguros.
+· Principios básicos del seguro.
+· Siniestro e indemnización.
+· Franquicia y deducible.
 ## 2. Seguros de Vida
- Conceptos.
- Características.
- Modalidades.
- Elementos.
+· Conceptos.
+· Características.
+· Modalidades.
+· Elementos.
 ## 3. Estructura de la Seguridad Social chilena y su Institucionalidad
- Regímenes de seguridad social
- Instituciones participantes
+· Regímenes de seguridad social
+· Instituciones participantes
 ## 4. Sistema de pensiones del DL 3500 de 1980.
- Características generales del sistema de pensiones.
- Afiliación y traspaso de trabajadores dependientes, independientes y cotizantes voluntarios.
- Cotizaciones previsionales.
- Tipos de cuenta.
- Inversiones de los Fondos de Pensiones
- Ahorro Previsional Voluntario (cotizaciones voluntarias, Depósito de APV, Depósitos Convenidos y conocimientos en el Ahorro Previsional Voluntario Colectivo.
+· Características generales del sistema de pensiones.
+· Afiliación y traspaso de trabajadores dependientes, independientes y cotizantes voluntarios.
+· Cotizaciones previsionales.
+· Tipos de cuenta.
+· Inversiones de los Fondos de Pensiones
+· Ahorro Previsional Voluntario (cotizaciones voluntarias, Depósito de APV, Depósitos Convenidos y conocimientos en el Ahorro Previsional Voluntario Colectivo.
 Tributación de los anteriores.
- Rentabilidad / Comisiones.
- Multifondos.
- Trabajo pesado.
- Sistemas de control y fiscalización.
- Tipos de pensión (Vejez, vejez anticipada, invalidez y sobrevivencia)
- Modalidades de pensión (Renta Vitalicia Inmediata, Renta Temporal con Renta vitalicia Diferida, Retiro Programado, Renta Vitalicia Inmediata con Retiro Programado).
- Otros Beneficios (Excedente de Libre Disposición/Tributación, Cuota Mortuoria, Herencia, Garantía Estatal, Asignación familiar)
- Subsidio contratación y cotización trabajadores jóvenes.
- Compensación económica en materia previsional, en caso de divorcio o nulidad.
- Convenios de Seguridad Social con otros Estados
+· Rentabilidad / Comisiones.
+· Multifondos.
+· Trabajo pesado.
+· Sistemas de control y fiscalización.
+· Tipos de pensión (Vejez, vejez anticipada, invalidez y sobrevivencia)
+· Modalidades de pensión (Renta Vitalicia Inmediata, Renta Temporal con Renta vitalicia Diferida, Retiro Programado, Renta Vitalicia Inmediata con Retiro Programado).
+· Otros Beneficios (Excedente de Libre Disposición/Tributación, Cuota Mortuoria, Herencia, Garantía Estatal, Asignación familiar)
+· Subsidio contratación y cotización trabajadores jóvenes.
+· Compensación económica en materia previsional, en caso de divorcio o nulidad.
+· Convenios de Seguridad Social con otros Estados
 ## 5. Sistemas de Pensiones Solidarias
- Pensión básica solidaria de vejez e invalidez
- Aporte Previsional Solidario de vejez e invalidez.
+· Pensión básica solidaria de vejez e invalidez
+· Aporte Previsional Solidario de vejez e invalidez.
 
 NORMA DE CARÁCTER GENERAL CMF N° 221
 ### CIRCULAR SP N° 1526
 FECHA: 20.08.2008
- Pensión Máxima con Aporte Solidario vejez e invalidez.
- Pensión Autofinanciada de Referencia(PAFE)
- Complemento Solidario
- Beneficiarios Leyes Especiales
- Bono por hijo nacido vivo
+· Pensión Máxima con Aporte Solidario vejez e invalidez.
+· Pensión Autofinanciada de Referencia(PAFE)
+· Complemento Solidario
+· Beneficiarios Leyes Especiales
+· Bono por hijo nacido vivo
 ## 6. Seguro de rentas vitalicias
- Características.
- Modalidades de rentas vitalicias (inmediata, renta temporal con renta vitalicia diferida, renta vitalicia inmediata con retiro programado.
- Pólizas relacionadas a RV, y sus cláusulas adicionales.
- Prestaciones familiares.
- Tipos de rentas vitalicias (rentas vitalicias constantes y variables).
- Calculo de rentas vitalicias.
- Sistema de consultas y oferta de montos de pensión.
+· Características.
+· Modalidades de rentas vitalicias (inmediata, renta temporal con renta vitalicia diferida, renta vitalicia inmediata con retiro programado.
+· Pólizas relacionadas a RV, y sus cláusulas adicionales.
+· Prestaciones familiares.
+· Tipos de rentas vitalicias (rentas vitalicias constantes y variables).
+· Calculo de rentas vitalicias.
+· Sistema de consultas y oferta de montos de pensión.
 ## 7. Legislación y normativa de seguros y de AFP.
- DL N° 3.500, de 1980, del Ministerio del Trabajo y Previsión Social
- Ley N° 18.156 de Técnico Extranjero
- Convenios Internacionales sobre Seguridad Social
- DS N° 57, de 1990, del Ministerio del Trabajo y Previsión Social, que contiene el Reglamento del D.L. 3500 de 1980.
- DS N° 23, de 2008; Reglamento del Sistema de Pensiones Solidarias
- D.F.L. Nº 101, de 1980, del Ministerio del Trabajo y Previsión Social
- D.F.L. Nº 251, de 1931, Ley de Seguros.
- D.L. Nº 3.538, Ley orgánica de la CMF.
- Norma conjunta SP y CMF sobre asesoría previsional, contrato de asesoría previsional, e inscripción en el Registro de Asesores Previsionales.
- Norma Conjunta SP – CMF sobre Sistema de Consultas y Ofertas de Montos de Pensión.
- Norma de Carácter General Nº 218 y 163, Circulares y Oficios Circulares de la CMF relativas a seguros previsionales.
- Circulares de la Superintendencia de Pensiones:
- Circular N° 1.302 Otorgamiento de los Beneficios Previsionales;
- Circular N° 1.252 Fija procedimiento administrativo de carácter general y particular para otorgar los beneficios previsionales regulados por el D.L. 3500 de
+· DL N° 3.500, de 1980, del Ministerio del Trabajo y Previsión Social
+· Ley N° 18.156 de Técnico Extranjero
+· Convenios Internacionales sobre Seguridad Social
+· DS N° 57, de 1990, del Ministerio del Trabajo y Previsión Social, que contiene el Reglamento del D.L. 3500 de 1980.
+· DS N° 23, de 2008; Reglamento del Sistema de Pensiones Solidarias
+· D.F.L. Nº 101, de 1980, del Ministerio del Trabajo y Previsión Social
+· D.F.L. Nº 251, de 1931, Ley de Seguros.
+· D.L. Nº 3.538, Ley orgánica de la CMF.
+· Norma conjunta SP y CMF sobre asesoría previsional, contrato de asesoría previsional, e inscripción en el Registro de Asesores Previsionales.
+· Norma Conjunta SP – CMF sobre Sistema de Consultas y Ofertas de Montos de Pensión.
+· Norma de Carácter General Nº 218 y 163, Circulares y Oficios Circulares de la CMF relativas a seguros previsionales.
+· Circulares de la Superintendencia de Pensiones:
+ Circular N° 1.302 Otorgamiento de los Beneficios Previsionales;
+ Circular N° 1.252 Fija procedimiento administrativo de carácter general y particular para otorgar los beneficios previsionales regulados por el D.L. 3500 de
 1980, en virtud de los convenios internacionales sobre seguridad social, suscritos por Chile.
- Circular N° 1.220 Administración de Cuentas Personales;
- Circular N° 650 Reclamos: Anomalías en Afiliaciones, Ctas. Personales, Cotizaciones y Traspasos. y sus modificaciones.
- Circular N° 691: Solicitud, Cálculo, Emisión y Liquidación Bono de Reconocimiento.
+ Circular N° 1.220 Administración de Cuentas Personales;
+ Circular N° 650 Reclamos: Anomalías en Afiliaciones, Ctas. Personales, Cotizaciones y Traspasos. y sus modificaciones.
+ Circular N° 691: Solicitud, Cálculo, Emisión y Liquidación Bono de Reconocimiento.
 
 NORMA DE CARÁCTER GENERAL CMF N° 221
 ### CIRCULAR SP N° 1526
@@ -1162,39 +1162,18 @@ NORMA DE CARÁCTER GENERAL CMF N° 221
 ### CIRCULAR SP N° 1526
 FECHA: 20.08.2008
 j.1) Inversiones.
- Cuadro General In s A c c io n e s D o c u m e n to s d e l B a D o c u m e n to s d e l E s C u o ta s d e fo n d o s m In s tru m e n to s d e R e
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> *
-> *
-> *
-> $$
+· Cuadro General In s A c c io n e s D o c u m e n to s d e l B a D o c u m e n to s d e l E s C u o ta s d e fo n d o s m In s tru m e n to s d e R e
+*
+*
+*
 T o ta l V a lo re s N e g o
 (C u e n ta 2 .1 1 .1 3 .0 0 )
 *
 T o ta l D e p ó s ito s a P
-(C u e n ta 2 .1 1 .1 2 .0 0 ) t r u m e n t o s n c o C e n tra l ta d o u tu o s (d e re n ta F ija c ia b le s la z o n ta fija ) C o m p r a F e c hV ae n c im ie n to C Vo an lo
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> t a
-> rb
-> le
-> $$
-VM ae lor
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> c
-> r d
-> a d
-> eo
-> $$
-P r o v is ió n
+(C u e n ta 2 .1 1 .1 2 .0 0 ) t r u m e n t o s n c o C e n tra l ta d o u tu o s (d e re n ta F ija c ia b le s la z o n ta fija ) C o m p r a F e c hV ae n c im ie n to C Vo an lo t a rb le VM ae lor c r d a d eo P r o v is ió n
 *: Especificar el tipo de instrumento de que se trate.
 En lo relativo al cuadro precedente, se deberá informar una a una las inversiones que la entidad asesora posea, esto es, instrumentos accionarios, documentos del Banco Central, del Estado, cuotas de fondos mutuos, instrumentos de renta fija y depósitos a plazo.
- Cuadro Específico de Acciones Las Entidades de Asesoría Previsional que mantengan inversiones en acciones, deberán completar el siguiente cuadro esquemático:
+· Cuadro Específico de Acciones Las Entidades de Asesoría Previsional que mantengan inversiones en acciones, deberán completar el siguiente cuadro esquemático:
 
 | Nombre Sociedad | Número de Acciones | Porcentaje de Participación | Valor Bursátil Inversión |
 | --- | --- | --- | --- |
@@ -1214,42 +1193,12 @@ NORMA DE CARÁCTER GENERAL CMF N° 221
 FECHA: 20.08.2008
 j.2) Obligaciones con bancos e instituciones financieras.
 Las entidades de asesoría previsional, que reflejen en sus estados financieros obligaciones con bancos o instituciones financieras, de acuerdo a las especificaciones descritas en cada código, y al tipo de sociedad que se trate, deberán llenar el siguiente cuadro esquemático:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> T o
-> (C
-> ta
-> u e
-> $$
-B a n c o o l O b lig a c ió n ta 2 .2 2 .1
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> In
-> n
-> 0 .0
-> s
-> 0
-> t it
-> )
-> $$
-u c ió n OT r ig r a n es na dc
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> c
-> e la
-> ió n
-> $$
-V a lo r C o n t a b le FE e cm h a d is ió en V Fe en cc him a d
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ie
-> en
-> t o
-> $$
+T o
+(C ta u e B a n c o o l O b lig a c ió n ta 2 .2 2 .1 In n
+0 .0
+s
+0 t it
+) u c ió n OT r ig r a n es na dc c e la ió n V a lo r C o n t a b le FE e cm h a d is ió en V Fe en cc him a d ie en t o
 k) Indemnizaciones por años de servicio: Deberá señalarse las bases para el cálculo de la
 provisión, los criterios contables, identificación del grupo de personal cubierto, gastos y pagos del ejercicio y cualquier otro antecedente importante al respecto.
 l) Contingencias y Compromisos: Esta nota debe incluir lo siguiente: monto y descripción de

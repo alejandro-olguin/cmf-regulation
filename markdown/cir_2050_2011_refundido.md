@@ -4506,15 +4506,7 @@ e) Segmentar la cartera de inversiones de la Compañía según clasificación de
 Revele para cada clase de activo financiero.
 a) Un análisis de la antigüedad (por tramos) de los activos financieros en mora en
 la fecha de presentación, pero que no estén deteriorados; de la siguiente manera:
-Antigüedad Año 20XX
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> De 1 a 3 meses
-> De 3 a 6 meses
-> De 6 a 9 meses
-> $$
-De 9 a 12 meses De 12 a 24 meses Más de 24 meses Total ____________
+Antigüedad Año 20XX De 1 a 3 meses De 3 a 6 meses De 6 a 9 meses De 9 a 12 meses De 12 a 24 meses Más de 24 meses Total ____________
 b) Un análisis de los activos financieros que se hayan determinado individualmente
 como deteriorados en la fecha de presentación, incluyendo los factores que la entidad ha considerado para determinar el deterioro; y
 c) Para los montos que se hayan revelado anteriormente, una descripción de las

@@ -74,7 +74,7 @@ C.2.1 Copia de la comunicación remitida por las clasificadoras de riesgo, si co
 C.2.2 Copia del acta de la sesión de directorio que acordó la emisión y sus condiciones, debidamente certificada por el gerente de la sociedad, si correspondiere. En el caso de tratarse de emisiones posteriores a la primera emisión, copia del acta de Asamblea Extraordinaria de Aportantes que acordó la nueva emisión.
 C.2.3 En el caso de emisiones posteriores a la primera emisión, copia de los dos informes de los evaluadores independientes expuestos en la asamblea de aportantes que aprobó la respectiva emisión, que sustenten la determinación del precio de colocación.
 C.2.4 Copia del aviso y la comunicación que se enviará a los aportantes informando sobre la opción preferente de suscripción de cuotas, para lo cual deberá emplearse el formato de aviso que se presenta en el Anexo N° 2.
-C.2.5 Copia del aviso a publicar, informando a los tenedores de cuotas del inicio del período preferente de suscripción que establece el artículo 17 de la Ley de Fondos de Inversión, para lo cual deberá emplearse el formato de aviso que se presenta en el Anexo N 3.
+C.2.5 Copia del aviso a publicar, informando a los tenedores de cuotas del inicio del período preferente de suscripción que establece el artículo 17 de la Ley de Fondos de Inversión, para lo cual deberá emplearse el formato de aviso que se presenta en el Anexo N° 3.
 C.2.6 Copia del aviso a publicar, informando al público en general sobre la emisión de que se trate, de acuerdo a las instrucciones que haya impartido esta Superintendencia.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
@@ -161,7 +161,7 @@ La referida comunicación deberá indicar, al menos, lo siguiente:
 - Descripción del aumento y del nuevo aporte
 - Indicación de fondos a capitalizar, su naturaleza y montos
 - Indicación de la asamblea de aportantes que aprobó el aumento
-B.3 Memoria Anual Todas las sociedades administradoras deberán elaborar una memoria anual para cada fondo de inversión administrado, de acuerdo a lo establecido en el artículo 74, inciso 2° de la Ley N 18.046, sobre Sociedades Anónimas y según las instrucciones impartidas en la letra C de la sección II de la Norma de Carácter General N° 30.
+B.3 Memoria Anual Todas las sociedades administradoras deberán elaborar una memoria anual para cada fondo de inversión administrado, de acuerdo a lo establecido en el artículo 74, inciso 2° de la Ley N° 18.046, sobre Sociedades Anónimas y según las instrucciones impartidas en la letra C de la sección II de la Norma de Carácter General N° 30.
 B.4 Reglamento Interno, Contrato de Suscripción de Cuotas, Contrato de Promesa de Suscripción, Facsímil de Título y sus posteriores modificaciones Esto, conforme a instrucciones que imparta la Superintendencia.
 B.5 Otros antecedentes económicos y financieros También deberán remitirse los informes periciales que se pongan en conocimiento de la asamblea de aportantes para efectos de adoptar algún acuerdo, los que deberán comunicarse con un mínimo de 5 días de anticipación a la fecha de celebración de la misma.
 #### C. HECHOS RELEVANTES O ESENCIALES
@@ -207,14 +207,14 @@ En la citación a la asamblea de aportantes se deberá mencionar la fecha e hipe
 E.2 Publicación de las disminuciones de capital En lo que respecta a las disminuciones de capital se deberá publicar un aviso destacado en el diario a que se refiere la letra h) del artículo 4º de la Ley Nº 18.815, dentro de los 2 hábiles días siguientes a aquel en que se tomó el acuerdo, indicando la disminución de capital o el acuerdo que originó el derecho a retiro, el plazo para su ejercicio y la fecha de pago del valor de sus cuotas.
 E.3 Publicación de término del fondo Deberá publicar un aviso informando al mercado el término de actividades del fondo o los fondos.
 E.4 Publicación sitio web Deberá publicar en su sitio web:
- Memorias anuales presentadas a esta Superintendencia
- Estados Financieros trimestrales y anuales auditados
- Reglamento Interno de los Fondos
- Contratos de Suscripción de Cuotas
- Copia Prospecto de Emisión de Cuotas de la emisión vigente o de la última emisión.
- Hechos Esenciales
- Información Histórica del Valor Cuota de los Fondos (Valor libro de la cuota y valor económico de la cuota, cuando corresponda) y gráfico que refleje comportamiento de la rentabilidad.
- Declaración jurada de cada uno de los miembros del directorio y del gerente general de la administradora, señalando antecedentes académicos y experiencia laboral.
+· Memorias anuales presentadas a esta Superintendencia
+· Estados Financieros trimestrales y anuales auditados
+· Reglamento Interno de los Fondos
+· Contratos de Suscripción de Cuotas
+· Copia Prospecto de Emisión de Cuotas de la emisión vigente o de la última emisión.
+· Hechos Esenciales
+· Información Histórica del Valor Cuota de los Fondos (Valor libro de la cuota y valor económico de la cuota, cuando corresponda) y gráfico que refleje comportamiento de la rentabilidad.
+· Declaración jurada de cada uno de los miembros del directorio y del gerente general de la administradora, señalando antecedentes académicos y experiencia laboral.
 VIGENCIA Las disposiciones contenidas en esta Circular rigen a contar desde esta fecha.
 Derógase, a contar de esta fecha, la Circular N° 935 de 28 de febrero de 1990.
 ### DISPOSICIÓN TRANSITORIA
@@ -518,12 +518,12 @@ Adicionalmente, debe adjuntar el Formato de Certificado utilizado en los Anexos 
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
 FECHA: 02.10.2009
-### ANEXO N 2 FORMATO DE AVISO Y DE COMUNICACIÓN A LOS APORTANTES SOBRE OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS NOMBRE DEL FONDO RAZON SOCIAL SOCIEDAD ADMINISTRADORA EMISION DE CUOTAS
+## ANEXO N° 2 FORMATO DE AVISO Y DE COMUNICACIÓN A LOS APORTANTES SOBRE OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS NOMBRE DEL FONDO RAZON SOCIAL SOCIEDAD ADMINISTRADORA EMISION DE CUOTAS
 a) En asamblea de aportantes celebrada el ____de____________de 20__, se acordó el aumento
 de capital del fondo en la suma de $ _____________, mediante la emisión de
 ___________________ cuotas, nominativas, unitarias de igual valor y características. 2
 b) La Superintendencia de Valores y Seguros, con fecha _____ de ______________ de 20____,
-inscribió en el Registro de Valores con el N ______, la emisión de ___________ cuotas, por un monto total de $ _____________. El plazo para la emisión, suscripción y pago de estas cuotas es de __________a contar del____de___________de 20___. 3
+inscribió en el Registro de Valores con el N° ______, la emisión de ___________ cuotas, por un monto total de $ _____________. El plazo para la emisión, suscripción y pago de estas cuotas es de __________a contar del____de___________de 20___. 3
 c) Los fondos que se obtengan con esta emisión de cuotas se destinarán
 a___________________________________________________________________________
 ____________________________________________________________________________
@@ -566,9 +566,9 @@ corresponde.
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS
 ### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
 FECHA: 02.10.2009
-### ANEXO N 3 FORMATO DE AVISO ARTICULO 17 DE LA LEY DE FONDOS DE INVERSION SOBRE INICIO OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS NOMBRE DEL FONDO RAZON SOCIAL SOCIEDAD ADMINISTRADORA EMISION DE CUOTAS
+## ANEXO N° 3 FORMATO DE AVISO ARTICULO 17 DE LA LEY DE FONDOS DE INVERSION SOBRE INICIO OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS NOMBRE DEL FONDO RAZON SOCIAL SOCIEDAD ADMINISTRADORA EMISION DE CUOTAS
 a) La Superintendencia de Valores y Seguros, con fecha _______ de ___________ de 20__
-inscribió en el Registro de Valores con el N_________ la emisión de________________ cuotas, por un monto total de $_________________. El plazo para la emisión, suscripción y pago de estas cuotas es de __________a contar de________de_____________ 20___. 2
+inscribió en el Registro de Valores con el N°_________ la emisión de________________ cuotas, por un monto total de $_________________. El plazo para la emisión, suscripción y pago de estas cuotas es de __________a contar de________de_____________ 20___. 2
 b) Tendrán derecho a suscribir las cuotas aquellos aportantes inscritos en el registro respectivo al
 día________ de __________________ 20__. 3
 c) Este aviso señala el inicio del período de opción preferente de suscripción, el que se extenderá

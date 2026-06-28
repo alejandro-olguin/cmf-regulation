@@ -263,13 +263,10 @@ Retorno de los PRC en Junio de 2002 Fecha Retorno Vencimiento
 8 4.37%
 20 5.11%
 La curva de ajuste pasa a través de los siguientes tres puntos, representados por:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a = 5.701
-> b = -3.778
-> c = -1.595.
-> $$
+$$
+a = 5.701, \quad b = -3.778, \quad c = -1.595
+$$
+
 Dada ésta curva de ajuste, el retorno interpolado para el PRC de 12 años es 4.76% y 4.97% para el PRC de 16 años.
 B) Determinar el Precio sobre el Instrumento de Referencia al Final de Cada Mes.
 C) Determinar el Retorno del Instrumento de Referencia Cada Mes.
@@ -635,14 +632,12 @@ m = 1 − λr + λm x:1 x:1 x:0
 h = ( 1 − λ ) (r − m )2 + λh x:1 x:1 x:1 x:0
 ( )
 h = 1 − λ(r − m )(r − m ) + λh xy:1 x:1 x:1 y:1 y:1 xy:0 Paso 4 : Repita el paso 3 para toda la información
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ( )
-> m = 1 − λr + λm
-> x:t x:t x:t−1
-> h = ( 1 − λ ) (r − m )2 + λh
-> $$
+$$
+m_{x:t} = (1 - \lambda) \cdot r_{x:t} + \lambda \cdot m_{x:t-1}
+
+h_{x:t} = (1 - \lambda)(r_{x:t} - m_{x:t})^2 + \lambda \cdot h_{x:t-1}
+$$
+
 x:t x:t x:t x:t−1
 ( )
 h = 1 − λ(r − m )(r − m ) + λh ” xy:t x:t x:t y:t y:t xy:t−1 Paso 5 : Desviación estándard (σ), correlación(ρ) σ = h x:t xx:t h ρ = xy:t xy:t σ σ x:t y:t La fecha de partida de la matriz de covarianza es el 01/03/2000, y a partir de ella comenzará el cálculo de los índices que determinan la volatilidad de los vértices de riesgo definidos en la matriz de covarianza. En este cálculo de volatilidad se utilizará el método recursivo, de tal forma que se considerarán los cambios de valor del índice que se acumulen desde esa fecha hasta la fecha del primer cálculo de VaR que realice cada compañía.

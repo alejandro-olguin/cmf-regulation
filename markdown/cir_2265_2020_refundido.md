@@ -172,22 +172,14 @@ Circular N° 2.248 / 30.03.2020 por Resolución N° 2490
 Capítulo 12-1 Hoja 9 El “equivalente de crédito” con una misma contraparte corresponderá a
 lo siguiente:
 - Si el valor razonable neto de las posiciones compensadas es positivo:
- n  max(VR ,0) n n   i   EC =max(VR ,0) + Noc Fc 0,4+ 0,6 i=1  i i i n i=1 i=1  max(VR ,0)
+ n max(∑VR ,0) n n   i   EC =max(∑VR ,0) + ∑Noc ×Fc ×0,4+ 0,6× i=1 i i i n i=1 i=1  ∑max(VR ,0)
  i 
-  I=1
+
+I=1
 - Si el valor razonable neto de las posiciones compensadas es negativo o cero:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> E C =
-> n
-> i=
-> 1
-> $$
-N o c i
- F C
-i
- 0 , 4
+$$
+EC = \sum_{i=1}^{n} Noc_i \times FC_i \times 0{,}4
+$$
 Donde:
 EC : Equivalente de crédito de los instrumentos derivados incluidos en un acuerdo de compensación.
 ∑ : Operador sumatoria.

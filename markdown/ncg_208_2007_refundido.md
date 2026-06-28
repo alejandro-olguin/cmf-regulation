@@ -173,12 +173,12 @@ Respecto de las carteras masivas, las provisiones se constituirán siempre de ac
 ### 10.2 Cartera de créditos a empresas
 Si bien la evaluación de créditos comerciales mediante herramientas estadísticas es técnicamente posible, en la práctica la utilización de tales medios se ve dificultada por la heterogeneidad de los elementos que conforman el portafolio. Por ello, las carteras de créditos a empresas requieren por lo general una evaluación individual de los deudores. Los modelos internos diseñados sobre la base del análisis individual, deben contemplar el uso de categorías de riesgo para los deudores y sus créditos. El análisis de los deudores debe centrarse en su capacidad para cumplir con sus obligaciones crediticias considerando de sus flujos operacionales de caja, mediante información suficiente y confiable y considerando las condiciones específicas del crédito tales como, garantías, plazos, tasas de interés, moneda, entre otras.
 En el análisis individual de los deudores, las compañías deberán considerar al menos los siguientes factores de riesgo:
- Industria o sector a que pertenece;
- Socios y administración;
- Situación financiera y capacidad de pago o flujo de efectivo;
- Riesgos financieros a que está expuesto;
- Comportamiento de pago, y
- Garantías
+· Industria o sector a que pertenece;
+· Socios y administración;
+· Situación financiera y capacidad de pago o flujo de efectivo;
+· Riesgos financieros a que está expuesto;
+· Comportamiento de pago, y
+· Garantías
 ### 10.3 Normas de aplicación y revisión de los modelos o procedimientos propios de cada entidad
 Para su aplicación, los modelos tendrán que ser aprobados por el Directorio de la compañía, debiendo quedar constancia de ello en el acta de la respectiva sesión. Igual procedimiento se seguirá respecto de las modificaciones en su diseño o aplicación.
 Los modelos o procedimientos propios de cada entidad deben ser revisados por lo menos anualmente con miras a asegurar su robustez, su capacidad de predicción de las pérdidas de cartera y determinación de la adecuada cobertura de provisiones al cierre del ejercicio, debiendo comunicarse los resultados de esa evaluación al Directorio.

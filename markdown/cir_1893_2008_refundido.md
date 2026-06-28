@@ -177,15 +177,9 @@ Ejemplos de formas de determinar la rentabilidad:
 > - valor cuota
 > i
 > $$
-valor cuota
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> i-1
-> - valor IPSA
-> i
-> $$
-valor IPSA i-1
+valor cuota i-1
+- valor IPSA
+i valor IPSA i-1
 
 ## ANEXO Nº 2 PROPUESTA DE PÓLIZA DE SEGURO CON PLAN APV O APVC
 ## I. IDENTIFICACION DEL ASEGURADO Y LA PÓLIZA

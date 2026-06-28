@@ -1107,16 +1107,16 @@ Riesgo de prepago La Administración de la Sociedad deberá indicar la informaci
 Riesgos derivados de los contratos de administración La Administración de la Sociedad deberá indicar la información requerida en el N° 5.2 del Anexo N° 5 por compañías acreedoras.
 ### NOTA 7 ESTIMACIONES Y JUICIOS CONTABLES
 La Sociedad deberá indicar los principales juicios y estimaciones utilizados para:
- Determinar la existencia de potenciales pérdidas por deterioro , en la valoración de la plusvalía
- Las hipótesis empleadas en el cálculo actuarial de las obligaciones con los empleados
- La vida útil de las propiedades, plantas y equipo e intangibles
- Las hipótesis utilizadas para el cálculo del valor razonable de los instrumentos financieros
- Determinar la probabilidad de ocurrencia y el monto de los pasivos de monto incierto o contingentes
- Estimación de deterioro de propiedades plantas y equipos
- Estimación de deterioro de las cuentas por cobrar
- Determinación de la tasa de descuento
- Cálculo de los ingresos diferidos a la fecha de cierre del ejercicio.
- Recuperabilidad de los activos por impuesto diferido.
+· Determinar la existencia de potenciales pérdidas por deterioro , en la valoración de la plusvalía
+· Las hipótesis empleadas en el cálculo actuarial de las obligaciones con los empleados
+· La vida útil de las propiedades, plantas y equipo e intangibles
+· Las hipótesis utilizadas para el cálculo del valor razonable de los instrumentos financieros
+· Determinar la probabilidad de ocurrencia y el monto de los pasivos de monto incierto o contingentes
+· Estimación de deterioro de propiedades plantas y equipos
+· Estimación de deterioro de las cuentas por cobrar
+· Determinación de la tasa de descuento
+· Cálculo de los ingresos diferidos a la fecha de cierre del ejercicio.
+· Recuperabilidad de los activos por impuesto diferido.
 
 ### NOTA 8 EFECTIVO Y EQUIVALENTES AL EFECTIVO
 (Corresponde al saldo presentado en la cuenta 5.10.01.00 del estado de situación financiera)
@@ -1477,9 +1477,9 @@ En base a lo solicitado en la NIC 24.17 Explicar el plan de incentivos para los 
 (d) beneficios por termino de contrato y
 (e) pagos basados en acciones.
 12.6 Incluir información obtenida en la Junta Ordinaria de Accionistas de la Sociedad (fecha XX-XXXX),para los siguientes conceptos:
- Dietas por asistencia a sesiones.
+· Dietas por asistencia a sesiones.
 Indicar la remuneración
- Dietas por asistencia a Comité de Directores.
+· Dietas por asistencia a Comité de Directores.
 Indicar la remuneración Detallar los montos pagados por los ejercicios terminados al DD/MM/AA y DD/MM/AA-11, a losdirectores.
 
 ### NOTA 13 OTROS ACTIVOS NO FINANCIEROS

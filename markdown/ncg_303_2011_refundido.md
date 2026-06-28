@@ -203,7 +203,7 @@ V.1.6 Constancia de colocación Copia de la escritura pública que dé constanci
 FECHA: 14.02.2011
 El documento antes señalado deberá ser remitido dentro del plazo de 5 días corridos desde la fecha de su suscripción.
 Por otra parte, la sociedad securitizadora deberá remitir a la Comisión y difundir como información esencial el hecho que ha efectuado una colocación de títulos de deuda securitizados, indicando la tasa promedio de colocación de los títulos. Lo anterior, a más tardar al término del día en que se llevó a cabo dicha colocación.
-V.1.7 Estado de emisiones y colocaciones efectuadas Se deberá proporcionar la información requerida a través de la Circular N 995 de fecha
+V.1.7 Estado de emisiones y colocaciones efectuadas Se deberá proporcionar la información requerida a través de la Circular N° 995 de fecha
 7 de febrero de 1991, o la que la reemplace, a contar de la fecha de inscripción de la
 emisión en el Registro de Valores.
 V.1.8 Otros Antecedentes Los siguientes antecedentes deberán ser presentados dentro de los 5 días corridos siguientes a la fecha en que estos hayan sido suscritos:
@@ -514,7 +514,7 @@ Adicionalmente, podrá incluirse cualquier otra estipulación que las partes est
 
 ### N.C.G. N° 303
 FECHA: 14.02.2011
-### ANEXO N 3 INSTRUCCIONES PARA LA ELABORACIÓN DEL PROSPECTO PARA LA EMISIÓN DE MONTO FIJO DE TÍTULOS DE DEUDA DE SECURITIZACIÓN
+## ANEXO N° 3 INSTRUCCIONES PARA LA ELABORACIÓN DEL PROSPECTO PARA LA EMISIÓN DE MONTO FIJO DE TÍTULOS DE DEUDA DE SECURITIZACIÓN
 El presente anexo regula la elaboración del prospecto de emisión que deberá ser acompañado a la solicitud de inscripción de títulos de deuda de securitización.
 ### 1.0 CARATULA DEL PROSPECTO
 ### 1.1 Razón Social : Deberá incorporar la razón social de la sociedad
@@ -572,7 +572,7 @@ Se deberá incorporar un índice con el contenido del prospecto de emisión.
 ### 3.1 Razón social : Indicar la razón social de la sociedad securitizadora.
 ### 3.2 Nombre de fantasía : Indicar el nombre de fantasía, si lo tiene.
 ### 3.3 R.U.T. : Indicar el rol único tributario de la sociedad.
-### 3.4 N y fecha inscripción en el : Indicar el número y fecha de inscripción de la
+### 3.4 N° y fecha inscripción en el : Indicar el número y fecha de inscripción de la
 Registro de Valores sociedad securitizadora en el Registro de Valores de la Comisión para el Mercado Financiero.
 ### 3.5 Dirección : Indicar la dirección de la oficina principal de la sociedad
 securitizadora.
@@ -807,7 +807,7 @@ la cual deberá ser incorporada como un anexo al prospecto.
 ### 16.0 INSCRIPCIÓN REGISTRO DE VALORES
 ### 16.1 Certificado de inscripción de : Esta información deberá registrarse una vez que la
 Emisión Comisión para el Mercado Financiero otorgue el certificado de inscripción de la emisión de títulos de deuda de securitización.
-16.1.1 N inscripción : Indicar el número de inscripción de la emisión de títulos
+16.1.1 N° inscripción : Indicar el número de inscripción de la emisión de títulos
 de deuda de securitización en el Registro de Valores.
 16.1.2 Fecha : Indicar el día, mes y año en que la Comisión haya
 otorgado el certificado de inscripción de la emisión de títulos de deuda de securitización.
@@ -831,7 +831,7 @@ referencia para la presentación de la información mínima requerida, por lo ta
 
 ### N.C.G. N° 303
 FECHA: 14.02.2011
-### ANEXO N 4 INSTRUCCIONES PARA LA ELABORACIÓN DEL PROSPECTO PARA LA EMISIÓN DE TÍTULOS DE DEUDA DE SECURITIZACIÓN EFECTUADAS AL AMPARO DE PROGRAMAS DE EMISIÓN
+## ANEXO N° 4 INSTRUCCIONES PARA LA ELABORACIÓN DEL PROSPECTO PARA LA EMISIÓN DE TÍTULOS DE DEUDA DE SECURITIZACIÓN EFECTUADAS AL AMPARO DE PROGRAMAS DE EMISIÓN
 El presente anexo regula la elaboración del prospecto de emisión para emisiones efectuadas al amparo de programas de emisión. En tal sentido, en el literal I se presentan las instrucciones para la elaboración del prospecto en caso que en la Escritura Pública General se haya determinado la no procedencia de absorción entre patrimonios separados, y el literal II contiene las instrucciones a seguir en caso que en la Escritura Pública General se haya determinado la absorción de patrimonios separados.
 ## I. Emisiones con formación de Patrimonios Separados sin posibilidad de absorción.
 En caso que en la Escritura Pública General se haya definido que no procederá la fusión de patrimonios separados que se formen al amparo de ésta, el Prospecto de Emisión deberá ser preparado considerando las instrucciones establecidas en el Anexo N° 3, salvo por lo establecido en los puntos 1 y 4 que deberá ser reemplazado por lo siguiente.
@@ -1042,8 +1042,8 @@ Se deberá señalar el procedimiento a seguir en caso que la cartera a securitiz
 por Línea Se deberá incluir todas las menciones que de acuerdo a lo permitido en el literal I de este anexo no fueron definidas en el Contrato de Emisión de Títulos de Deuda de Securitización por Línea.
 ### 2.7 Otras estipulaciones
 Adicionalmente, podrá incluirse cualquier otra estipulación que las partes estimen conveniente para la mejor regulación de los derechos y protección de los tenedores de títulos de deuda de securitización.
-### ANEXO N 6
-### ANEXO N 6 N.C.G. N° 303
+## ANEXO N° 6
+## ANEXO N° 6 N.C.G. N° 303
 FECHA: 14.02.2011
 ### INSTRUCCIONES PARA LA ELABORACIÓN DEL PROSPECTO PARA LA EMISIÓN DE TÍTULOS DE DEUDA DE SECURITIZACIÓN EFECTUADAS AL AMPARO DE UNA LINEA DE BONOS
 El presente anexo regula la elaboración del prospecto de emisión para cada una de las emisiones efectuadas con cargo a una línea de bonos.

@@ -322,8 +322,11 @@ Registro Civil e Identificación y cuya fecha de fallecimiento difiera de la tom
 de Registro Civil e Identificación con anterioridad al 31 de diciembre de 2016, la deberán referir al 31 de diciembre de 2015 y la reserva técnica de los casos que se detecten producto de ésta, deberá ser contabilizada el mismo mes de su realización, el que en ningún caso podrá ser posterior al 31 de diciembre de 2016. Sin perjuicio de lo anterior, el realizar esta consulta en forma anticipada, no exime de la obligación de realizar la consulta especificada en el número 2 precedente, referida al 31 de diciembre de 2016, en la cual podrá excluir aquellos casos detectados en el proceso previo. De esta forma, la publicación que se especifica en el anexo 6, que debe realizarse a más tardar el 31 de marzo de 2017, deberá incluir los casos detectados en estos dos procesos de consulta.
 
 ANEXO 1: Cálculo del Test de Insuficiencia de Prima A fin de calcular la Reserva de Insuficiencia de Primas se deberán estimar los siguientes ratios para cada ramo/ sub-ramo:
-Última pérdida neta por siniestros ocurridos en el período Siniestralidad= Prima retenida neta de anulaciones e incobrabilidad×(1 − %Costos de adquisición computables) Ratio de gastos Gastos de explotación − Gastos a cargo de reaseguradores
-= Prima retenida neta de anulaciones e incobrabilidad×(1 − %Costos de adquisición computables)
+Última pérdida neta por siniestros ocurridos en el período Siniestralidad= Prima retenida neta de anulaciones e incobrabilidad×(1 − %Costos de adquisición computables)
+$$
+\text{Ratio de gastos} = \frac{\text{Gastos de explotación} - \text{Gastos a cargo de reaseguradores}}{\text{Prima retenida neta de anulaciones}}
+$$
+
 “Combined ratio”= Siniestralidad + Ratio de gastos TI ∗ [Reservas medias(de siniestros + de Riesgo en curso)neta de reaseguros] Rentabilidad= Prima retenida neta de anulaciones e incobrabilidad×(1 − %Costos de adquisición computables) Insuficiencia= Máximo(Combined ratio − Rentabilidad −1;0) Luego, la Reserva de Insuficiencia de Primas para cada agrupación será el resultado del siguiente cálculo:
 Reserva de Insuficiencia de Primas = Insuficiencia x Reserva de riesgos en curso neta de reaseguro Para el cálculo de la reserva en cuestión deberá utilizarse la siguiente información:
 a) Período de información a utilizar: la información a utilizar será anual al cierre de cada estado financiero,
@@ -500,10 +503,10 @@ FI = r=1 r(t+1) ; t = 0,1,……,j,…..N-1
 > 1
 > 1−tIrt
 > N−1
-> FA = ∏FI
-> t r
-> r=t
 > $$
+$$
+FA_t = \prod_{r=t}^{N-1} FI_r
+$$
 Cálculo de la reserva de Siniestros ocurridos y no reportados (OYNR):
 Con el objeto de estimar la Reserva de OYNR se confeccionará la siguiente matriz, considerando el método de Bornhuetter-Ferguson, de manera de ajustar la siniestralidad a los riesgos asumidos por la compañía, disminuyendo la volatilidad asociada a los siniestros presentados:
 
@@ -516,24 +519,14 @@ Con el objeto de estimar la Reserva de OYNR se confeccionará la siguiente matri
 | … |  | … | … | … | … |
 | Período k-1 | SI k-1 | P k-1 | FA 1 | UP k-1 | OYNR k-1 |
 | Período k | SI k | P k | FA 0 | UP k | OYNR k |
-| Total | 𝐤 ∑𝐒𝐈 𝐤 𝐫=𝟏 | 𝐤 ∑𝐏 𝐤 𝐫=𝟏 | - | k UP r r=1 | Reserva de OYNR= k OYNR r r=1 |
+| Total | 𝐤 ∑𝐒𝐈 𝐤 𝐫=𝟏 | 𝐤 ∑𝐏 𝐤 𝐫=𝟏 | - | k ∑UP r r=1 | Reserva de OYNR= k ∑OYNR r r=1 |
 
 TSa corresponde a la tasa de siniestralidad esperada. La TSa se calculará por ventanas de tiempo anuales y corresponderá a la siniestralidad observada en cada ventana anual de tiempo considerada, esto es, a la suma de siniestros incurridos divididos por la prima ganada durante esta ventana. Para el cálculo de los siniestros incurridos se debe considerar los siniestros pagados más la reserva de siniestros pendientes existentes a la fecha de cálculo, en cada ventana de tiempo, según período de ocurrencia.
 La siniestralidad a asignar a cada período, dependerá de la ventana de tiempo (anual) a la que pertenezca, es decir, para un periodo incluido en la ventana de tiempo “a”, se le debe asignar la TSa correspondiente a la ventana de tiempo que lo contiene.
 La tasa de siniestralidad anual TSa se calculará de acuerdo a la siguiente fórmula:
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ∑
-> 𝑡𝑎
-> SI
-> TS = i=1 ai
-> a
-> ∑
-> 𝑡𝑎
-> P
-> i=1 ai
-> $$
+$$
+TS_a = \frac{\sum_{i=1}^{t_a} SI_{a,i}}{\sum_{i=1}^{t_a} P_{a,i}}
+$$
 Donde:
 ta = último período de la ventana de tiempo a.
 SIai = Siniestros incurridos en el periodo i del año a.
@@ -556,7 +549,7 @@ Cuando una compañía haya realizado un cut-off de alguno de sus contratos de re
 | … | … | … | … | … |
 | Período k-1 | OYNRk-1 | CRk-1 | OYNRk-1 x CRk-1 | OYNRk-1 x (1-CRk-1) |
 | Período k | OYNRk | CRk | OYNRk x CRk | OYNRk x (1-CRk) |
-| Total | Reserva de OYNR Bruta= k OYNR r r=1 | - | Reserva de OYNR Cedida= kr= O Y N R x C R r r 1 | Reserva de OYNR Retenida= kr= O Y N R x ( 1 - C R ) r r 1 |
+| Total | Reserva de OYNR Bruta= k ∑OYNR r r=1 | - | Reserva de OYNR Cedida= k∑r= O Y N R x C R r r 1 | Reserva de OYNR Retenida= k∑r= O Y N R x ( 1 - C R ) r r 1 |
 
 Donde:
 Siniestros incurridos a cargo de reaseguro a la fecha de cálculo para el período i
@@ -612,7 +605,7 @@ Prima de Renovación:
 Prima primer año:
 α= β´−(min(β, P )−c )
 19 x+1 x
- es la cantidad que se asume, como la prima del primer año para efectos de la reserva técnica.
+α es la cantidad que se asume, como la prima del primer año para efectos de la reserva técnica.
 Donde:
 P representa la prima pura nivelada del plan.
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
@@ -674,7 +667,7 @@ c ; la prima riesgo x a es el factor de actualización de una renta vencida unit
 P : corresponde a la prima pura nivelada de un seguro "vida entera" suscrito a la edad de x+1 y con
 19 x+1
 primas pagaderas durante 19 años.
-En resumen, el método consiste en suponer para el cálculo de la reserva, que la prima del primer año es , y el de los siguientes β'.
+En resumen, el método consiste en suponer para el cálculo de la reserva, que la prima del primer año es α, y el de los siguientes β'.
 
 ANEXO 5: TABLAS DE MORTALIDAD M-2016
 Las tablas de mortalidad M-2016 fueron construidas por el Departamento de Estadísticas de la Facultad de Matemáticas de la Pontificia Universidad Católica a requerimiento de la Asociación de Aseguradores de Chile entre julio 2014 y enero 2017 y, posteriormente, recalibradas por la CMF, con el objetivo de asegurar una mayor representatividad del mercado. Estas fueron construidas con una ventana temporal correspondiente a los años 2006-2010. La metodología utilizada en la construcción fue la de WhittakerHenderson para las edades centrales y el modelo de Makeham para las edades iniciales y finales.
@@ -689,23 +682,20 @@ la siguiente fórmula:
 > 1 −
 > y
 > i
-> $$
-
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ⋅
+> ⋅
 > q
 > y
 > Ax
+> ⋅ q Ax
 > $$
- q Ax Donde, x
+Donde, x
 : edad en años q Ax : tasa de mortalidad anual para la edad x y
 : 1/12, factor de mensualización i
 : entero entre 0 y 11 q m(x
 / y )+ 1
 : tasa de mortalidad para la edad
-(xy−1+i) meses
+(x⋅y−1+i) meses
 
 ### TABLA M-2016 HOMBRES
 

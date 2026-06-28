@@ -1340,24 +1340,12 @@ Las definiciones que siguen, detallan el contenido y forma en que se deberán ex
 A c tiv o o b je to
 ### T O S D E O P C IO N E S C U A N D O E L F O N D O A C T U A C O M O L
 Id e n tific a c ió n d e l In s tru m e n to N e m o té c n ic o F o rm a d e F e c h a d e F e c h a d e d e l e je rc ic io in ic io d e l v e n c im ie n to in s tru m e n to c o n tra to
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (1 ) C ifra s e n la m o n e d a q u e c o rre s p o n d a c o n 4 d e c im a le s
-> (2 ) C ifra s e n m ile s d e la m o n e d a fu n c io n a l d e l fo n d o
-> (3 ) P o rc e n ta je s c o n 4 d e c im a le s
-> $$
+(1 ) C ifra s e n la m o n e d a q u e c o rre s p o n d a c o n 4 d e c im a le s
+(2 ) C ifra s e n m ile s d e la m o n e d a fu n c io n a l d e l fo n d o
+(3 ) P o rc e n ta je s c o n 4 d e c im a le s
 ### A N Z A D
 N o m c o n tra O R b re p a rte C ó d ig o m o n e d a d e liq u id a c ió n C ó d ig o p a ís T ip o d e o p c ió n N ú m c o n e ro d e tra to s P re c io d e e je rc ic io (1 ) ma V a lo r d e e rc a d o d e l c tiv o o b je to
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (1 )
-> Nu
-> n
-> a c
-> $$
-ú m e ro d e id a d e s d e l tiv o o b je to
+(1 ) Nu n a c ú m e ro d e id a d e s d e l tiv o o b je to
 ### T O T A L
 V a lo riz a c ió n a p re c io d e e je rc ic io (2 ) Vd ae lo m riz a c ió n e rc a d o
 (2 ) P o rc e n ta je d e l m o n to c o m p ro m e tid o s o b re e l a c tiv o to ta l d e l fo n d o
@@ -1405,13 +1393,9 @@ Las definiciones que siguen, detallan el contenido y forma en que se deberán ex
 C ó d ig o d e o p e ra c ió n
 ### C R V /V R C D E V E N T A C O N C O
 F e c h a d e In ic io
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (1 ) C ifra s e n m ile s
-> (2 ) P o rc e n ta je s c o
-> (3 ) C ifra s e n m ile s
-> $$
+(1 ) C ifra s e n m ile s
+(2 ) P o rc e n ta je s c o
+(3 ) C ifra s e n m ile s
 ### M P R O M IS O D E R E T R O C O M P R A
 F e c h a d e N o m b re T e rm in o c o n tra p a rte c o d e la m o n e d a fu n c io n a l d e l fo n d o n 4 d e c im a le s d e la m o n e d a q u e c o rre s p o n d a
 ### (V R C ) Y
@@ -1587,15 +1571,10 @@ A continuación se adjunta al presente anexo, la información y antecedentes obl
 |  |
 
 ### FACTOR DE DIVERSIFICACIÓN NOMBRE EMISOR RUT EMISOR TIPO DE INSTRUMENTO INVERSION DIRECTA INVERSION INDIRECTA TOTAL INVERSION
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1
-> 2
-> 3
-> 4
-> 5
-> $$
+2
+3
+4
+5
 ### TOTAL EMISOR % SOBRE TOTAL ACTIVO DEL FONDO INFORMACIÓN DEL FONDO Y OTROS ANTECEDENTES
 ## I. IDENTIFICACION DEL FONDO
 1. RUN del fondo de inversión: Indicar el Rol Único Numérico (RUN) asignado por esta

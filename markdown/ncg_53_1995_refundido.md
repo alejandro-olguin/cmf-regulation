@@ -105,38 +105,37 @@ p : Período que se está calculando o informando.
 i : Año del período que se está calculando.
 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
 entonces:
-PRIMA = cta. 6.31.11.10 + cta. 6.31.11.10 IPC -cta. 6.31.11.10 IPC pi pi dic i-1 1 pi-1 2
-+ cta. 6.31.11.20 + cta. 6.31.11.20 IPC -cta. 6.31.11.20 IPC pi dic i-1 1 pi-1 2 Nota: IPC se define en anexo adjunto.
+PRIMA = cta. 6.31.11.10 + cta. 6.31.11.10 ⋅∧IPC -cta. 6.31.11.10 ⋅∧IPC pi pi dic i-1 1 pi-1 2
++ cta. 6.31.11.20 + cta. 6.31.11.20 ⋅∧IPC -cta. 6.31.11.20 ⋅∧IPC pi dic i-1 1 pi-1 2 Nota: ∧IPC se define en anexo adjunto.
 b) FACTOR DE REASEGURO
 FACTOR DE REASEGURO = costo siniestro pi pi costo siniestro directo + costo siniestro aceptado pi pi
 = cta. FECU 6.31.30.00 cta. FECU 6.31.31.00 + 6.31.32.00 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos docemeses con los datos debidamente reajustados.
 entonces:
-costo de siniestros = cta. FECU 6.31.30.00 pi pi más cta. FECU 6.31.30.00 IPC dic i-1 1 menos cta. FECU 6.31.30.00 IPC pi-1 2 costo de sin directo = cta. FECU 6.31.31.00 pi pi más cta. FECU 6.31.31.00 IPC dic i-1 1 menos cta. FECU 6.31.31.00 IPC pi-1 2 costo de sin aceptado = cta. FECU 6.31.32.00 pi pi más cta. FECU 6.31.32.00 IPC dic i-1 1 menos cta. FECU 6.31.32.00 IPC pi-1 2 En el caso de un Gran Riesgo, según la definición de la letra b) del capítulo 2 precedente, la o las pólizas involucradas en tal riesgo serán tratadas como una sola unidad, debiendo multiplicarse el factor de reaseguro resultante, por un factor de seguridad igual a 2 (dos).
+costo de siniestros = cta. FECU 6.31.30.00 pi pi más cta. FECU 6.31.30.00 ⋅∧IPC dic i-1 1 menos cta. FECU 6.31.30.00 ⋅∧IPC pi-1 2 costo de sin directo = cta. FECU 6.31.31.00 pi pi más cta. FECU 6.31.31.00 ⋅∧IPC dic i-1 1 menos cta. FECU 6.31.31.00 ⋅∧IPC pi-1 2 costo de sin aceptado = cta. FECU 6.31.32.00 pi pi más cta. FECU 6.31.32.00 ⋅∧IPC dic i-1 1 menos cta. FECU 6.31.32.00 ⋅∧IPC pi-1 2 En el caso de un Gran Riesgo, según la definición de la letra b) del capítulo 2 precedente, la o las pólizas involucradas en tal riesgo serán tratadas como una sola unidad, debiendo multiplicarse el factor de reaseguro resultante, por un factor de seguridad igual a 2 (dos).
 #### B. EN FUNCION DE LOS SINIESTROS:
 a) PROMEDIO DE SINIESTROS ULTIMOS 3 AÑOS
 Este monto corresponde a:
 _ _
 ## X COSTO DE SIN. DIRECTOS + X COSTO DE SIN. ACEPTADOS ULT. 3 AÑOS ULT. 3 AÑOS
-=
-costo sin. dir. + costo sin.acept.
+= Σcosto sin. dir. + Σcosto sin.acept.
 ult. 3 años ult. 3 años
 _________________________________ _______________________________________
 3 3
 donde:
 _
 X = promedio
-i) costo sin. dir. =
+i) Σcosto sin. dir. =
 ult. 3 años cto. sin. dir. = cta. FECU 6.31.31.00p pi i
-+ cto. sin. dir. = cta. FECU 6.31.31.00 IPC pi-1 pi-1
-+ cto. sin. dir. = cta. FECU 6.31.31.00 IPC pi-2 pi-2 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
++ cto. sin. dir. = cta. FECU 6.31.31.00 ⋅∧IPC pi-1 pi-1
++ cto. sin. dir. = cta. FECU 6.31.31.00 ⋅∧IPC pi-2 pi-2 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
 entonces:
-cto. de sin. dir. = cta. FECU 6.31.31.00 pi pi más cta. FECU 6.31.31.00 IPC dic i-1 1 menos cta. FECU 6.31.31.00 IPC pi-1 2 cto. de sin. dir. = cta. FECU 6.31.31.00 IPC pi-1 pi-1 2 más cta. FECU 6.31.31.00 IPC dic i-2 3 menos cta. FECU 6.31.31.00 IPC pi-2 4 cto. de sin. dir. = cta. FECU 6.31.31.00 IPC pi-2 pi-2 4 más cta. FECU 6.31.31.00 IPC dic i-3 5 menos cta. FECU 6.31.31.00 IPC pi-3 6
-ii) costo sin. acept. =
+cto. de sin. dir. = cta. FECU 6.31.31.00 pi pi más cta. FECU 6.31.31.00 ⋅∧IPC dic i-1 1 menos cta. FECU 6.31.31.00 ⋅∧IPC pi-1 2 cto. de sin. dir. = cta. FECU 6.31.31.00 ⋅∧IPC pi-1 pi-1 2 más cta. FECU 6.31.31.00 ⋅∧IPC dic i-2 3 menos cta. FECU 6.31.31.00 ⋅∧IPC pi-2 4 cto. de sin. dir. = cta. FECU 6.31.31.00 ⋅∧IPC pi-2 pi-2 4 más cta. FECU 6.31.31.00 ⋅∧IPC dic i-3 5 menos cta. FECU 6.31.31.00 ⋅∧IPC pi-3 6
+ii) Σcosto sin. acept. =
 ult. 3 años cto. sin. acept. = cta. FECU 6.31.32.00 pi pi
-+ cto. sin. acept. = cta. FECU 6.31.32.00 IPC pi-1 pi-1
-+ cto. sin. acept. = cta. FECU 6.31.32.00 IPC pi pi-2 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
++ cto. sin. acept. = cta. FECU 6.31.32.00 ⋅∧IPC pi-1 pi-1
++ cto. sin. acept. = cta. FECU 6.31.32.00 ⋅∧IPC pi pi-2 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
 entonces:
-cto. sin. acept. = cta. FECU 6.31.32.00 pi pi más cta. FECU 6.31.32.00 IPC dic i-1 1 menos cta. FECU 6.31.32.00 IPC pi-1 2 cto. de sin. acept. = cta. FECU 6.31.32.00 IPC pi-1 pi-1 2 más cta. FECU 6.31.32.00 IPC dic i-2 3 menos cta. FECU 6.31.32.00 IPC pi-2 4 cto. de sin. acept. = cta. FECU 6.31.32.00 IPC pi-2 pi-2 4 más cta. FECU 6.31.32.00 IPC dic i-3 5 menos cta. FECU 6.31.32.00 IPC pi-3 6
+cto. sin. acept. = cta. FECU 6.31.32.00 pi pi más cta. FECU 6.31.32.00 ⋅∧IPC dic i-1 1 menos cta. FECU 6.31.32.00 ⋅∧IPC pi-1 2 cto. de sin. acept. = cta. FECU 6.31.32.00 ⋅∧IPC pi-1 pi-1 2 más cta. FECU 6.31.32.00 ⋅∧IPC dic i-2 3 menos cta. FECU 6.31.32.00 ⋅∧IPC pi-2 4 cto. de sin. acept. = cta. FECU 6.31.32.00 ⋅∧IPC pi-2 pi-2 4 más cta. FECU 6.31.32.00 ⋅∧IPC dic i-3 5 menos cta. FECU 6.31.32.00 ⋅∧IPC pi-3 6
 b) FACTORDE REASEGURO
 Es el mismo obtenido en la letra b), A, anterior.
 
@@ -224,8 +223,8 @@ p = período que se está calculando o informando.
 i = año del período que se está calculando.
 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
 entonces:
-MONTO PRIMA = cta. 81.111 + cta. 81.111 *IPC1-cta. 81.111 *IPC2 pi pi dic i-1 pi-1
-+ cta. 81.113 + cta. 81.113 *IPC1-cta. 81.113 *IPC2 pi dic i-1 pi-1 NOTA: IPC se define en anexo adjunto.
+MONTO PRIMA = cta. 81.111 + cta. 81.111 *∧IPC1-cta. 81.111 *∧IPC2 pi pi dic i-1 pi-1
++ cta. 81.113 + cta. 81.113 *∧IPC1-cta. 81.113 *∧IPC2 pi dic i-1 pi-1 NOTA: ∧IPC se define en anexo adjunto.
 b) FACTOR DE REASEGURO
 FACTOR DE REASEGURO = Costo siniestro pi pi Costo sin. directo + costo sin. aceptado pi pi Cto de siniestros = cta. FECU 82.000 pi pi Cto de sin. Directo = Sin pag. dir. = cta. 82.110 pi pi pi más sin. por pagar dir. = cta. 82.211 pi pi más sin. OYNR dir. = pte dir. cta.
 pi
@@ -242,61 +241,60 @@ OYNR = Ocurridos y noreportados
 p. ant = período anterior
 pte dir. = parte directa pte acept. o acp = parte aceptada Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
 entonces:
-Cto siniestro = cta. FECU 82.000 + cta. 82.000 *IPC1-cta. 82.000 *IPC2 pi pi dic i-1 pi-1
+Cto siniestro = cta. FECU 82.000 + cta. 82.000 *∧IPC1-cta. 82.000 *∧IPC2 pi pi dic i-1 pi-1
 
-Cto sin Dir = cta. 82.110 + cta. 82.110 *IPC1-cta. 82.110 *IPC2 pi pi dic i-1 pi-1
-+ cta. 82.211 + cta. 82.211 *IPC1-cta. 82.211 *IPC2 pi dic i-1 pi-1
-+ pte dir cta 82.220 + pte dir cta 82.220 *  IPC1 - pte dir cta 82.220 *  pi dic i-1 pi-1 IPC2
--[ pte dir cta 82.300 + pte dir cta 82.300 *  IPC1 - pte dir cta 82.300 *  pi dic i-1 pi-1 IPC2] Cto sin Acp = cta. 82.130 + cta. 82.130 *IPC1-cta. 82.130 *IPC2 pi pi dic i-1 pi-1
-+ cta. 82.213 + cta. 82.213 *IPC1-cta. 82.213 *IPC2 pi dic i-1 pi-1
-+ pte Acp cta 82.220 + pte Acp cta 82.220 * IPC1 - pte Acp cta 82.220 * pi dic i-1 pi-1
-IPC2
--[ pte Acp cta 82.300 + pte Acp cta 82.300 *IPC1-pte Acp cta 82.300 * pi dic i-1 pi-1 IPC2]
+Cto sin Dir = cta. 82.110 + cta. 82.110 *∧IPC1-cta. 82.110 *∧IPC2 pi pi dic i-1 pi-1
++ cta. 82.211 + cta. 82.211 *∧IPC1-cta. 82.211 *∧IPC2 pi dic i-1 pi-1
++ pte dir cta 82.220 + pte dir cta 82.220 * ∧ IPC1 - pte dir cta 82.220 * ∧ pi dic i-1 pi-1 IPC2
+-[ pte dir cta 82.300 + pte dir cta 82.300 * ∧ IPC1 - pte dir cta 82.300 * ∧ pi dic i-1 pi-1 IPC2] Cto sin Acp = cta. 82.130 + cta. 82.130 *∧IPC1-cta. 82.130 *∧IPC2 pi pi dic i-1 pi-1
++ cta. 82.213 + cta. 82.213 *∧IPC1-cta. 82.213 *∧IPC2 pi dic i-1 pi-1
++ pte Acp cta 82.220 + pte Acp cta 82.220 * ∧IPC1 - pte Acp cta 82.220 * pi dic i-1 pi-1
+∧IPC2
+-[ pte Acp cta 82.300 + pte Acp cta 82.300 *∧IPC1-pte Acp cta 82.300 *∧ pi dic i-1 pi-1 IPC2]
 ### A.2 EN FUNCION DE LOS SINIESTROS
 a) PROMEDIO SINIESTROS ULTIMOS TRES AÑOS
 Este monto corresponde a:
 _ _
 ## X COSTO DE SIN. DIRECTOS + X COSTO DE SIN. ACEPTADOS ULT. 3 AÑOS ULT. 3 AÑOS
-=
-costo sin. dir. + costo sin. acept.
+= Σcosto sin. dir. + Σcosto sin. acept.
 ult. 3 años ult. 3 años
 3 3
 donde:
 _
 X = promedio
-i) costo sin. Dir.
+i) Σcosto sin. Dir.
 ### ULT. 3 AÑOS
 Cto. Sin. Dir. = cta. 82.110 + cta. 82.211 + pte dir cta. 82.220 -pte dir cta. 82.300 pi pi pi pi pi Cto. Sin. Dir. = cta. 82.110 + cta. 82.211 + pte dir cta. 82.220 -pte dir. cta. 82.300 pi-1 pi-1 pi-1 pi-1 pi-1 Cto. Sin. Dir. = cta. 82.110 + cta. 82.211 + pte dircta. 82.220 -pte dir cta. 82.300 pi-2 pi-2 pi-2 pi-2 pi-2 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
 entonces:
-Cto sin Dir = cta. 82.110 + cta.82.110 *IPC1-cta. 82.110 *IPC2 pi pi dic i-1 pi-1
-+ cta. 82.211 + cta. 82.211 *IPC1-cta. 82.211 *IPC2 pi dic i-1 pi-1
-+ pte dir cta 82.220 + pte dir cta 82.220 *IPC1-pte dir cta 82.220 *IPC2 pi dic i-1 pi-1
--[ pte dir cta 82.300 + pte dir cta 82.300 *IPC1-pte dir cta 82.300 *IPC2] pi dic i-1 pi-1 Cto sin Dir = cta. 82.110 *IPC2 + cta. 82.110 *IPC3-cta. 82.110 *IPC4 pi-1 pi-1 dic i-2 pi-2
+Cto sin Dir = cta. 82.110 + cta.82.110 *∧IPC1-cta. 82.110 *∧IPC2 pi pi dic i-1 pi-1
++ cta. 82.211 + cta. 82.211 *∧IPC1-cta. 82.211 *∧IPC2 pi dic i-1 pi-1
++ pte dir cta 82.220 + pte dir cta 82.220 *∧IPC1-pte dir cta 82.220 *∧IPC2 pi dic i-1 pi-1
+-[ pte dir cta 82.300 + pte dir cta 82.300 *∧IPC1-pte dir cta 82.300 *∧IPC2] pi dic i-1 pi-1 Cto sin Dir = cta. 82.110 *∧IPC2 + cta. 82.110 *∧IPC3-cta. 82.110 *∧IPC4 pi-1 pi-1 dic i-2 pi-2
 
-+ cta. 82.211 *IPC2 + cta. 82.211 *IPC3-cta. 82.211 *IPC4 pi-1 dic i-2 pi-2
-+ pte dir cta 82.220 *IPC2 + pte dir cta 82.220 *IPC3-pte dir cta 82.220 *IPC4 pi-1 dic i-2 pi-2
--[ pte dir cta 82.300 * IPC2 + pte dir cta 82.300 * IPC3 - pte dir cta 82.300 * pi-1 dic i-2 pi-2
-IPC4] Cto sin Dir = cta. 82.110 *IPC4 + cta.82.110 *IPC5-cta. 82.110 *IPC6 pi-2 pi-2 dic i-3 pi-3
-+ cta. 82.211 *IPC4 + cta. 82.211 *IPC5-cta. 82.211 *IPC6 pi-2 dic i-3 pi-3
-+ pte dir cta 82.220 *IPC4 + pte dir cta 82.220 *IPC5-pte dir cta 82.220 *IPC6 pi-2 dic i-3 pi-3
--[ pte dir cta 82.300 * IPC4 + pte dir cta 82.300 * IPC5 - pte dir cta 82.300 * pi-2 dic i-3 pi-3
-IPC6]
-ii) COSTO SIN. ACEPTADOS
++ cta. 82.211 *∧IPC2 + cta. 82.211 *∧IPC3-cta. 82.211 *∧IPC4 pi-1 dic i-2 pi-2
++ pte dir cta 82.220 *∧IPC2 + pte dir cta 82.220 *∧IPC3-pte dir cta 82.220 *∧IPC4 pi-1 dic i-2 pi-2
+-[ pte dir cta 82.300 * ∧IPC2 + pte dir cta 82.300 * ∧IPC3 - pte dir cta 82.300 * pi-1 dic i-2 pi-2
+∧IPC4] Cto sin Dir = cta. 82.110 *∧IPC4 + cta.82.110 *∧IPC5-cta. 82.110 *∧IPC6 pi-2 pi-2 dic i-3 pi-3
++ cta. 82.211 *∧IPC4 + cta. 82.211 *∧IPC5-cta. 82.211 *∧IPC6 pi-2 dic i-3 pi-3
++ pte dir cta 82.220 *∧IPC4 + pte dir cta 82.220 *∧IPC5-pte dir cta 82.220 *∧IPC6 pi-2 dic i-3 pi-3
+-[ pte dir cta 82.300 * ∧IPC4 + pte dir cta 82.300 * ∧IPC5 - pte dir cta 82.300 * pi-2 dic i-3 pi-3
+∧IPC6]
+ii) ΣCOSTO SIN. ACEPTADOS
 ### ULT. 3 AÑOS
 Cto Sin Acp = cta. 82.130 + cta. 82.213 + pte acp cta. 82.220 -pte acp cta. 82.300 pi pi pi pi pi Cto Sin Acp = cta 82.130 + cta 82.213 + pte acp cta 82.220 -pte acp cta 82.300 pi-1 pi-1 pi-1 pi-1 pi-1 Cto Sin Acp = cta 82.130 + cta 82.213 + pte acp cta 82.220 -pte acp cta 82.300 pi-2 pi-2 pi-2 pi-2 pi-2 Dado que la información requerida es anual, para los trimestres marzo, junio y septiembre se toman los últimos doce meses con los datos debidamente reajustados.
 entonces:
-Cto Sin Acp = cta. 82.130 + cta. 82.130 *IPC1-cta. 82.130 *IPC2 pi pi dic i-1 pi-1
-+ cta. 82.213 + cta. 82.213 *IPC1-cta. 82.213 *IPC2 pi dic i-1 pi-1
-+ pte Acp cta 82.220 + pte Acp cta 82.220 *IPC1-pte Acp cta 82.220 *IPC2 pi dic i-1 pi-1
--[ pte Acp cta 82.300 + pte Acp cta 82.300 *IPC1-pte Acp cta 82.300 *IPC2] pi dic i-1 pi-1 Cto Sin Acp = cta. 82.130 *IPC2 + cta. 82.130 *IPC3-cta. 82.130 *IPC4 pi-1 pi-1 dic i-2 pi-2
-+ cta. 82.213 *IPC2 + cta. 82.213 *IPC3-cta. 82.213 *IPC4 pi-1 dic i-2 pi-2
-+ pte Acp cta 82.220 *IPC2 + pte Acp cta 82.220 *IPC3-pte Acp cta 82.220 *IPC4 pi-1 dic i-2 pi-2
--[ pte Acp cta 82.300 *IPC2 + pte Acp cta 82.300 *IPC3-pte Acp cta 82.300 * pi-1 dic i-2 pi-2
-IPC4] Cto Sin Acp = cta. 82.130 *IPC4 + cta. 82.130 *IPC5-cta. 82.130 *IPC6 pi-2 pi-2 dic i-3 pi-3
-+ cta. 82.213 *IPC4 + cta. 82.213 *IPC5-cta. 82.213 *IPC6 pi-2 dic i-3 pi-3
-+ pte Acp cta 82.220 *IPC4 + pte Acp cta 82.220 *IPC5-pte Acp cta 82.220 *IPC6 pi-2 dic i-3 pi-3
--[ pte Acp cta 82.300 *IPC4 + pte Acp cta 82.300 *IPC5-pte Acp cta 82.300 * pi-2 dic i-3 pi-3
-IPC6]
+Cto Sin Acp = cta. 82.130 + cta. 82.130 *∧IPC1-cta. 82.130 *∧IPC2 pi pi dic i-1 pi-1
++ cta. 82.213 + cta. 82.213 *∧IPC1-cta. 82.213 *∧IPC2 pi dic i-1 pi-1
++ pte Acp cta 82.220 + pte Acp cta 82.220 *∧IPC1-pte Acp cta 82.220 *∧IPC2 pi dic i-1 pi-1
+-[ pte Acp cta 82.300 + pte Acp cta 82.300 *∧IPC1-pte Acp cta 82.300 *∧IPC2] pi dic i-1 pi-1 Cto Sin Acp = cta. 82.130 *∧IPC2 + cta. 82.130 *∧IPC3-cta. 82.130 *∧IPC4 pi-1 pi-1 dic i-2 pi-2
++ cta. 82.213 *∧IPC2 + cta. 82.213 *∧IPC3-cta. 82.213 *∧IPC4 pi-1 dic i-2 pi-2
++ pte Acp cta 82.220 *∧IPC2 + pte Acp cta 82.220 *∧IPC3-pte Acp cta 82.220 *∧IPC4 pi-1 dic i-2 pi-2
+-[ pte Acp cta 82.300 *∧IPC2 + pte Acp cta 82.300 *∧IPC3-pte Acp cta 82.300 * pi-1 dic i-2 pi-2
+∧IPC4] Cto Sin Acp = cta. 82.130 *∧IPC4 + cta. 82.130 *∧IPC5-cta. 82.130 *∧IPC6 pi-2 pi-2 dic i-3 pi-3
++ cta. 82.213 *∧IPC4 + cta. 82.213 *∧IPC5-cta. 82.213 *∧IPC6 pi-2 dic i-3 pi-3
++ pte Acp cta 82.220 *∧IPC4 + pte Acp cta 82.220 *∧IPC5-pte Acp cta 82.220 *∧IPC6 pi-2 dic i-3 pi-3
+-[ pte Acp cta 82.300 *∧IPC4 + pte Acp cta 82.300 *∧IPC5-pte Acp cta 82.300 * pi-2 dic i-3 pi-3
+∧IPC6]
 b) FACTOR DE REASEGURO
 Es el mismo obtenido en la letra b), A.1 anterior.
 #### B. SEGUROS DE VIDA QUE NO GENERAN RESERVAS MATEMATICAS (EXCLUIDOS LOS DEL ART. 59º, D.L. 3.500)
@@ -523,33 +521,33 @@ MARGEN DE SOLVENCIA-SEGUROS DE VIDA (Cifras en Miles de Pesos) CUADRO Nº 3 RESU
 #### D. MARGEN DE SOLVENCIA (A+ B+C)
 
 ## ANEXO Nº 3 VARIACION IPC
-Variación del IPC ( IPC): Corresponde a la variación del Indice de Precios al Consumidor, IPC, correspondiente al período que se está calculando, de tal manera que, en la fórmula del factor respectivo, esta variación se ha denotado de la siguiente forma:
-a)IPC : corresponde a la variación experimentada por el IPC desde diciembre del año anterior hasta el
+Variación del IPC (∧ IPC): Corresponde a la variación del Indice de Precios al Consumidor, IPC, correspondiente al período que se está calculando, de tal manera que, en la fórmula del factor respectivo, esta variación se ha denotado de la siguiente forma:
+a)∧IPC : corresponde a la variación experimentada por el IPC desde diciembre del año anterior hasta el
 1 mes y año de referencia, esto es, el período que se está calculando, y su fórmula genérica es la que
 más adelante se define.
-b)IPC : corresponde a la variación experimentada por el IPCdesde el mismo mes del año anteriorhasta
+b)∧IPC : corresponde a la variación experimentada por el IPCdesde el mismo mes del año anteriorhasta
 2 el mes y año de referencia, esto es, el período que se está calculando, y su fórmula genérica es la
 que más adelante se define.
-c)IPC : corresponde a la variación experimentada por el IPCdesde diciembre de dos años anteshasta el
+c)∧IPC : corresponde a la variación experimentada por el IPCdesde diciembre de dos años anteshasta el
 3 mes y año de referencia, esto es, el período que se está calculando, y su fórmula genérica es la que
 más adelante se define.
-d)IPC : corresponde a la variación experimentada por el IPC desde el mismo mes de dos años antes
+d)∧IPC : corresponde a la variación experimentada por el IPC desde el mismo mes de dos años antes
 4 hasta el mes y año de referencia, esto es, el período que se está calculando, y su fórmula genérica
 es la que más adelante se define.
-e)IPC : corresponde a la variación experimentada por el IPCdesde diciembre de tres años anteshasta el
+e)∧IPC : corresponde a la variación experimentada por el IPCdesde diciembre de tres años anteshasta el
 5 mes y año de referencia, esto es, el período que se está calculando, y su fórmula genérica es la que
 más adelante se define.
-f)IPC : corresponde a la variación experimentada por el IPC desde el mismo mes de tres años antes
+f)∧IPC : corresponde a la variación experimentada por el IPC desde el mismo mes de tres años antes
 6 hasta el mes y año de referencia, esto es, el período que se está calculando, y su fórmulagenérica
 es la que más adelante se define.
 Siendo p = período que se está informando, e
 i = año del período que se está calculando.
 entonces:
 
-| P | IPC1 |  | IPC2 |  | IPC3 |  | IPC4 |  | IPC5 |  | IPC6 |  |
+| P | ∧IPC1 |  | ∧IPC2 |  | ∧IPC3 |  | ∧IPC4 |  | ∧IPC5 |  | ∧IPC6 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARZO JUNIO SEPT. DIC. | para DIC i-1 para DIC i-1 para DIC i-1 para DIC i-1 | IPCfeb i IPCnov i-1 IPCmay i IPCnov i-1 IPCago i IPCnov i-1 IPCnov i IPCnov i-1 | para MAR i-1 para JUNi- 1 para SEPT i-1 para DICi- 1 | IPCfeb i IPCfeb i- 1 IPCmay i IPCmay i-1 IPCago i IPCago i- 1 IPCnov i IPCnov i- 1 | para DICi- 2 para DICi- 2 para DICi- 2 para DICi- 2 | IPCfeb i IPCnov i-2 IPCmay i IPCnov i-2 IPCago i IPCnov i-2 IPCnov i IPCnov i-2 | para MAR i-2 para JUN i-2 para SEPTi-2 para DICi- 2 | IPCfeb i IPCfeb i-2 IPCmay i IPCmay i-2 IPCago i IPCago i-2 IPCnov i IPCnov i-2 | para DIC i-3 para DIC i-3 para DIC i-3 para DIC i-3 | IPCfeb i IPCnov i- 3 IPCmay i IPCnov i- 3 IPCago i IPCnov i- 3 IPCnov i IPCnov i- 3 | para MARi-3 para JUNi-3 para SEPTi- 3 para DICi-3 | IPCfeb i IPCfeb i-3 IPCmay i IPCmay i-3 IPCago i IPCago i-3 IPCnov i IPCnov i-3 |
-|  | PARA p = DIC.--->IPC1=IPC2 |  |  |  | PARA p = DIC.--->IPC3=IPC4 |  |  |  | PARA p = DIC.--->IPC5=IPC6 |  |  |  |
+|  | PARA p = DIC.--->∧IPC1=∧IPC2 |  |  |  | PARA p = DIC.--->∧IPC3=∧IPC4 |  |  |  | PARA p = DIC.--->∧IPC5=∧IPC6 |  |  |  |
 
 ## I N DI C E
 ## I. INTRODUCCION.

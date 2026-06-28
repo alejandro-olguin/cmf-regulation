@@ -126,14 +126,8 @@ ACTIVO
 | Jurídicas |
 
 Bienes Fines Total Bienes Fines Total Bienes Fines Total Raíces Generales Raíces Generales Raíces Generales N° mutuos Monto (1) Provisión incobrabilidad y morosidad
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> (2)
-> Monto neto (*)
-> (3) = (1) – (2)
-> $$
-Los montos descritos en las filas (1), (2) y (3) deben expresarse en miles de pesos.
+(2) Monto neto (*)
+(3) = (1) – (2) Los montos descritos en las filas (1), (2) y (3) deben expresarse en miles de pesos.
 (*) Este monto debe corresponder a lo informado en la cuenta 2.11.03.01 “Mutuos Hipotecarios”.
 3) Cuenta 2.11.03.02 “Renta fija” : Deberá indicarse el monto total por tipo de instrumento, de acuerdo a la siguiente clasificación:
 

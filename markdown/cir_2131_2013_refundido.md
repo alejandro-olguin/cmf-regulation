@@ -19,9 +19,9 @@ En caso que reciban documentos, deberán dejar constancia por escrito de dicha c
 El presente procedimiento deberá aplicarse a las consultas o reclamos, o en adelante indistintamente
 “presentaciones” o “solicitudes”, que efectúen los contratantes, asegurados, beneficiarios o legítimos interesados de contratos de seguros, o en adelante indistintamente los “clientes” o “interesados” ante las compañías aseguradoras, corredores de seguros o liquidadores de siniestros, o en adelante indistintamente la “entidad” o “entidades”.
 Para estos efectos, se entenderá por:
- Legítimo Interés: Cuando el solicitante acredite tener una pretensión actual y real sobre los derechos de una póliza determinada.
- Reclamo: Aquellas solicitudes en que se exige, reivindica o demanda una solución, sea por un motivo general o particular, o bien, la manifestación de una queja, descontento o disconformidad con una determinación o actuación.
- Consulta: Aquellas solicitudes de información y orientación.
+· Legítimo Interés: Cuando el solicitante acredite tener una pretensión actual y real sobre los derechos de una póliza determinada.
+· Reclamo: Aquellas solicitudes en que se exige, reivindica o demanda una solución, sea por un motivo general o particular, o bien, la manifestación de una queja, descontento o disconformidad con una determinación o actuación.
+· Consulta: Aquellas solicitudes de información y orientación.
 Se aplicará igualmente a cualquier otro tipo de requerimiento que, por su naturaleza, precise de una respuesta escrita de la entidad requerida.
 ## III. PROCEDIMIENTO DE TRAMITACIÓN.
 ## 1. Recepción de solicitudes.

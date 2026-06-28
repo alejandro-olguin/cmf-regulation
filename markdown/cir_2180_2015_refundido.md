@@ -104,16 +104,16 @@ La compañía podrá diseñar su propio formato para el contenido de cada cuadro
 - Género
 - Fecha de nacimiento
 - Datos de contacto:
- Domicilio
- Teléfono
- Correo electrónico
+· Domicilio
+· Teléfono
+· Correo electrónico
 ## 2. Identificación de los beneficiarios:
 - Nombre completo
 - RUT
 - Datos de contacto:
- Domicilio
- Teléfono
- Correo electrónico
+· Domicilio
+· Teléfono
+· Correo electrónico
 ## 3. Identificación de la póliza y cláusulas adicionales, en su caso:
 - Nombre con que se encuentra depositada la póliza
 - Código de depósito de la póliza
@@ -232,7 +232,7 @@ Instrucción para la compañía:
 | 1. En caso que la rentabilidad refleje el rendimiento de una combinación de los anteriores, esto es , la combinación de una tasa garantizada, tasas variables, índices, fondos : Rentabilidad ofrecida: …………… (Ej.: Máximo entre el 4% real anual y el 80% de la variación anual del S&P500) (*) |
 | --- |
 | 2. Periodicidad en que se abona la rentabilidad a la cuenta única de inversión: Ej.: mensual |
-| 3. Fórmula de aplicación: Ej.: Rentabilidad mensual = Max { ( ( 1 + 4% ) 1/12-1 ) ;( Valor S&P500 / Valor S&P500 ) -1*0,8} i i-1 |
+| 3. Fórmula de aplicación: Ej.: Rentabilidad mensual = Max { ( ( 1 + 4% ) 1/12-1 ) ;[( Valor S&P500 / Valor S&P500 ) -1]*0,8} i i-1 |
 
 Instrucción para la compañía:
 (*) Debe señalar el porcentaje o fracción del rendimiento del activo objeto o instrumento financiero, según corresponda, en caso que la rentabilidad ofrecida corresponda a un porcentaje del mismo.
@@ -371,9 +371,9 @@ Instrucciones para completar la información y notas que se entreguen al asegura
 (2) Debe utilizar la unidad monetaria correspondiente ala moneda de la póliza contratada,tal como UF o US$.
 (3) Deberá agregarse la siguiente nota:
 “Se entenderá por:
- SF = Saldo final en pesos, ala fecha de cierre del período, de la cuenta única de inversión.
- SI = Saldo final en pesos, a la fecha de cierre del período anterior, de la cuenta única de inversión.
- A = Aportes efectuados durante el período informado.
- C = Cargos efectuados durante el período informado.
- R = Rescates efectuados durante el período informado.
- V = Ganancia o pérdida de la alternativa de inversión, medida en pesos, obtenida durante el período informado.”
+· SF = Saldo final en pesos, ala fecha de cierre del período, de la cuenta única de inversión.
+· SI = Saldo final en pesos, a la fecha de cierre del período anterior, de la cuenta única de inversión.
+· A = Aportes efectuados durante el período informado.
+· C = Cargos efectuados durante el período informado.
+· R = Rescates efectuados durante el período informado.
+· V = Ganancia o pérdida de la alternativa de inversión, medida en pesos, obtenida durante el período informado.”

@@ -5,7 +5,7 @@
 
 NORMA N° 227
 FECHA: 08.09.2008
-### SUPERINTENDENCIA DE PENSIONES CIRCULAR N 1534 SUPERINTENDENCIA DE BANCOS CIRCULAR N° 3446 E INSTITUCIONES FINANCIERAS SUPERINTENDENCIA DE VALORES Y SEGUROS NORMA DE CARÁCTER GENERAL N 227
+### SUPERINTENDENCIA DE PENSIONES CIRCULAR N° 1534 SUPERINTENDENCIA DE BANCOS CIRCULAR N° 3446 E INSTITUCIONES FINANCIERAS SUPERINTENDENCIA DE VALORES Y SEGUROS NORMA DE CARÁCTER GENERAL N° 227
 VISTOS: Las facultades que confiere el artículo 20 G del Decreto Ley N° 3.500, de 1980, a estas Superintendencias y lo dispuesto en los artículos 48 y vigésimo transitorio de la Ley N°
 20.255, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las
 Administradoras de Fondos de Pensiones, Instituciones Autorizadas e Instituto de Previsión Social.
@@ -481,12 +481,12 @@ retenciones que correspondan de acuerdo a lo señalado en el capítulo XI de la 
 Superintendencias el que en ningún caso podrá ser superior a 30 días corridos desde la fecha en que se presenta la solicitud.
 10. Las Administradoras de Fondos de Pensiones e Instituciones Autorizadas podrán pagar
 los retiros en cualquiera de las siguientes modalidades:
- Transferencias electrónicas de fondos
- Efectivo
- Vale Vista nominativo
- Cheque nominativo
- Depósito en Cuenta Bancaria.
- Cualquier otra autorizada por la respectiva Superintendencia.
+· Transferencias electrónicas de fondos
+· Efectivo
+· Vale Vista nominativo
+· Cheque nominativo
+· Depósito en Cuenta Bancaria.
+· Cualquier otra autorizada por la respectiva Superintendencia.
 11. Para efectos de esta Circular, a los montos pagados en exceso en planes de ahorro
 previsional voluntario colectivo, respecto de los cuales se solicite su devolución, se les aplicará el tratamiento que esta norma otorga a los retiros de fondos.
 ## 12. Si a la fecha de fallecimiento de un trabajador afiliado al Sistema de Pensiones del D.L.
@@ -581,13 +581,20 @@ separadamente en sus sistemas de información el capital invertido por ahorro pr
 siguiente forma:
 FI = R * C
 FC = R - FI
-### SUPERINTENDENCIA DE VALORES Y SEGUROS 29 C    S ( $ ) 
-S S
+### SUPERINTENDENCIA DE VALORES Y SEGUROS
+> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+>
+> $$
+> 29
+> C =
+> S ( $ ) −
+> S
+> S
+> $$
 ( $
 (
-) u tm ) 
+) u tm )
 .1 0 0
-
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -635,26 +642,23 @@ FECHA: 08.09.2008
 podrán informar su rentabilidad a partir de los seis meses, contados desde que ingresen recursos a dichas alternativas de ahorro, debiendo sumar un mes hasta completar el período de 12 meses.
 8. Cada vez que se informen rentabilidades, éstas deberán presentarse netas de costos y
 comisiones, de acuerdo con lo establecido en una norma de carácter general de la Superintendencia respectiva. Dichas rentabilidades deberán presentarse en forma anualizada y deflactadas por la unidad de fomento, utilizando la siguiente fórmula:
- 12 
-
- n
-
- 
- 
-1r
- 
-r =  ni - 1x100 i  
- UF
-i
-
- 
- 
-
- UF
-j
-
-
- 
+ 12
+
+ n
+
+> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+>
+> $$
+> 1+r
+>
+> r =  ni - 1x100
+> i
+> UF
+> i
+> $$
+
+ UF j
+
 r = rentabilidad real anual al mes i i
 r = rentabilidad nominal período de n meses al mes i ni
 i = mes al cual se le está efectuando el cálculo.

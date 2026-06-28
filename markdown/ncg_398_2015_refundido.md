@@ -483,7 +483,7 @@ q°x,t =Ө x /E x .
 Cálculo de Expuestos al Riesgo Primero es necesario calcular la edad asegurada “IA”:
 IA = Edad_decimal(Fecha exacta bautizo de la póliza; fecha exacta de nacimiento).
 La edad decimal se calculó como:
-Mes(F.bautizo)Mes(F.nac) Día(F.bautizo)Día(F.nac) Edad_decimalAño(F.bautizo)Año(F.nac) 
+(Mes(F.bautizo)−Mes(F.nac)) (Día(F.bautizo)−Día(F.nac)) Edad_decimal=(Año(F.bautizo)−Año(F.nac))+ +
 12 365.25
 Donde, F.bautizo: Fecha exacta de bautizo, que corresponde a la fecha de inicio de vigencia de la póliza de renta vitalicia o inicio de pensión por retiro programado.
 F.nac: Fecha exacta de nacimiento.
@@ -677,9 +677,10 @@ Resultados de los test:
 | Alfa = 5% |  |  |  |  |  |
 |  | Hombres |  | Mujeres |  |  |
 | TEST | CB | MI | RV | B | MI |
-| Chi cuadrado Desviaciones Estandarizadas Desviaciones Absolutas Desviaciones Acumuladas Test Signo Test de Stevens Test Cambio de Signo |               |  |                      |  |  |
+| Chi cuadrado Desviaciones Estandarizadas Desviaciones Absolutas Desviaciones Acumuladas Test Signo Test de Stevens Test Cambio de Signo | Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ |  | Ρ Ρ Ρ Τ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ Ρ |  |  |
 
-     La tabla de mujeres causantes pasa todos los test, excepto el de Desviaciones Estandarizadas. En este caso, las desviaciones estandarizadas se concentran en torno a cero incluso más de lo que lo harían en una distribución normal (sobre un 95% de las observaciones tienen desviación estandarizada menor a 1 en términos absolutos), por lo que si bien la tabla no pasa este test, el comportamiento de las distribuciones estandarizadas es aceptable. Esta tabla pasa el resto de los test, en particular aquellos que también buscan examinar la normalidad de las desviaciones estandarizadas (Desviaciones absolutas y Signos).
+### Ρ Ρ Ρ Ρ Ρ
+La tabla de mujeres causantes pasa todos los test, excepto el de Desviaciones Estandarizadas. En este caso, las desviaciones estandarizadas se concentran en torno a cero incluso más de lo que lo harían en una distribución normal (sobre un 95% de las observaciones tienen desviación estandarizada menor a 1 en términos absolutos), por lo que si bien la tabla no pasa este test, el comportamiento de las distribuciones estandarizadas es aceptable. Esta tabla pasa el resto de los test, en particular aquellos que también buscan examinar la normalidad de las desviaciones estandarizadas (Desviaciones absolutas y Signos).
 Para el resto de las tablas el ajuste pasa los 7 test. En el Apéndice N°2 de la nota técnica se detalla el
 5La descripción de esta metodología está en el puntoIdel Apéndice N°1.
 6La descripción de los test utilizados está en el puntoIIdel Apéndice N°1.
@@ -692,18 +693,18 @@ resultado de cada test aplicado.
 Los datos son representativos sólo para el rango de edades donde hay suficiente volumen de datos de expuestos y fallecidos. Sin embargo, no hay suficientes datos en las edades extremas por lo que es necesario estimar las tasas de mortalidad en estos segmentos. ..
 VI. 1 Construcción de colas Debido a que no hay suficientes datos para las edades avanzadas, se utilizan modelos de mortalidad paramétricos y luego se extrapolan los resultados en las colas. Los modelos
 considerados son:
-q 1 g(cxc1)
+q =1− g(−cx⋅(c−1))
 • Gompertz: x
-q 1 sg(cxc1)
+q =1− s⋅g(−cx⋅(c−1))
 • Makeham: x
-q 1 e(e(abxcx2))
+q =1− e(−e(a+bx+cx2))
 • Cuadrático: x
 q
-A(xB)C De(E(ln(x)ln(F))2)(abx)/(1abx)
+=A(x+B)C +D⋅e(−E⋅(ln(x)−ln(F))2)+(a⋅bx)/(1+a⋅bx)
 • Heligman y Pollard: (1ra
-x Ley) q  A(xB)C De(E(ln(x)ln(F))2)(aebxk )/(1aebxk
+x Ley) q = A(x+B)C +D⋅e(−E⋅(ln(x)−ln(F))2)+(a⋅eb⋅xk )/(1+a⋅eb⋅xk
 )
-(3ra Ley) x q 1 e(ae(bx) /(1ae(bx)))c)
+(3ra Ley) x q =1− e−(ae(bx) /(1+ae(bx)))+c)
 • Kannisto: x
 La extrapolación se realizó con el ajuste del q de las edades centrales, tomando los últimos 10 o x
 15 años, dependiendo de cuál entregaba mejores resultados. Para decidir qué modelo utilizar, se
@@ -1122,9 +1123,9 @@ FECHA: 20.11.2015
 APÉNDICE N°3: FILTROS UTILIZADOS EN LAS BASES DEDATOS
 ## 1. LA BASE DE DATOS
 Se utilizó las siguientes bases de datos, todas al 31 de diciembre de 2013:
- Base de datos de la SVS: Generada a partir de la información de la Circular N° 1.194, que incluye pólizas de renta vitalicia previsionales (ya sea como venta directa, o de traspaso o cesión de cartera) y siniestros de invalidez y sobrevivencia según la Circular N° 528. La información incluye tanto causantes de pensión como beneficiarios de pensión a pago y potenciales.
- Base de datos de la SP: Generada desde la Base de Datos de Afiliados, Cotizantes, Beneficiarios, Pensionados y Fallecidos proporcionada mensualmente por las Administradoras de Fondos de Pensiones, según lo establecido en el Compendio de Normas del Sistema de Pensiones, Libro V, Título XI, que incluye información de pensionados tanto bajo la modalidad de Retiro Programado como por Renta Vitalicia. La información incluye tanto causantes de pensión como beneficiarios de pensión efectivos y potenciales.
- Base de datos del IPS: Base de datos solicitada por la SP al IPS, que incluye información de los pensionados y beneficiarios a pago del sistema antiguo de pensiones (ex INP). Esta base de datos contiene información de todos los pensionados y beneficiarios que recibieron alguna pensión entre los años 2006 y 2013 inclusive.
+· Base de datos de la SVS: Generada a partir de la información de la Circular N° 1.194, que incluye pólizas de renta vitalicia previsionales (ya sea como venta directa, o de traspaso o cesión de cartera) y siniestros de invalidez y sobrevivencia según la Circular N° 528. La información incluye tanto causantes de pensión como beneficiarios de pensión a pago y potenciales.
+· Base de datos de la SP: Generada desde la Base de Datos de Afiliados, Cotizantes, Beneficiarios, Pensionados y Fallecidos proporcionada mensualmente por las Administradoras de Fondos de Pensiones, según lo establecido en el Compendio de Normas del Sistema de Pensiones, Libro V, Título XI, que incluye información de pensionados tanto bajo la modalidad de Retiro Programado como por Renta Vitalicia. La información incluye tanto causantes de pensión como beneficiarios de pensión efectivos y potenciales.
+· Base de datos del IPS: Base de datos solicitada por la SP al IPS, que incluye información de los pensionados y beneficiarios a pago del sistema antiguo de pensiones (ex INP). Esta base de datos contiene información de todos los pensionados y beneficiarios que recibieron alguna pensión entre los años 2006 y 2013 inclusive.
 Para validar la información sobre sexo, fecha de nacimiento y fecha de fallecimiento, las bases de datos de la SP y la SVS se enviaron a parear al Servicio de Registro Civil e Identificación (SRCEI) a través de las Compañías de Seguros de Vida y Administradoras de Fondos de Pensiones responsables de la información
 (Oford N° 7650 del 23/04/2014 de la SP y Oford N° 10801 del 24/04/2014 de la SVS). En el caso del IPS, éste mantiene su información actualizada con los datos del SRCEI.
 
@@ -1135,22 +1136,22 @@ FECHA: 20.11.2015
 ### SP, LA SVS E IPS
 2.1. Definiciones previas
 A continuación se definen algunos de los términos que se utilizarán a lo largo de este anexo:
- Sobrevivencia pura: Se refiere a las pensiones generadas producto del fallecimiento del afiliado antes de haberse pensionado y que generó pensión de sobrevivencia.
- Causante: Se refiere a un pensionado(a) por vejez o invalidez, que puede o no tener beneficiarios legales de pensión de sobrevivencia. Se incluye también afiliados(as) que fallecieron antes de haberse pensionado y que genera pensión de sobrevivencia pura.
- Beneficiario efectivo: Se refiere a un beneficiario legal de pensión de sobrevivencia, que recibe o ha recibido pagos por esta pensión, pues el causante de la pensión ha fallecido. No se considera los beneficiarios designados de renta vitalicia.
- Beneficiario potencial: Se refiere a un beneficiario legal de pensión de sobrevivencia, que no ha recibido pagos por esta pensión, pues el pensionado causante no ha fallecido. No se consideran los beneficiarios designados de renta vitalicia.
- Fecha de pensión: Se refiere indistintamente a la fecha de pensión del IPS o a la fecha de solicitud de pensión suscrita en la AFP o a la fecha de inicio de vigencia de la póliza de RV.
- Inválidos: Pensionados por invalidez o beneficiarios inválidos. No se consideran los beneficiarios designados de renta vitalicia.
+· Sobrevivencia pura: Se refiere a las pensiones generadas producto del fallecimiento del afiliado antes de haberse pensionado y que generó pensión de sobrevivencia.
+· Causante: Se refiere a un pensionado(a) por vejez o invalidez, que puede o no tener beneficiarios legales de pensión de sobrevivencia. Se incluye también afiliados(as) que fallecieron antes de haberse pensionado y que genera pensión de sobrevivencia pura.
+· Beneficiario efectivo: Se refiere a un beneficiario legal de pensión de sobrevivencia, que recibe o ha recibido pagos por esta pensión, pues el causante de la pensión ha fallecido. No se considera los beneficiarios designados de renta vitalicia.
+· Beneficiario potencial: Se refiere a un beneficiario legal de pensión de sobrevivencia, que no ha recibido pagos por esta pensión, pues el pensionado causante no ha fallecido. No se consideran los beneficiarios designados de renta vitalicia.
+· Fecha de pensión: Se refiere indistintamente a la fecha de pensión del IPS o a la fecha de solicitud de pensión suscrita en la AFP o a la fecha de inicio de vigencia de la póliza de RV.
+· Inválidos: Pensionados por invalidez o beneficiarios inválidos. No se consideran los beneficiarios designados de renta vitalicia.
 2.2. Consideraciones iniciales
- Modalidad de pensión: Se clasifica como Renta Vitalicia (RV) a todos los registros que provengan de las base de datos de la SVS. El resto de los casos son clasificados como Retiro Programado (RP). Puede existir beneficiarios clasificados como RV y otros como RP dentro de un mismo grupo familiar, debido a que algunode los beneficiarios puede haber dejado de serlo (por ejemplo, hijos que se casan o cumplen
+· Modalidad de pensión: Se clasifica como Renta Vitalicia (RV) a todos los registros que provengan de las base de datos de la SVS. El resto de los casos son clasificados como Retiro Programado (RP). Puede existir beneficiarios clasificados como RV y otros como RP dentro de un mismo grupo familiar, debido a que algunode los beneficiarios puede haber dejado de serlo (por ejemplo, hijos que se casan o cumplen
 24 años) o fallecido antes de la compra de la póliza de RV.
- Composición de las tablas RV, B, MI, CB: A continuación se describe la población utilizada para el cálculo de cada tabla de mortalidad 2014:
+· Composición de las tablas RV, B, MI, CB: A continuación se describe la población utilizada para el cálculo de cada tabla de mortalidad 2014:
 o RV: Contiene información de causantes de pensión no inválidas (mujeres), de las bases de datos de la SP y SVS.
 o B: Contiene información de beneficiarias de pensión de sobrevivencia no inválidas (mujeres), tanto potenciales como efectivos, de las bases de datos de la SP y SVS.
 o CB: Contiene información de causantes y beneficiarios no inválidos (hombres), de las bases de datos de la SP y SVS.
 o MI: Contiene información tanto de causantes como beneficiarios inválidos, de las bases de datos de la SP, la SVS. En el caso de las mujeres, se utiliza también información del IPS a partir de los
 83 años de edad.
- Edad: Para la aplicación de los filtros, se utilizan las siguientes definiciones de edad:
+· Edad: Para la aplicación de los filtros, se utilizan las siguientes definiciones de edad:
 Sea,fnacla fecha de nacimientoyfevalla fecha de cálculo de la edad:
 Edad_decimal = (año(eval)-año(feval)) + (mes(eval)-mes(feval))/12 + (año(eval)-año(feval))/(365,25) Edad_entera = Redondear(Edad_decimal,0).
 
@@ -1159,7 +1160,7 @@ NORMA DE CARÁCTER GENERALSVS N° 398
 FECHA: 20.11.2015
 ## 3. FILTROS DE CONTENIDO Y LIMPIEZA DE DATOS
 3.1. Filtros exclusivos para la base de datos de la SP:
- Filtro de pensión: Se elimina los causantes (y sus beneficiarios) que no pueden seleccionar modalidad de pensión pues su pensión es inferior a la requerida. Si la fecha de solicitud de pensión es anterior a julio de
+· Filtro de pensión: Se elimina los causantes (y sus beneficiarios) que no pueden seleccionar modalidad de pensión pues su pensión es inferior a la requerida. Si la fecha de solicitud de pensión es anterior a julio de
 2008, la pensión requerida es el valor de la “Pensión mínima para afiliados hombres y mujeres menores de
 70 años”. Si la fecha de solicitud de pensión es posterior a julio de 2008, la pensión requerida es el valor de
 la Pensión Básica Solidaria.
@@ -1170,17 +1171,17 @@ o Causantes que hayan jubilado anticipadamente y sus beneficiarios.
 o Causantes que hayan entrado a SCOMP y sus beneficiarios.
 o Causantes pensionados en RVy sus beneficiarios.
 Las dos primeras excepciones se deben a que en esos casos se utilizan las tablas de mortalidad para el cálculo del aporte adicional, mientras que las tres últimas se deben a que en esos casos necesariamente se cumplen los requisitos para seleccionar modalidad de pensión.
- Filtro bono por hijo: Se elimina las causantes mujeres que reciben el bono por hijo y cuya fecha de afiliación es posterior o igual al año 2008, y todos sus beneficiarios.
+· Filtro bono por hijo: Se elimina las causantes mujeres que reciben el bono por hijo y cuya fecha de afiliación es posterior o igual al año 2008, y todos sus beneficiarios.
 Se excluyen del filtro (no se eliminan) :
 o Causantes que hayan jubilado anticipadamente y sus beneficiarios.
 o Causantes que hayan entrado a SCOMP y sus beneficiarios.
 o Causantes pensionados en RV y sus beneficiarios.
 Las excepciones se deben a que en esos casos necesariamente se cumplen los requisitos para seleccionar modalidad de pensión.
- Filtro modalidad de pensión: Se elimina los registros correspondientes a RV, según la clasificación explicada en las consideraciones iniciales (modalidad de pensión).
+· Filtro modalidad de pensión: Se elimina los registros correspondientes a RV, según la clasificación explicada en las consideraciones iniciales (modalidad de pensión).
 3.2. Filtros exclusivos para la base de datosdel IPS:
- Filtro error fecha de pensión: Se elimina los casos cuya fecha de pensión es 30/06/2009, por tratarse de una fecha que el IPS utilizó cuando no contaba con el dato.
+· Filtro error fecha de pensión: Se elimina los casos cuya fecha de pensión es 30/06/2009, por tratarse de una fecha que el IPS utilizó cuando no contaba con el dato.
 3.3. Filtros de inconsistencia de datos:
- Filtro SRCEI: Se aplica los siguientes filtros asociados al pareo con el Servicio de Registro Civil e Identificación (SRCEI). Estos filtros no se aplican a la base de datos del IPS que ya viene validada:
+· Filtro SRCEI: Se aplica los siguientes filtros asociados al pareo con el Servicio de Registro Civil e Identificación (SRCEI). Estos filtros no se aplican a la base de datos del IPS que ya viene validada:
 o Filtro sin dato del SRCEI: Se elimina los registros que no pudieron ser pareados con el Registro Civil.(Sólo se aplica a la base de datos de la SP) o Filtro pareo SRCEI: Las compañías de seguro de vida enviaron los resultados del pareo para cada registro de la Circular 1194, exceptuando las aceptaciones de reaseguro. Luego, se elimina los registros donde el flag16 del resultado del pareo son distinto a 1, 2, 3 o 4. Además, en los casos donde el flag es válido (1,2,3,4), se reemplazan los datos de sexo, fecha de nacimiento y fecha de fallecimiento de la base de datos, con la información del SRCEI, yaque se considera ésta como la información oficial.(Sólo se aplica a la BD de la SVS)
 16 El SRCEI en conjunto con los resultados del pareo entrega un flag para cada registro, según la siguiente codificación:1
 “Apellidos y nombres coinciden 100%”,2“Apellidos coinciden 100% y nombres coinciden≥60%”,3“Apellidos coinciden 100% y nombres coinciden≤60%”,4“Búsqueda por nombre: los apellidos y nombres coinciden en un 100%, coincidiendo también la fecha de nacimiento,5“No existe el registro” y6“Formato inválido en registro de entrada”.
@@ -1189,24 +1190,24 @@ NORMA DE CARÁCTERGENERAL SP N° 162
 NORMA DE CARÁCTER GENERALSVS N° 398
 FECHA: 20.11.2015
 o Filtro inconsistencia fechas de nacimiento original versus dato SRCEI: Se elimina aquellos RUN de beneficiarios que no están recibiendo pensión, debido a que probablemente fueron mal informados como beneficiarios. Para ello, se elimina los registros de beneficiarios potenciales donde la fecha de nacimiento original difiere de la fecha de nacimiento del SRCEI en al menos 3 dígitos. Se exceptúan de este filtro a los beneficiarios fallecidos, donde coinciden los datos originales con los resultados del pareo tanto en la fecha de fallecimiento como en el sexo.
- Filtro RUN no válido: Se elimina los registros donde el RUN del causante o del beneficiario es igual a 0 o 1.
+· Filtro RUN no válido: Se elimina los registros donde el RUN del causante o del beneficiario es igual a 0 o 1.
 En el caso del IPS, no hay información del causante relacionado al beneficiario, por lo que la primera condición no aplica.(Sólo se aplica a la BD de la SP y SVS)
- Filtro error sexo: Se elimina los registros cuyo sexo es distinto de “F” y “M”.
- Filtro sin fecha de pensión: Se elimina los registros sin fecha de inicio de pensión, eliminando los registros del causante y sus beneficiarios.
- Filtros error fecha de pensión:
+· Filtro error sexo: Se elimina los registros cuyo sexo es distinto de “F” y “M”.
+· Filtro sin fecha de pensión: Se elimina los registros sin fecha de inicio de pensión, eliminando los registros del causante y sus beneficiarios.
+· Filtros error fecha de pensión:
 o Para la base de datos de la SVS y la SP: Se elimina los registros con fecha de inicio de pensión anterior al 01/01/1981, eliminando los registros del causante y sus beneficiarios.
 o Para la base de datos del IPS:Se elimina los registros cuya fecha de inicio de pensión es menor a
 01/01/1900.
- Filtro sin fecha de nacimiento: Se elimina los registrossin fecha de nacimiento.
- Filtro error fecha de nacimiento: Se elimina los registros donde la edad (entera) a la fecha de inicio de la pensión es mayor a 120 años y aquellos nacidos después del 31/12/2013.
- Filtro error fecha de nacimiento o fecha de fallecimiento: Se elimina los registros cuya fecha de nacimiento es posterior a la fecha de fallecimiento, en caso de encontrarse fallecido el individuo.
- Filtro error fecha de nacimiento o fecha de pensión: Se elimina los registros de causantes cuya fecha de nacimiento es posterior a la fecha de inicio de pensión.(Sólo se aplica a las bases de datos de la SP y el IPS)
- Filtro inconsistencia fecha de pensión y fecha de fallecimiento:
+· Filtro sin fecha de nacimiento: Se elimina los registrossin fecha de nacimiento.
+· Filtro error fecha de nacimiento: Se elimina los registros donde la edad (entera) a la fecha de inicio de la pensión es mayor a 120 años y aquellos nacidos después del 31/12/2013.
+· Filtro error fecha de nacimiento o fecha de fallecimiento: Se elimina los registros cuya fecha de nacimiento es posterior a la fecha de fallecimiento, en caso de encontrarse fallecido el individuo.
+· Filtro error fecha de nacimiento o fecha de pensión: Se elimina los registros de causantes cuya fecha de nacimiento es posterior a la fecha de inicio de pensión.(Sólo se aplica a las bases de datos de la SP y el IPS)
+· Filtro inconsistencia fecha de pensión y fecha de fallecimiento:
 o Para las bases de datos de la SP e IPS: Se elimina los registros de los fallecidos cuya fecha de inicio de pensión es posterior a la fecha de fallecimiento. Se excluyen los casos de causantes de sobrevivencia pura en la base de datos de la SP.
 o Para la base de datos de la SVS: Se elimina los registros de los fallecidos, donde el año-mes de fallecimiento es anterior al año-mes de la fecha de inicio de vigencia de la póliza. Se excluye los casos de causantes de sobrevivencia pura.
- Filtro fechas de nacimiento y fallecimiento no válidas: Se elimina los registros cuya fecha de nacimiento o fecha de fallecimiento no es válida17.
- Filtro sin parentesco: Se elimina los beneficiarios con código de parentesco nulo. (Sólo se aplica a las bases de datos de la SP y la SVS)
- Filtro fecha de pensión no válida: Se elimina los causantes cuya fechade pensión no es válida17y todos sus beneficiarios.
+· Filtro fechas de nacimiento y fallecimiento no válidas: Se elimina los registros cuya fecha de nacimiento o fecha de fallecimiento no es válida17.
+· Filtro sin parentesco: Se elimina los beneficiarios con código de parentesco nulo. (Sólo se aplica a las bases de datos de la SP y la SVS)
+· Filtro fecha de pensión no válida: Se elimina los causantes cuya fechade pensión no es válida17y todos sus beneficiarios.
 17Definición de fecha no válida (FNV): Se considera que una fecha es no válida cuando no corresponde a una fecha. Para ello,
 se verifica lo siguiente:
 a) Año no puede ser menor a 1861,
@@ -1216,16 +1217,16 @@ c)El día debe estar dentrode los valores permitidos para cada mes, ejemplo abri
 NORMA DE CARÁCTERGENERAL SP N° 162
 NORMA DE CARÁCTER GENERALSVS N° 398
 FECHA: 20.11.2015
- Filtro fecha de corte:
+· Filtro fecha de corte:
 o Fecha de pensión posterior: Se elimina los registros cuya fecha de pensión es posterior al
 31/12/2013.
 o Filtro fecha de nacimiento posterior: Se elimina los registros cuya fecha de nacimiento es posterior al 31/12/2013.
- Filtro mismo RUN beneficiario y causante: Se elimina los beneficiarios donde el RUN del beneficiario es igual al del causante.(Sólo se aplica a las bases de datos de la SP y la SVS)
- Filtro sobrevivencia pura: Se elimina los causantes fallecidos que no recibieron pensión de vejez o invalidez, pero que si generaron pensión de sobrevivencia.(Sólo se aplica a las bases de datos de la SP y la SVS)
- Filtro aceptaciones de reaseguro:Se elimina las aceptaciones dereaseguro por ser un registro que duplica al registro de la compañía cedente.(Sólo se aplica a la base de datos de la SVS)
- Filtro tipo de pensión inconsistente:Se elimina los registros de los causantes para los que el tipo de pensión es “invalidez total o parcial” y la situación de invalidez es “no inválido”, debido a que no es posible inferir la real situación de invalidez del pensionado.(Sólo se aplica a las bases de datos de la SVS y la SP.)
- Filtro inconsistencia sexo del padre o madre de causante:Se elimina los registros de padre de causante con sexo femenino y de madre de causante con sexo masculino. (Sólo se aplica a las bases de datos de la SP y la SVS)
- Filtros de inconsistencia con el grupo familiar o Filtro inconsistencia sexo entre cónyuges:Se elimina los registros de cónyuges o madre/padre de hijo de filiación no matrimonial que tengan el mismo sexo que el causante.
+· Filtro mismo RUN beneficiario y causante: Se elimina los beneficiarios donde el RUN del beneficiario es igual al del causante.(Sólo se aplica a las bases de datos de la SP y la SVS)
+· Filtro sobrevivencia pura: Se elimina los causantes fallecidos que no recibieron pensión de vejez o invalidez, pero que si generaron pensión de sobrevivencia.(Sólo se aplica a las bases de datos de la SP y la SVS)
+· Filtro aceptaciones de reaseguro:Se elimina las aceptaciones dereaseguro por ser un registro que duplica al registro de la compañía cedente.(Sólo se aplica a la base de datos de la SVS)
+· Filtro tipo de pensión inconsistente:Se elimina los registros de los causantes para los que el tipo de pensión es “invalidez total o parcial” y la situación de invalidez es “no inválido”, debido a que no es posible inferir la real situación de invalidez del pensionado.(Sólo se aplica a las bases de datos de la SVS y la SP.)
+· Filtro inconsistencia sexo del padre o madre de causante:Se elimina los registros de padre de causante con sexo femenino y de madre de causante con sexo masculino. (Sólo se aplica a las bases de datos de la SP y la SVS)
+· Filtros de inconsistencia con el grupo familiar o Filtro inconsistencia sexo entre cónyuges:Se elimina los registros de cónyuges o madre/padre de hijo de filiación no matrimonial que tengan el mismo sexo que el causante.
 o Filtro inconsistencia edad cónyuge:Se elimina los registros de cónyuges que tengan menos de 16 años de edad decimal a la fecha de fallecimiento del causante.
 o Filtro inconsistencia edad madre/padre de hijo de filiación no matrimonial: Se elimina los registros de madres/padres de hijo de filiación no matrimonial, que tengan menos de 12 años de edad decimal a la fecha de fallecimiento del causante.
 o Filtro inconsistencia entre edad causante e hijo beneficiario: Se elimina los registros de beneficiarios en que la edad decimal del causante sea menor a 12 años a la fecha de nacimiento del hijo beneficiario.
@@ -1237,18 +1238,18 @@ FECHA: 20.11.2015
 ## 4. TRATAMIENTO DE DUPLICADOS EN CADA BASE
 Cada individuo debe exponer una sola vez dentro de un misma tabla (según lo definido en la segunda viñeta del punto 2.2 “Consideraciones iniciales” de este apéndice). Dos registros con el mismo RUN se consideran duplicados.
 Se implementa los siguientes criterios o filtros de forma posterior a la eliminación de registros por inconsistencia de datos y se aplican secuencialmente.
- Filtro duplicados con error: Corresponde a duplicados con diferencias en sexo o fecha de nacimiento o fecha de fallecimiento. La búsqueda de duplicados con error se realiza independiente de la tabla de mortalidad a la que pertenece el individuo. Este filtro considera registros filtrados previamente (a excepción de filtros SRCEI). Se elimina ambos registros.
- Filtro duplicados beneficiarios potenciales base SP: Se elimina los beneficiarios potenciales si ya existe un registro como beneficiario efectivo para un mismo grupo familiar, por tener este último registro información más actualizada.(Sólo se aplica a la base de datosde la SP)
- Filtro más de dos causantes: Se eliminan todos los registros de beneficiarios que aparecen asociados a más de 2 causantes, debido a la imposibilidad de identificar al causante del que efectivamente es beneficiario
+· Filtro duplicados con error: Corresponde a duplicados con diferencias en sexo o fecha de nacimiento o fecha de fallecimiento. La búsqueda de duplicados con error se realiza independiente de la tabla de mortalidad a la que pertenece el individuo. Este filtro considera registros filtrados previamente (a excepción de filtros SRCEI). Se elimina ambos registros.
+· Filtro duplicados beneficiarios potenciales base SP: Se elimina los beneficiarios potenciales si ya existe un registro como beneficiario efectivo para un mismo grupo familiar, por tener este último registro información más actualizada.(Sólo se aplica a la base de datosde la SP)
+· Filtro más de dos causantes: Se eliminan todos los registros de beneficiarios que aparecen asociados a más de 2 causantes, debido a la imposibilidad de identificar al causante del que efectivamente es beneficiario
 (Sólo se aplica a la base de datos de la SP, SVS aplica filtro deflags).
- Filtro duplicados: Se eliminan los registros duplicados para un mismo grupo familiar. Para ello, se deja el registro con fecha de inicio de vigencia más antiguo.
- Filtro inconsistencia situación invalidez, causante-beneficiario-inválidos: En caso de encontrarse un mismo RUN en las tres tablas (causante, beneficiario no inválidos e inválidos), se elimina todos los registros, a excepción del causante inválido si corresponde a la primera pensión.(Sólo se aplica a las bases de datos de la SP y la SVS)
- Filtro inconsistencia situación invalidez misma fecha vigencia: Se elimina los registros de beneficiarios duplicados con una misma fecha de inicio de pensión y distinta situación de invalidez. En el caso que los registros duplicados correspondan a un causante con una misma fecha de inicio de pensión y distinta situación de invalidez, se elimina el registro de causante no inválido.(Sólo se aplica a las bases de datos de la SP y la SVS)
- Filtro inconsistencia en situaciónde invalidez del causante: Este filtro considera dos situaciones:
+· Filtro duplicados: Se eliminan los registros duplicados para un mismo grupo familiar. Para ello, se deja el registro con fecha de inicio de vigencia más antiguo.
+· Filtro inconsistencia situación invalidez, causante-beneficiario-inválidos: En caso de encontrarse un mismo RUN en las tres tablas (causante, beneficiario no inválidos e inválidos), se elimina todos los registros, a excepción del causante inválido si corresponde a la primera pensión.(Sólo se aplica a las bases de datos de la SP y la SVS)
+· Filtro inconsistencia situación invalidez misma fecha vigencia: Se elimina los registros de beneficiarios duplicados con una misma fecha de inicio de pensión y distinta situación de invalidez. En el caso que los registros duplicados correspondan a un causante con una misma fecha de inicio de pensión y distinta situación de invalidez, se elimina el registro de causante no inválido.(Sólo se aplica a las bases de datos de la SP y la SVS)
+· Filtro inconsistencia en situaciónde invalidez del causante: Este filtro considera dos situaciones:
 o Se elimina los registros duplicados donde la primera pensión corresponde a un causante no inválido y la segunda a un causante o beneficiario inválido. Esto porque un causante que ya se pensionó como no inválido, no podrá pensionarse por invalidez posteriormente.
 o Se elimina el registro de una segunda pensión de beneficiario o causante no inválido, si existe una primera pensión de causante inválido.
 (Sólo se aplica a la BD de la SP y la SVS)
- Filtro inconsistencia en situación de invalidez del beneficiario:Este filtro considera dos situaciones:
+· Filtro inconsistencia en situación de invalidez del beneficiario:Este filtro considera dos situaciones:
 o En el caso que un beneficiario no inválido tenga una segunda pensión de beneficiario o causante inválido, expondrá como beneficiario no inválido hasta la fecha de inicio de la segunda pensión. Esto debido a que se considera que es factible que alguien que no era causante se haya invalidado con posterioridad a la primera pensión.
 o En el caso que un beneficiario inválido tenga una segunda pensión de beneficiario o causante no inválido, se elimina ambos registros. Esto porque se considera que un inválido no cambiará su situación de invalidez una vez que fue calificado como tal.
 (Sólo se aplica a las bases de datos de la SP y la SVS)
@@ -1261,16 +1262,16 @@ Una vez depurada cada base de datos individual, se procede a la consolidación d
 ### SP SVS IPS
 Consolidada Antes de realizar la consolidación de la base de datos se identifica la menor fecha de pensión (válida) para los cambios de modalidad de pensión (de RP a RV) y se asigna dicha fecha de pensión a la Renta Vitalicia.
 Los filtros aplicados a las bases consolidadas son los siguientes:
- Filtro inconsistencia edad de pensión: Se elimina los registros de los causantes cuya fecha de nacimiento original es distinta de la informada por el SRCEI y cuya edad entera a la fecha de su primera pensión (la menor fecha de pensión considerando las tres bases de datos) sea:
+· Filtro inconsistencia edad de pensión: Se elimina los registros de los causantes cuya fecha de nacimiento original es distinta de la informada por el SRCEI y cuya edad entera a la fecha de su primera pensión (la menor fecha de pensión considerando las tres bases de datos) sea:
 o Menor a 35 años o mayor a 85 años, para causantes no inválidos o Menor a 18 añoso mayor a 70 años, para causantes inválidos.
 Este filtro tiene el objetivo de revisar los casos a nivel de base consolidada, con el fin de detectar errores en la asignación de RUN del causante, por lo que se realiza para todos los casos donde hubo cambiode fecha de nacimiento después del pareo con el SRCEI.
- Duplicados con error: Se elimina los registros con diferencias entre la base de la SP, SVS y/o IPS, en los campos de sexo, fecha de nacimiento o fecha de fallecimiento.
- Filtro duplicados, inicio deexposición consolidación: Se elimina los individuos de la base de la SP si es que también son parte de la base de la SVS y se actualiza la fecha de pensión como la mínima fecha entre ambas bases de datos.
+· Duplicados con error: Se elimina los registros con diferencias entre la base de la SP, SVS y/o IPS, en los campos de sexo, fecha de nacimiento o fecha de fallecimiento.
+· Filtro duplicados, inicio deexposición consolidación: Se elimina los individuos de la base de la SP si es que también son parte de la base de la SVS y se actualiza la fecha de pensión como la mínima fecha entre ambas bases de datos.
 En el caso de los datos del IPS, sólo ingresarán ala base consolidada los registros asociados a RUN que no se encuentren en la base fusionada de la SP y la SVS, para cada tabla. Los datos del IPS sólo son utilizados para complementar información en aquellas edades en las que no existe información, por lo que sólo se ingresan registros nuevos, sin complementar exposición de pensionados ya existentes en el nuevo sistema.
- Filtro inconsistencia en situación de invalidez del causante:
+· Filtro inconsistencia en situación de invalidez del causante:
 o Se elimina los registros duplicados en que la primera pensión correspondea un causante no inválido y la segunda a un causante o beneficiario inválido. En el caso que las fechas de inicio de pensión son iguales, se eliminan los 2 registros.
 o Se elimina el registro de una segunda pensión de beneficiario o causante no inválido, si existe una primera pensión de causante inválido. En el caso que las fechas de inicio de pensión son iguales, se eliminan los 2 registros.
- Filtro inconsistencia en situación de invalidez del beneficiario:
+· Filtro inconsistencia en situación de invalidez del beneficiario:
 o En el caso que un beneficiario no inválido tenga una segunda pensión de beneficiario o causante inválido, expondrá como beneficiario no inválido hasta la fecha de inicio de la segunda pensión. En el caso que las fechas de inicio de pensión son iguales, se eliminan los 2 registros.
 o En el caso que un beneficiario inválido tenga una segunda pensión de beneficiario o causante no inválido, se eliminan ambos registros. En el caso que las fechas de inicio de vigencia son iguales, se eliminan los 2 registros.
 

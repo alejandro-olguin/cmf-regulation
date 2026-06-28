@@ -665,12 +665,12 @@ RP CR% : Comisión de referencia para Retiro programado, expresada en RP porcent
 CF% : Honorario final pagado al asesor, expresado en porcentaje, cuyo RP monto máximo no podrá ser superior al siguiente:
 42
 ### C F %R
-P
-=
-###  C
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> P
+> =
+> C
 > C
 > S
 > C
@@ -687,18 +687,10 @@ UR FP
 > * 1 0 0
 > s
 > $$
-% i C C %R
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> P
-> s i
-> *
-> C
-> S
-> C
-> C
-> $$
+% i C C %R P s i
+*
+C S C
+C
 %R
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
@@ -707,11 +699,7 @@ UR FP
 > P
 > I
 > * S
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ≤
 > C
 > C
 > C
@@ -719,9 +707,10 @@ UR FP
 > I
 > UR
 > $$
- FP
+>
+FP
 ### C M UR FP
-
+
 Donde:
 CC% : Porcentaje de honorarios cobrados por el Asesor, el RP cual no puede ser superior al porcentaje máximo a pagar en retiro programado.
 SCCI : Saldo de la cuenta de capitalización destinado a pensión en UF, a la fecha de cierre del respectivo Certificado de Saldo.
@@ -777,12 +766,12 @@ RV PN : Pensión neta en UF.
 RV CR% : Comisión de referencia para Renta Vitalicia expresada en RV porcentaje.
 CF% : Comisión de intermediación final pagada al asesor o agente, RV expresada en porcentaje, cuyo monto máximo no podrá ser
 superior al siguiente:
-CC% si CC% *SCCI (CMUF −MCONS) 
+CC% si CC% *SCCI ≤(CMUF −MCONS)
 ### RV RV RV
- 
-CF R % V = CMUF −MCONS 
-RV *100% siCC% *SCCI (CMUF −MCONS)
-###   SCCI RV RV  
+
+CF R % V = CMUF −MCONS
+RV *100% siCC% *SCCI >(CMUF −MCONS)
+### SCCI RV RV
 Donde:
 SCCI : Saldo de la cuenta de capitalización destinado a pensión en UF, a la fecha de cierre del respectivo Certificado de Saldo.
 MCONS : Monto en UF retirado de la cuenta de capitalización individual por concepto de honorarios de asesoría en Retiro Programado.
@@ -806,33 +795,22 @@ más el incremento calculado de acuerdo a las reglas anteriores, considerando co
 Compañía en el Sistema, más el incremento de pensión que se señala en la letra a) anterior, cuando corresponda.
 Si aplicada la comisión máxima al saldo destinado a la Renta Temporal o al Retiro Programado y/o si aplicada la comisión máxima al saldo destinado a Renta Vitalicia se obtiene para cada uno o ambos casos un monto en UF superior al establecido en el Decreto Supremo vigente, éstos se ajustarán a los montos máximos permitidos, según corresponda y si su suma en UF no supera el máximo permitido, se determinarán las comisiones (%) equivalentes a dichos montos.
 Si al expresar las comisiones finales en UF, su suma supera las UF máximas vigentes, se deberán recalcular las comisiones a pagar de acuerdo a lo siguiente:
-### ( )'  SCCI 
+### ( )'  SCCI
 CFm = CFm + EM *
-  RPoRT RToRP
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
->  SCCI + P
-> 46
-> (
-> C F
-> R
-> mV
-> $$
+
+RPoRT RToRP
+### SCCI + P
+46
+( C F
+R mV
 ) '
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> = C F
-> R
-> mV +
-> $$
-
+= C F
+R mV +
 E M *
 S C C
 P
 I + P
-
+
 Donde:
 P : Prima renta vitalicia SCCI : Saldo de la cuenta individual destinado a la modalidad de renta temporal o retiro programado según sea el caso, a la fecha de cierre del respectivo Certificado de Saldo.
 CFm : Comisión de intermediación final a pagar en UF RV calculada inicialmente para renta vitalicia.
@@ -848,15 +826,9 @@ EM : Exceso de monto a pagar por comisión de intermediación en UF respecto del
 > m
 > $$
 P o R T
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> + C F
-> R
-> m
-> V
-> )
-> $$
++ C F
+R m V
+)
 Donde:
 
 CFm : Comisión final a pagar respecto de RT o RP la Renta Temporal o Retiro Programado, antes del recálculo.
@@ -866,35 +838,20 @@ Una vez determinado los nuevos montos a pagar en UF y si ambos son positivos, se
 47
 ### ( C F %R
 P o R T
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> ) ' = ( C F
-> S
-> R
-> C
-> mP
-> C
-> o R
-> I
-> T ) ' * 1 00%
-> y
-> $$
+) ' = ( C F
+S R C
+mP C o R I
+### T ) ' * 1 00%
+y
 ### ( C F %R
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> V
-> ) ' = ( C F
-> P
-> R mV ) ' * 1 00%
-> $$
-Si alguno de los nuevos montos a pagar en UF resulta negativo, se considerará que es cero y el otro corresponderá al monto máximo en UF disponible.
+V
+) ' = ( C F
+P R mV ) ' * 1 00% Si alguno de los nuevos montos a pagar en UF resulta negativo, se considerará que es cero y el otro corresponderá al monto máximo en UF disponible.
 ii) Si se trata de una Solicitud de Cambio de Modalidad de Pensión, se determinará el
 monto total disponible en UF y el porcentaje disponible a pagar por asesoría en la modalidad de Renta Vitalicia Diferida y Renta Vitalicia con Retiro Programado. Esta comisión, corresponderá a la diferencia entre la comisión máxima establecida en el decreto vigente y el porcentaje efectivamente consumido en la modalidad de Retiro Programado. Este porcentaje se aplicará al saldo destinado a Renta Vitalicia y a Renta Temporal o Retiro Programado, según corresponda.
 Si aplicado el porcentaje a los saldos señalados, el monto total en UF superara el monto disponible para el pago de la asesoría, se deberán recalcular las comisiones a pagar utilizando el procedimiento señalado en la letra i) precedente, considerando como Exceso de Monto (EM) a pagar por comisión por lo siguiente:
 E M =
- (
+[ (
 C M U
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
@@ -907,14 +864,9 @@ C M U
 > − ( C F m
 > $$
 R P o R T
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> + C F m
-> R V
-> )
-> $$
-
++ C F m R V
+)
+]
 Donde:
 MCONS : Es el monto retirado de la cuenta de capitalización individual por concepto de asesoría, informado en el respectivo certificado de saldo
 
@@ -1494,53 +1446,24 @@ Compañía de Seguros de Vida en Renta Vitalicia Diferida.
 ¿Aumenta si fallece un beneficiario?: En renta vitalicia No
 ¿Disminuye si se agrega un beneficiario?: En renta vitalicia Sí pensión
 ### 65 66 67 68 69 70 71 72 73E
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> d
-> 74
-> a d
-> 75
-> R
-> 76
-> $$
-e tiro
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 77
-> P ro
-> 78
-> g ra
-> 79
-> m a
-> 80
-> d o
-> $$
+d
+74 a d
+75 R
+76 e tiro
+77 P ro
+78 g ra
+79 m a
+80 d o
 81 82 83
 pensión
 ### 65 66 67 68 69 70 71 72 73E
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> d
-> 74
-> a d
-> 75
-> R e
-> 76
-> n ta
-> 77
-> $$
-V ita
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 78
-> lic
-> 79
-> ia
-> $$
+d
+74 a d
+75 R e
+76 n ta
+77 V ita
+78 lic
+79 ia
 80 81 82 83
 Renta Temporal Retiro Programado Renta Vitalicia Renta Vitalicia
 
@@ -3351,7 +3274,13 @@ Sistema, en base a la consulta que se informa y las anteriores efectuadas para u
 
 11. En aquellos casos en que no existan ofertas de renta vitalicia simple para un monto de pensión
 igual a la pensión mínima requerida para acceder al retiro de excedente de libre disposición, el monto del excedente a informar será en función de las Ofertas de Rentas Vitalicias recibidas, considerando el saldo total de la cuenta. Este excedente será cero si la totalidad de dichas ofertas corresponden a una pensión cuyo monto es inferior a la pensión mínima requerida para retiro de excedente. Si alguna de estas ofertas fuera superior a la pensión mínima requerida, el monto del excedente corresponderá al menor valor entre el monto potencial de retiro de excedente informado en el Certificado Electrónico de Saldo y el promedio de los excedentes de libre disposición implícitos en las ofertas de Renta Vitalicia Inmediata. Dicho promedio deberá calcularse de acuerdo a lo siguiente:
- (RV – P )*12*cnu req N° de ofertas
+> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
+>
+> $$
+> ∑ (RV – P )*12*cnu
+> req
+> N° de ofertas
+> $$
 Donde:
 RV : monto de la renta vitalicia ofrecida cnu : capital necesario informado por la Compañía en la oferta P : pensión mínima requerida para retirar excedente informada en el Certificado req de Saldo. Si (RV – P ) es menor que cero deberá igualarse a cero.
 req
@@ -3366,21 +3295,14 @@ Bono de Reconocimiento, deberá presentarse un gráfico de barras como el siguie
 .U 10
 N 9 E
 ,.P 8
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> .R 7
-> N 6
-> Ó
-> I 5
-> S
-> N 4
-> E
-> P 3
-> 2
-> 1
-> 0
-> $$
+.R 7
+N 6 Ó
+I 5 S
+N 4 E
+P 3
+2
+1
+0
 ### EDAD EN AÑOS
 
 | Pensión mensual promedio: x,xx UF Pensión mensual promedio: $......... | Comisión mensual promedio cobrada por su AFP x,xx UF Comisión mensual promedio cobrada por su AFP: $........... |
@@ -3668,18 +3590,17 @@ b) Siniestros a contar del 01/07/2009, esto es, si la fecha de la declaración d
 es a contar del 01/07/2009 En este caso se deberá desplegar la siguiente leyenda y cuadro:
 “Por ley las Compañías de Seguros de Vida indicadas más abajo, garantizan una pensión de referencia con su saldo obligatorio, hasta la fecha de vigencia indicada.
 Los montos de la pensión con su saldo obligatorio y voluntario, en renta vitalicia inmediata simple, serán los siguientes:
-M o n t o P e n s i ó n = P R
-
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
+> M o n t o P e n s i ó n = P R
+>
 > 1 +
 > S
 > S
 > V
 > O
 > $$
-
 
 | Código Oferta | COMPAÑÍA | Pensión mensual UF | Pensión mensual $ |
 | --- | --- | --- | --- |
@@ -3809,11 +3730,7 @@ Los montos de la pensión con el saldo obligatorio y voluntario, en renta vitali
 > e
 > =
 > f i
-> $$
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
-> $$
 > c
 > P
 > i a
@@ -3828,23 +3745,13 @@ Los montos de la pensión con el saldo obligatorio y voluntario, en renta vitali
 > S
 > $$
 •
-
+
+V c P n R u
+
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> V
-> c
-> P
-> n
-> R
-> u
-> $$
-
-
-
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
+> ×
 > 1 +
 > f
 > i
@@ -3852,9 +3759,10 @@ Los montos de la pensión con el saldo obligatorio y voluntario, en renta vitali
 > S
 > V
 > O
+>
+> × f
+> i
 > $$
- 
- f i
 
 | N° | Nombre Beneficiario | Pensión mensual |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4593,27 +4501,12 @@ Pensión Garantizada Universal, cuando la pensión contratada fuere mayor a este
 Monto pensión garantizada universal (PGU) hasta xx/xx/20xx: $ ……..
 165 C l a s i f i
 C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía C o m p a ñ ía T o d a s la s r r e s o lu c ió n c o n t r a t o s d R e s p e c t o d s o b r e la P B M o n t o P e n c a c i ó n d e r i e s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1 A A +
-> 2 A A +
-> 3 A A +
-> 4 A A +
-> 5 A A +
-> $$
+### 1 A A + 2 A A + 3 A A + 4 A A + 5 A A +
 6 A A
 7 A A
 8 A A
 9 A A
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> 1 0 A A
-> 1 1 A A
-> 1 2 A A -
-> 1 3 A A -
-> $$
+### 1 0 A A 1 1 A A 1 2 A A - 1 3 A A -
 1 4 A
 ### 1 5 B B B +
 e n t a s v it a lic ia s g o z a n d e d e liq u id a c ió n , la C o m e r e n t a v it a lic ia . L a g a r a e la s r e n t a s v it a lic ia s d e S , c o n u n t o p e m e n s u a l p s ió n B á s ic a S o lid a r ia ( P B S g o d e l a s c o m p a ñ í a s d e s e g u r o s L a s C la s if ic a d o r a s d e R ie s g o c la s if ic a n la s o b lig a c io n e s d e la s c o m p a ñ ía s d e s e g u r o s e n a t e n c ió n a l r ie s g o d e in c u m p lim ie n t o d e la s m is m a s . E n S C O M P s ó lo p u e d e n p a r t ic ip a r c o m p a ñ ía s c o n c la s if ic a c ió n A A A , A A , A y B B B ( o r d e n a d a s d e m e n o r a m a y o r r ie s g o ) .
@@ -4623,15 +4516,9 @@ h t t p :/ / w w w .c m f c h ile .c l/ p o r t a l/ e s t a d is t ic a s / 6 0
 C o r r e s p o n d e a c o m p a ñ ía s e n q u e la s o b lig a c io n e s d e s e g u r o s p r e s e n t a n la m á s a lt a ( A A A ) , u n a m u y b u e n a ( A A ) o u n a b u e n a ( A ) c a p a c id a d d e c u m p lim ie n t o e n t é r m in o s y p la z o s p a c t a d o s , la c u a l n o s e v e r ía a f e c t a d a o e s s u s c e p t ib le d e d e t e r io r a r s e le v e m e n t e a n t e p o s ib le s c a m b io s e n la c o m p a ñ ía e m is o r a , e n la in d u s t r ia a q u e p e r t e n e c e o e n la e c o n o m ía .
 ### C O M P A Ñ ÍA S C O N R IE S G O M O D E R A D O
 C o r r e s p o n d e a c o m p a ñ ía s e n q u e la s o b lig a c io n e s d e s e g u r o s p r e s e n t a n c a p a c id a d d e c u m p lim ie n t o s u f ic ie n t e ( B B B ) e n lo s t é r m in o s y p la z o s p a c t a d o s , p e r o q u e e s s u s c e p t ib le d e d e b ilit a r s e a n t e p o s ib le s c a m b io s e n la c o m p a ñ ía e m is o r a , e n la in d u s t r ia a q u e p e r t e n e c e o e n la e c o n o m ía .
-g a r a n t ía d e l E s t a d o e n c a s o q u e , p o r c e s a c ió n d e p a g o s o p o r la d ic t a c ió n d e la p a ñ ía d e S e g u r o s n o d ie r e c u m p lim ie n t o a la s o b lig a c io n e s e m a n a d a s d e lo s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> n t ía d e l E s t a d o e q u iv a ld r á a l 1 00% d e la p e n s ió n b á s ic a s o lid a r ia d e v e je z ( P B S ) .
-> m o n t o s s u p e r io r e s a la P B S , la g a r a n t ía d e l E s t a d o c u b r ir á e l 75% d e l e x c e s o p o r
-> o r c a d a p e n s io n a d o o b e n e f ic ia r io , d e 4 5 U n id a d e s d e F o m e n t o .
-> ) h a s t a 3 0 / 0 6 / 2 0 x x : $ … … ..
-> $$
+g a r a n t ía d e l E s t a d o e n c a s o q u e , p o r c e s a c ió n d e p a g o s o p o r la d ic t a c ió n d e la p a ñ ía d e S e g u r o s n o d ie r e c u m p lim ie n t o a la s o b lig a c io n e s e m a n a d a s d e lo s n t ía d e l E s t a d o e q u iv a ld r á a l 1 00% d e la p e n s ió n b á s ic a s o lid a r ia d e v e je z ( P B S ) .
+m o n t o s s u p e r io r e s a la P B S , la g a r a n t ía d e l E s t a d o c u b r ir á e l 75% d e l e x c e s o p o r o r c a d a p e n s io n a d o o b e n e f ic ia r io , d e 4 5 U n id a d e s d e F o m e n t o .
+) h a s t a 3 0 / 0 6 / 2 0 x x : $ … … ..
 
 Instrucciones para el llenado de las Clasificaciones de Riesgo La información respecto a la clasificación de riesgo de las compañías de seguros de vida se incorporará en una página al final del Certificado de Ofertas, sólo cuando existan ofertas de renta vitalicia.
 Deberá informarse la clasificación de riesgo sólo de las compañías que efectuaron ofertas de montos de pensión para la consulta que da cuenta el Certificado de Ofertas, además de las compañías obligadas al pago del aporte adicional cuando corresponda.

@@ -338,14 +338,9 @@ FECHA: 31.8.2007
 Los datos solo son representativos para un grupo determinado de edades, pero en las edades extremas, mayores a
 90 años, es necesario generarlos a partir de algún modelo. Existen diferentes técnicas siendo la más aconsejable
 utilizar modelos de mortalidad paramétricos para luego extrapolar los resultados.
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> q
-> =
-> 1
-> - e(- e(a+bx))
-> $$
+$$
+q_x = 1 - e^{-e^{a+bx}}
+$$
 • Gompertz: x
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
@@ -358,15 +353,9 @@ utilizar modelos de mortalidad paramétricos para luego extrapolar los resultado
 • Cuadrático: x
 q = ae(bx) /1 + ae(bx)
 • Heligman y Pollard: x
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> q
-> =
-> 1
-> -
-> e
-> $$
+$$
+q_x = 1 - e^{-e^{a+bx}}
+$$
 - (ae(bx)/(1+ae(bx)))+c)
 • Kannisto: x
 a) Caso beneficiarias mujeres:

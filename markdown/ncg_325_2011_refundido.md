@@ -30,11 +30,11 @@ contar del 01.03.2024.
 
 iv) Tratándose de aseguradoras que pertenezcan a un grupo o conglomerado financiero o empresarial, local o
 internacional, la estrategia de gestión de riesgos deberá contemplar además:
- Un resumen de los objetivos y estrategia de negocios y de gestión de riesgos del grupo.
- Indicar si la estrategia de gestión de riesgos de la aseguradora se vincula, total o parcialmente a la estrategia global del grupo, y describir la relación entre ambas especificando sus principales diferencias.
- Describir el proceso de monitoreo y reporte entre la aseguradora y su casa matriz.
- Cuando existan elementos de la estrategia que sean monitoreados por la casa matriz u otra entidad en el grupo, describir cómo se lleva a cabo.
- Cuando la aseguradora sea parte de un grupo asegurador internacional, incluir un resumen de la regulación y supervisión relativa a la gestión de riesgos a la cual la casa matriz se encuentra sometida, identificando además la autoridad supervisora respectiva.
+· Un resumen de los objetivos y estrategia de negocios y de gestión de riesgos del grupo.
+· Indicar si la estrategia de gestión de riesgos de la aseguradora se vincula, total o parcialmente a la estrategia global del grupo, y describir la relación entre ambas especificando sus principales diferencias.
+· Describir el proceso de monitoreo y reporte entre la aseguradora y su casa matriz.
+· Cuando existan elementos de la estrategia que sean monitoreados por la casa matriz u otra entidad en el grupo, describir cómo se lleva a cabo.
+· Cuando la aseguradora sea parte de un grupo asegurador internacional, incluir un resumen de la regulación y supervisión relativa a la gestión de riesgos a la cual la casa matriz se encuentra sometida, identificando además la autoridad supervisora respectiva.
 La Estrategia de Gestión de Riesgos deberá ser revisada al menos anualmente y cada vez que existan cambios relevantes en las operaciones de la aseguradora. La Estrategia de Gestión de Riesgos establecida por la compañía, con todas sus actualizaciones, deberá estar a disposición de la CMF cuando sea requerida.
 b) Las políticas y procedimientos específicos definidos para identificar, evaluar, mitigar y controlar los diferentes tipos
 de riesgos a los que se ve expuesta la compañía, incluyendo la definición de las responsabilidades administrativas asociadas a éstos, identificando personas y roles asociados. Las políticas y procedimientos específicos deben establecerse por escrito, y estar siempre sujetas a su aprobación previa por parte del directorio. Asimismo, deben ser revisadas al menos anualmente y adaptadas a la luz de cualquier cambio significativo en el ambiente interno o externo.
@@ -399,17 +399,17 @@ El riesgo inherente operacional se evaluará considerando el volumen y tipo de o
 El riesgo inherente legal, LA, FT y ADM, se evaluará considerando las características de cada tipo de negocio respecto de la regulación que le es aplicable y específicamente en lo relativo a LA, FT y ADM, las categorías de riesgo establecidas por la Unidad de Análisis Financiero (UAF).
 De este modo, la evaluación de los riesgos inherentes de los activos (crédito, mercado y liquidez) se evaluará considerando a la compañía como un todo. Para los restantes riesgos (técnicos, operacional, y legal, LA, FT y ADM), la evaluación del riesgo inherente se podrá efectuar considerando las características de cada actividad significativa evaluada.
 Para la evaluación de los riesgos inherentes se considerará la siguiente clasificación:
- Riesgo Inherente Bajo. Existe cuando su materialización no afecta significativamente la solvencia de la aseguradora, produciendo pérdidas previsiblemente nulas o insignificantes.
- Riesgo Inherente Moderado. Existe cuando su materialización afecta levemente la solvencia de la aseguradora, produciendo pérdidas previsiblemente asumibles dentro de la marcha normal del negocio.
- Riesgo Inherente Medio alto. Existe cuando su materialización puede afectar significativamente la solvencia de la compañía, produciendo pérdidas materiales, que pueden ser asumidas ajustadamente dentro de la marcha normal del negocio.
- Riesgo Inherente Alto. Existe cuando su materialización debilitaría fuertemente la solvencia de la compañía, puede derivar en pérdidas significativas, que no pueden ser asumidas dentro de la marcha normal del negocio, afectando de manera importante la solvencia de la entidad.
+· Riesgo Inherente Bajo. Existe cuando su materialización no afecta significativamente la solvencia de la aseguradora, produciendo pérdidas previsiblemente nulas o insignificantes.
+· Riesgo Inherente Moderado. Existe cuando su materialización afecta levemente la solvencia de la aseguradora, produciendo pérdidas previsiblemente asumibles dentro de la marcha normal del negocio.
+· Riesgo Inherente Medio alto. Existe cuando su materialización puede afectar significativamente la solvencia de la compañía, produciendo pérdidas materiales, que pueden ser asumidas ajustadamente dentro de la marcha normal del negocio.
+· Riesgo Inherente Alto. Existe cuando su materialización debilitaría fuertemente la solvencia de la compañía, puede derivar en pérdidas significativas, que no pueden ser asumidas dentro de la marcha normal del negocio, afectando de manera importante la solvencia de la entidad.
 c) Calidad de la Gestión de Riesgo. La calidad de la gestión de riesgo de la compañía se evaluará considerando la
 fortaleza de su sistema de gestión de riesgo y la calidad de su gobierno corporativo. Como ya se señaló, esta evaluación se efectuará considerando los principios establecidos en la presente norma, en la NCG N°309, de
 2011, y en otras normas específicas que dicte la Comisión. La calificación que la Comisión asignará a las distintas funciones será la siguiente:
- Fuerte. La administración demuestra consistentemente un desempeño eficaz en la mitigación de los riesgos.
- Aceptable. La administración, generalmente demuestra un desempeño eficaz en la mitigación de los riesgos.
- Necesita Mejorar. La administración muestra debilidades en la mitigación de los riesgos.
- Débil. La administración ha mostrado graves debilidades en la mitigación de los riesgos.
+· Fuerte. La administración demuestra consistentemente un desempeño eficaz en la mitigación de los riesgos.
+· Aceptable. La administración, generalmente demuestra un desempeño eficaz en la mitigación de los riesgos.
+· Necesita Mejorar. La administración muestra debilidades en la mitigación de los riesgos.
+· Débil. La administración ha mostrado graves debilidades en la mitigación de los riesgos.
 d) Riesgo Neto. El riesgo neto es el resultado de la combinación del nivel del riesgo inherente mitigado por la calidad
 de la gestión de riesgo de la aseguradora (letras b) y c) anteriores). El riesgo neto se determina para cada riesgo inherente. Las compañías se clasificarán de acuerdo a los siguientes niveles: Alto, Medio Alto, Moderado y Bajo.
 e) Riesgo Neto Agregado. Una vez obtenido el riesgo neto para cada riesgo inherente, de acuerdo a lo señalado en
@@ -421,28 +421,8 @@ El riesgo neto agregado de la compañía se obtiene, a su vez, considerando los 
 f) Evaluación cualitativa del patrimonio. La matriz de riesgos incluye una evaluación cualitativa del patrimonio, la cual
 considera una revisión de la calidad del patrimonio en términos de disponibilidad y permanencia de las distintas partidas que lo componen, de la capacidad de la aseguradora para aumentar su capital a futuro, en caso de ser necesario, de su capacidad de generar utilidades, la proyección de éstas en el tiempo, la adecuación del capital al perfil de riesgo de la aseguradora, así como la tendencia de la suficiencia y su gestión.
 Se entiende por gestión de capital como el proceso continuo de planificar, proyectar, constituir y mantener la cantidad y calidad apropiada de éste, de acuerdo con el apetito de riesgo definido por la entidad, para sustentar las operaciones planificadas de la compañía y mitigar las pérdidas producto de los riesgos a los cuales está expuesta, siendo clave la existencia de políticas y procedimientos de gestión de capital, así como el involucramiento de la alta administración y el directorio en éstas.
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> R
-> R
-> T
-> ie
-> ie
-> ip
-> s g
-> s g
-> O
-> $$
-o s d e R ie s g o s o d e lo s A c tiv o d e lo s P a s iv tr o s R ie s g o s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> o
-> o
-> s
-> s
-> $$
+R R T
+ie ie ip s g s g O o s d e R ie s g o s o d e lo s A c tiv o d e lo s P a s iv tr o s R ie s g o s o o s s
 ### M A T R I Z D E R I E S G O
 R ie s g o s I n h e r e n te s C r é d ito : rie s g o d e in c u m p lim ie n to d e c o n tra p a rte s , o p é rd id a d e v a lo r d e lo s a c tiv o s p o r d e te rio ro d e s u c a lid a d d e c ré d ito .
 M e r c a d o : rie s g o d e v o la tilid a d e n p re c io s d e la s in v e rs io n e s , m o v im ie n to s a d v e rs o s e n e l v a lo r re la tiv o d e a c tiv o s y p a s iv o s (A L M ) y rie s g o d e re in v e rs ió n (R e n ta s V ita lic ia s ).
@@ -450,136 +430,44 @@ L iq u id e z : rie s g o d e riv a d o d e la in c a p a c id a d d e la a s e 
 R ie s g o s T é c n ic o s d e l S e g u r o : rie s g o d e ta rific a c ió n , s u s c rip c ió n , d is e ñ o d e p ro d u c to s , a d m in is tra c ió n d e s in ie s tro s , d e in s u fic ie n c ia d e la s re s e rv a s té c n ic a s , lo n g e v id a d (R e n ta s V ita lic ia s ) y c a d u c id a d .
 R ie s g o O p e r a c io n a l: E l rie s g o o p e ra c io n a l e s e l rie s g o d e p é rd id a s fin a n c ie ra s q u e re s u lta d e fa llo s e n lo s p ro c e s o s , p e rs o n a s o s is te m a s , y a s e a a n te e v e n to s in te rn o s o e x te rn o s . E l rie s g o o p e ra c io n a l in c lu y e e l rie s g o d e te c n o lo g ía s d e in fo rm a c ió n .
 R ie s g o L e g a l, L a v a d o d e A c tiv o s , F in a n c ia m ie n to d e l T e r r o r is m o y la N o p r o life r a c ió n d e A r m a s d e D e s tr u c c ió n M a s iv a (L A , F T y A D M ): rie s g o a s o c ia d o a c a m b io s le g a le s o re g u la to rio s o d e in c u m p lim ie n to s p o r p a rte d e la c o m p a ñ ía d e n o rm a s le g a le s d e c u a lq u ie r n a tu ra le z a q u e p u e d a n a fe c ta r s u s o p e ra c io n e s y /o rie s g o c u y o o b je tiv o s e a in te n ta r le g itim a r a c tiv o s p ro v e n ie n te s d e l n a rc o trá fic o o d e o tra s o p e ra c io n e s ilíc ita s , o q u e s e a n u tiliz a d o s , p o r e je m p lo , p a ra o b te n e r m a te ria le s y /u o tro s e le m e n to s lo g ís tic o s n e c e s a rio s p a ra e l fin a n c ia m ie n to d e l te rro ris m o y la p ro life ra c ió n d e a rm a s d e d e s tru c c ió n m a s iv a .
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> S C
-> C a
-> (S
-> C a
-> M F
-> $$
-lid a d is te m G o lid a d
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> d e
-> a d
-> b ie
-> d e
-> $$
-la G e s tió n d e G e s tió n d e r n o C o r p o r a E v a lu a c ió n la G e s tió n d e R ie s R ie s g tiv o ) e R ie s
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> go
-> g
-> os
-> o
-> s
-> ,
-> s
-> R
-> R
-> $$
-ie s g o N ie s g o N A g r e g a C o m p a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> e to
-> e to
-> d o
-> ñ ía
-> $$
+S C C a
+(S C a M F lid a d is te m G o lid a d d e a d b ie d e la G e s tió n d e G e s tió n d e r n o C o r p o r a E v a lu a c ió n la G e s tió n d e R ie s R ie s g tiv o ) e R ie s go g os o s
+, s R R ie s g o N ie s g o N A g r e g a C o m p a e to e to d o ñ ía
 
 Las categorías para la evaluación cualitativa del patrimonio son:
- Fuerte
- Aceptable
- Necesita mejorar
- Débil.
+· Fuerte
+· Aceptable
+· Necesita mejorar
+· Débil.
 g) Riesgo Neto Final. La evaluación cualitativa del patrimonio combinada con la evaluación del riesgo neto agregado,
 resulta en el riesgo neto final de la compañía.
 A continuación, se definen las categorías para la evaluación del Riesgo Neto Final:
- Riesgo Bajo La compañía clasificada en esta situación es resistente a la mayoría de las condiciones económicas y de negocios adversas sin afectar materialmente su solvencia.
- Riesgo Moderado Una aseguradora en esta situación podría ver deteriorada su solvencia ante condiciones adversas en su negocio o en la economía.
- Riesgo Medio Alto Una aseguradora en esta situación podría ver comprometida seriamente su situación de solvencia ante condiciones adversas en su negocio o en la economía
- Riesgo Alto La solvencia de una aseguradora en esta situación ya se encuentra comprometida.
+· Riesgo Bajo La compañía clasificada en esta situación es resistente a la mayoría de las condiciones económicas y de negocios adversas sin afectar materialmente su solvencia.
+· Riesgo Moderado Una aseguradora en esta situación podría ver deteriorada su solvencia ante condiciones adversas en su negocio o en la economía.
+· Riesgo Medio Alto Una aseguradora en esta situación podría ver comprometida seriamente su situación de solvencia ante condiciones adversas en su negocio o en la economía
+· Riesgo Alto La solvencia de una aseguradora en esta situación ya se encuentra comprometida.
 En síntesis, la clasificación se realizará sobre la base de una metodología de matriz de riesgos, la cual considera un análisis separado de los principales aspectos que definen la situación de riesgo de una aseguradora: el Riesgo Inherente que enfrenta en sus principales actividades y negocios, y la gestión que realiza de estos riesgos, y la evaluación cualitativa del patrimonio. Sobre la base de la combinación de estos tres factores, se determinará el riesgo de cada compañía de seguros.
 ### 2.3 Evaluación de Solvencia.
 El nivel de solvencia asignado por la Comisión a las aseguradoras, será el resultado de la combinación del Riesgo Neto Final (evaluación cualitativa), que se obtiene utilizando la matriz de riesgos de acuerdo a lo señalado en el número 2.2 anterior, y de su nivel de fortaleza patrimonial (evaluación cuantitativa).
 Las compañías de seguros se clasificarán según su fortaleza patrimonial en los siguientes niveles:
- Nivel A: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea mayor o igual que 1,5.
- Nivel B: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea menor que 1,5 y mayor o igual que 1,2
- Nivel C: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea menor que 1,2 y mayor o igual que 1,0.
- Nivel D: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea menor que 1,0.
-R iesg o N A g reg a
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> eto
-> d o
-> + -
-> $$
-E v a lu a ció n C u d el P a trim a lita o n io tiv a
+· Nivel A: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea mayor o igual que 1,5.
+· Nivel B: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea menor que 1,5 y mayor o igual que 1,2
+· Nivel C: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea menor que 1,2 y mayor o igual que 1,0.
+· Nivel D: incluye a las compañías cuyo cuociente entre patrimonio neto y patrimonio de riesgo sea menor que 1,0.
+R iesg o N A g reg a eto d o
++ - E v a lu a ció n C u d el P a trim a lita o n io tiv a
 = R iesg o N eto F in a l
 
 Finalmente, las categorías de evaluación de solvencia serán las siguientes:
- Fuerte: es una compañía muy sólida y bien administrada. La combinación de su riesgo neto final y su fortaleza patrimonial hace que la institución sea resistente a las condiciones económicas y comerciales más adversas, sin que se afecte su perfil de riesgo. Su desempeño es consistentemente bueno, observándose sus indicadores claves por sobre el promedio de la industria, permitiéndole a ésta tener amplio acceso a capital adicional.
- Aceptable: es una compañía sólida y generalmente bien administrada. La combinación de su riesgo neto final y su fortaleza patrimonial hace que la institución sea resistente a las condiciones económicas y comerciales adversas, sin que se afecte sustantivamente su perfil de riesgo. Su desempeño es satisfactorio, observándose sus indicadores claves comparables con el promedio de la industria, permitiéndole a ésta tener un acceso razonable a capital adicional.
- Vulnerable: la compañía tiene problemas que indican una alerta temprana o que podrían conducir a un riesgo para su viabilidad financiera, por concurrir una o más de las siguientes condiciones: (i)La combinación de su riesgo neto final y su fortaleza patrimonial hace que la compañía sea vulnerable a algunas condiciones económicas y comerciales adversas; (ii) Su desempeño es insatisfactorio, observándose algunos de sus indicadores claves levemente por debajo del promedio de la industria, lo que perjudica su capacidad para acceder a capital adicional; (iii) La compañía tiene problemas en su gestión de riesgos que aunque no sean lo suficientemente serios como para presentar una amenaza inmediata a la viabilidad financiera o solvencia, podrían deteriorarse y conducir a serios problemas si no se abordan con prontitud.
- Insuficiente: la compañía tiene serios problemas respecto a su solidez y solvencia, por concurrir una o más de las siguientes condiciones: (i) La combinación de su riesgo neto final y fortaleza patrimonial son tales que la entidad es vulnerable a la mayoría de las condiciones económicas y comerciales adversas, lo que representa una grave amenaza para su viabilidad financiera o solvencia, a menos que se implementen prontamente acciones correctivas que sean efectivas; (ii) Su desempeño es pobre, con la mayoría de los indicadores claves por debajo del promedio de la industria, lo que afecta seriamente su capacidad de acceder a capital adicional.
+· Fuerte: es una compañía muy sólida y bien administrada. La combinación de su riesgo neto final y su fortaleza patrimonial hace que la institución sea resistente a las condiciones económicas y comerciales más adversas, sin que se afecte su perfil de riesgo. Su desempeño es consistentemente bueno, observándose sus indicadores claves por sobre el promedio de la industria, permitiéndole a ésta tener amplio acceso a capital adicional.
+· Aceptable: es una compañía sólida y generalmente bien administrada. La combinación de su riesgo neto final y su fortaleza patrimonial hace que la institución sea resistente a las condiciones económicas y comerciales adversas, sin que se afecte sustantivamente su perfil de riesgo. Su desempeño es satisfactorio, observándose sus indicadores claves comparables con el promedio de la industria, permitiéndole a ésta tener un acceso razonable a capital adicional.
+· Vulnerable: la compañía tiene problemas que indican una alerta temprana o que podrían conducir a un riesgo para su viabilidad financiera, por concurrir una o más de las siguientes condiciones: (i)La combinación de su riesgo neto final y su fortaleza patrimonial hace que la compañía sea vulnerable a algunas condiciones económicas y comerciales adversas; (ii) Su desempeño es insatisfactorio, observándose algunos de sus indicadores claves levemente por debajo del promedio de la industria, lo que perjudica su capacidad para acceder a capital adicional; (iii) La compañía tiene problemas en su gestión de riesgos que aunque no sean lo suficientemente serios como para presentar una amenaza inmediata a la viabilidad financiera o solvencia, podrían deteriorarse y conducir a serios problemas si no se abordan con prontitud.
+· Insuficiente: la compañía tiene serios problemas respecto a su solidez y solvencia, por concurrir una o más de las siguientes condiciones: (i) La combinación de su riesgo neto final y fortaleza patrimonial son tales que la entidad es vulnerable a la mayoría de las condiciones económicas y comerciales adversas, lo que representa una grave amenaza para su viabilidad financiera o solvencia, a menos que se implementen prontamente acciones correctivas que sean efectivas; (ii) Su desempeño es pobre, con la mayoría de los indicadores claves por debajo del promedio de la industria, lo que afecta seriamente su capacidad de acceder a capital adicional.
 La tabla siguiente resume las categorías de solvencia señaladas:
 azelatroF ed leviN E S lainomirtaP v a o lu a c lv e n
 C M F
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> N
-> N
-> N
-> N
-> ió n
-> c ia
-> $$
-iv e l A iv e l B iv e l C iv e l D A In B a jo F u e rte F u e rte c e p ta b s u fic ie n
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> le
-> te
-> N iv
-> M
-> A
-> V
-> In
-> $$
-e l d e R ie o d e ra d o F u e rte c e p ta b le u ln e ra b le s u fic ie n te s g o N e to F in M e d io A lto A c e p ta b le V u ln e ra b le In s u fic ie n te In s u fic ie n te
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> a l
-> V
-> V
-> In
-> In
-> u
-> u
-> s
-> s
-> $$
-A lto ln e ra ln e ra u fic ie u fic ie
-> ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
->
-> $$
-> b
-> b
-> n
-> n
-> le
-> le
-> te
-> te
-> $$
+N N N
+N ió n c ia iv e l A iv e l B iv e l C iv e l D A In B a jo F u e rte F u e rte c e p ta b s u fic ie n le te N iv M A V In e l d e R ie o d e ra d o F u e rte c e p ta b le u ln e ra b le s u fic ie n te s g o N e to F in M e d io A lto A c e p ta b le V u ln e ra b le In s u fic ie n te In s u fic ie n te a l V V In In u u s s A lto ln e ra ln e ra u fic ie u fic ie b b n n le le te te
 
 ## V. Derogación.
 Derógase la NCG N°130, de 2002, a contar del 30 de abril de 2012.

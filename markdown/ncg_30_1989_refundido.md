@@ -8,7 +8,7 @@
 NORMA DE CARÁCTER DE GENERAL N° 30
 FECHA: 10.11.1989
 
-Esta Comisión, en virtud de lo dispuesto en los artículos 3, 5, 8, 9, 10, y 65 y en los Títulos XVI y XVII de la Ley N 18.045, de Mercado de Valores, y en uso de sus facultades legales ha estimado conveniente dictar la presente norma de carácter general, con el fin de simplificar, ordenar y estandarizar la información que los emisores deben presentar a este servicio y al público en general.2 Las disposiciones a que se refiere la presente normativa no serán aplicables a los fondos regulados por la Ley N°20.712.3
+Esta Comisión, en virtud de lo dispuesto en los artículos 3°, 5°, 8°, 9°, 10°, y 65° y en los Títulos XVI y XVII de la Ley N° 18.045, de Mercado de Valores, y en uso de sus facultades legales ha estimado conveniente dictar la presente norma de carácter general, con el fin de simplificar, ordenar y estandarizar la información que los emisores deben presentar a este servicio y al público en general.2 Las disposiciones a que se refiere la presente normativa no serán aplicables a los fondos regulados por la Ley N°20.712.3
 ### SECCION I4 INFORMACIÓN DEL EMISOR PARA LA INSCRIPCIÓN DE VALORES DE OFERTA PÚBLICA EN EL REGISTRO DE VALORES
 INDICE
 ## 1. Introducción.
@@ -148,7 +148,7 @@ Los estados financieros de las subsidiarias y asociadas señaladas anteriormente
 ### 3.2. HECHOS RELEVANTES O ESENCIALES
 Deberá señalarse todo hecho o información esencial o relevante, que tenga o pueda tener en el futuro influencia o efecto en el desenvolvimiento de los negocios de la entidad, en sus estados financieros, en sus valores o en la oferta de ellos.
 En esta materia deberá incluirse una clara descripción del hecho o información esencial, indicando al mismo tiempo el efecto o influencia respectiva.
-Por información esencial deberá entenderse, según lo dispuesto en el artículo 9 de la Ley N
+Por información esencial deberá entenderse, según lo dispuesto en el artículo 9° de la Ley N°
 18.045, aquélla que un hombre juicioso consideraría importante para sus decisiones sobre
 inversión.
 ### 3.3. OTROS ANTECEDENTES
@@ -1019,7 +1019,7 @@ Deberá reportar si se ha llevado a cabo algún proceso de verificación por par
 Deberá incluirse un resumen de los hechos esenciales o relevantes divulgados por la entidad durante el período anual, indicando los efectos que ellos han tenido o puedan tener en la marcha de la entidad, en sus valores o en la oferta de ellos.
 Asimismo, deberá incluirse información respecto a aquellos hechos esenciales o relevantes que, aunque hayan ocurrido con anterioridad al período cubierto por la Memoria, hayan tenido durante el ejercicio influencia importante o efecto en el desenvolvimiento de los negocios de la entidad, en sus estados financieros, en sus valores o en la oferta de ellos, o puedan tenerlo en los ejercicios futuros.
 11 Comentarios de accionistas y del comité de directores
-Deberá incluirse una síntesis fiel de los comentarios y proposiciones relativos a la marcha de los negocios sociales, formuladas por accionistas y el Comité de Directores, en su caso, de acuerdo a lo prescrito en el inciso tercero del artículo 74 de la Ley N18.046. En caso de no existir, deberá señalarlo expresamente.
+Deberá incluirse una síntesis fiel de los comentarios y proposiciones relativos a la marcha de los negocios sociales, formuladas por accionistas y el Comité de Directores, en su caso, de acuerdo a lo prescrito en el inciso tercero del artículo 74 de la Ley N°18.046. En caso de no existir, deberá señalarlo expresamente.
 12 Informes financieros
 Se deberá señalar que los estados financieros de la entidad están disponibles en el sitio en Internet de la Comisión para el Mercado Financiero y en el de la propia entidad, en caso de tenerlo, indicando las URLs de ambos sitios.
 
@@ -1032,7 +1032,7 @@ Además, la entidad podrá incluir sus estados financieros resumidos, junto al d
 #### C. Información de Interés
 #### A. Hechos Esenciales
 ## 1. Alcance del concepto de Información Esencial
-De acuerdo a lo establecido en los artículos 9 y 10 de la Ley N 18.045, los emisores deberán divulgar en forma veraz, suficiente y oportuna todo hecho o información esencial respecto de ellas mismas, de sus negocios y de los valores que ofrecen, en el momento que el hecho ocurra o llegue a su conocimiento. Se deberá entender que una información es de carácter esencial cuando ésta sería considerada importante para sus decisiones de inversión por una persona juiciosa.
+De acuerdo a lo establecido en los artículos 9° y 10° de la Ley N° 18.045, los emisores deberán divulgar en forma veraz, suficiente y oportuna todo hecho o información esencial respecto de ellas mismas, de sus negocios y de los valores que ofrecen, en el momento que el hecho ocurra o llegue a su conocimiento. Se deberá entender que una información es de carácter esencial cuando ésta sería considerada importante para sus decisiones de inversión por una persona juiciosa.
 En la calificación de la información como hecho esencial se debe considerar, entre otros, aquellos eventos que sean capaces de afectar en forma significativa, por ejemplo, a: (i) los activos y obligaciones de la entidad; (ii) el rendimiento de los negocios de la entidad; y (iii) la situación financiera de la entidad;
 2. Responsabilidad de la calificación, suscripción y divulgación oportuna de la
 información.
@@ -1154,7 +1154,7 @@ La información de carácter reservado y sus actualizaciones deberá ser remitid
 a) Razón social completa de la entidad que informa.
 b) Fecha en la cual se realiza la comunicación.
 c) Indicación que la comunicación se hace en virtud de lo establecido en el artículo
-10 de la Ley N 18.045, y que se trata de una información reservada respecto de la sociedad, sus negocios, sus valores de oferta pública o de la oferta de ellos.
+10° de la Ley N° 18.045, y que se trata de una información reservada respecto de la sociedad, sus negocios, sus valores de oferta pública o de la oferta de ellos.
 d) Deberá incluirse una descripción clara y detallada de la información reservada, en
 los términos y condiciones indicados en la letra e), del numeral tercero de la letra A precedente.
 e) Plazo estimativo en el que la información se mantendría como reservada.
@@ -1193,7 +1193,7 @@ hábiles contado desde que ella se hubiere reducido a escritura pública, acompa
 Asimismo, dentro de dicho plazo contado desde que se hubiere practicado la última gestión de legalización, deberá remitirse copia de ésta y un ejemplar de sus estatutos actualizados, firmado por el gerente general o quien haga sus veces, en los términos del artículo 7º de la Ley 18.046.
 La información solicitada deberá enviarse a esta Comisión a través del CMF Supervisa habilitado para estos efectos.29
 c) Cualquier nombramiento, vacancia o reemplazo que se produzca en los cargos de
-presidente, directores, gerente, ejecutivos principales, administradores y liquidadores de los emisores, dentro del plazo de 3 días hábiles contado desde ocurrido el hecho, conforme a lo indicado en el artículo 68° de la Ley N 18.045, de acuerdo a las instrucciones impartidas por esta Comisión en la Circular N° 2007 o aquella que la modifique o reemplace.
+presidente, directores, gerente, ejecutivos principales, administradores y liquidadores de los emisores, dentro del plazo de 3 días hábiles contado desde ocurrido el hecho, conforme a lo indicado en el artículo 68° de la Ley N° 18.045, de acuerdo a las instrucciones impartidas por esta Comisión en la Circular N° 2007 o aquella que la modifique o reemplace.
 d) Las transacciones de valores efectuadas por las personas relacionadas a la
 sociedad, sujetándose al efecto, a las instrucciones impartidas a través de la Norma de Carácter General N° 269 o aquella que la modifique o reemplace.
 e) Lista trimestral actualizada de los accionistas, sujetándose al efecto, a las
@@ -1393,7 +1393,7 @@ FECHA: 10.11.1989
 ### SECCION III34 INSCRIPCION DE EMISIONES DE ACCIONES, SUS NORMAS DE DIFUSION E INFORMACION
 CONTINUA
 ## 1. INTRODUCCIÓN
-De acuerdo a lo dispuesto en la Ley N 18.045, de Mercado de Valores, la presente sección establece los requerimientos de información para la inscripción de emisiones de acciones en el Registro de Valores, sus normas de difusión y de información continua.
+De acuerdo a lo dispuesto en la Ley N° 18.045, de Mercado de Valores, la presente sección establece los requerimientos de información para la inscripción de emisiones de acciones en el Registro de Valores, sus normas de difusión y de información continua.
 En el caso de solicitar inscripción de acciones que se encuentren suscritas por los accionistas, las entidades deberán presentar la información referida en el apartado B.2 del numeral 3.3 de la sección I de esta normativa, junto con la información del emisor referida en la mencionada sección I.35 La responsabilidad respecto de la información proporcionada en la solicitud, recae exclusivamente sobre el emisor, y en ningún caso, sobre esta Comisión.
 ## 2. PROCEDIMIENTO DE PRESENTACIÓN
 ### 2.1 Procedimiento
@@ -1530,9 +1530,9 @@ ENCABEZADO DE LA COMUNICACIÓN A LOS ACCIONISTAS:
 CONTENIDO DEL AVISO A PUBLICAR Y DE LA COMUNICACIÓN A LOS ACCIONISTAS:
 a) En junta extraordinaria de accionistas de la sociedad, celebrada el _________ (indicar día,
 mes y año), cuya acta se redujo a escritura pública con fecha (indicar día, mes y año), en la notaría _____________de ______________, se acordó aumentar el capital de la sociedad en la suma de _____________, mediante la emisión de ___________________ acciones de pago _________ (indicar serie si corresponde).
-El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N _____, del Registro de Comercio de _______________, con fecha (indicar día, mes y año), y se publicó en el Diario Oficial N ________ de fecha _______ (indicar día, mes y año).
+El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N° _____, del Registro de Comercio de _______________, con fecha (indicar día, mes y año), y se publicó en el Diario Oficial N° ________ de fecha _______ (indicar día, mes y año).
 b) La Comisión para el Mercado Financiero, con fecha _________ (indicar día, mes y año),
-inscribió en el Registro de Valores con el N ______, la emisión de ___________ acciones de pago, ______ (indicar serie si corresponde) _______ (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de _____________, con cargo al aumento de capital antes señalado. El plazo para la emisión, suscripción y pago de estas acciones es de __________a contar del _______ (indicar día, mes y año).
+inscribió en el Registro de Valores con el N° ______, la emisión de ___________ acciones de pago, ______ (indicar serie si corresponde) _______ (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de _____________, con cargo al aumento de capital antes señalado. El plazo para la emisión, suscripción y pago de estas acciones es de __________a contar del _______ (indicar día, mes y año).
 c) Los fondos que se obtengan con esta emisión de acciones se destinarán a ________
 ________________________________________________________________________
 ______________________________________________________________________.
@@ -1586,12 +1586,12 @@ Lo señalado en los literales a), b) y d) deberá ser reemplazado por lo siguien
 a) En junta extraordinaria de accionistas de la sociedad, celebrada ________ (indicar día, mes y
 año), cuya acta se redujo a escritura pública con fecha _________ (indicar día, mes y año), en la notaría_____________ (indicar nombre de la notaría) de, ______________ (indicar domicilio de la notaría) se acordó aumentar el capital de la sociedad en la suma de $ _____________, mediante la emisión de ___________________ acciones de pago (indicar serie si corresponde).
 Asimismo, se acordó que del aumento de capital aprobado se destinarán ___________ acciones (indicar serie si corresponde), representativas de un ____% del aumento aprobado, a un plan de compensación de trabajadores. No obstante, el número de acciones que efectivamente serán destinadas al plan de compensación a los trabajadores dependerá del número total de acciones que se suscriban de la parte no destinada para tales fines, conforme a lo señalado en el artículo 24 de la Ley N° 18.046.
-El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N _____, del Registro de Comercio de _______________, con fecha _________ (indicar día, mes y año), y se publicó en el Diario Oficial N ________ de fecha __________ (indicar día, mes y año).
+El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N° _____, del Registro de Comercio de _______________, con fecha _________ (indicar día, mes y año), y se publicó en el Diario Oficial N° ________ de fecha __________ (indicar día, mes y año).
 
 NORMA DE CARÁCTER DE GENERAL N° 30
 FECHA: 10.11.1989
 b) La Comisión para el Mercado Financiero, con fecha __________ (indicar día, mes y año),
-inscribió en el Registro de Valores con el N ______, la emisión de ___________ acciones de pago, de (indicar serie si corresponde) y (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de _____________, con cargo al aumento de capital antes señalado. El plazo para la emisión, suscripción y pago de las acciones, que no serán destinadas al plan de compensación de los trabajadores, es de __________a contar del
+inscribió en el Registro de Valores con el N° ______, la emisión de ___________ acciones de pago, de (indicar serie si corresponde) y (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de _____________, con cargo al aumento de capital antes señalado. El plazo para la emisión, suscripción y pago de las acciones, que no serán destinadas al plan de compensación de los trabajadores, es de __________a contar del
 _______ (indicar día, mes y año) y el de las acciones que serán destinadas dicho plan, será de__________ a contar del _________ (indicar día, mes y año)
 c) La proporción de esta emisión, no destinada al plan de compensación de trabajadores, se ofrece
 preferentemente a los accionistas de la sociedad quienes tendrán el derecho de suscribir
@@ -1611,14 +1611,15 @@ El aviso de opción preferente para suscribir estas acciones, con el cual se ini
 
 NORMA DE CARÁCTER DE GENERAL N° 30
 FECHA: 10.11.1989
-### SECCION III ANEXO N 3 FORMATO DE AVISO QUE DA INICIO AL PERIODO DE OPCION PREFERENTE RAZON SOCIAL DEL EMISOR NOMBRE DE FANTASIA EMISION DE ACCIONES DE PAGO
+### SECCION III
+## ANEXO N° 3 FORMATO DE AVISO QUE DA INICIO AL PERIODO DE OPCION PREFERENTE RAZON SOCIAL DEL EMISOR NOMBRE DE FANTASIA EMISION DE ACCIONES DE PAGO
 (en mayúsculas)
 a) En junta extraordinaria de accionistas de la sociedad, celebrada el _______ (indicar día, mes y
 año), cuya acta se redujo a escritura pública con fecha _______ (indicar día, mes y año), en la notaría _____________de ______________, se acordó aumentar el capital de la sociedad en la suma de _____________, mediante la emisión de ___________________ acciones de pago
 _____ (indicar serie si corresponde).
-El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N _____, del Registro de Comercio de _______________, con fecha _______ (indicar día, mes y año), y se publicó en el Diario Oficial N ________ de fecha _______ (indicar día, mes y año).
+El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N° _____, del Registro de Comercio de _______________, con fecha _______ (indicar día, mes y año), y se publicó en el Diario Oficial N° ________ de fecha _______ (indicar día, mes y año).
 b) La Comisión para el Mercado Financiero, con fecha ________ (indicar día, mes y año),
-inscribió en el Registro de Valores con el N ______, la emisión de ___________ acciones de pago, ________ (indicar serie si corresponde) y ______ (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de _____________, con cargo al aumento de capital antes señalado. El plazo para la emisión, suscripción y pago de estas acciones es de
+inscribió en el Registro de Valores con el N° ______, la emisión de ___________ acciones de pago, ________ (indicar serie si corresponde) y ______ (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de _____________, con cargo al aumento de capital antes señalado. El plazo para la emisión, suscripción y pago de estas acciones es de
 __________a contar del _________ (indicar día, mes y año).
 c) Tendrán derecho a suscribir las acciones aquellos accionistas inscritos en el registro respectivo
 al día _____________ (indicar día, mes y año).
@@ -1645,7 +1646,7 @@ día, mes y año), cuya acta se redujo a escritura pública con fecha __________
 (indicar domicilio de la notaría) se acordó aumentar el capital de la sociedad en la suma de $
 _____________, mediante la emisión de ___________________ acciones de pago
 ___________ (indicar serie si corresponde). Asimismo, se acordó que del aumento de capital aprobado se destinarán ___________ acciones ________ (indicar serie si corresponde), representativas de un ____% del aumento aprobado, a un plan de compensación de trabajadores. No obstante, el número de acciones que efectivamente serán destinadas al plan de compensación a los trabajadores dependerá del número total de acciones que se suscriban de la parte no destinada para tales fines, conforme a lo señalado en el artículo 24 de la Ley N° 18.046.
-El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N _____, del Registro de Comercio de _______________, con fecha ________ (indicar día, mes y año), y se publicó en el Diario Oficial N ________ de fecha ________ (indicar día, mes y año).
+El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N° _____, del Registro de Comercio de _______________, con fecha ________ (indicar día, mes y año), y se publicó en el Diario Oficial N° ________ de fecha ________ (indicar día, mes y año).
 b) La Comisión para el Mercado Financiero, con fecha (indicar día, mes y año), inscribió en
 el Registro de Valores con el N° ______, la emisión de ___________ acciones de pago, serie (indicar serie si corresponde) y (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de $ _____________, con cargo al aumento de capital antes señalado.
 Se ofrecerán en forma preferente a los accionistas de la sociedad las acciones no destinadas al plan de compensación de trabajadores, es decir, la cantidad de
@@ -1655,7 +1656,8 @@ ___________ a contar del ___________ (indicar día, mes y año).
 
 NORMA DE CARÁCTER DE GENERAL N° 30
 FECHA: 10.11.1989
-### SECCION III ANEXO N 443 FORMATO DE AVISO RELATIVO A UN CANJE DE ACCIONES PRODUCTO DE UNA FUSION POR INCORPORACION RAZON SOCIAL DEL EMISOR NOMBRE DE FANTASIA EMISIÓN DE ACCIONES Y CANJE POR FUSIÓN
+### SECCION III
+## ANEXO N° 443 FORMATO DE AVISO RELATIVO A UN CANJE DE ACCIONES PRODUCTO DE UNA FUSION POR INCORPORACION RAZON SOCIAL DEL EMISOR NOMBRE DE FANTASIA EMISIÓN DE ACCIONES Y CANJE POR FUSIÓN
 Se comunica a los señores accionistas de ____________ (indicar el nombre de la sociedad absorbida), en relación con la fusión por incorporación de ésta sociedad en __________ (indicar nombre de la sociedad absorbente), lo siguiente:
 a) Los accionistas de ___________ (indicar nombre de la sociedad absorbida) tendrán derecho a
 __________ (indicar el factor de canje) acciones de _____________ (Indicar nombre de la sociedad absorbente) por cada acción que sean titulares de la primera, a la fecha de canje.
@@ -1670,13 +1672,14 @@ procedimiento:
 
 NORMA DE CARÁCTER DE GENERAL N° 30
 FECHA: 10.11.1989
-### SECCION III ANEXO N 544 FORMATO DE AVISO Y DE COMUNICACION A LOS ACCIONISTAS SOBRE SUSCRIPCION DE ACCIONES LIBERADAS DE PAGO RAZON SOCIAL DEL EMISOR NOMBRE DE FANTASIA EMISION DE ACCIONES LIBERADAS DE PAGO
+### SECCION III
+## ANEXO N° 544 FORMATO DE AVISO Y DE COMUNICACION A LOS ACCIONISTAS SOBRE SUSCRIPCION DE ACCIONES LIBERADAS DE PAGO RAZON SOCIAL DEL EMISOR NOMBRE DE FANTASIA EMISION DE ACCIONES LIBERADAS DE PAGO
 (en mayúsculas)
 a) En junta extraordinaria de accionistas de la sociedad, celebrada el día ________ (Indicar día,
 mes y año), cuya acta se redujo a escritura pública con fecha ______ (indicar día, mes y año), en la notaría _____________de ______________, se acordó aumentar el capital de la sociedad en la suma de _____________, con cargo a la cuenta de _____________________mediante la emisión de ___________________ acciones liberadas de pago ________ (indicar serie si corresponde).
-El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N _____, del Registro de Comercio de _______________, con fecha _______ (indicar día, mes y año), y se publicó en el Diario Oficial N ________ de fecha ________ (indicar día, mes y año).
+El extracto de la escritura antes mencionada, se inscribió a fojas ___________ N° _____, del Registro de Comercio de _______________, con fecha _______ (indicar día, mes y año), y se publicó en el Diario Oficial N° ________ de fecha ________ (indicar día, mes y año).
 b) La Comisión para el Mercado Financiero, con fecha _________ (indicar día, mes y año),
-inscribió en el Registro de Valores con el N ______, la emisión de ___________ acciones liberadas de pago, ______ (indicar serie si corresponde) ________ (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de $ _____________, con cargo al aumento de capital antes señalado.
+inscribió en el Registro de Valores con el N° ______, la emisión de ___________ acciones liberadas de pago, ______ (indicar serie si corresponde) ________ (indicar valor nominal o estampar la frase "sin valor nominal"), por un monto total de $ _____________, con cargo al aumento de capital antes señalado.
 c) Los accionistas de la sociedad, tendrán derecho a recibir__________________ acciones nuevas
 por cada acción (indicar serie si corresponde) que posean inscrita en el Registro de Accionistas al día _______ (indicar día, mes y año), las que quedarán registradas a nombre de los accionistas con esa misma fecha.
 d) La sociedad procederá a la entrega de los títulos de las acciones a los accionistas que lo
@@ -1690,7 +1693,7 @@ FECHA: 10.11.1989
 NORMAS APLICABLES A LAS EMISIONES DE BONOS, A SU INSCRIPCION EN EL REGISTRO
 ### DE VALORES, A LA DIFUSION Y PUBLICIDAD DE DICHAS EMISIONES Y A SU INFORMACION CONTINUA47
 ## 1. INTRODUCCIÓN
-De acuerdo a lo dispuesto en la Ley N 18.045, de Mercado de Valores, la oferta pública de valores representativos de deuda cuyo plazo sea superior a un año, podrá efectuarse mediante la emisión de bonos inscritos en el Registro de Valores. Sin perjuicio de lo anterior y de lo dispuesto por la Sección V, la oferta pública de valores representativos de deuda cuyo plazo sea igual o inferior al recién señalado, también podrá efectuarse a través de las disposiciones contempladas en la presente Sección. En el caso de los bonos hipotecarios a que se refiere el artículo 69 N° 2 de la Ley General de Bancos, asimismo deberán dar cumplimiento a las disposiciones del capítulo 9-2 de la Recopilación Actualizada de Normas48.
+De acuerdo a lo dispuesto en la Ley N° 18.045, de Mercado de Valores, la oferta pública de valores representativos de deuda cuyo plazo sea superior a un año, podrá efectuarse mediante la emisión de bonos inscritos en el Registro de Valores. Sin perjuicio de lo anterior y de lo dispuesto por la Sección V, la oferta pública de valores representativos de deuda cuyo plazo sea igual o inferior al recién señalado, también podrá efectuarse a través de las disposiciones contempladas en la presente Sección. En el caso de los bonos hipotecarios a que se refiere el artículo 69 N° 2 de la Ley General de Bancos, asimismo deberán dar cumplimiento a las disposiciones del capítulo 9-2 de la Recopilación Actualizada de Normas48.
 El contrato de emisión de bonos podrá establecer que la emisión sea por un monto fijo o por línea de bonos. En este último caso, el valor de los bonos que podrán estar simultáneamente en circulación así como su plazo de vigencia no podrán exceder el monto y plazo estipulado en el contrato de emisión inscrito.
 La responsabilidad respecto de la información proporcionada en la solicitud, recae exclusivamente sobre el emisor, y en ningún caso, sobre esta Comisión.
 Una vez que la Comisión haya inscrito la emisión de bonos, el emisor deberá comunicar este hecho a todas las bolsas de valores existentes en el país, en un plazo no superior a 3 días hábiles de otorgado el certificado pertinente. A su vez, deberá incluirse en dicha comunicación, el sitio Web en que se pondrá permanentemente a disposición del público la misma información contenida en el Registro para la emisión correspondiente y la demás comunicación, documentación o material informativo o publicitario que se distribuya para efectos de la colocación o promoción de los valores.
@@ -2371,9 +2374,9 @@ FECHA: 10.11.1989
 tal razón, ante situaciones particulares que se planteen en relación a estas materias, deberá consultarse oportunamente a esta Comisión.
 2. Las disposiciones de esta norma podrán ser modificadas o complementadas cuando las
 necesidades o aplicación práctica de ellas lo haga conveniente.
-3. Deróganse a contar de la fecha de vigencia de la Norma de Carácter General N 30, las Normas
-de Carácter General N 15, de 6 de mayo de 1985 y N 19, de 30 de diciembre de 1986.
-Esta Norma entrará en vigencia desde el 1 de enero de 1990.
+3. Deróganse a contar de la fecha de vigencia de la Norma de Carácter General N° 30, las Normas
+de Carácter General N° 15, de 6 de mayo de 1985 y N° 19, de 30 de diciembre de 1986.
+Esta Norma entrará en vigencia desde el 1° de enero de 1990.
 (1)
 (2)
 (1) Anexo eliminado por Norma de Carácter General N°100, de 2000.

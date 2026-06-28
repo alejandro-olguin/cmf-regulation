@@ -91,7 +91,7 @@ b) Los caracteres que se aceptarán como válidos son:
 | 0 1 2 3 4 5 6 7 8 9 + - _ # & % " . , : ; * ( ) / $ < > ! = ´. |
 
 No se debe incluir símbolos especiales, tales como º, ª y el apóstrofo (‘). Luego, por ejemplo Compañía Nº134 deberá grabarse como Compañía nro 134 y O’Hara se deberá grabar como OHara.
-c) El símbolo , corresponde al dígito cero (0).
+c) El símbolo φ, corresponde al dígito cero (0).
 d) Los valores numéricos deberán informarse sin separadores de miles y decimales y sin supresión de ceros por
 la izquierda (se deberán llenar con ceros por la izquierda). Los campos que contengan signo, como por ejemplo TIR, se informará el signo que corresponda en el primer carácter de la izquierda, y los valores posibles son - (menos) si es negativo o, + (más) o espacio si es positivo; por ejemplo: si la columna PICTURE indica -
 9(03)V9(03), y el valor es -5,1 se informará como -005100.
@@ -3468,7 +3468,7 @@ Registro Tipo 1 de IDENTIFICACION
 | PERIODO | Período a que corresponde la información. El formato de esta fecha será AAAAMM. | 9(06) |
 | FILLER | Se deberá informar espacios. | X(61) |
 
-Registro Tipo 2 de DETALLE Este registro se informará sólo cuando tenga información, por ej.: si la compañía no posee letras de crédito como inversión el registro C no debe ser informado.
+Registro Tipo 2 de DETALLE Este registro se informará sólo cuando tenga información, por ej.: si la compañía no posee letras de crédito como inversión el registro Cφφ no debe ser informado.
 
 | CAMPO | DESCRIPCION | PICTURE |
 | --- | --- | --- |
@@ -3555,7 +3555,7 @@ Registro Tipo 2 de DETALLE
 
 155
 
-| DIAS_REF_TASA_ DCTO | Corresponde a la cantidad de días base de descuento, sobre la cual se basa la tasa de la operación. Estos pueden ser: 3 : mensual. 36 : año financiero (mes de 30 días). 365 : año completo (mes de 30 ó 31 días). | 9(03) |
+| DIAS_REF_TASA_ DCTO | Corresponde a la cantidad de días base de descuento, sobre la cual se basa la tasa de la operación. Estos pueden ser: φ3φ : mensual. 36φ : año financiero (mes de 30 días). 365 : año completo (mes de 30 ó 31 días). | 9(03) |
 | --- | --- | --- |
 | TRATAMIENTO | Instrumento con o sin cupones: SC : sin cupones CC : con cupones CV : cupones variables | X(02) |
 | NRO_FLUJOS | Corresponde al número de flujos que contiene el instrumento en cuestión. | 9(03) |
