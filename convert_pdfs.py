@@ -38,7 +38,7 @@ _PAGE_HEADER_RE = re.compile(
     re.MULTILINE,
 )
 _PAGE_FOOTER_RE = re.compile(
-    r"COMISI[ÓO]N PARA EL MERCADO FINANCIERO\s*\n\s*\d+\s*\n",
+    r"COMISI[ÓO]N PARA EL MERCADO FINANCIERO\s*\n\s*\d+\s*\n?",
     re.MULTILINE,
 )
 _PAGE_FOOTER_NO_NUM_RE = re.compile(
