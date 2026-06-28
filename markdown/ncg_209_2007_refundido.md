@@ -5,11 +5,7 @@
 
 # NORMA DE CARÁCTER GENERAL N° 209 — FECHA : 24.12.2007
 
-REF.: IMPARTE INSTRUCCIONES RELATIVAS AL ANÁLISIS DE SUFICIENCIA DE ACTIVOS EN
-ENTIDADES ASEGURADORAS Y REASEGURADORAS DEL SEGUNDO GRUPO, QUE MANTENGAN
-OBLIGACIONES VIGENTES DE SEGUROS DE RENTA VITALICIA DEL D.L. N° 3500 DE 1980. DEROGA
-LAS NORMAS DE CARÁCTER GENERAL N° 188 DE 2005 Y N° 194 DE 2006. 1
-A todas las entidades aseguradoras y reaseguradoras del segundo grupo.
+
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en el artículo 3° letra b) y k) y
 20 del D.F.L. Nº 251, de 1931, ha resuelto impartir las siguientes instrucciones:
 Las compañías que mantengan obligaciones vigentes de seguros de Renta Vitalicia del D.L. N° 3500 de
@@ -117,8 +113,7 @@ las instrucciones de la presente norma, considerando la totalidad de los flujos 
 e) Las compañías que apliquen el reconocimiento gradual de las tablas de mortalidad B-2006 y
 MI-2006, deberán informar en los estados financieros correspondientes el resultado del TSA en términos de suficiencia o insuficiencia y tasa de reinversión, para la situación de aplicación gradual señalada y para la situación de aplicación completa de las instrucciones de la presente norma. La información deberá proporcionarse conforme lo establecido en el Anexo 3.
 
-## ANEXO N°1
-### DETERMINACION DEL VECTOR DE TASAS DE DESCUENTO DEL TSA (VTD TSA).
+## ANEXO N°1 DETERMINACION DEL VECTOR DE TASAS DE DESCUENTO DEL TSA (VTD TSA).
 El vector de tasas de descuento del TSA, VTD TSA, es utilizado para el cálculo del monto de la suficiencia o insuficiencia de activos, que corresponderá al valor presente de los flujos futuros de activos menos pasivos incorporados al cálculo del análisis.
 El VTD TSA, corresponderá al resultado de sumar a una estructura temporal de tasas de interés real (ET) libre de riesgos, o curva cero real, un ajuste por volatilidad (AV), de acuerdo a la siguiente fórmula:
 VTD (TSA) = ET + AV

@@ -5,12 +5,13 @@
 
 # CIRCULAR Nº 1512 — FECHA: 02.01.2001
 
-REF.: IMPARTE INSTRUCCIONES SOBRE CONSTITUCIÓN DE RESERVAS TÉCNICAS Y VALORIZACIÓN DE ACTIVOS Y PASIVOS EN RELACIÓN AL CALCE DE ACTIVOS Y PASIVOS. DEROGA CIRCULARES Nº1143 DE 1993, 1285 DE 1996, 1363 DE 1998 Y EN OFICIO CIRCULAR Nº1613 DE 19901 A todas las entidades aseguradoras y reaseguradoras del segundo grupo Esta Comisión, en uso de sus facultades legales, especialmente lo señalado en los artículos 3º letras b) y k), y 20, del DFL Nº251 de Hacienda de 1931, y 4º letras a) y e) del D.L. 3538 de 1980, ha resuelto impartir las siguientes instrucciones aplicables a las entidades aseguradoras y reaseguradoras del segundo grupo, respecto de la constitución de reservas técnicas en relación al calce de sus activos y pasivos en el tiempo.
+
+Esta Comisión, en uso de sus facultades legales, especialmente lo señalado en los artículos 3º letras b) y k), y 20, del DFL Nº251 de Hacienda de 1931, y 4º letras a) y e) del D.L. 3538 de 1980, ha resuelto impartir las siguientes instrucciones aplicables a las entidades aseguradoras y reaseguradoras del segundo grupo, respecto de la constitución de reservas técnicas en relación al calce de sus activos y pasivos en el tiempo.
 Para la aplicación de las normas de esta circular será preciso que previamente la compañía haya aplicado las normas generales de valorización de activos y pasivos contenidas en las normas específicas impartidas por este Servicio. Las diferencias que resulten de la aplicación de esta normativa generarán ajustes al cierre de los estados financieros, sin perjuicio de provisiones especiales por incobrabilidad de los activos.
-#### I. OBJETIVO DE LA CIRCULAR:
+## I. OBJETIVO DE LA CIRCULAR:
 El objeto de la presente norma es utilizar tasas de descuento para la constitución de reservas técnicas, determinadas considerando el riesgo de reinversión de los flujos de activos que respaldan dichas reservas, generado por el descalce en plazo respecto de los flujos de pasivos.
 Para cumplir con el objetivo señalado, se analiza la situación de calce en el tiempo de los flujos de activos con los flujos de pasivos, según la metodología descrita en la presente circular. En base a esta situación de calce, se determina la tasa de interés con la cual se constituirá la reserva técnica.
-### II MEDICIÓN DEL CALCE DE ACTIVOS Y PASIVOS.
+## II MEDICIÓN DEL CALCE DE ACTIVOS Y PASIVOS.
 1. Definición de tramos de medición. Se definen diez tramos en el tiempo en los que se obtendrá una medición
 de calce entre activos y pasivos:
 Tramo 1 : años 1 al 2 (primeros 24 meses) Tramo 2 : años 3 al 4 (meses 25 al 48) Tramo 3 : años 5 al 6 (meses 49 al 72) Tramo 4 : años 7 al 8 (meses 73 al 96) Tramo 5 : años 9 al 10 (meses 97 al 120) Tramo 6 : años 11 al 13 (meses 121 al 156) Tramo 7 : años 14 al 16 (meses 157 al 192) Tramo 8 : años 17 al 21 (meses 193 al 252) Tramo 9 : años 22 al 28 (meses 253 al 336) Tramo 10 : años 29 en adelante (posteriores al mes 336) A estos tramos el texto se referirá genéricamente como "tramo K".
@@ -68,8 +69,7 @@ Mensualmente, el último día hábil de cada mes, se obtendrá el siguiente indi
 pasivos de la compañía:
 Indice de cobertura de pasivos de seguros de cada tramo (CPk ):
 CPk = Mínimo (Bk, Máximo (O, AK - Ck))/Bk CPk tiende a medir la fracción de los pasivos del tramo K, elegibles de acuerdo al Nº3, que está cubierta por activos de los elegibles según Nº 2, a la fecha de cálculo.
-III. DETERMINACIÓN DE LA RESERVA TÉCNICA BASE DE LAS PÓLIZAS INCORPORADAS AL SISTEMA
-### DE CALCE.
+## III. DETERMINACIÓN DE LA RESERVA TÉCNICA BASE DE LAS PÓLIZAS INCORPORADAS AL SISTEMA DE CALCE.
 Para determinar la reserva técnica base se deberá primeramente calcular el valor presente de cada póliza elegible, usando como tasa de descuento de sus flujos, en la medida que haya calce de flujos de activos y pasivos, la tasa interna de retorno implícita en las transacciones efectuadas en los mercados formales de instrumentos estatales de largo plazo, al momento de entrada en vigencia de la póliza, ajustada por un factor de seguridad que se señala más adelante.
 De no haber flujos de activos elegibles que "cubran" a los flujos de pasivos elegibles, estos pasivos se valorizarán a la tasa técnica habitual del 3%.
 En la medida que existan estos flujos de activos, una mayor proporción de los pasivos se descontarán a una tasa superior al 3%.
@@ -111,7 +111,7 @@ De tal modo, esta nueva tasa TCj corresponderá para cada póliza j, al equivale
 Las reservas técnicas base que deben constituir los reaseguradores deberán calcularse de acuerdo a la misma metodología anterior, pero utilizando los índices de cobertura de pasivos de la entidad reaseguradora y el valor de la prima aceptada de cada póliza, vigentes al momento de realizar la aceptación. A su vez, el flujo FPji corresponderá a la parte aceptada por estas compañías de acuerdo al contrato de reaseguro respectivo.
 En el caso de aceptaciones de carteras de pólizas, la compañía aceptante deberá utilizar la misma metodología general señalada anteriormente, debiendo determinar una tasa de venta TVj única para el contrato, tasa que será utilizada para comparar el valor de la prima aceptada con el valor de la reserva técnica base de cada una de las pólizas incluidas en el contrato.
 Sin perjuicio de lo anteriormente señalado, la reserva técnica base correspondiente a aceptaciones que provengan de cesiones originalmente efectuadas por la misma compañía deberá ser determinada con los mismos parámetros utilizados para calcular la reserva técnica base al momento de entrada en vigencia de la póliza de seguro directo subyacente, esto es, la TCj o la TVj, según corresponda.
-### IV. AJUSTE DE RESERVA POR CALCE
+## IV. AJUSTE DE RESERVA POR CALCE
 Trimestralmente, al cierre del estado financiero correspondiente, se deberá determinar un ajuste de reserva, en función de la situación de calce de la compañía, a esa fecha.
 Para esto se deberá recalcular la reserva técnica de todas las pólizas incorporadas en el sistema de calce, utilizando los índices de cobertura de la fecha de cálculo y usando como tasa de descuento de los flujos, la tasa interna de retorno de mercado “TM”, vigente al momento de emisión de la póliza.
 Específicamente, el valor “ajustado” de la Reserva Técnica corresponderá a la siguiente expresión:
@@ -126,7 +126,7 @@ CPk corresponde al índice de cobertura de pasivos del tramo k, del mes correspo
 Cabe señalar que el cálculo anterior debe efectuarse póliza a póliza como indica la fórmula.
 
 La diferencia entre el valor de la reserva técnica base y el valor “ajustado” de la reserva (VPP`), reserva técnica financiera, determinado de acuerdo a lo señalado en este Título, se denomina “Ajuste de Reserva por Calce”.
-#### V. CONTABILIZACIÓN
+## V. CONTABILIZACIÓN
 ## 1. Definiciones:
 Reserva Técnica Base: Reserva técnica calculada de acuerdo a las normas actuariales dictadas por esta Comisión, determinada según el procedimiento descrito en el Título III de la presente circular.
 Ajuste de Reserva por Calce: Corresponde a la diferencia entre la Reserva Técnica Base, calculada de acuerdo a las normas actuariales dictadas por esta Comisión, y determinada según el procedimiento descrito en el Título III de la presente circular, y la reserva técnica financiera, según lo dispuesto en el Título IV precedente, la cual se registra en la cuenta de reservas patrimoniales, Reservas Calce, cuenta número 5.26.31.00.00, en la que se refleja directamente, sin afectar resultados. El saldo de esta cuenta puede ser positivo o negativo y no es capitalizable.
@@ -169,7 +169,7 @@ Este ajuste deberá contabilizarse con cargo o abono a la cuenta “Reservas Cal
 Esta cuenta refleja la diferencia de reservas producto de cambios en la posición de calce de cada compañía.
 La cuenta Reservas Calce tendrá el tratamiento contable de una provisión.
 La cuenta Reservas Calce formará parte del patrimonio total para efectos de aplicación de los artículos 7, 15 y 16 del D.F.L. 251, de 1931.
-### VI. NORMAS OPERATIVAS
+## VI. NORMAS OPERATIVAS
 ## 1. Determinación del flujo de pasivos en el tiempo.
 Para determinar los flujos de pasivos elegibles, se deben considerar las pensiones o flujos pactados en las respectivas pólizas y las probabilidades que dichos flujos lleguen a ser devengados por los asegurados o sus beneficiarios.
 Para la determinación de los flujos de pago en pólizas de rentas vitalicias del D.L N°3.500, de 1980, se deberá considerar, además de las estipulaciones de las pólizas contratadas, autorizadas por esta Comisión, las disposiciones legales y reglamentarias que sean aplicables. En la determinación de los flujos actuariales correspondientes a los hijos no inválidos, deberá considerarse que éstos estudiarán hasta los 21 años si son menores de 18 años y hasta los 24 años si tienen 18 años o más. Asimismo, en los flujos se deberá considerar la cuota mortuoria señalada en el artículo 88 del DL N°3.500, de 1980, cuando corresponda.
@@ -265,7 +265,7 @@ En aquellos instrumentos que presenten clasificación de riesgo en categoría "A
 No se aplicará castigo sobre los flujos a los instrumentos que presenten clasificación de riesgo en categorías
 "AAA" y "AA".
 Se considerará para el cumplimiento de los requisitos señalados, la menor de las clasificaciones obtenidas, en caso de ser disímiles.
-### VII. USO DE DERIVADOS U OPERACIONES DE COBERTURA EN LA MEDICIÓN DE CALCE
+## VII. USO DE DERIVADOS U OPERACIONES DE COBERTURA EN LA MEDICIÓN DE CALCE
 Las compañías podrán incorporar flujos derivados de operaciones de cobertura de riesgo, de las señaladas en la Norma de Carácter General Nº64, de esta Comisión, en la medición de calce, siempre que cumplan con las disposiciones establecidas en dicha norma y ateniéndose a las siguientes instrucciones:
 1. Inversiones de renta fija en el extranjero e instrumentos de renta fija nacionales emitidos en moneda extranjera
 o con reajustabilidad en moneda extranjera.
@@ -278,21 +278,21 @@ Las compañías que incorporen a la medición de calce, instrumentos de renta fi
 
 ## 4. Inversiones de renta fija nacionales emitidos en moneda nacional.
 A efectos de determinar la posición de calce entre activos y pasivos, las compañías podrán incorporar los flujos provenientes de inversiones de renta fija expresadas en pesos chilenos no reajustables, que sean representativas de Reservas Técnicas y Patrimonio de Riesgo, a través del uso de operaciones de futuros, forwards y swaps que conviertan los pesos chilenos no reajustables en U.F.
-VIII. Eliminado
-### IX. VIGENCIA Y APLICACIÓN
+## VIII. Eliminado
+## IX. VIGENCIA Y APLICACIÓN
 La instrucciones impartidas por la presente Circular, rigen a contar del 1 de julio de 2001. Dichas instrucciones serán aplicables a todas las pólizas de seguros que se emitan a partir de esa fecha, elegibles apara calce, y a aquellas vigentes a esa fecha, que se encuentren incorporadas al sistema de cálculo de reservas técnicas en relación al calce de activos y pasivos.
 No obstante lo anterior, las compañías que voluntariamente quieran aplicar las normas de la presente circular, a contar de los estados financieros del 31 de diciembre de 2000, podrán hacerlo, para lo cual deberán comunicar a este Servicio su decisión, en forma previa o coetánea a su puesta en aplicación.
 Todas las pólizas de rentas vitalicias del D.L Nº 3.500, y otros seguros elegibles para calce, que a la fecha de aplicación de esta circular se encuentren vigentes y que estén incorporados al sistema de calce de la compañía, deberán continuar utilizando para el cálculo de su reserva técnica base, la tasa de costo equivalente determinada al momento de su contratación (o tasa de venta, si corresponde).
-### X DEROGACIÓN
+## X DEROGACIÓN
 Derógase a partir del 1º de julio de 2001 las Circulares Nºs 1143, de 1993, 1285, de 1996, 1363, de 1998 y el Oficio Circular Nº 1613, de 1990.
-### XI NORMAS TRANSITORIAS
+## XI NORMAS TRANSITORIAS
 1. Se autoriza la incorporación al sistema de calce regulado por la presente Circular, de las rentas del Seguro de Invalidez
 y Sobrevivencia, anteriores a la promulgación de la ley Nº18.681, de 1987, cuya reserva técnica se encuentra regulada por la Circular Nº528, de julio de 1985 y sus posteriores modificaciones.
 Las compañías tendrán plazo hasta la entrada en vigencia de la presente Circular, para comunicar a esta Comisión, su decisión de incorporar las rentas señaladas a la normativa de Calce. En caso que la compañía no comunique su decisión, en el plazo señalado, dichos siniestros no podrán ajustarse a las disposiciones de esta Circular, para efectos del cálculo de sus reservas técnicas.
 En caso que la compañía decida la incorporación de los siniestros de la Circular Nº528, y sus posteriores modificaciones, a la normativa de calce, ésta se deberá efectuar junto con la entrada en vigencia de la Circular, debiendo tenerse en consideración las siguientes instrucciones:
 1 . Los flujos de pago estimados de estos siniestros deberán considerarse en la determinación de los índices
 de cobertura de pasivos, CPk , señalados en el Nº5 del Título II. Dichos flujos deben estimarse manteniendo las instrucciones de la circular Nº528.
-## 2. La tasa de mercado, TM, a considerar para efectos del cálculo de la reserva técnica base, deberá
+2. La tasa de mercado, TM, a considerar para efectos del cálculo de la reserva técnica base, deberá
 corresponder a la tasa de interés de los instrumentos estatales, que se define en el Título III, del mes en que se incorporan a calce los citados siniestros.
 3. Se deberá determinar a la fecha de incorporación de los citados siniestros al sistema de calce, una tasa de
 costo de emisión equivalente (TCj), conforme a las instrucciones del Título III, la que se utilizará para el cálculo futuro de la reserva técnica base.

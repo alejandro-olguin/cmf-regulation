@@ -52,10 +52,23 @@ _PAGE_FOOTER_NO_NUM_RE = re.compile(
 
 
 def extract_document_title(first_page_text: str) -> str | None:
-    """Extract the document title from the first-page header pattern."""
+    """Extract the document title from the first-page header pattern.
+
+    Handles two formats:
+    1. Standard CMF header: CIRCULAR Nº XXX / NORMA DE CARÁCTER GENERAL N° XXX
+    2. REF.: fallback: uses the REF line from the body as the title
+    """
     m = _PAGE_HEADER_RE.search(first_page_text)
     if m:
         return m.group(0).strip().replace("\n", " — ")
+
+    # Fallback: use the REF.: line (present in CIR docs without repeating headers)
+    ref_m = re.search(r"REF\.\s*:\s*(.+?)(?=\n(?:Para |Esta |[A-Z][a-záéíóúñü]))", first_page_text, re.DOTALL)
+    if ref_m:
+        # Strip footnote trailing digits and normalise whitespace
+        title = re.sub(r"\s+\d+\s*$", "", ref_m.group(1).strip())
+        title = re.sub(r"\s+", " ", title)
+        return title
     return None
 
 
@@ -431,6 +444,15 @@ def add_markdown_headings(text: str) -> str:
     Promote section titles to markdown heading syntax.
     Deliberately excludes: REF lines, equation lines, lines with "=" signs.
     """
+    # Strip trailing footnote reference numbers from all-caps headings before processing.
+    # e.g. "INVERSIONES 1" → "INVERSIONES"  (where 1 is a superscript footnote)
+    text = re.sub(
+        r"^([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s]{4,})\s+\d{1,2}$",
+        lambda m: m.group(1).rstrip(),
+        text,
+        flags=re.MULTILINE,
+    )
+
     lines = text.split("\n")
     result = []
 
@@ -456,8 +478,14 @@ def add_markdown_headings(text: str) -> str:
             result.append(line)
             continue
 
+        # Roman numeral top-level sections: "I. TITULO", "II TITULO", "III. TITULO"
+        if re.match(r"^(XIV|XIII|XII|XI|IX|VIII|VII|VI|IV|V|I{1,3}|X{1,3})[\.|\s]\s*[A-ZÁÉÍÓÚÑ]", s) and len(s) < 120:
+            result.append(f"## {s}")
+            continue
+
         # Main numbered section: "1. Título" or "7. Disposiciones..."
-        if re.match(r"^\d+\.\s+[A-ZÁÉÍÓÚÑ]", s) and len(s) < 100:
+        if re.match(r"^\d+\.\s+[A-ZÁÉÍÓÚÑ]", s) and len(s) < 100 and (
+                len(s) < 70 or s.endswith((".", ":", "?", "!"))):
             result.append(f"## {s}")
             continue
 
@@ -490,7 +518,14 @@ def add_markdown_headings(text: str) -> str:
             and not s.startswith("OBLIGACIONES")
             and not s.startswith("ENTIDADES")
         ):
-            result.append(f"### {s}")
+            # Check if previous heading was cut mid-title (ends without terminal
+            # punctuation) — if so, append to it instead of creating a new heading.
+            prev_heading = next((r for r in reversed(result) if r.strip()), "")
+            if (prev_heading.startswith(("#", "##", "###")) and
+                    not prev_heading.rstrip().endswith((".", ":", "?", "!"))):
+                result[-1] = prev_heading.rstrip() + " " + s
+            else:
+                result.append(f"### {s}")
             continue
 
         result.append(line)
@@ -859,6 +894,16 @@ def convert_file(pdf_path: Path, output_dir: Path) -> Path:
     # Operation order matters:
     # 0. Collapse mid-sentence page-break blank lines before anything else.
     full_text = merge_cross_page_continuation(full_text)
+    # 0b. Strip REF.: block from body if it was extracted as the document title
+    #     (avoids duplicating the heading in body text).
+    if document_title and not _PAGE_HEADER_RE.search(document_title):
+        full_text = re.sub(
+            r"REF\.\s*:\s*.+?(?=\n(?:Para |Esta |[A-Z][a-záéíóúñü]))",
+            "",
+            full_text,
+            count=1,
+            flags=re.DOTALL,
+        )
     # 1. Document-specific patches run FIRST on raw extracted text,
     #    before equation detection scrambles the content.
     full_text = patch_document(full_text, pdf_path.name)
