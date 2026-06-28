@@ -33,14 +33,15 @@ log = logging.getLogger(__name__)
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Matches any repeating page header of the form:
-#   CIRCULAR Nº 1512              or  NORMA DE CARÁCTER GENERAL N° 209
-#   FECHA: 02.01.2001                 FECHA : 24.12.2007
+#   CIRCULAR Nº 1512   or  CIRCULARN°2180    or  NORMA DE CARÁCTER GENERAL N° 209
+#   FECHA: 02.01.2001      FECHA :25.06.2015     FECHA : 24.12.2007
 _PAGE_HEADER_RE = re.compile(
     r"(?:NORMA DE CAR[ÁA]CTER GENERAL\s+N[°º]\s*[\d]+|"
-    r"CIRCULAR\s+N[°º]\s*[\d]+(?:\s*[\w\s]*?)?)\s*\n"
+    r"CIRCULAR\s*N[°º]\s*[\d]+(?:\s*[\w\s]*?)?)\s*\n"
     r"FECHA\s*:?\s*\d{1,2}\.\d{1,2}\.\d{4}\s*\n?",
     re.MULTILINE,
 )
+# CMF footer (post-2017 institution name)
 _PAGE_FOOTER_RE = re.compile(
     r"COMISI[ÓO]N PARA EL MERCADO FINANCIERO\s*\n\s*\d+\s*\n?",
     re.MULTILINE,
@@ -49,34 +50,64 @@ _PAGE_FOOTER_NO_NUM_RE = re.compile(
     r"COMISI[ÓO]N PARA EL MERCADO FINANCIERO\s*\n",
     re.MULTILINE,
 )
+# SVS footer (pre-2017 institution name: Superintendencia de Valores y Seguros)
+_PAGE_FOOTER_SVS_RE = re.compile(
+    r"SUPERINTENDENCIA DE VALORES Y SEGUROS DE CHILE\s*\n\s*\d+\s*\n?",
+    re.MULTILINE,
+)
+_PAGE_FOOTER_SVS_NO_NUM_RE = re.compile(
+    r"SUPERINTENDENCIA DE VALORES Y SEGUROS DE CHILE\s*\n",
+    re.MULTILINE,
+)
 
 
 def extract_document_title(first_page_text: str) -> str | None:
     """Extract the document title from the first-page header pattern.
 
-    Handles two formats:
-    1. Standard CMF header: CIRCULAR Nº XXX / NORMA DE CARÁCTER GENERAL N° XXX
-    2. REF.: fallback: uses the REF line from the body as the title
+    Priority:
+    1. Standard CMF/SVS page header (CIRCULAR or NORMA DE CARÁCTER GENERAL) — clean, concise.
+    2. REF.: line — used when no repeating standard header is present.
+
+    For CIRCULAR docs: combines the circular number with the REF.: description.
+    For NORMA docs: uses the header directly (no REF.: line present).
     """
     m = _PAGE_HEADER_RE.search(first_page_text)
-    if m:
-        return m.group(0).strip().replace("\n", " — ")
 
-    # Fallback: use the REF.: line (present in CIR docs without repeating headers)
+    # Try to find REF.: for a more descriptive title
     ref_m = re.search(r"REF\.\s*:\s*(.+?)(?=\n(?:Para |Esta |[A-Z][a-záéíóúñü]))", first_page_text, re.DOTALL)
+    ref_title = None
     if ref_m:
-        # Strip footnote trailing digits and normalise whitespace
-        title = re.sub(r"\s+\d+\s*$", "", ref_m.group(1).strip())
-        title = re.sub(r"\s+", " ", title)
-        return title
+        ref_title = re.sub(r"\s+\d+\s*$", "", ref_m.group(1).strip())
+        ref_title = re.sub(r"\s+", " ", ref_title)
+
+    if m:
+        header = m.group(0).strip().replace("\n", " — ")
+        # For CIRCULAR docs, prepend the circular number to the REF.: description
+        if ref_title and "CIRCULAR" in header:
+            circ_num = re.search(r"CIRCULAR\s*N[°º]\s*(\d+)", header)
+            if circ_num:
+                # Trim REF title at first period to drop DEROGA clauses and addressee
+                short_ref = ref_title.split(".")[0].strip() if "." in ref_title else ref_title
+                return f"CIRCULAR N° {circ_num.group(1)} — {short_ref}"
+        return header
+
+    # Pure fallback: no repeating header, use REF.: only
+    if ref_title:
+        return ref_title
     return None
 
 
 def remove_page_chrome(text: str) -> str:
     """Remove repeated page headers, footers and standalone page numbers."""
     text = _PAGE_HEADER_RE.sub("", text)
+    # CMF footer (post-2017)
     text = _PAGE_FOOTER_RE.sub("", text)
     text = _PAGE_FOOTER_NO_NUM_RE.sub("", text)
+    # SVS footer (pre-2017)
+    text = _PAGE_FOOTER_SVS_RE.sub("", text)
+    text = _PAGE_FOOTER_SVS_NO_NUM_RE.sub("", text)
+    # Standalone signer line found in SVS-era documents
+    text = re.sub(r"^SUPERINTENDENTE\s*\n", "", text, flags=re.MULTILINE)
     # Note: we do NOT remove standalone single-digit lines here because they may
     # be formula subscripts (e.g. "0" in "r_0"). Page numbers are already removed
     # as part of the footer pattern above.
@@ -484,8 +515,13 @@ def add_markdown_headings(text: str) -> str:
             continue
 
         # Main numbered section: "1. Título" or "7. Disposiciones..."
-        if re.match(r"^\d+\.\s+[A-ZÁÉÍÓÚÑ]", s) and len(s) < 100 and (
-                len(s) < 70 or s.endswith((".", ":", "?", "!"))):
+        # Guard: heading must be short OR end with terminal punct, AND must not
+        # look like a sentence (verbs like Deberán, Corresponde, etc.) or a form
+        # field line (contains underscores or parenthesised numbers like (3)).
+        if (re.match(r"^\d+\.\s+[A-ZÁÉÍÓÚÑ]", s) and len(s) < 100
+                and (len(s) < 70 or s.endswith((".", ":", "?", "!")))
+                and not re.search(r"[_]{3}|\(\d\)", s)
+                and not re.match(r"^\d+\.\s+(Deber[aá]|Corresponde|Ser[aá]|Se |Cuando |En |La |Las |Los |El )", s)):
             result.append(f"## {s}")
             continue
 

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR Nº 1512 — FECHA: 02.01.2001
+# CIRCULAR N° 1512 — IMPARTE INSTRUCCIONES SOBRE CONSTITUCIÓN DE RESERVAS TÉCNICAS Y VALORIZACIÓN DE ACTIVOS Y PASIVOS EN RELACIÓN AL CALCE DE ACTIVOS Y PASIVOS
 
 
 Esta Comisión, en uso de sus facultades legales, especialmente lo señalado en los artículos 3º letras b) y k), y 20, del DFL Nº251 de Hacienda de 1931, y 4º letras a) y e) del D.L. 3538 de 1980, ha resuelto impartir las siguientes instrucciones aplicables a las entidades aseguradoras y reaseguradoras del segundo grupo, respecto de la constitución de reservas técnicas en relación al calce de sus activos y pasivos en el tiempo.
