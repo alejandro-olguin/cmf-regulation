@@ -3,6 +3,3 @@
 
 # Input PDFs (large binary files)
 pdf/
-
-# Generated Markdown output (derived from pdf/)
-markdown/
