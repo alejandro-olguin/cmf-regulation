@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARACTER GENERAL N° 80 — FECHA : 03.04.1998
+# NCG N° 80 — IMPARTE INSTRUCCIONES PARA LAS SOCIEDADES CORREDORES DE SEGUROS QUE SEAN FILIALES DE BANCOS O FINANCIERAS Y PARA PERSONAS RELACIONADAS A BANCOS O FINANCIERAS QUE ACTUEN COMO CORREDORES DE SEGUROS, EN CONFORMIDAD AL ARTICULO 70 DE LA LEY GENERAL DE BANCOS.
 
 
 Para todas las sociedades corredoras de seguros filiales de bancos o financieras, personas relacionadas a bancos o financieras que actúen como corredores de seguros y entidades aseguradoras.

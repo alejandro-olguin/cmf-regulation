@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2248
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 12-1 Hoja 1
 ### CAPÍTULO 12-1 PATRIMONIO PARA EFECTOS LEGALES Y REGLAMENTARIOS
@@ -172,8 +174,8 @@ Circular N° 2.248 / 30.03.2020 por Resolución N° 2490
 Capítulo 12-1 Hoja 9 El “equivalente de crédito” con una misma contraparte corresponderá a
 lo siguiente:
 - Si el valor razonable neto de las posiciones compensadas es positivo:
- n max(∑VR ,0) n n   i   EC =max(∑VR ,0) + ∑Noc ×Fc ×0,4+ 0,6× i=1 i i i n i=1 i=1  ∑max(VR ,0)
- i 
+ n max(∑VR ,0) n n • • i • • EC =max(∑VR ,0) + ∑Noc ×Fc ×0,4+ 0,6× i=1 i i i n i=1 i=1 • ∑max(VR ,0)•
+• i •
 
 I=1
 - Si el valor razonable neto de las posiciones compensadas es negativo o cero:

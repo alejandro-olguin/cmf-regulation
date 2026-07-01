@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1382 — IMPARTE INSTRUCCIONES SOBRE FORMA DE ENTREGA DE LA INFORMACION FINANCIERA A ESTA SUPERINTENDENCIA
+# CIRCULAR N° 1382 — IMPARTE INSTRUCCIONES SOBRE FORMA DE ENTREGA DE LA INFORMACION FINANCIERA A ESTA SUPERINTENDENCIA.
 
 
 Para todas las sociedades inscritas en el Registro de Valores, con excepción de las entidades de seguros y entidades reaseguradoras.

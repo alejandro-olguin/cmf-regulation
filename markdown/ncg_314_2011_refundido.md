@@ -19,7 +19,6 @@ Sin perjuicio de la existencia de Usuarios Administradores y de Usuarios SEIL, l
 Para estos efectos, el directorio en el caso de sociedades anónimas o el órgano de administración que corresponda en el caso de otras entidades, adoptará los acuerdos relativos a asumir la responsabilidad señalada y de facultar al gerente general, representante legal, o quienes los subroguen, para:
 - firmar la declaración de responsabilidad y autorización para la habilitación de Usuarios
 Administradores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 314
 FECHA: 27.07.2011
@@ -34,7 +33,6 @@ A objeto de que las entidades tengan mayor claridad en la forma en que este sist
 http://www.svs.gob.cl/sitio/faq/sis_adm_usuarios_seil.pdf Cada vez que el Manual de Administración de usuarios SEIL sea modificado, se informará mediante correo electrónico a todos los Usuarios Administradores. Además, la última página del referido Manual incluirá una reseña con la fecha y materia de las modificaciones que se hayan incorporado al mismo.
 IV. Responsabilidad de Usuarios Es indelegable la facultad de los Usuarios Administradores sobre la creación, desactivación o modificación de los Usuarios SEIL, por lo cual se deberán observar los controles y formalidades establecidos por la Superintendencia al respecto en el referido sistema.
 Las claves de acceso y tarjetas de coordenadas para autenticarse ante el SEIL, deben ser de uso personal e intransferible. La administración de la entidad regulada deberá establecer los procedimientos de control interno necesarios para asegurar el cumplimiento de estas disposiciones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 314
 FECHA: 27.07.2011
@@ -47,4 +45,3 @@ Para estos efectos, deberán ciñirse al procedimiento establecido en el manual 
 Con posterioridad al 15 de septiembre de 2011, los Usuarios SEIL que no hayan sido reactivados bajo el procedimiento establecido en la presente norma, serán deshabilitados automáticamente por el sistema.
 VIGENCIA: Estas instrucciones entran en vigencia a contar de esta fecha.
 DEROGACIÓN: Derógase la Norma de Carácter General N° 117 de 20 de abril de 2001.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

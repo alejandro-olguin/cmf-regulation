@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE CONTABILIZACION DE CREDITOS REPROGRAMADOS Y SUS RESPECTIVAS PROVISIONES.
+# CIRCULAR N° 1221 — IMPARTE INSTRUCCIONES SOBRE CONTABILIZACION DE CREDITOS REPROGRAMADOS Y SUS RESPECTIVAS PROVISIONES.
 
-CIRCULAR Nº: 1221
-FECHA: 31.05.95
 
 Para todos los Fondos Solidarios de Crédito Universitario Esta Superintendencia en cumplimiento de lo dispuesto en el artículo 80 Bis de la ley Nº 18.591, imparte las instrucciones que a continuación se indican:
 ## I. Forma de contabilización de créditos reprogramados.
@@ -22,8 +20,6 @@ Reprogramación de Deudores con Crédito Fiscal Universitario y Crédito Univers
 El fondo deberá consolidar los créditos mencionados al 31.12.93 de aquellos deudores que reprogramaron sus deudas en las condiciones establecidas en la ley Nº 19.287.
 Para estos efectos, el fondo deberá cargar la cuenta de activo denominada "Crédito Solidario" de corto o largo plazo, según corresponda, por el monto contabilizado como saldo deudor antes de la reprogramación. Simultáneamente, se abonará la cuenta de activo donde estuvieran registrados los créditos, y se reversarán las provisiones contra resultados, que hayan generado esos créditos al 31.12.93 En el caso que los intereses a pagar por la deuda acumulada al 31.12.93, utilizando las condiciones actuales de la reprogramación, fuesen mayores al monto obtenido con las cláusulas originales del crédito, el exceso se reconocerá en la cuenta "Utilidad por Créditos Reprogramados", con cargo a la cuenta de crédito solidario.
 
-CIRCULAR Nº: 1221
-FECHA: 31.05.95
 Si los intereses a pagar por la deuda acumulada al 31.12.93, utilizando las condiciones actuales de la reprogramación, fuesen menores al monto obtenido con las cláusulas originales del crédito, la diferencia se reconocerá en la cuenta "Pérdida por Créditos Reprogramados", con abono a la cuenta de crédito solidario.
 En caso que la deuda haya generado intereses moratorios, éstos deberán ser condonados, para lo cual, se cargará la cuenta "Pérdida por Condonación de Intereses", con abono a la cuenta donde se encontraban registrados los intereses por mora.
 ## III. Créditos no reprogramados.
@@ -42,8 +38,6 @@ Se debe establecer el monto de los ingresos declarados por el deudor a la Instit
 b) Cálculo de la provisión.
 La provisión de corto y largo plazo que deben realizar los Fondos tendrá un componente normal y uno extraordinario, según se indica a continuación:
 
-CIRCULAR Nº: 1221
-FECHA: 31.05.95
 - Provisión normal: Si la cuota anual teórica (CAT) es mayor que la cuota anual
 teórica según el ingreso (CTY), se debe dividir la diferencia entre ambas por el CAT, lo que constituirá la tasa de incobrabilidad aplicable al monto total de créditos solidarios vigentes de corto y largo plazo.
 CAT - CTY * 100 = %
@@ -61,8 +55,6 @@ CAT Lo anterior rige para los créditos vigentes de corto y largo plazo.
 ### 1.2 Créditos otorgados a alumnos que están estudiando:
 Para determinar la provisión de los créditos otorgados a los alumnos que se encuentran estudiando, se debe establecer el promedio de las tasas de incobrables de los 2 últimos años. Para estos efectos, se debe obtener al 31 de diciembre del año que se informa y del anterior, los vencimientos de créditos del tipo señalado en el numeral 1.1 de la presente sección IV, que se produjeron en cada ejercicio y que efectivamente no fueron pagados, dividido por el total de vencimientos ocurrido en cada uno de los períodos. La suma de los cuocientes se divide por 2 y se multiplica por 100, obteniéndose la tasa promedio de incobrables que se aplicará al total de créditos de largo plazo.
 
-CIRCULAR Nº: 1221
-FECHA: 31.05.95
 ## 2. Crédito Base Fija:
 Para la provisión respecto de aquellos créditos pactados conforme al artículo 12 de la ley Nº
 19.287, se entenderá para estos efectos que son "Créditos Base Fija".

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE NORMAS DE INSCRIPCIÓN DE CUOTAS DE FONDOS DE INVERSIÓN EN EL REGISTRO DE VALORES, SU DIFUSIÓN, COLOCACIÓN Y OBLIGACIONES DE INFORMACIÓN. DEROGA CIRCULAR N° 935 DE 1990.
+# CIRCULAR N° 1947 — ESTABLECE NORMAS DE INSCRIPCIÓN DE CUOTAS DE FONDOS DE INVERSIÓN EN EL REGISTRO DE VALORES, SU DIFUSIÓN, COLOCACIÓN Y OBLIGACIONES DE INFORMACIÓN
 
-### CIRCULAR N° 1.947
-FECHA: 02.10.2009
 
 Para los fondos de inversión.
 Esta Superintendencia, en virtud de sus atribuciones legales y con el objeto de establecer los requerimientos de información para la inscripción de emisiones de cuotas de fondos de inversión en el Registro de Valores, sus normas de difusión y de información continua, dicta la siguiente circular.
@@ -30,9 +28,7 @@ Anexo N° 3: Formato e instrucciones para el aviso del artículo 17 de la Ley de
 Anexo N° 4: Formato de certificado de nueva emisión de cuotas de un fondo de inversión.
 Anexo N° 5: Formato de certificado de modificación de emisión de cuotas de un fondo de inversión.
 Anexo N° 6: Formato de certificado de inscripción de cuotas de un fondo de inversión privado que desea convertirse, en forma voluntaria, a un fondo fiscalizado por la Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 SECCION I: INSCRIPCION DE EMISIONES DE CUOTAS DE FONDOS DE INVERSION, SUS
 NORMAS DE DIFUSION E INFORMACION CONTINUA.
 #### A. INTRODUCCION
@@ -48,9 +44,7 @@ La información deberá estar permanentemente a disposición del público invers
 B.1. Procedimiento La solicitud para la inscripción consistirá en una carta firmada por el gerente general o por la persona que haga sus veces, acompañada de la siguiente información:
 - Prospecto
 - Antecedentes Adicionales
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 La presentación de la solicitud deberá sujetarse al orden que se establece al respecto, numerada correlativamente y en triplicado.
 El contenido de la información enviada deberá presentarse en papel de buena calidad, de manera de asegurar una recepción clara, precisa y comprensible que no genere distorsiones o haga ilegible la información y las imágenes utilizadas.
 B.2 Correcciones Si se requiere corregir parte de la información, bastará con que se presenten las páginas corregidas, adjuntando una nota firmada por el gerente general o por quien haga sus veces, que indique los cambios efectuados, incluyendo una declaración de responsabilidad en que se haga expresa referencia a la corrección, firmada por las personas que corresponda. Las páginas corregidas deberán indicar en el margen superior derecho "Corrección pág. Nº...".
@@ -60,9 +54,7 @@ B.4. Actualizaciones y Modificaciones En tanto esté vigente la emisión de cuot
 Sin perjuicio de lo anterior, cuando se modifiquen las condiciones originales de la emisión, tales como, monto máximo de la emisión, número de cuotas, precio y plazo de colocación, cambios en los nombres de la administradora y en los fondos, se deberá solicitar a este Servicio certificar la incorporación de dichas modificaciones, adjuntando los antecedentes pertinentes para ello, en la forma indicada en el literal B.1.
 Una vez que la sociedad haya proporcionado los antecedentes, señalados en el párrafo anterior, y solucionadas las observaciones que la Superintendencia haya formulado, ésta procederá a la emisión de un Certificado que dará cuenta de las referidas modificaciones(Anexo N° 5).
 B.5. Instrucciones para inscripción de cuotas que ya se han emitido, colocado y pagado de Fondos de Inversión Privados, de aquellos creados bajo el amparo del título VII de la Ley 18.815, y que desean convertirse, en forma voluntaria, a un fondo de inversión fiscalizado por la Superintendencia de Valores y Seguros
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 El procedimiento a efectuar para solicitar la inscripción de cuotas de un fondo de inversión privado, y que desea convertirse voluntariamente en un fondo de inversión fiscalizado por la Superintendencia y donde sus cuotas ya se han emitido, colocado y pagado, será el mismo que para un nuevo fondo de inversión fiscalizado por la Superintendencia, debiendo adjuntar a la presentación de solicitud de inscripción, los antecedentes pertinentes para ello, en la forma indicada en el literal B.1 y preparados conforme a las instrucciones que se imparten en el Anexo N° 1 de esta Circular. Lo anterior, con las adecuaciones que sean pertinentes en los textos correspondientes.
 Posteriormente, analizados dichos documentos por la Superintendencia y subsanadas las posibles observaciones que ésta haya formulado, se procederá a la emisión de un Certificado que dará cuenta de la inscripción de estas cuotas en el Registro de Valores
 (Anexo N° 6), desde la misma fecha en que se aprobó el reglamento interno del fondo por parte de la Superintendencia. En este Certificado quedará claramente informada la naturaleza con que se creó el fondo y la condición de sus cuotas, es decir, que se trata de un fondo que se creó como cerrado y que sus cuotas ya habían sido emitidas, colocadas y pagadas en forma privada, con anticipación al registro que se estaría llevando a cabo.
@@ -76,9 +68,7 @@ C.2.3 En el caso de emisiones posteriores a la primera emisión, copia de los do
 C.2.4 Copia del aviso y la comunicación que se enviará a los aportantes informando sobre la opción preferente de suscripción de cuotas, para lo cual deberá emplearse el formato de aviso que se presenta en el Anexo N° 2.
 C.2.5 Copia del aviso a publicar, informando a los tenedores de cuotas del inicio del período preferente de suscripción que establece el artículo 17 de la Ley de Fondos de Inversión, para lo cual deberá emplearse el formato de aviso que se presenta en el Anexo N° 3.
 C.2.6 Copia del aviso a publicar, informando al público en general sobre la emisión de que se trate, de acuerdo a las instrucciones que haya impartido esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 #### D. NORMAS PARA LA DIFUSION Y PUBLICIDAD DE LAS EMISIONES DE CUOTAS
 D.1. Introducción La publicidad, propaganda o difusión que por cualquier medio de comunicación haga la sociedad administradora acerca de sí misma o de los fondos que administra, los intermediarios, las bolsas de valores, las corporaciones de agentes de valores y cualesquiera otras personas o entidades que participen en una emisión o colocación de cuotas deberá ajustarse respecto de dicha colocación, a lo dispuesto en el artículo 65 de la Ley Nº 18.045, a lo establecido en este literal y a las demás normas que al efecto imparta la Superintendencia.
 En todo caso, siempre deberá indicarse claramente el lugar o lugares donde pueda obtenerse copia del prospecto informativo de la emisión de que se trate junto con los antecedentes adicionales que correspondan.
@@ -92,9 +82,7 @@ Cualquier inversionista tendrá derecho a consultar dicha información.
 La información deberá estar a disposición del público inversionista, en las oficinas de la sociedad administradora, de los intermediarios, en las bolsas de valores que correspondan, y en el sitio Web de la administradora si procediera. Dicha información deberá contener, además de lo indicado en la letra C.2 y lo señalado en el primer párrafo de la letra a) anterior, a lo menos, lo siguiente:
 D.2.1 Acta de asamblea extraordinaria de aportantes o sesión de directorio que acordó las condiciones de la emisión, según corresponda.
 D.2.2 Copia de los 4 últimos estados financieros trimestrales del fondo, cuando corresponda, enviados por la sociedad administradora a la Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 D.2.3 Copia de los hechos esenciales divulgados por la entidad y que no estén contenidos en los números precedentes y que se encuentren vigentes.
 D.2.4 Antecedentes académicos y experiencia laboral de los Miembros de la Administración y del Directorio.
 Se entenderán por Miembros de la Administración a los Gerentes, Ejecutivos Principales y Portfolio Manager.
@@ -106,9 +94,7 @@ E.1. Información mensual sobre el estado y colocación de la emisión Mientras 
 E.1.1 Informar acerca de la parte suscrita y pagada de la emisión inscrita, en cada informe trimestral que se presente a la Superintendencia.
 E.1.2 Enviar periódicamente informes acerca de la suscripción, colocación y pago de las emisiones de conformidad a las instrucciones que haya impartido esta Superintendencia, a contar de la fecha de inscripción de la emisión en el Registro de valores.
 E.1.3 Una vez vencido el plazo de suscripción o pagada la totalidad de la emisión, deberá mencionarse en el informe trimestral correspondiente, acerca de dicha situación y de su efecto definitivo en el patrimonio del fondo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 SECCION II: INFORMACION CONTINUA REQUERIDA
 #### A. INTRODUCCION
 La sociedad administradora deberá proporcionar a la Superintendencia y al público en general la misma información sobre los fondos que administre a que están obligadas las sociedades anónimas abiertas y con la periodicidad, publicidad y en la forma que se exige a éstas.
@@ -125,10 +111,8 @@ B.1 Informes y estados financieros trimestrales y anuales La entidad deberá pre
 Contenido de los informes:
 a) Estados Financieros trimestrales y anuales del fondo de inversión, debiendo incluir
 lo siguiente:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
-a.1) Balance General a.2) Estado de Variación Patrimonial a.3) Estado de Utilidad para la Distribución de Dividendos a.4) Resumen de Inversiones
+7 a.1) Balance General
+a.2) Estado de Variación Patrimonial a.3) Estado de Utilidad para la Distribución de Dividendos a.4) Resumen de Inversiones
 b) Declaración de Responsabilidad
 c) Carteras de Inversiones
 d) Otros Informes establecidos mediante normativa de la Superintendencia
@@ -141,20 +125,21 @@ preciso por parte del gerente general o del que haga sus veces, de la situación
 B.2 Variaciones de patrimonio Deberán informarse las variaciones ocurridas en el patrimonio de los fondos de inversión dentro de los plazos que se indican a continuación:
 B.2.1 Todo reparto de dividendos y reparto de patrimonio correspondiente a aportes, a lo menos con veinte (20) días de anticipación a la fecha establecida para su solución y en conformidad a las instrucciones que imparta esta Superintendencia.
 La referida comunicación deberá señalar al menos los siguientes datos:
- Fecha de envío de carta a los aportantes
- Fecha publicación en el diario respectivo
- Fecha de acuerdo de la asamblea ordinaria o extraordinaria de aportantes, según sea el caso
- Vencimiento del plazo del derecho a retiro, si corresponde
- Número de cuotas
- Monto total a distribuir ($)
- Monto a distribuir por cuota ($)
- Porcentaje del beneficio neto percibido
- Fecha de pago
- Fecha a la que deben estar inscritos los aportantes en el Registro de Aportantes para tener derecho al reparto
- Dirección y horario de atención B.2.2 Toda capitalización de fondos que acuerde una entidad con aumento del valor nominal de sus cuotas o simplemente con el aumento del patrimonio correspondiente a aportes, dentro de los cinco días siguientes al hecho motivo de la comunicación y en conformidad a las instrucciones que imparte esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+• Fecha de envío de carta a los aportantes
+• Fecha publicación en el diario respectivo
+• Fecha de acuerdo de la asamblea ordinaria o extraordinaria de aportantes, según
+sea el caso
+• Vencimiento del plazo del derecho a retiro, si corresponde
+• Número de cuotas
+• Monto total a distribuir ($)
+• Monto a distribuir por cuota ($)
+• Porcentaje del beneficio neto percibido
+• Fecha de pago
+• Fecha a la que deben estar inscritos los aportantes en el Registro de Aportantes
+para tener derecho al reparto
+• Dirección y horario de atención
+B.2.2 Toda capitalización de fondos que acuerde una entidad con aumento del valor nominal de sus cuotas o simplemente con el aumento del patrimonio correspondiente a aportes, dentro de los cinco días siguientes al hecho motivo de la comunicación y en conformidad a las instrucciones que imparte esta Superintendencia.
+
 La referida comunicación deberá indicar, al menos, lo siguiente:
 - Nombre del emisor
 - Actual aporte y número de cuotas emitidas
@@ -169,9 +154,7 @@ Será obligación permanente de la sociedad administradora divulgar oportunament
 Asimismo, la sociedad administradora deberá divulgar oportunamente cualquier hecho o información esencial respecto de las empresas o sociedades en que los fondos de inversión mantengan invertidos sus recursos, desde el momento en que llegue a su conocimiento.
 Para este efecto, las administradoras deberán enviar la información respectivamente a la Superintendencia y a las bolsas de valores, consignando claramente el efecto que el hecho o la información produce en la administradora o en el fondo de inversión correspondiente. No obstante, la administradora podrá adoptar medidas adicionales de divulgación a través de los medios de prensa cuando así lo estime necesario o conveniente.
 C.1. Procedimiento La información antes señalada deberá ser suscrita por la mayoría absoluta de los directores existentes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 Sin perjuicio de la responsabilidad del directorio o administradores según corresponda, señalados en el párrafo precedente, éstos podrán facultar al presidente del directorio, al gerente general o al representante legal de la sociedad para suscribir dicha información.
 El otorgamiento de dicha facultad deberá constar en acta de sesión de directorio, o del órgano de administración que corresponda. En el caso de hechos esenciales a los cuales el directorio decida darles el carácter de reservados, no existirá la posibilidad de delegación antes señalada.
 La administración de la sociedad deberá adoptar las medidas necesarias para que la información esencial sea divulgada oportunamente, otorgando facultades para la suscripción y comunicación de dicha información.
@@ -186,9 +169,7 @@ La sociedad administradora deberá hacer llegar a esta Superintendencia, a todas
 D.1 Comunicación de la celebración de toda asamblea de aportantes con una anticipación no inferior a 15 días. No obstante, se considerarán igualmente válidas aquellas asambleas que aunque no hayan cumplido con esta formalidad, haya concurrido la totalidad de las cuotas pagadas con derecho a voto.
 D.2 Copia de las actas de las asambleas de aportantes, debidamente certificadas por el gerente, o por la persona que haga sus veces, dentro del plazo de 10 días hábiles contado desde su celebración.
 D.3 Toda modificación del Reglamento Interno del fondo, dentro del plazo de 10 días hábiles contado desde la fecha de celebración de la asamblea de aportantes que la aprobó.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 D.4 Cualquier nombramiento, vacancia o reemplazo que se produzca en los cargos de presidente, directores, gerente, ejecutivos principales, miembros del comité de vigilancia, administradores y liquidadores de las entidades, dentro del plazo de 3 días hábiles desde ocurrido el hecho.
 D.5 Nombramiento, vacancia o reemplazo que se produzca en la designación de auditores externos que no sea producto de designación en una Asamblea Ordinaria de Aportantes, dentro del plazo de 5 días hábiles de ocurrido el hecho, sujetándose al efecto, a las instrucciones que haya impartido o imparta esta Superintendencia.
 D.6 Comunicación señalando el periódico que haya determinado la asamblea de aportantes para la publicación de los avisos de citación a asamblea, dentro del plazo de 5 días hábiles de adoptado el acuerdo. Asimismo, cualquier modificación respecto de lo anterior, deberá comunicarse dentro del mismo plazo indicado.
@@ -199,9 +180,7 @@ D.10 El hecho de haber cesado en el pago de una o más obligaciones, al siguient
 #### E. PUBLICACIONES OBLIGATORIAS
 E.1 Publicación de estados financieros anuales La sociedad administradora deberá publicar en su sitio en Internet, los estados financieros anuales del fondo o de los fondos que administre, con la información requerida por el inciso segundo del artículo 9° del D.S. N° 864, de 1990, sus respectivas notas explicativas y el correspondiente dictamen de la empresa de auditoría externa. El hipervínculo donde se encuentre dicha publicación y la fecha en que esté disponible, deberá ser remitido a esta Superintendencia de acuerdo a las instrucciones impartidas en el numeral 3.1 de la Sección II de la Norma de Carácter General N° 30.
 Esta publicación se deberá llevar a efecto con a lo menos diez días de anticipación a la fecha en que se celebre la asamblea que se pronunciará sobre los mismos. Si los estados financieros fueren modificados por la asamblea, los estados financieros corregidos deberán publicarse en el sitio en Internet de la sociedad, dentro de los 5 días siguientes a la fecha de tal asamblea.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 La información contendida en el sito web de la entidad, deberá presentarse en un lugar destacado, de fácil acceso al público que desee acceder a ella y en un formato que permita su obtención gratuita. Esta información deberá permanecer disponible en el sitio en Internet de la sociedad por a lo menos 5 años consecutivos, contados desde la fecha de su publicación.
 En la citación a la asamblea de aportantes se deberá mencionar la fecha e hipervínculo en que se ha realizado o realizará la publicación referida anteriormente, a fin de asegurar la disponibilidad de esta información para los aportantes y el público en general.
 E.2 Publicación de las disminuciones de capital En lo que respecta a las disminuciones de capital se deberá publicar un aviso destacado en el diario a que se refiere la letra h) del artículo 4º de la Ley Nº 18.815, dentro de los 2 hábiles días siguientes a aquel en que se tomó el acuerdo, indicando la disminución de capital o el acuerdo que originó el derecho a retiro, el plazo para su ejercicio y la fecha de pago del valor de sus cuotas.
@@ -219,9 +198,7 @@ VIGENCIA Las disposiciones contenidas en esta Circular rigen a contar desde esta
 Derógase, a contar de esta fecha, la Circular N° 935 de 28 de febrero de 1990.
 ### DISPOSICIÓN TRANSITORIA
 Las solicitudes de inscripción de emisiones de cuotas en trámite de aprobación por parte de esta Superintendencia, se deberán ajustar a las instrucciones contenidas en la presente Circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ## ANEXO Nº 1 INSTRUCCIONES PARA LA ELABORACIÓN DEL PROSPECTO DE EMISIÓN DE CUOTAS
 ### 0.0 RESUMEN
 ### 0.1 Sociedad Administradora : Señalar, en letras mayúsculas, el nombre de la sociedad
@@ -242,9 +219,6 @@ inversión en el fondo
 ### 0.8 Rentabilidad del Valor Cuota : Mostrar la rentabilidad del valor cuota del fondo, asociada a
 su valor libro y a su valor económico, cuando corresponda.
 Las rentabilidades corresponderán a aquellas presentadas entre el inicio de las operaciones y los últimos estados financieros, el último año, último semestre y últimos 3 meses.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
 
 |  | Acumulada desde el inicio | Ultimo año | Ultimo semestre | Ultimo trimestre |
 | --- | --- | --- | --- | --- |
@@ -276,9 +250,7 @@ siguiente leyenda: "LA INFORMACION RELATIVA AL O A LOS INTERMEDIARIOS, ES DE
 ### 2.0 IDENTIFICACION SOCIEDAD ADMINISTRADORA
 ### 2.1 Razón Social : Indicar, en letras mayúsculas, la razón social completa de la
 sociedad administradora.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 2.2 Nombre Fantasía : Indicar el nombre de fantasía de la sociedad administradora,
 si lo tiene.
 ### 2.3 R.U.T. : Indicar el Rol Unico Tributario de la sociedad
@@ -306,9 +278,7 @@ los directores.
 siguiente orden: apellido paterno, apellido materno y los nombres de pila completos.
 ### 3.6 R.U.T. : Indicar el número y dígito verificador del RUT que
 corresponde al Gerente General.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 3.7 Ejecutivos principales : Indicar el nombre completo de los Ejecutivos Principales, en
 el siguiente orden: apellido paterno, apellido materno y los nombres de pila completos.
 ### 3.8 R.U.T. : Indicar el número de RUT y dígito verificador de cada uno de
@@ -334,9 +304,7 @@ a cada uno de los controladores registrados en la columna precedente.
 directa o indirecta de cada persona natural, respecto del total de acciones suscritas.
 ### 4.9 Total : Indicar la suma de los porcentajes incluidos en la columna
 4.8, correspondiente a los controladores de la sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 4.10 Forma de Ejercer el Control : Si el control se ejerce indirectamente deberá señalar las
 personas que son accionistas de la sociedad a través de las cuales se ejerce el control. Indicar a su vez, si existe algún pacto de actuación conjunta.
 En caso que la sociedad administradora no tenga controlador deberá señalarse expresamente esta circunstancia.
@@ -355,9 +323,6 @@ según lo dispuesto en su reglamento interno.
 Adicionalmente, se deberá indicar si, de acuerdo al reglamento interno del fondo, el plazo de duración del mismo podría ser prorrogado por acuerdo adoptado en Asamblea Extraordinaria de Aportantes y, en caso afirmativo, deberá señalarse además, con cuanto tiempo de anticipación al vencimiento del plazo de duración del fondo deberá celebrarse la asamblea que acuerde dicha prórroga.
 5.6 Identificación de los 12 : La información deberá estar referida a la fecha de presentamayores aportantes ción de los últimos estados financieros. En caso que se
 extienda el proceso de aprobación de la emisión, la sociedad deberá actualizar la información cuando corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
 
 | 5.6.1 Nombres | 5.6.2 Tipo | 5.6.3 Rut | 5.6.4% Propiedad |
 | --- | --- | --- | --- |
@@ -392,9 +357,7 @@ Esta cifra deberá expresarse con 4 decimales.
 aportantes. Esta cifra se presentará con 4 decimales.
 1 En el caso que un Inversionista Institucional coincida con una segunda codificación, por ejemplo “otro tipo de
 persona jurídica nacional” deberá prevalecer el de Inversionista Institucional.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 5.7 Total aportantes : Indicar el número total de aportantes del fondo con derecho a
 voto.
 ### 5.8 Comité de Vigilancia : Indicar los antecedentes de los miembros del Comité de
@@ -423,9 +386,7 @@ Comité de Vigilancia de la persona señalada en el numeral
 ### 6.1 Objetivo de Inversión : Se deberá indicar el objetivo, en forma precisa y concisa,
 conforme a lo dispuesto en el reglamento interno del fondo.
 Asimismo, corresponderá incluir cualquier información adicional y distintiva que a este respecto se quiera entregar al público inversionista, sobre el propósito de inversión particular de los recursos captados a través de la emisión de la cual se trate (grupo de activos de interés, tipos de proyectos, estrategia de inversión, etc.); esto, en todo caso, enmarcado en la política de inversiones establecida en el reglamento interno del fondo
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 6.2 Factores de Riesgo : Indicar los riesgos inherentes al sector económico al cual
 estarán orientadas sus inversiones.
 Asimismo, deberá incluir advertencias según sea el objetivo de inversión en instrumentos derivados, tendientes a proporcionar información clara y relevante a los inversionistas al respecto. Por ejemplo, se podrían incorporar las siguientes advertencias:
@@ -439,9 +400,7 @@ Infórmese sobre la Política de Inversión del Fondo, de Reparto de Beneficios,
 administradora del fondo por los servicios prestados. Lo anterior, en forma resumida. Si hubiere comisión de colocación, ésta deberá indicarse.
 ### 7.2 Gastos de cargo del fondo : Indicar si existirán o no gastos de cargo del fondo. De
 haberlos, señalar que el detalle de los mismos y su porcentaje máximo, en relación con el valor del fondo, se encuentran establecidos en el reglamento interno del mismo, precisando el artículo o artículos relevantes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 8.0 ANTECEDENTES FINANCIEROS
 Indicar a través de un cuadro comparativo las partidas, que se señalan en los puntos siguientes, de los cuatro últimos estados financieros trimestrales del fondo, cuando corresponda, expresados en la moneda del último estado financiero presentado.
 En caso que la sociedad administradora no hubiere iniciado operaciones deberá señalar que por tal motivo no presenta la información solicitada. Si, por otra parte, no ha confeccionado la serie de estados financieros del fondo en razón de su reciente formación, deberá indicar cuáles son los estados financieros que tenga disponibles.
@@ -463,9 +422,7 @@ el aumento del aporte. En caso de ser 1ª emisión, indicar la sesión de direct
 cuotas emitidas, valorizadas al precio de colocación.”.
 ### 9.4 Número de cuotas : Indicar el número total de cuotas a emitir que se están
 inscribiendo, expresadas en cifras numéricas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 9.5 Precio de colocación : Deberá indicar el precio inicial de colocación de las cuotas a
 emitir, su forma de cálculo y su actualización diaria; esto último sólo si el precio de la cuota está expresado en una medida no reajustable. En caso que se establezca que el precio corresponderá al valor libro de la cuota, se deberá especificar qué se entiende por valor libro y a qué fecha corresponderá el cálculo.
 Adicionalmente, se deberá señalar, si corresponde, que fuera del o de los períodos de opción preferente, el precio no podrá ser inferior al determinado para el período de opción preferente respectivo ni al que resulte de dividir el valor diario del patrimonio del fondo por el número de cuotas pagadas a esa fecha, de acuerdo a lo que dispone el Reglamento de la Ley. Las prohibiciones anteriores no se tendrán en cuenta para las colocaciones efectuadas en bolsas de valores, en la medida que hayan sido establecidas en las condiciones de la emisión.
@@ -487,9 +444,7 @@ Asimismo, señalar si la colocación se efectuará directamente (mercado primari
 participarán en la colocación.
 ### 11.3 Plazo de colocación : Deberá indicar el plazo de colocación, especificando desde
 qué acontecimiento o fecha este plazo será contado; en qué circunstancias de entenderá por terminada la colocación en forma anticipada y, en qué circunstancias se entenderá la colocación como fallida. Adicionalmente, se deberá señalar, en caso que corresponda, la periodicidad en que se efectuarán ofertas preferentes por las cuotas no suscritas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### 11.4 Relación con colocadores : Indicar cualquier relación significativa que exista entre la
 administradora y aquellos que actúen como colocadores, distinta de las originales que señala el contrato.
 ### 11.5 Valores no suscritos : Indicar brevemente, en el caso de tratarse de una
@@ -509,15 +464,11 @@ Luego del texto, deberán registrarse los nombres de los declarantes, sus cargos
 ### 13.0 OTROS
 ### 13.1 Otros : Se deberá proporcionar cualquier otra información no
 aludida, sobre antecedentes que, a criterio de la sociedad administradora o a requerimiento de la SVS, debiera incorporarse.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ### NOTA GENERAL
 El presente instructivo ha sido diseñado sólo con el objeto de servir de referencia para la presentación de la información mínima requerida; por lo tanto, la sociedad puede incorporar información adicional respecto a cada punto en particular. En todo caso, la información que se proporcione deberá mantener la numeración y el orden que presenta este instructivo.
 Adicionalmente, debe adjuntar el Formato de Certificado utilizado en los Anexos N° 3, N°4 o N° 5, que corresponda, incorporando la información respectiva y que se detalla en las Notas Explicativas pertinentes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ## ANEXO N° 2 FORMATO DE AVISO Y DE COMUNICACIÓN A LOS APORTANTES SOBRE OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS NOMBRE DEL FONDO RAZON SOCIAL SOCIEDAD ADMINISTRADORA EMISION DE CUOTAS
 a) En asamblea de aportantes celebrada el ____de____________de 20__, se acordó el aumento
 de capital del fondo en la suma de $ _____________, mediante la emisión de
@@ -536,18 +487,14 @@ f) Los aportantes con derecho a suscribir las cuotas o los cesionarios de las op
 manifestar por escrito a la sociedad administradora su intención de suscribirlas, dentro del plazo de 30 días contados desde la fecha de inicio de la opción, vale decir entre el __ de _________ y el __ de _________de 20___, entendiéndose que renuncian a este derecho si nada expresaren dentro de dicho plazo. 7
 g) El derecho preferente de suscripción es esencialmente renunciable y transferible dentro del
 plazo de 30 días señalado en la letra e) anterior. La transferencia de las opciones debe hacerse mediante escritura privada firmada por el cedente y el cesionario ante dos testigos mayores de edad o ante corredor de bolsa o ante notario público, o por escritura pública suscrita por el cedente y el cesionario. La cesión sólo producirá efecto respecto de la sociedad administradora y de terceros una vez que ésta tome conocimiento de la misma, en vista del documento en el que consta la cesión y del respectivo certificado de derecho a la opción, en el caso que este último hubiera sido emitido y retirado de la sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 La sociedad administradora pondrá a disposición de los aportantes o cesionarios que lo soliciten, certificados en que consten los derechos preferentes de suscripción que posean.
 Estos serán emitidos en un plazo de ____________________ y podrán ser retirados en
 _________________ entre las _________ y ___________horas. Cualquier otro antecedente respecto al procedimiento de transferencia del derecho puede ser consultado directamente a la sociedad. 8
 h) Estas cuotas han sido clasificadas en ___________ y __________ por las clasificadoras de
 riesgo________________ y _______________________ . 9
-### GERENTE GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS
-### GERENTE GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
-### INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE AVISO Y DE COMUNICACIÓN A LOS APORTANTES SOBRE OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS
+### GERENTE GENERAL
+### GERENTE GENERAL INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE AVISO Y DE COMUNICACIÓN A LOS APORTANTES SOBRE OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS
 1. Se debe estampar, con letras mayúsculas, el nombre del fondo, la razón social de la sociedad
 administradora y la frase “EMISION DE CUOTAS” en la forma establecida en el formato aviso
 2. Indicar los antecedentes del órgano que acordó la emisión y las características acordadas para la
@@ -563,9 +510,7 @@ antigua que posean; la fecha límite del derecho, es decir, el quinto día hábi
 lugar donde podrán ser retirados los certificados en que consten los derechos preferentes de suscripción.
 9. Señalar las clasificaciones otorgadas a la emisión de cuotas y las clasificadoras de riesgo, si
 corresponde.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ## ANEXO N° 3 FORMATO DE AVISO ARTICULO 17 DE LA LEY DE FONDOS DE INVERSION SOBRE INICIO OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS NOMBRE DEL FONDO RAZON SOCIAL SOCIEDAD ADMINISTRADORA EMISION DE CUOTAS
 a) La Superintendencia de Valores y Seguros, con fecha _______ de ___________ de 20__
 inscribió en el Registro de Valores con el N°_________ la emisión de________________ cuotas, por un monto total de $_________________. El plazo para la emisión, suscripción y pago de estas cuotas es de __________a contar de________de_____________ 20___. 2
@@ -575,10 +520,8 @@ c) Este aviso señala el inicio del período de opción preferente de suscripci�
 por un plazo de 30 días, vale decir, hasta el ______ de ___________________ 20__. 4
 d) El aviso en que se informa a los aportantes sobre los detalles de esta emisión se publicó en el
 diario ____________________________ el día _______ de ______________________ 20__. 5
-### EL GERENTE GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS
-### EL GERENTE GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
-### INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE AVISO ART. 17 DE LA LEY DE FONDOS DE INVERSION SOBRE OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS
+### EL GERENTE GENERAL
+### EL GERENTE GENERAL INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE AVISO ART. 17 DE LA LEY DE FONDOS DE INVERSION SOBRE OPCION PREFERENTE DE SUSCRIPCION DE CUOTAS
 1 Se debe estampar, con letras mayúsculas, el nombre del fondo, la razón social de la sociedad
 administradora y la frase “EMISION DE CUOTAS” en la forma establecida en el formato aviso
 2 Indicar la fecha y el número de inscripción de la emisión, el número de cuotas a emitir, el monto y
@@ -588,9 +531,7 @@ el plazo en la forma establecida en el formato.
 cuotas.
 5 Indicar el diario y la fecha en que se publicó el aviso donde se informa a los aportantes acerca de
 los detalles de la emisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ## ANEXO Nº 4 FORMATO DE CERTIFICADO DE NUEVA EMISIÓN DE CUOTAS DE UN FONDO DE INVERSIÓN
 CERTIFICADO CERTIFICO: que en el Registro de Valores de esta Superintendencia con fecha_______________________, bajo el Nº____, se ha registrado lo siguiente:1 DOCUMENTO A EMITIR : Cuotas de participación de Fondo de Inversión, nominativas, unitarias de igual valor y características.
 FONDO EMISOR2 :_________________________________________________________
@@ -604,19 +545,15 @@ PLAZO DE COLOCACIÓN 6 :________________________________________________________
 FONDO 7 :__________________________________________________________
 ### APROBACIÓN INICIAL
 REGLAMENTO INTERNO : Resolución Exenta N°_______ de fecha __ de ______ de 200__.8 SOCIEDAD ADMINISTRADORA :______________________________________, autorizada por Resolución Exenta N° ______, de fecha __ de_____de 20__.9
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 NOTA 1: "EL FONDO NO PODRÁ INICIAR LA COLOCACIÓN DE ESTAS CUOTAS, MIENTRAS
 ### NO SE ACREDITE PREVIAMENTE EL CUMPLIMIENTO POR PARTE DE LA
 ADMINISTRADORA, DE LO DISPUESTO EN EL ARTÍCULO 226 DE LA LEY Nº 18.045, REGULADO POR LA NORMA DE CARÁCTER GENERAL Nº 125 DE ESTA SUPERINTENDENCIA".10
 NOTA 2: "LA SUPERINTENDENCIA DE VALORES Y SEGUROS NO SE PRONUNCIA SOBRE LA
 ### CALIDAD DE LOS VALORES REGISTRADOS. LA CIRCUNSTANCIA DE QUE LA SUPERINTENDENCIA DE VALORES Y SEGUROS HAYA INSCRITO LA EMISION NO SIGNIFICA QUE GARANTICE SU PAGO O SOLVENCIA DEL EMISOR. EL INVERSIONISTA DEBERÁ EVALUAR LA CONVENIENCIA DE LA ADQUISICIÓN DE LOS VALORES A QUE SE REFIERE ESTE CERTIFICADO, TENIENDO PRESENTE QUE EL O LOS ÚNICOS RESPONSABLES DEL PAGO DE LOS DOCUMENTOS SON EL EMISOR Y QUIENES RESULTEN OBLIGADOS A ELLO".
 SANTIAGO,
-### SECRETARIO GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SECRETARIO GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
-### INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE CERTIFICADO DE UNA NUEVA EMISIÓN DE CUOTAS
+### SECRETARIO GENERAL
+### SECRETARIO GENERAL INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE CERTIFICADO DE UNA NUEVA EMISIÓN DE CUOTAS
 1. Corresponde al número de registro mediante el cual la Superintendencia inscribió esta emisión
 de cuotas del fondo de inversión.
 2. Deberá transcribir la información contenida en el numeral 5.1 del Prospecto de Emisión de
@@ -637,9 +574,7 @@ Cuotas, referido a la Identificación del Fondo, bajo las mismas instrucciones d
 de Cuotas en los espacios que correspondan, referidos a la Identificación de la Sociedad Administradora, bajo las mismas instrucciones dictadas para la elaboración del mismo.
 10. Esta Nota deberá ir sólo si se trata de la primera emisión de cuotas del fondo de inversión. En
 caso contrario, esta nota deberá ser eliminada y donde dice “Nota 2”, deberá reemplazarse por el vocablo “Nota”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ## ANEXO Nº 5 FORMATO DE CERTIFICADO DE MODIFICACIÓN DE EMISIÓN DE CUOTAS DE UN FONDO DE INVERSIÓN
 CERTIFICADO CERTIFICO: que en el Registro de Valores de esta Superintendencia se ha registrado la siguiente modificación al prospecto de emisión de cuotas de participación de
 ________________, inscrito bajo el Nº ____, con fecha ___ de ________ de 200_:1 Con fecha __ de _____ de 200_2, se__________________
@@ -651,19 +586,15 @@ NOTA: "LA SUPERINTENDENCIA DE VALORES Y SEGUROS NO SE PRONUNCIA SOBRE LA CALIDAD
 SOLVENCIA DEL EMISOR. LA INFORMACIÓN CONTENIDA EN LA SOLICITUD ES RESPONSABILIDAD
 ### EXCLUSIVA DEL EMISOR".
 SANTIAGO,
-### SECRETARIO GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SECRETARIO GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
-### INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE CERTIFICADO DE MODIFICACIÓN DE EMISIÓN DE CUOTAS DE UN FONDO DE INVERSIÓN
+### SECRETARIO GENERAL
+### SECRETARIO GENERAL INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE CERTIFICADO DE MODIFICACIÓN DE EMISIÓN DE CUOTAS DE UN FONDO DE INVERSIÓN
 1. Deberá señalar, en letras mayúsculas, el nombre del fondo de inversión y número de registro
 mediante el cual la Superintendencia inscribió la emisión original de cuotas del fondo de inversión.
 2. Deberá señalar la fecha en que las condiciones originales de la emisión experimenten la
 actualización y/o modificación de que da cuenta el Certificado.
 3. Deberá señalar la información que está siendo incorporada, actualizada y/o modificada en la
 emisión original y por la cual se está emitiendo este Certificado. Asimismo, en caso de que las referidas modificaciones sean consecuencia de cambios incorporados al reglamento interno del fondo, se deberá hacer alusión a ese hecho e indicar el número y fecha de la Resolución Exenta de esta Superintendencia que aprobó los cambios en cuestión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
+
 ## ANEXO Nº 6 FORMATO DE CERTIFICADO DE INSCRIPCIÓN DE CUOTAS DE UN FONDO DE INVERSIÓN PRIVADO QUE DESEA CONVERTIRSE, EN FORMA VOLUNTARIA, A UN FONDO FISCALIZADO POR LA SUPERINTENDENCIA
 CERTIFICADO CERTIFICO: que por Resolución Exenta N° _____ de fecha ___ de ____________ de 200_, se aprobó el Reglamento Interno del Fondo de Inversión denominado
 _________________________, de conformidad a lo dispuesto en el artículo 4 de la Ley N° 18.815, de 1989.
@@ -679,10 +610,8 @@ DE VALORES Y SEGUROS HAYA INSCRITO LA EMISIÓN NO SIGNIFICA QUE GARANTICE SU PAG
 NOTA 2: “ESTE FONDO SE CREO CERRADO, BAJO EL AMPARO DEL TÍTULO VII DE LA LEY
 ### 18.815, CUYAS CUOTAS SE HABÍAN EMITIDO, COLOCADO Y PAGADO EN FORMA PRIVADA CON ANTICIPACIÓN A ESTE REGISTRO”.
 SANTIAGO,
-### SECRETARIO GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SECRETARIO GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.947
-FECHA: 02.10.2009
-### INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE CERTIFICADO DE NUEVA EMISIÓN DE CUOTAS DE UN FONDO DE INVERSIÓN PRIVADO QUE DESEA CONVERTIRSE, EN FORMA VOLUNTARIA, A UN FONDO FISCALIZADO POR LA SUPERINTENDENCIA.
+### SECRETARIO GENERAL
+### SECRETARIO GENERAL INSTRUCCIONES PARA LA ELABORACION DEL FORMATO DE CERTIFICADO DE NUEVA EMISIÓN DE CUOTAS DE UN FONDO DE INVERSIÓN PRIVADO QUE DESEA CONVERTIRSE, EN FORMA VOLUNTARIA, A UN FONDO FISCALIZADO POR LA SUPERINTENDENCIA.
 1. Deberá señalar el número de Resolución Exenta y fecha de la misma mediante la cual la
 Superintendencia aprobó el reglamento interno del fondo y, en letras mayúsculas, el nombre del mismo.
 2. Deberá señalar el número de registro mediante la cual la Superintendencia inscribió esta
@@ -693,4 +622,3 @@ actualmente se están inscribiendo en el Registro de Valores, expresadas en cifr
 inversión y el número de Resolución Exenta y la fecha de la misma mediante la cual la Superintendencia autorizó su existencia.
 5. Deberá indicar el plazo de duración del fondo establecido en el reglamento interno, y el vigente
 a la fecha del prospecto, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

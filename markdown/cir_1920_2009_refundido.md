@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1920 — FECHA: 27.03.2009
+# CIRCULAR N° 1920
 
 ### SUPERINTENDENCIA DE BANCOS CIRCULAR
 E INSTITUCIONES FINANCIERAS Bancos N° 3.470
@@ -16,7 +16,6 @@ Debido a que actualmente difiere la forma en que cada entidad materializa los ac
 Para el efecto, se dispone el uso de un Contrato Marco que cumpla con las mejores prácticas y recomendaciones internacionales en la materia, cuyas cláusulas regirán las relaciones entre las partes que lo suscriben desde el inicio de la relación contractual hasta el término de la misma, y en el cual se ampararán las operaciones que se efectúen con las condiciones específicas que en cada caso se pacten por escrito en un Adendum o Confirmación.
 Para cumplir con las presentes normas, el contenido del Contrato Marco puede ser acordado en conjunto por las asociaciones que representen a las entidades a quienes se dirige esta Circular, o bien por entidades internacionales que hayan elaborado documentos estándares para la materia, con las cláusulas que dan cuenta de la presencia simultánea de dos contratos de compraventa, una al contado y otra a plazo, según lo que se define en las presentes normas Las entidades a que se refiere la presente Circular, deberán adecuar las políticas y procedimientos que tengan establecidos para este tipo de operaciones, con el objeto que estas instrucciones sean cumplidas a cabalidad por la entidad, sus dependientes y por las personas que desempeñen funciones para la misma.
 Todo lo anterior es sin perjuicio de las disposiciones complementarias que la Superintendencia respectiva pueda establecer para tales entidades, en materias tales como, medidas de control, evaluaciones de los riesgos, condiciones que deben cumplir los instrumentos negociados, custodia de los instrumentos transados o requerimientos de garantías, entre otras.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## II. DEFINICIONES
 Para los efectos de la presente Circular, se entenderá que:
@@ -36,7 +35,6 @@ actuaciones por medio de las cuales las partes verifican y reafirman las condici
 instrumentos financieros objeto de la operación a su dueño final, contra el pago del precio pactado por tales instrumentos a su contraparte final.
 9. Operación Vigente: Aquella operación cuya transacción de compraventa a plazo aún no
 ha sido liquidada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## III. DISPOSICIONES GENERALES
 1. Para realizar contratos de retrocompra, las entidades deberán suscribir con su contraparte,
@@ -45,7 +43,6 @@ en forma previa al inicio de sus operaciones, un Contrato Marco que cumpla con l
 en particular, deberán quedar contenidas en una Confirmación o Adendum al Contrato Marco, el que deberá cumplir con las disposiciones establecidas en la Sección V de esta Circular.
 3. Cada operación que realicen las partes deberá regirse por un único Contrato Marco y una
 sola confirmación.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## IV. CONTENIDO MÍNIMO DEL CONTRATO MARCO
 El Contrato Marco que deben suscribir las Entidades con sus contrapartes, deberá referirse al menos a las siguientes materias:
@@ -70,7 +67,6 @@ j) Mecanismo o procedimiento que será utilizado para valorizar los instrumentos
 para efectos de la determinación de los márgenes o garantías a que se refiere la letra i) anterior.
 k) Forma de proceder con las operaciones vigentes ante el incumplimiento de las
 obligaciones de la contraparte, su insolvencia o declaración de quiebra.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 l) Forma de proceder con las operaciones vigentes ante la insolvencia o declaración de
 quiebra del emisor de los títulos objeto de la operación.
 m) Mecanismo y condiciones de sustitución de los instrumentos objeto de la operación, en
@@ -81,7 +77,6 @@ o) Definición de la propiedad de los derechos y otros beneficios generados por 
 instrumentos transados y, en su caso, procedimiento para el ejercicio de éstos, durante la vigencia de la operación.
 p) Plazo de término de Contrato Marco y procedimientos para el término anticipado del
 mismo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## V. CONTENIDO DE LA CONFIRMACIÓN O ADENDUM AL CONTRATO
 La Confirmación o Adendum deberá referirse al menos a las siguientes materias:
@@ -101,9 +96,7 @@ i) Declaración de que la operación se realiza al amparo del Contrato Marco pre
 celebrado entre las partes, con indicación del domicilio y la fecha en que éste fue suscrito.
 j) Indicación de que la compraventa a plazo se liquidará por diferencia de precios en caso de
 que se haya pactado ese procedimiento.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 VIGENCIA La presente Circular entrará en vigencia a contar del 1° de febrero de 2010, por lo que no será aplicable a aquellas operaciones que se realicen con anterioridad a esa fecha.
 ### SUPERINTENDENTE SUPERINTENDENTE DE BANCOS E INSTITUCIONES DE VALORES Y SEGUROS
 FINANCIERAS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -1325,17 +1325,9 @@ Estas Notas se confeccionan según lo estipulado en la Norma de Carácter Genera
 Esta Nota está compuesta de tres cuadros, los que se señalan a continuación:
 ### 1) PRIMAS Y FACTOR DE REASEGURO GRANDES RIESGOS INCENDIO VEHÍCULOS OTROS INCENDIO OTROS
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
 6.31.11.10 pi
 6.31.11.10 dic i-1*IPC1
 6.31.11.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.11.20 pi
 6.31.11.20 dic i-1*IPC1
@@ -1343,40 +1335,22 @@ Esta Nota está compuesta de tres cuadros, los que se señalan a continuación:
 
 6.31.11.20 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
 6.31.13.00 pi
 6.31.13.00 dic i-1*IPC1
 6.31.13.00 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.13.10 pi
 6.31.13.10 dic i-1*IPC1
 6.31.13.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.30 pi
 6.31.13.30 dic i-1*IPC1
 6.31.13.30 pi-1*IPC2
 ### 2) SINIESTROS ULTIMOS TRES AÑOS GRANDES RIESGOS INCENDIO VEHÍCULOS OTROS INCENDIO OTROS
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
 6.31.13.10 pi
 6.31.13.10 dic i-1*IPC1
 6.31.13.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.10 pi-1*IPC2
 40
@@ -1384,30 +1358,17 @@ Esta Nota está compuesta de tres cuadros, los que se señalan a continuación:
 6.31.13.10 dici-2*IPC3
 6.31.13.10 pi-2*IPC4
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.13.10 pi-2*IPC4
 6.31.13.10 dici-3*IPC5
 6.31.13.10 pi-3*IPC6
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
 
 6.31.31.00 pi
 6.31.31.00 dic i-1*IPC1
 6.31.31.00 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.32.00 pi-1*IPC2
 6.31.32.00 dici-2*IPC3
 6.31.31.00 pi-2*IPC4
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.30 pi-2*IPC4
 6.31.13.30 dici-3*IPC5
@@ -1569,17 +1530,6 @@ Primas por Pagar (Sólo seguros generales)
 | --- | --- |
 |  |  |
 |  |  |
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-|  |
-| --- |
-|  |
 
 ### 1.3 RRC P.P
 ### 1.4 RS PP
@@ -5425,12 +5375,6 @@ Interés efectivo utilizado por tipo de activo. (Ver NIC 39, Definiciones relati
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 3. TOTAL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |
-| --- | --- |
-
-|  |  |
-| --- | --- |
-
 207
 
 ## I. Antecedentes Reaseguradores
@@ -6647,11 +6591,6 @@ La información debe presentarse primero para los Reaseguradores y después para
 | R2.2 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 2.2.- Subtotal Extranjero |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-
 1. Reaseguradores Debe indicarse el nombre del Reasegurador, que participa en el contrato de
 :
 reaseguro suscrito por la entidad informante.
@@ -7036,17 +6975,9 @@ Estas Notas se confeccionan según lo estipulado en la Norma de Carácter Genera
 Esta Nota está compuesta de tres cuadros, los que se señalan a continuación:
 ### 4) PRIMAS Y FACTOR DE REASEGURO GRANDES RIESGOS INCENDIO VEHÍCULOS OTROS INCENDIO OTROS
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
 6.31.11.10 pi
 6.31.11.10 dic i-1*IPC1
 6.31.11.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.11.20 pi
 6.31.11.20 dic i-1*IPC1
@@ -7054,40 +6985,22 @@ Esta Nota está compuesta de tres cuadros, los que se señalan a continuación:
 
 6.31.11.20 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
 6.31.13.00 pi
 6.31.13.00 dic i-1*IPC1
 6.31.13.00 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.13.10 pi
 6.31.13.10 dic i-1*IPC1
 6.31.13.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.30 pi
 6.31.13.30 dic i-1*IPC1
 6.31.13.30 pi-1*IPC2
 ### 5) SINIESTROS ULTIMOS TRES AÑOS GRANDES RIESGOS INCENDIO VEHÍCULOS OTROS INCENDIO OTROS
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
 6.31.13.10 pi
 6.31.13.10 dic i-1*IPC1
 6.31.13.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.10 pi-1*IPC2
 256
@@ -7095,30 +7008,17 @@ Esta Nota está compuesta de tres cuadros, los que se señalan a continuación:
 6.31.13.10 dici-2*IPC3
 6.31.13.10 pi-2*IPC4
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.13.10 pi-2*IPC4
 6.31.13.10 dici-3*IPC5
 6.31.13.10 pi-3*IPC6
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
 
 6.31.31.00 pi
 6.31.31.00 dic i-1*IPC1
 6.31.31.00 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.32.00 pi-1*IPC2
 6.31.32.00 dici-2*IPC3
 6.31.31.00 pi-2*IPC4
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.30 pi-2*IPC4
 6.31.13.30 dici-3*IPC5
@@ -7270,17 +7170,6 @@ Primas por Pagar (Sólo seguros generales)
 | --- | --- |
 |  |  |
 |  |  |
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-|  |
-| --- |
-|  |
 
 ### 1.3 RRC P.P
 ### 1.4 RS PP

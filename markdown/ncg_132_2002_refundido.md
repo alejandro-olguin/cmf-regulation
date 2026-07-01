@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 132 — FECHA: 13.03.2002
+# NCG N° 132 — IMPARTE INSTRUCCIONES RELATIVAS A LA CONSTITUCION DE RESERVAS TECNICAS EN SEGUROS DE VIDA CON CUENTAS DE INVERSION.
 
 
 Para todas las entidades aseguradoras del segundo grupo Esta Superintendencia, en conformidad a lo dispuesto en el artículo 20º del D.F.L. 251, de 1931, ha resuelto impartir las siguientes instrucciones relativas a la constitución de reservas técnicas en seguros contratados por compañías del segundo grupo con cuentas de inversión.

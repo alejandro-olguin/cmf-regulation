@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2269
+
 Archivo D10 / hoja 3 Créditos de consumo: comprende los créditos cuyos deudores son personas naturales y que se otorgan para financiar bienes de consumo o el pago de servicios. Comprenden: a) Créditos pagaderos en cuotas; b) Créditos provenientes de la utilización de tarjetas de crédito; c) Créditos con líneas de crédito o sobregiros en cuentas corrientes; y d) Otros créditos con aquellas características.
 Créditos para vivienda: corresponde a créditos que se otorgan a personas naturales para adquisición, ampliación, reparación o construcción de su vivienda. Comprende los préstamos en letras de crédito, con mutuos hipotecarios endosables u otros con aquellas características. Incluye los créditos de enlace que se hubieren otorgado antes del perfeccionamiento de los mutuos y los créditos complementarios destinados a la adquisición, ampliación, reparación o construcción de la vivienda.
 Operaciones financieras: Corresponde a contratos con pacto de retroventa y obligaciones por préstamos de valores.

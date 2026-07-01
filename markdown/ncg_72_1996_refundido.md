@@ -3,10 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-NORMA DE CARACTER GENERAL N°72
-FECHA : 27.12.96
-REF : INSTRUYE A LAS ENTIDADES ASEGURADORAS Y REASEGURADORAS RESPECTO DE LA
-INFORMACIÓN, ARCHIVOS Y REGISTROS QUE DEBERÁN MANTENER PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DEL TITULO XXI DE LA LEY Nº 18.045, DE MERCADO DE VALORES.
+# NCG N° 72 — INSTRUYE A LAS ENTIDADES ASEGURADORAS Y REASEGURADORAS RESPECTO DE LA INFORMACIÓN, ARCHIVOS Y REGISTROS QUE DEBERÁN MANTENER PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DEL TITULO XXI DE LA LEY Nº 18.045, DE MERCADO DE VALORES.
+
+
 Para todas las entidades aseguradoras y reaseguradoras.
 Esta Superintendencia en virtud de lo establecido en el artículo 170 de la ley Nº 18.045 de Mercado de Valores, y en relación a la información, archivos y registros que deberán mantener las entidades aseguradoras y reaseguradoras para el cumplimiento de las disposiciones contenidas en el Título XXI del referido cuerpo legal, imparte las siguientes instrucciones:
 ### 1 NOMINA DE PERSONAS
@@ -37,9 +36,6 @@ señaladas en los códigos 1, 2, 3 y 4 anteriores.
 8 = Otras personas que en razón de su cargo, posición, actividad o relación hayan tenido acceso a
 información privilegiada.
 h) Observaciones: señalar, si corresponde, cualquier información que sea necesaria destacar, así como la
-
-NORMA DE CARACTER GENERAL N°72
-FECHA : 27.12.96
 relación específica que mantiene la persona, cuando se utilice el código 8 definido en la letra g) anterior.
 ### 2 REGISTROS DE TRANSACCIONES 2.1. REGISTRO DE TRANSACCIONES DE PERSONAS RELACIONADAS
 Las entidades aseguradoras y reaseguradoras deberán mantener un registro de las transacciones de valores de oferta pública que realicen con sus personas relacionadas, considerando para ello las disposiciones del artículo 100 de la ley Nº18.045.

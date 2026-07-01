@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1147 — INSTRUCCIÓN SOBRE TERMINO DE VIGENCIA DEL SEGURO OBLIGATORIO DE ACCIDENTES PERSONALES DE LA LEY Nº 18
+# CIRCULAR N° 1147 — INSTRUCCIÓN SOBRE TERMINO DE VIGENCIA DEL SEGURO OBLIGATORIO DE ACCIDENTES PERSONALES DE LA LEY Nº 18.490, PARA VEHICULOS NUEVOS A las compañías de seguros y a los corredores de seguros
 
 
 Esta Superintendencia, considerando lo dispuesto en los artículos 45º de la ley 18.290, de Tránsito, de 1984,

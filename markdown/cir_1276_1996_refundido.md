@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1276 — ESTABLECE CONDICIONES PARA QUE UNA ACCION, CUOTA DE FONDO DE INVERSION O TITULO DE DEUDA, SEA CONSIDERADO DE TRANSACCION BURSATIL
+# CIRCULAR N° 1276 — ESTABLECE CONDICIONES PARA QUE UNA ACCION, CUOTA DE FONDO DE INVERSION O TITULO DE DEUDA, SEA CONSIDERADO DE TRANSACCION BURSATIL.
 
 
 Para todas las administradoras de fondos para la vivienda.
@@ -27,7 +27,6 @@ a) Estar inscritas en un registro de valores del país del emisor que permita su
 cotizarse en bolsa y estar sus emisores fiscalizados por algún organismo competente, similar a la Superintendencia de Valores y Seguros.
 b) Registrar transacciones que en promedio diario, alcancen a lo menos, US$ 50.000. El
 citado promedio, deberá calcularse el quinto día hábil bursátil de cada mes, considerando los volúmenes transados en bolsa en los últimos dos meses calendario y se utilizará como referencia a partir del sexto día hábil bursátil del mes respectivo y hasta el quinto día hábil del mes siguiente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## III. CONDICIONES PARA QUE UN TITULO DE DEUDA EMITIDO POR UN EMISOR NACIONAL, SEA CONSIDERADO DE TRANSACCION BURSATIL
 Se considerará que un título de deuda emitido por un emisor nacional es de transacción bursátil, cuando se transe en bolsa o a lo menos cumpla con las condiciones establecidas para ser transado en bolsa.
@@ -35,4 +34,3 @@ Se considerará que un título de deuda emitido por un emisor nacional es de tra
 Se considerará que un título de deuda emitido por un emisor extranjero es de transacción bursátil, cuando se encuentre inscrito en un registro que permita su oferta pública, se cotice en las bolsas del país extranjero y su emisor sea fiscalizado por algún organismo de similar competencia a esta Superintendencia.
 ## IV. VIGENCIA
 Las disposiciones contenidas en la presente Circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

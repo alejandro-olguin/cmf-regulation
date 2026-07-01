@@ -74,10 +74,6 @@ día mes año
 GENERAL
 ### 1.01.04.00 R.U.T
 
-|  |
-| --- |
-|  |
-
 |  | día mes año al | día mes año al |
 | --- | --- | --- |
 | ACTIVOS | ACTUAL | ANTERIOR |
@@ -120,10 +116,6 @@ GENERAL
 | 5.10.00.00 TOTAL ACTIVOS |  |  |
 
 ### 1.01.04.00 R.U.T
-
-|  |
-| --- |
-|  |
 
 |  | día mes año al | día mes año al |
 | --- | --- | --- |
@@ -174,10 +166,6 @@ GENERAL
 
 ### 2.02 ESTADO DE RESULTADOS 1.01.04.00 R.U.T
 
-|  |
-| --- |
-|  |
-
 |  | día mes año desde hasta | día mes año desde hasta |
 | --- | --- | --- |
 |  | ACTUAL | ANTERIOR |
@@ -210,10 +198,6 @@ GENERAL
 | 5.30.00.00 UTILIDAD (PERDIDA) DEL EJERCICIO |  |  |
 
 ### 2.03 ESTADO DE FLUJO DE EFECTIVO 1.01.04.00 R.U.T
-
-|  |
-| --- |
-|  |
 
 |  | día mes año Desde Hasta | día mes año desde hasta |
 | --- | --- | --- |
@@ -266,10 +250,6 @@ GENERAL
 
 ### CONCILIACION ENTRE EL FLUJO NETO ORIGINADO POR ACTIVIDADES DE LA OPERACION Y EL RESULTADO DEL EJERCICIO 1.01.04.00 R.U.T
 
-|  |
-| --- |
-|  |
-
 |  | día mes año desde hasta | día mes año desde hasta |
 | --- | --- | --- |
 |  | ACTUAL | ANTERIOR |
@@ -305,10 +285,6 @@ GENERAL
 | 5.50.00.00 FLUJO NETO ORIGINADO POR ACTIVIDADES DE LA OPERACION |  |  |
 
 ### 2.03 ESTADO DE FLUJO DE EFECTIVO 1.01.04.00 R.U.T
-
-|  |
-| --- |
-|  |
 
 |  | día mes año desde hasta |  | día mes año Desde Hasta |
 | --- | --- | --- | --- |

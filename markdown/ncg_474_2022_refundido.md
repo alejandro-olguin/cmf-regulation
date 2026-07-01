@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA INSCRIPCIÓN EN EL
-### REGISTRO DE CORREDORES DE REASEGURO EXTRANJERO Y MODIFICA NORMA DE CARÁCTER GENERAL N°139.
-_________________________________
-NORMA DE CARÁCTER GENERAL N°474
-14 de abril de 2022
+# REGULA INSCRIPCIÓN EN EL REGISTRO DE CORREDORES DE REASEGURO EXTRANJERO Y MODIFICA NORMA DE CARÁCTER GENERAL N°139. _________________________________ NORMA DE CARÁCTER GENERAL N°474 14 de abril de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo
 5° y el numeral 3 del artículo 20, del Decreto Ley N°3.538; el artículo 16 del Decreto con Fuerza de Ley N°251; y, lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°280 de 24 de marzo de 2022, ha estimado pertinente impartir las siguientes
 instrucciones:

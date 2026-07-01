@@ -19,7 +19,6 @@ b. Los instrumentos categoría A.1, distintos de los individualizados en la letr
 que hubieren sido propuestos por la empresa minera y aprobados por el Servicio, deberán ser tomados a nombre y favor de la empresa min eras y puestos a disposición del Servicio, debidamente endosados en garantía.
 c. Los instrumentos antes mencionados deberán ser entregados en custodia al Depósito
 Central de Valores o depositados en una institución financiera autorizada para tales efectos. La administración, renovación, sustitución y reemplazo de los mismos corresponderán a la empresa minera, la que deberá informar al Servicio su identidad y vigencia, mediante la remisión de copias digitales de los certificados de las instituciones antes descritas, acrediten las características y montos de los instrumentos respectivos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 411
 FECHA: 30.08.2016
@@ -51,7 +50,6 @@ que componen la garantía, indicando para cada instrumentos, cuando corresponda:
 · Capital y su forma de amortización.
 · Moneda.
 · Fecha de emisión y vencimiento.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 411
 FECHA: 30.08.2016
@@ -69,7 +67,6 @@ Se entenderá que la garantía es suficiente, en un momento determinado, si el v
 a) Instrumentos de Renta Fija Nacional
 Para los instrumentos de renta fija nacional ser entenderá ´por valor de mercado a la fecha de cierre, el valor presente resultante de descontar los flujos del título, a la TIR de mercado del instrumento a esa fecha. Adicionalmente, se entenderá como valor de mercado a aquel que proporcionen los proveedores de precios especializados.
 En el caso de no presentar el instrumento dicho valor de mercado, la compañía deberá utilizar como TIR de mercado, la tasa implícita en la transacción bursátil del instrumento que se haya efectuado dentro de los seis meses anteriores a la fecha de cierre. De no existir transacciones en dicho plazo, se deberá utilizar como TIR de mercado, la Tasa
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 411
 FECHA: 30.08.2016
@@ -83,4 +80,3 @@ Para efectos de valorizar las inversiones en el extranjero en moneda nacional se
 Los instrumentos que componen la garantía, no podrán estar a gravámenes, prohibiciones, embargos, litigios, medidas precautorias, condiciones suspensivas o resolutorias, ni ser objeto de ningún otro acto o contrato que impida su libre cesión o transferencia, y deben ser liquidables bajo las normas de jurisdicción en Chile. Asimismo, la custodia de los mismos no puede configurar un impedimento para que el Servicio pueda disponer personalmente de estos instrumentos cuando corresponda. En el evento que algún instrumento se viere afectado en la forma señalada, no podrá ser considerado idóneo para la garantía.
 ## IV. VIGENCIA
 Las instrucciones establecidas en la presente Norma, rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

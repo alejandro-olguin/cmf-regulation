@@ -53,14 +53,12 @@ Día mes Año Día mes año
 ## 1. IDENTIFICACION 1.01.04.10.00 R.U.T.
 1.01.05.00.00 Razón Social
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+1.01.06.00.00 Nombre de Fantasía 1.01.07.00.00 Teléfono
+1.01.08.00.00 Casilla
+1.01.10.00.00 Domicilio Legal 1.01.09.10.00 Fax
+1.01.09.20.00 E-mail
+1.01.09.30.00 Código Postal
+1.01.11.00.00 Ciudad 1.01.12.00.00 Región
 
 ## 2. ADMINISTRACION
 2.02.01.00.00 Representante Legal (Apellido Paterno/Apellido Materno/Nombres) R.U.T. Número
@@ -73,89 +71,14 @@ Día mes Año Día mes año
 2.02.04.10.00
 2.02.05.00.00 Nombre Directores (Apellido Paterno/Apellido Materno/Nombres)
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 ## 3. PROPIEDAD
 TIPOS *PERSONAS NATURALES: A= Nacional B = Extranjera Tipo de Persona RUT % Particip.
 *PERSONAS JURIDICAS: C= Nacional D= Extranjeras *E =Estado 3.03.01.10.00 (CED. IDENTIDAD) 3.03.01.30.
 3.03.01.00.00 Nombre diez mayores accionistas (Apellido Paterno/Apellido Materno/Nombres) 3.03.01.20.00 00
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 En miles de pesos % Total 3.03.02.00.00
 3.03.05.00.00 Total de Accionistas 3.03.08.00.00 Capital Autorizado
 3.03.04.00.00
-
-|  |
-| --- |
-|  |
-
-|  |
-| --- |
-|  |
 
 ## 4. OTRAS INFORMACIONES
 4.04.01.00.00Número de Trabajadores 4.04.02.00.00Fecha límite junta Ordinaria de Accionistas
@@ -163,31 +86,12 @@ En miles de pesos % Total 3.03.02.00.00
 Nombre Clasificadora 4.04.03.10.00 R.U.T. Número CLASIFICACION Fecha
 4.04.03.20.00 4.04.03.30.00 4.04.03.40.00
 
-|  |
-| --- |
-|  |
-
-|  |
-| --- |
-|  |
-
-|  |
-| --- |
-|  |
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-
 |  | 4.04.04.20.00 Num Reg S.V.S |  |
 | --- | --- | --- |
 
 ## 5. ESTADOS FINANCIEROS
 1.01.06.00.00 Nombre de Fantasía
 ### DIA MES AÑO
-
-|  |  |  |
-| --- | --- | --- |
 
 1.00.01.20.00
 (en miles de pesos) (en miles de pesos)
@@ -209,9 +113,6 @@ Nombre Clasificadora 4.04.03.10.00 R.U.T. Número CLASIFICACION Fecha
 | 5.10.00.00.00 TOTAL ACTIVOS |  |  | 5.20.00.00.00 TOTAL PASIVOS |  |  |
 
 ### DIA MES AÑO DIA MES AÑO
-
-|  |  |  |
-| --- | --- | --- |
 
 1.00.01.10.00 1.00.01.20.00
 (en miles de pesos)
@@ -246,9 +147,6 @@ Nombre Clasificadora 4.04.03.10.00 R.U.T. Número CLASIFICACION Fecha
 | 5.30.00.00.00 RESULTADO DEL EJERCICIO |  |  |
 
 1.01.06.00.00 Nombre de Fantasía
-
-|  |  |  |
-| --- | --- | --- |
 
 ### DIA MES AÑO (EN MILES DE PESOS)
 
@@ -313,9 +211,6 @@ Nombre Clasificadora 4.04.03.10.00 R.U.T. Número CLASIFICACION Fecha
 
 1.01.06.00.00 Nombre de Fantasía
 
-|  |  |  |
-| --- | --- | --- |
-
 ### DIA MES AÑO (EN MILESDEPESOS)
 
 |  | PARCIAL | PARCIAL | TOTAL |
@@ -356,9 +251,6 @@ Nombre Clasificadora 4.04.03.10.00 R.U.T. Número CLASIFICACION Fecha
 | 5.14.45.00.00 Otros |  |  |  |
 
 1.01.06.00.00 Nombre de Fantasía
-
-|  |  |  |
-| --- | --- | --- |
 
 ### DIA MES AÑO EN MILESDE PESOS)
 
@@ -401,9 +293,6 @@ Nombre Clasificadora 4.04.03.10.00 R.U.T. Número CLASIFICACION Fecha
 | 5.23.20.00.00 Largo Plazo |  |  |  |
 
 1.01.06.00.00 Nombre de Fantasía
-
-|  |  |  |
-| --- | --- | --- |
 
 ### DIA MES AÑO (EN MILESDEPESOS)
 
@@ -458,14 +347,7 @@ Nombre Clasificadora 4.04.03.10.00 R.U.T. Número CLASIFICACION Fecha
 | 5.26.45.00.00 Otras Utilidades (Pérdidas) |  |  |  |
 
 ### 5.3 ESTADO DE RESULTADOS
-
-|  |  |  |
-| --- | --- | --- |
-
-|  |  |  |
-| --- | --- | --- |
-
-### DIA MES AÑO DIA MES AÑO
+### 5.3 ESTADO DE RESULTADOS DIA MES AÑO DIA MES AÑO
 
 |  | PARCIAL | PARCIAL |  |  | SUBTOTAL |  | TOTAL |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -568,9 +450,6 @@ CUADRO DE SEGUROS ENTRE EL y el
 1.00.01.10.00 1.00.01.20.00
 1.01.06.00.00 Nombre de fantasía
 ### 6.02 CUADRO DE APERTURA DE RESERVAS DE PRIMAS
-
-|  |  |  |  |
-| --- | --- | --- | --- |
 
 6.02.01
 
@@ -689,11 +568,7 @@ CUADRO DE SEGUROS ENTRE EL y el
 1.00.01.10.00 1.00.01.20.00
 1.01.06.00.00 Nombre de fantasía
 ### 6.05 CUADRO DE RESERVAS
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-
-### 6.05.01 CUADRO DE RESERVAS DE PRIMA
+### 6.05 CUADRO DE RESERVAS 6.05.01 CUADRO DE RESERVAS DE PRIMA
 
 | 6.51.00.00.00 AJUSTE RESERVA DE RIESGO EN CURSO 6.51.10.00.00 Reserva de Riesgo en Curso Ejercicio Anterior 6.51.20.00.00 Reserva de Riesgo en Curso del Ejercicio 6.52.00.00.00 AJUSTE RESERVA MATEMATICA 6.52.10.00.00 Reserva Matemática Ejercicio Anterior 6.52.20.00.00 Reserva Matemática del Ejercicio 6.53.00.00.00 AJUSTE RESERVA VALOR DEL FONDO 6.53.10.00.00 Ajuste Reserva Valor del Fondo del Ejercicio Anterior 6.53.20.00.00 Reserva Valor del Fondo del Ejercicio |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -727,12 +602,6 @@ CUADRO DE SEGUROS ENTRE EL y el
 |  |  |  |  |  |  |
 
 ### DIA MES AÑO DIA MES AÑO
-
-|  |  |  |
-| --- | --- | --- |
-
-|  |  |  |
-| --- | --- | --- |
 
 1.00.01.10.00 1.00.01.20.00
 1.01.06.00.00 Nombre de fantasía
@@ -769,32 +638,9 @@ CUADRO DE SEGUROS ENTRE EL y el
 | --- | --- | --- | --- |
 
 ### PRIMA DE PRIMER AÑO
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-### PRIMA UNICA
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-### PRIMA DE RENOVACION
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-### DIA MES AÑO DIA MES AÑO
+### PRIMA DE PRIMER AÑO PRIMA UNICA
+### PRIMA DE PRIMER AÑO PRIMA UNICA PRIMA DE RENOVACION
+### PRIMA DE PRIMER AÑO PRIMA UNICA PRIMA DE RENOVACION DIA MES AÑO DIA MES AÑO
 CUADRO DE SEGUROS ENTRE EL y el
 1.00.01.10.00 1.00.01.20.00
 1.01.06.00.00 Nombre de fantasía

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# DEFINE ALCANCE Y ESTABLECE REQUISITOS A LOS INTERMEDIARIOS DE VALORES, PARA EL EJERCICIO DE LA ACTIVIDAD DE ADMINISTRACIÓN DE CARTERA DE TERCEROS. DEROGA CIRCULAR N° 619 DE FECHA 29.05.1986.
+# CIRCULAR N° 1862 — DEFINE ALCANCE Y ESTABLECE REQUISITOS A LOS INTERMEDIARIOS DE VALORES, PARA EL EJERCICIO DE LA ACTIVIDAD DE ADMINISTRACIÓN DE CARTERA DE TERCEROS
 
-### CIRCULAR N° 1.862
-FECHA: 15.01.2008
 
 Para todos los corredores de bolsa y agentes de valores
 ## I INTRODUCCIÓN
@@ -25,9 +23,7 @@ d) Títulos que representen productos, contratos y facturas, de aquellos mencion
 en el número 3) del artículo 5° de la Ley N° 19.220.
 e) Facturas, adquiridas en centros bursátiles nacionales que cuenten con
 autorización para transar este tipo de activos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.862
-FECHA: 15.01.2008
+
 El intermediario podrá efectuar operaciones de préstamo con los activos del cliente, sólo en la medida que esta actividad haya sido expresamente autorizada en el contrato de administración. Para ello, el cliente deberá especificar el tipo de activo para el que otorga la facultad, el porcentaje máximo respecto del total de activos que puede ser sujeto a préstamo y el porcentaje mínimo de garantías requerido para asegurar la restitución de los activos prestados. Con todo, tales garantías sólo podrán ser administradas por las bolsas de valores nacionales y constituidas con el único objeto de caucionar las obligaciones adquiridas por terceros a favor de dicho cliente en virtud de tales operaciones.
 2. Contrato de administración de cartera: El intermediario de valores deberá mantener
 vigente un contrato con el cliente o quien lo represente, el que deberá contener a lo
@@ -54,9 +50,7 @@ c) Obligaciones y responsabilidades del intermediario:
 de los límites establecidos en el contrato de administración.
 - Informar al cliente en la forma y periodicidad que se acuerde, sobre la
 gestión desarrollada, los activos, sus movimientos, saldos, forma de valorización, rentabilidad obtenida y los gastos en que haya incurrido por cuenta de la cartera administrada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.862
-FECHA: 15.01.2008
+
 - Manejar por separado cada una de las carteras administradas y en ningún
 caso podrá transferir activos entre ellas, a precios distintos a los de mercado o sin efectuar la operación en la rueda de una bolsa de valores cuando se trate de acciones.
 - Comunicar al cliente cualquier hecho relevante que afecte a las inversiones
@@ -78,9 +72,6 @@ terceros relacionados, de activos de la cartera administrada, o bien, de enajena
 Con todo, el intermediario deberá informar al cliente, en la forma y periodicidad que acuerden en el contrato, cuando haya realizado operaciones bajo esta modalidad. Adicionalmente, el intermediario deberá disponer de los medios necesarios para que sus clientes puedan obtener el detalle de esas operaciones, en los plazos y forma establecida en dicho contrato. Se entenderá por tercero relacionado al intermediario, las personas a que se refiere el artículo 100 de la Ley
 18.045, con excepción de las compañías de seguro y sociedades administradoras
 de fondos fiscalizadas por la Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.862
-FECHA: 15.01.2008
 h) Remuneración a percibir por el intermediario.
 i) Gastos que serán de cargo del cliente; forma y períodos en que éstos le serán
 cobrados, especificando su forma de determinación.
@@ -97,9 +88,6 @@ egresos de un cliente, deberán ser acreditados mediante la emisión por parte d
 Estos comprobantes tendrán numeración impresa correlativa y serán firmados y timbrados por un personero responsable del intermediario en el momento de recibir o entregar los activos en administración. Los originales deberán permanecer archivados correlativamente por un período de a lo menos 4 años. Los comprobantes anulados se archivarán en original y copia en el archivo correspondiente y por el mismo período de tiempo referido anteriormente.
 Los referidos comprobantes deberán contener al menos la siguiente información:
 a) Individualización del cliente:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.862
-FECHA: 15.01.2008
 i) Nombre o razón social completa
 ii) Rol Único Tributario
 iii) Dirección
@@ -123,9 +111,7 @@ d) Observaciones.
 5. Registro individual por cartera administrada: El intermediario de valores deberá mantener
 actualizado un registro foliado correlativamente, que se llevará para cada cliente individualmente, en el que deberán registrarse todos los ingresos de activos por parte del cliente a la cartera, todos los movimientos que se produzcan, esto es, compras, ventas, constitución y retiro de garantías, primas, intereses y dividendos recibidos, rescates, gastos realizados por cuenta de la cartera, etc., y todos los retiros de activos por parte del cliente con indicación de los respectivos saldos por activo.
 En el caso de los ingresos y egresos de activos deberá registrarse además el número de comprobante de ingreso o egreso respectivamente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.862
-FECHA: 15.01.2008
+
 ## III INFORMACIÓN AL CLIENTE
 Los intermediarios de valores deberán enviar, al menos una vez al año, a cada uno de los clientes con los cuales tenga o haya tenido un contrato de administración de cartera durante el período informado, un estado referido al último día de dicho período, conteniendo todos los movimientos registrados en la cartera y los respectivos saldos a la fecha informada.
 Se considerará válido para cumplir con esta obligación, el uso de medios electrónicos como correos electrónicos enviados a la dirección registrada por el cliente en el contrato de administración de cartera o el acceso que el intermediario provea a su sitio web, desde donde el cliente quede habilitado para acceder a la información de su cuenta y obtener copia de la misma. Esto, en la medida que esta forma haya sido expresamente aceptada por el cliente en dicho contrato y que se cumplan los requisitos establecidos mediante la Norma de Carácter General N° 114.
@@ -134,4 +120,3 @@ Los intermediarios deben contar con políticas, procedimientos y controles opera
 ## V VIGENCIA
 La presente circular deroga la Circular N° 619 de fecha 29 de mayo de 1986, y entra en vigencia a contar de esta fecha.
 Sin perjuicio de lo anterior, los intermediarios dispondrán de un plazo de 60 días para dar cumplimiento a lo dispuesto en el capítulo IV y adecuar los contratos mencionados en el numeral 2 del capítulo II. Mientras esta adecuación no se lleve a cabo, el intermediario sólo podrá invertir los recursos administrados, en valores de oferta pública.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

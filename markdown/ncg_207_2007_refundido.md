@@ -3,96 +3,13 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# NCG N° 207
+
 NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
 FECHA: 31.8.2007
 ### SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE PENSIONES CIRCULAR N° 1459 SUPERINTENDENCIA DE VALORES Y SEGUROS NCG N° 2 0 7
 VISTOS: Lo dispuesto en los artículos 55 y 65 del D.L. N°3.500, de 1980 y en el artículo 20 del DFL N°251, de 1931, y las facultades que les confiere la ley, estas Superintendencias han estimado necesario reemplazar las actuales tablas de mortalidad B-85 y MI-85, hombres y mujeres.
-REF.: FIJA TABLA DE MORTALIDAD MI-2006, HOMBRES Y MUJERES, PARA PENSIONADOS POR
-### INVALIDEZ Y BENEFICIARIOS INVALIDOS DE PENSION DE SOBREVIVENCIA Y TABLA B-2006,
-HOMBRES Y MUJERES, PARA BENEFICIARIOS NO INVALIDOS DE PENSION DE SOBREVIVENCIA .
 
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-1. Conforme a lo dispuesto en los artículos 55 y 65 del D.L. N°3.500, de 1980 y en el artículo 20 del DFL N°251, de
-1931, las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros, en adelante
-“las Superintendencias”, establecen el uso de las tablas MI-2006 (hombres y mujeres) tratándose de pensionados por invalidez y beneficiarios inválidos de pensión de sobrevivencia, y B-2006 (hombres y mujeres) en el caso de beneficiarios no inválidos de pensión de sobrevivencia, en reemplazo de las actuales tablas de mortalidad MI-85 (hombres y mujeres) y B-85 (hombres y mujeres), respectivamente.
-2. Las tablas señaladas, se definen con sus correspondientes tasas de mortalidad “qx” y factores de mejoramiento
-“AAx” asociados, en Anexo N°1. Asimismo, en Anexo N° 2 se entrega Nota Técnica que detalla los criterios técnicos de su elaboración.
-3. Las tablas MI-2006 y B-2006 deberán ser utilizadas para el cálculo de los retiros programados por parte de las
-AFP, del aporte adicional y de las reservas técnicas por parte de aseguradoras del segundo grupo, que mantengan obligaciones por la contratación de seguros de renta vitalicias del D.L. N°3.500, de 1980.
-4. La metodología específica de aplicación de las tablas y sus factores de mejoramiento, será materia de
-instrucciones de cada Superintendencia a sus fiscalizados.
-5. Las presentes disposiciones rigen hasta el 30 de junio de 2016.
-### SUPERINTENDENTA DE ADMINISTRADORAS DE SUPERINTENDENTE DE VALORES Y FONDOS DE PENSIONES SEGUROS
-
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-## ANEXO N°1 TABLAS DE MORTALIDAD B-2006 (HOMBRES Y MUJERES) Y MI-2006 (HOMBRES Y MUJERES)
-
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-
-| Tabla B-2006 - Mujeres |  |
-| --- | --- |
-| Edad qx Factor Aax | Edad qx Factor Aax |
-| 0 0,00648145 0,0107 1 0,00059464 0,0107 2 0,00036700 0,0107 3 0,00027208 0,0107 4 0,00022449 0,0107 5 0,00019633 0,0100 6 0,00017754 0,0100 7 0,00015877 0,0100 8 0,00014936 0,0100 9 0,00014928 0,0100 10 0,00014921 0,0096 11 0,00014913 0,0096 12 0,00015837 0,0096 13 0,00016760 0,0096 14 0,00018613 0,0096 15 0,00020464 0,0100 16 0,00023243 0,0100 17 0,00025089 0,0100 18 0,00026934 0,0100 19 0,00028777 0,0100 20 0,00030618 0,0078 21 0,00031529 0,0078 22 0,00032440 0,0078 23 0,00034277 0,0078 24 0,00035185 0,0078 25 0,00036137 0,0075 26 0,00037044 0,0075 27 0,00042695 0,0075 28 0,00048346 0,0075 29 0,00053997 0,0075 30 0,00059757 0,0071 31 0,00065418 0,0071 32 0,00071079 0,0071 33 0,00076741 0,0071 34 0,00082402 0,0071 35 0,00088188 0,0067 36 0,00093858 0,0067 37 0,00099527 0,0067 38 0,00105196 0,0067 39 0,00110865 0,0067 40 0,00116488 0,0068 41 0,00122154 0,0068 42 0,00127821 0,0068 43 0,00133488 0,0068 44 0,00139155 0,0068 45 0,00144764 0,0069 46 0,00151032 0,0069 47 0,00159879 0,0069 48 0,00171315 0,0069 49 0,00185331 0,0069 50 0,00201935 0,0069 51 0,00221109 0,0069 52 0,00242863 0,0069 | 56 0,00355821 0,0069 57 0,00390699 0,0069 58 0,00428374 0,0069 59 0,00468989 0,0069 60 0,00513035 0,0068 61 0,00560155 0,0068 62 0,00610957 0,0068 63 0,00665848 0,0068 64 0,00725303 0,0068 65 0,00789929 0,0068 66 0,00860448 0,0068 67 0,00937704 0,0068 68 0,01022702 0,0068 69 0,01116600 0,0068 70 0,01221213 0,0067 71 0,01337086 0,0067 72 0,01466335 0,0067 73 0,01610780 0,0067 74 0,01772426 0,0067 75 0,01956227 0,0063 76 0,02159244 0,0063 77 0,02386481 0,0063 78 0,02640601 0,0063 79 0,02924389 0,0063 80 0,03238166 0,0059 81 0,03593615 0,0055 82 0,03988763 0,0051 83 0,04427072 0,0047 84 0,04912172 0,0044 85 0,05447801 0,0041 86 0,06037780 0,0038 87 0,06686012 0,0035 88 0,07396404 0,0033 89 0,08172841 0,0031 90 0,09019129 0,0029 91 0,09938903 0,0027 92 0,10935582 0,0025 93 0,12012284 0,0023 94 0,13171806 0,0021 95 0,14416593 0,0020 96 0,15748751 0,0019 97 0,17170082 0,0017 98 0,18682108 0,0016 99 0,20286072 0,0010 100 0,21982992 0,0000 101 0,23773683 0,0000 102 0,25658789 0,0000 103 0,27638789 0,0000 104 0,29714116 0,0000 105 0,31885096 0,0000 106 0,34152017 0,0000 107 0,36478689 0,0000 108 0,38897030 0,0000 |
-| 53 SU0P,0E0R2I6N7T1E9N6DENC0IA,0 D06E9 VAL 54 0,00294117 0,0069 4 55 0,00323646 0,0069 | ORES1 Y09 SEGURO0,S4 1D4E0 7C0H31ILE 0,0000 110 1,00000000 0,0000 |
-
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-
-| Tabla B-2006 - Hombres |  |
-| --- | --- |
-| Edad qx Factor Aax | Edad qx Factor Aax |
-| 0 0,00788263 0,0204 1 0,00073452 0,0224 2 0,00041205 0,0224 3 0,00029560 0,0224 4 0,00024185 0,0224 5 0,00021498 0,0156 6 0,00019707 0,0156 7 0,00017915 0,0156 8 0,00017915 0,0156 9 0,00017915 0,0156 10 0,00018811 0,0170 11 0,00020602 0,0170 12 0,00023290 0,0170 13 0,00027768 0,0170 14 0,00034039 0,0170 15 0,00042100 0,0202 16 0,00051058 0,0202 17 0,00061807 0,0202 18 0,00076375 0,0202 19 0,00087690 0,0202 20 0,00098061 0,0166 21 0,00108433 0,0166 22 0,00115977 0,0166 23 0,00122577 0,0166 24 0,00128234 0,0166 25 0,00132436 0,0150 26 0,00134328 0,0150 27 0,00137166 0,0150 28 0,00138112 0,0150 29 0,00140003 0,0150 30 0,00141350 0,0136 31 0,00143248 0,0136 32 0,00146094 0,0136 33 0,00149888 0,0136 34 0,00154632 0,0136 35 0,00160877 0,0119 36 0,00167540 0,0119 37 0,00176108 0,0119 38 0,00186579 0,0119 39 0,00198002 0,0119 40 0,00212754 0,0108 41 0,00223383 0,0108 42 0,00236200 0,0108 43 0,00249753 0,0108 44 0,00264084 0,0108 45 0,00279802 0,0098 46 0,00295856 0,0098 47 0,00312832 0,0098 48 0,00330782 0,0098 49 0,00349762 0,0098 50 0,00370205 0,0093 51 0,00394078 0,0093 52 0,00419702 0,0093 | 56 0,00574936 0,0095 57 0,00629963 0,0095 58 0,00691817 0,0095 59 0,00760327 0,0095 60 0,00837228 0,0093 61 0,00919840 0,0093 62 0,01010837 0,0093 63 0,01111825 0,0093 64 0,01224510 0,0093 65 0,01364395 0,0088 66 0,01509999 0,0088 67 0,01666008 0,0088 68 0,01835177 0,0088 69 0,02017703 0,0088 70 0,02214716 0,0089 71 0,02427876 0,0089 72 0,02659628 0,0089 73 0,02910767 0,0089 74 0,03189262 0,0089 75 0,03512703 0,0084 76 0,03858094 0,0084 77 0,04240178 0,0084 78 0,04667825 0,0084 79 0,05145018 0,0084 80 0,05676653 0,0084 81 0,06347819 0,0067 82 0,07086082 0,0053 83 0,07883184 0,0043 84 0,08746790 0,0034 85 0,09675319 0,0027 86 0,10668748 0,0022 87 0,11733534 0,0017 88 0,12862929 0,0014 89 0,14063994 0,0011 90 0,15332668 0,0009 91 0,16872241 0,0007 92 0,18459254 0,0005 93 0,20028690 0,0004 94 0,21604514 0,0003 95 0,23251602 0,0003 96 0,24892925 0,0002 97 0,26471860 0,0002 98 0,28054025 0,0002 99 0,29674928 0,0002 100 0,31360272 0,0000 101 0,33095361 0,0000 102 0,34896395 0,0000 103 0,36708524 0,0000 104 0,38609908 0,0000 105 0,40536227 0,0000 106 0,42495005 0,0000 107 0,44494233 0,0000 108 0,46644771 0,0000 |
-| 53 SU0P,0E0R4I5N0T2E0N8DENC0IA,0 D09E3 VAL 54 0,00486040 0,0093 55 0,00526746 0,0095 | ORES1 Y09 SEGURO0,S4 9D4E38 C3H27ILE 0,0000 5 110 1,00000000 0,0000 |
-
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-
-| Tabla MI-2006 - Mujeres |  |
-| --- | --- |
-| Edad qx Factor Aax | Edad qx Factor Aax |
-| 0 0,00631489 0,0107 1 0,00632904 0,0107 2 0,00634389 0,0107 3 0,00635876 0,0107 4 0,00637435 0,0107 5 0,00639065 0,0100 6 0,00640767 0,0100 7 0,00642471 0,0100 8 0,00644318 0,0100 9 0,00646237 0,0100 10 0,00648230 0,0096 11 0,00650296 0,0096 12 0,00652435 0,0096 13 0,00654719 0,0096 14 0,00657148 0,0096 15 0,00659652 0,0100 16 0,00662302 0,0100 17 0,00665098 0,0100 18 0,00668042 0,0100 19 0,00671204 0,0100 20 0,00674443 0,0078 21 0,00677974 0,0078 22 0,00681654 0,0078 23 0,00685628 0,0078 24 0,00689825 0,0078 25 0,00696506 0,0075 26 0,00714652 0,0075 27 0,00732797 0,0075 28 0,00750943 0,0075 29 0,00769089 0,0075 30 0,00789474 0,0071 31 0,00807671 0,0071 32 0,00825868 0,0071 33 0,00844066 0,0071 34 0,00862263 0,0071 35 0,00883498 0,0067 36 0,00901758 0,0067 37 0,00920018 0,0067 38 0,00938278 0,0067 39 0,00956538 0,0067 40 0,00976970 0,0068 41 0,00995270 0,0068 42 0,01013571 0,0068 43 0,01031872 0,0068 44 0,01050173 0,0068 45 0,01070635 0,0069 46 0,01087498 0,0069 47 0,01106570 0,0069 48 0,01128051 0,0069 49 0,01151855 0,0069 50 0,01178627 0,0069 51 0,01205613 0,0069 52 0,01233804 0,0069 | 56 0,01368373 0,0069 57 0,01408042 0,0069 58 0,01447395 0,0069 59 0,01485370 0,0069 60 0,01522956 0,0068 61 0,01561119 0,0068 62 0,01603943 0,0068 63 0,01654546 0,0068 64 0,01714738 0,0068 65 0,01786905 0,0068 66 0,01868625 0,0068 67 0,01964043 0,0068 68 0,02076617 0,0068 69 0,02209758 0,0068 70 0,02365775 0,0067 71 0,02547110 0,0067 72 0,02753988 0,0067 73 0,02986398 0,0067 74 0,03244533 0,0067 75 0,03532787 0,0063 76 0,03846154 0,0063 77 0,04190592 0,0063 78 0,04569168 0,0063 79 0,04985048 0,0063 80 0,05441163 0,0059 81 0,05943573 0,0055 82 0,06491586 0,0051 83 0,07087194 0,0047 84 0,07731926 0,0044 85 0,08427022 0,0041 86 0,09173477 0,0038 87 0,09971866 0,0035 88 0,10822492 0,0033 89 0,11725497 0,0031 90 0,12680907 0,0029 91 0,13688738 0,0027 92 0,14749065 0,0025 93 0,15861990 0,0023 94 0,16996822 0,0021 95 0,18255023 0,0020 96 0,19698650 0,0019 97 0,21250549 0,0017 98 0,22901222 0,0016 99 0,24650844 0,0010 100 0,26518999 0,0000 101 0,28496188 0,0000 102 0,30592320 0,0000 103 0,32797885 0,0000 104 0,35113077 0,0000 105 0,37547823 0,0000 106 0,40092596 0,0000 107 0,42747590 0,0000 108 0,45493500 0,0000 |
-| 53 SU0P,0E1R2I6N3T5E1N8DENC0IA,0 D06E9 VAL 54 0,01295556 0,0069 55 0,01330244 0,0069 | ORES1 Y09 SEGURO0,S4 8D3E01 C5H00ILE 0,0000 6 110 1,00000000 0,0000 |
-
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-
-| Tabla MI-2006 - Hombres |  |
-| --- | --- |
-| Edad qx Factor Aax | Edad qx Factor Aax |
-| 0 0,00377159 0,0102 1 0,00379287 0,0112 2 0,00381414 0,0112 3 0,00383541 0,0112 4 0,00385668 0,0112 5 0,00387795 0,0078 6 0,00389923 0,0078 7 0,00392050 0,0078 8 0,00394177 0,0078 9 0,00396304 0,0078 10 0,00398431 0,0085 11 0,00400558 0,0085 12 0,00402686 0,0085 13 0,00404813 0,0085 14 0,00406940 0,0085 15 0,00409067 0,0101 16 0,00411194 0,0101 17 0,00413322 0,0101 18 0,00415449 0,0101 19 0,00417576 0,0101 20 0,00419703 0,0083 21 0,00421830 0,0083 22 0,00423957 0,0083 23 0,00426085 0,0083 24 0,00428212 0,0083 25 0,00431740 0,0075 26 0,00433875 0,0075 27 0,00436009 0,0075 28 0,00438143 0,0075 29 0,00440277 0,0075 30 0,00650354 0,0068 31 0,00665865 0,0068 32 0,00686934 0,0068 33 0,00713516 0,0068 34 0,00745524 0,0068 35 0,00785554 0,0060 36 0,00828267 0,0060 37 0,00876188 0,0060 38 0,00929287 0,0060 39 0,00987535 0,0060 40 0,01053247 0,0054 41 0,01121834 0,0054 42 0,01195401 0,0054 43 0,01273843 0,0054 44 0,01356998 0,0054 45 0,01447617 0,0049 46 0,01539851 0,0049 47 0,01636242 0,0049 48 0,01736583 0,0049 49 0,01840574 0,0049 50 0,01949784 0,0047 51 0,02059881 0,0047 52 0,02172198 0,0047 | 56 0,02629515 0,0048 57 0,02742877 0,0048 58 0,02854566 0,0048 59 0,02964283 0,0048 60 0,03073243 0,0047 61 0,03179359 0,0047 62 0,03284623 0,0047 63 0,03390261 0,0047 64 0,03498033 0,0047 65 0,03613832 0,0044 66 0,03733284 0,0044 67 0,03863264 0,0044 68 0,04007622 0,0044 69 0,04170620 0,0044 70 0,04355836 0,0045 71 0,04569523 0,0045 72 0,04815265 0,0045 73 0,05097113 0,0045 74 0,05418505 0,0045 75 0,05787997 0,0042 76 0,06196312 0,0042 77 0,06650117 0,0042 78 0,07149901 0,0042 79 0,07695472 0,0042 80 0,08286129 0,0042 81 0,08926132 0,0034 82 0,09609531 0,0027 83 0,10334859 0,0022 84 0,11100652 0,0017 85 0,11905492 0,0014 86 0,12748141 0,0011 87 0,13627557 0,0009 88 0,14542940 0,0007 89 0,15493698 0,0006 90 0,16479449 0,0005 91 0,17499937 0,0004 92 0,18555040 0,0003 93 0,19644732 0,0002 94 0,20769034 0,0002 95 0,21927988 0,0002 96 0,23892614 0,0001 97 0,25483450 0,0001 98 0,27056377 0,0001 99 0,28792045 0,0001 100 0,30639051 0,0000 101 0,32604536 0,0000 102 0,34696100 0,0000 103 0,36921830 0,0000 104 0,39290332 0,0000 105 0,41810763 0,0000 106 0,44492870 0,0000 107 0,47347022 0,0000 108 0,50384254 0,0000 |
-| 53 SU0P,0E2R2I8N6T1E1N4DENC0IA,0 D04E7 VAL 54 0,02400957 0,0047 55 0,02514995 0,0048 | ORES1 Y09 SEGURO0,S5 3D5E84 C1H54ILE 0,0000 7 110 1,00000000 0,0000 |
-
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-ANEXO
-### NOTA TECNICA TABLAS DE MORTALIDAD B-2006 (HOMBRES Y MUJERES) Y MI-2006 (HOMBRES Y MUJERES)
-ÍNDICE
-I. Introducción .................................................................................................................................. 2
-II. Obtención y Depuración de Base de Datos ................................................................................... 2
-a) Base de pólizas de Renta Vitalícia SVS ...................................................................................... 2
-b) Base de pensionados del Sistema DL. 3.500 SAFP ................................................................... 3
-c) Base de pensionados Sistema INP ............................................................................................. 4
-d) Base de Datos del Sistema DL. 3500 (fusión base de datos SVS-SAFP) ................................... 5
-III. Metodología de Cálculo de Tasas Brutas y Expuestos. ............................................................... 5
-1. Cálculo de expuestos de beneficiarias......................................................................................... 7
-2. Cálculo de expuestos de beneficiarios......................................................................................... 8
-3. Cálculo de expuestos de inválidos ............................................................................................... 8
-4. Cálculo de expuestos de inválidas ............................................................................................... 9
-IV. Técnica de Ajuste. ....................................................................................................................... 10
-V. Test Estadísticos ......................................................................................................................... 12
-VI. Construcción de la Tabla ............................................................................................................. 14
-1. Construcción de colas.................................................................................................................. 14
-2. Construcción de edades tempranas ............................................................................................ 15
-VII. Factores de Mejoramiento y Márgenes de Seguridad ................................................................. 15
-1. Factores de mejoramiento ........................................................................................................... 15
-2. Márgenes de seguridad ............................................................................................................... 17
-
-NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
-FECHA: 31.8.2007
-## I. INTRODUCCION
 Conforme a lo dispuesto en los artículos 55 y 65 del D.L. N° 3.500, de 1980 y en el artículo 20 del DFL N°251, de
 1931, las Superintendencias de Valores y Seguros y de Administradoras de Fondos de Pensiones, desarrollaron las tablas de mortalidad, MI-2006 (hombres y mujeres) para pensionados por invalidez y beneficiarios inválidos de pensión de sobrevivencia, y B-2006 (hombres y mujeres) para beneficiarios no inválidos de pensión de sobrevivencia.
 Las tablas MI-2006 y B-2006 deberán ser utilizadas para el cálculo de los retiros programados, del aporte adicional y de las reservas técnicas por parte de aseguradoras del segundo grupo, que mantengan obligaciones por la contratación de seguros de renta vitalicias del D.L. N°3.500, de 1980.
@@ -200,16 +117,7 @@ NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
 FECHA: 31.8.2007
 construcción de las edades extremas.
 En el gráfico podemos ver estas comparaciones:
-l
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-q
+l q
 40 60 80 100
 edad qx Bruto INP qx Bruto Sistema qx Bruto Total Como podemos ver si hubiéramos tomado la tendencia de la curva verde, esto es utilizando exclusivamente los datos del sistema del D.L. 3.500, tendríamos una caída significativa en la mortalidad.
 Si por el contrario, incorporamos los datos del INP, teniendo en cuenta que a partir de la edad 80 años estos son representativos mientras que los datos del Sistema D.L. 3.500 son escasos, podemos ver que si bajamos el nivel de pensión del INP tendríamos dos efectos, por un lado aumenta la exposición del INP y por el otro aumenta la mortalidad porque tienen menos ingresos, por lo que si se desplazara hacia arriba la mortalidad del sistema DL
@@ -223,15 +131,6 @@ NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
 FECHA: 31.8.2007
 5
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
 0 5 10 15 20 25
 edad qx Brutos INP Hombres qx Bruto SAFP SVS Hombres 81-05 Vemos que en el INP la información es inexistente, mientras que en los datos del sistema solo se aprecia una tendencia.
 ## 6. Cálculo de expuestos de inválidos:
@@ -240,17 +139,7 @@ Para el caso de los inválidos se tomaron seis años de exposición desde el 199
 NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
 FECHA: 31.8.2007
 pn
-5
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-xq
+5 xq
 20 40 60 80 100
 edad qx Bruto INP qx Bruto Sistema qx Bruto Sis-Inp Debido a que existe una diferencia en la mortalidad entre ambos sistemas, que lamentablemente por la escasez de datos no es posible dimensionar, se optó por utilizar los expuestos al riesgo del Sistema desde la edad 30 hasta la
 70, los cuales son estadísticamente confiables, y de ahí en adelante los datos del INP, los cuales solo contribuyen a la construcción de la “cola”.
@@ -260,14 +149,6 @@ Se consideró el mismo período que para los hombres. En este caso la cantidad d
 NORMA DE CARÁCTER GENERAL SVS N° 207 CIRCULAR SAFP N° 1459
 FECHA: 31.8.2007
 sodil
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 Se observa que en los primeros años los datos del sistema son representativos y a partir de la edad 65 se utiliza la información del INP
 ## III. TÉCNICA DE AJUSTE, WHITTAKER-HENDERSON TIPO B.

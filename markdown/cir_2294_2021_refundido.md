@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2294
+
 Texto actualizado: Circular N° 1 Empresas emisoras de tarjetas de pago no bancarias
 ### 2.6 Provisiones adicionales
 Las sociedades podrán constituir provisiones adicionales a las que resultan de la aplicación de sus metodologías, a fin de resguardarse del riesgo de fluctuaciones económicas no predecibles que puedan afectar el entorno macroeconómico. De acuerdo con lo anterior, las provisiones adicionales deben corresponder siempre a provisiones generales sobre colocaciones, y en ningún caso podrán ser utilizadas para compensar deficiencias de los modelos utilizados por la sociedad.

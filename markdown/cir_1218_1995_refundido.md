@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1218 — DICTA NORMAS DE VALORIZACIÓN DE INSTRUMENTOS DE EMISORES EXTRANJEROS
+# CIRCULAR N° 1218 — DICTA NORMAS DE VALORIZACIÓN DE INSTRUMENTOS DE EMISORES EXTRANJEROS.
 
 
 Para todas las sociedades que administran fondos mutuos Esta Superintendencia en uso de sus facultades legales, ha estimado conveniente dictar las siguientes instrucciones sobre la valorización de los títulos emitidos por emisores extranjeros, en que inviertan los fondos mutuos.
@@ -17,7 +17,6 @@ Aquellas acciones que pierdan la condición de transacción bursátil, por prese
 ### 2.3 Instrumentos de deuda de corto plazo con pago único al final
 Los fondos mutuos definidos como del tipo señalado en el número 1 de las sección II de la Circular N° 1.578 de 2002, deberán valorizar diariamente estos instrumentos, descontando el pago futuro del instrumento a la tasa interna de retoro implícita en el costo de adquisición del mismo (TIR de compra) y contabilizar anticipadamente el interés y reajuste que cada instrumento devengará al día siguiente al de la valorización.
 En todo caso, cuando existan diferencias relevantes entre la valorización a TIR de compra y a tasa interna de retorno de mercado (TIR de mercado), el gerente general de la sociedad administradora deberá fundadamente determinar si corresponde o no efectuar ajustes a valorización de la cartera de inversiones del fondo. En el evento de que decida efectuar los referidos ajustes, se deberán aplicar las disposiciones contenidas en el número 2.5 de la presente Circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Tratándose de fondos mutuos definidos como de alguno de los tipos indicados en los números 2 al 6 de la sección II de la Circular N° 1.578 de 2002, estos instrumentos deberán valorizarse diariamente según lo instruido en el número 2.5 siguiente.
 ### 2.4 Instrumentos de deuda de corto plazo con pagos intermedios
@@ -35,7 +34,6 @@ c) En caso de tratarse de instrumentos únicos, éstos se valorizarán considera
 ello la tasa interna de retorno de adquisición del instrumento o aquella que resulta de ajustar la tasa a la cual se estaba valorizando, en función de la variación de la estructura de tasas de interés promedio observada.
 Estos fondos mutuos no podrán anticipar la contabilización de intereses y reajustes de los instrumentos de deuda.
 Sin perjuicio de lo anterior, el gerente general de la sociedad administradora correspondiente deberá velar para que esta valorización represente el valor de mercado del instrumento en cuestión. Si no lo representare, deberá efectuar ajustes al valor obtenido, con el objeto de que la valorización refleje el monto al que el instrumento se pueda liquidar en el mercado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Tratándose de fondos mutuos definidos como del tipo indicado en el número 1 de la sección II de la Circular N° 1.578 de 2002, deberán valorizar estos instrumentos de acuerdo a lo estipulado en el punto 2.4 precedente, anticipando los intereses y reajustes que dichos instrumentos devenguen al día siguiente de la valorización.
 ### 2.6 Instrumentos emitidos a tasa flotante
@@ -51,7 +49,6 @@ Las cuotas de fondos de inversión cerrados, deberán valorizarse diariamente, d
 ### 3.1 Fondos Mutuos definidos como de alguno de los tipos señalados en los números 7 y
 8 de la sección II de la Circular N° 1.578 del 17 de enero de 2002.
 Estos fondos deberán sujetarse a las instrucciones impartidas precedentemente, para los fondos definidos como de alguno de los tipos indicados en los números 2 al 6 de la citada circular. En el caso que el fondo mutuo se defina como del tipo señalado en el número 1 de la sección II de la Circular N° 1.578 de 2002 y cumpla los requisitos ahí establecidos, le será aplicable lo dispuesto para este tipo de fondo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 3.2. Moneda en que se valorizarán los instrumentos
 La valorización de cada instrumento deberá realizarse en la moneda en la cual este expresado el instrumento. Aquellos fondos que consideren en sus reglamentos internos la contabilización en pesos chilenos, diariamente deberán convertir el valor del instrumento en dicha moneda. Por otra parte, los fondos que consideren en sus reglamentos internos la contabilización en una determinada moneda extranjera, deberán efectuar la conversión a ésta última, respecto de instrumentos expresados en una moneda distinta a aquélla.
@@ -69,4 +66,3 @@ iii) Información sobre cambios en la situación del emisor del instrumento, que
 suponer variaciones en el riesgo de no pago, que provoque influencia sustancial en el precio de mercado de los valores emitidos.
 ## 4. VIGENCIA
 Esta circular entrará en vigencia a partir de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

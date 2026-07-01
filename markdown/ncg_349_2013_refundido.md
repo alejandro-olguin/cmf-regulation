@@ -123,12 +123,6 @@ d) Campo Nº 4: Este campo tiene un largo de cuatro (4) caracteres y corresponde
 anual otorgado por la Comisión.
 De tal modo este código tiene la siguiente forma:
 
-|  |  |  |
-| --- | --- | --- |
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-
 ### TIPO DE TEXTO GRUPO AÑO CORRELATIVO
 Así entonces un texto depositado con el código CAD 1 2013 0009, se trata de una cláusula adicional para una o más pólizas de uso exclusivo de compañías del primer grupo, registrada en el año 2013 con el código correlativo
 0009.

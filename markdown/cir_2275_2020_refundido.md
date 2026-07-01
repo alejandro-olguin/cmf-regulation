@@ -60,5 +60,3 @@ La información contenida en las letras A), B), C) y D), es acumulativa.
 | --- |
 | la cual debe enviarse a esta Comisión a más tardar el día 01 de marzo de 2021. |
 | A contar del 31 de enero de 2021 se deroga el Oficio Circular N° 479, del 17 de octubre de 2008. |
-
-### COMISIÓN PARA EL MERCADO FINANCIERO

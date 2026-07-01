@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1400 — 1
+# CIRCULAR N° 1400 — REGULA LA MANTENCIÓN DE MONEDA EXTRANJERA Y DICTA INSTRUCCIONES PARA SU VALORIZACIÓN
 
 
 Para todas las sociedades administradoras de fondos mutuos Esta Superintendencia, en uso de sus facultades legales y en conformidad a lo señalado en los numerales 1 y 9 del artículo 13 del D.L. Nº 1.328 de 1976, ha estimado pertinente impartir instrucciones a las sociedades administradoras de fondos mutuos, para que en representación de los fondos mutuos que administren adquieran y mantengan monedas extranjeras bajo las siguientes condiciones:
@@ -17,11 +17,9 @@ Las diferencias que se produzcan por efecto de las variaciones que experimente e
 Las sociedades administradoras, en la confección de los estados financieros de los fondos que administren, deberán presentar los recursos mantenidos en moneda extranjera como un recurso de disponibilidad inmediata y sin restricciones de ninguna especie, en la variable 4.11.20.00, correspondiente a Moneda extranjera.
 #### D. DEROGACIÓN
 Derógase a contar de la fecha de vigencia de la presente circular, la Circular Nº 978 de fecha 4 de Diciembre de 1990.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### E. VIGENCIA
 La presente circular rige a contar de esta fecha.
 #### F. TRANSITORIO
 Los fondos mutuos que actualmente mantienen en su política de inversión la posibilidad de invertir en dólares de los Estados Unidos de Norteamérica, deberán eliminar dicho ítem e incorporar explícitamente el porcentaje del activo del fondo que podrán mantener como disponible en dicha moneda y en otras monedas extranjeras si así se estimare.
 Lo anterior deberá ser incorporado en las próximas modificaciones que realicen las sociedades administradoras a los reglamentos internos de los respectivos fondos, para efectos de lo cual deberán dar cumplimiento a lo establecido en el artículo 4º del D.S. Nº 249 de 1982.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

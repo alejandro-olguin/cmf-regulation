@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1377 — IMPARTE INSTRUCCIONES RESPECTO AL REGISTRO DE MANDANTES Y AL FORMULARIO DE RECEPCION Y ENTREGA DE VALORES ENTRE DEPOSITANTES Y MANDANTES
+# CIRCULAR N° 1377 — IMPARTE INSTRUCCIONES RESPECTO AL REGISTRO DE MANDANTES Y AL FORMULARIO DE RECEPCION Y ENTREGA DE VALORES ENTRE DEPOSITANTES Y MANDANTES.
 
 
 Para los agentes de valores y corredores de bolsas que actúen como depositantes de una empresa de depósito de valores.
@@ -18,12 +18,9 @@ Indicación de la recepción o entrega de valores por parte del depositante, se�
 Identificación de el o los depositantes involucrados.
 Identificación del mandante.
 Identificación de la empresa de depósito de valores a quién se le encargue la custodia de los valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Fecha de recepción o entrega de los valores.
 Identificación de los valores y sus emisores.
 Valor nominal de los valores recibidos o entregados.
 ## III. VIGENCIA
 Las instrucciones contenidas en la presente circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS SUPERINTENDENCIA DE VALORES Y SEGUROS

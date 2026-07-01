@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE PRESENTACIÓN DE INFORMACIÓN FINANCIERA BAJO IFRS PARA FONDOS MUTUOS Y SU PUBLICACIÓN ANUAL. (1) A todas las sociedades que administran fondos mutuos I. INTRODUCCION
+# CIRCULAR N° 1997 — IMPARTE INSTRUCCIONES SOBRE PRESENTACIÓN DE INFORMACIÓN FINANCIERA BAJO IFRS PARA FONDOS MUTUOS Y SU PUBLICACIÓN ANUAL
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 
 Esta Comisión, en uso de sus facultades legales, de acuerdo a lo dispuesto en el artículo 4° del D.L. N° 3.538 de 1980, artículo 9° del D.L. N° 1328, de 1976, artículo 19 del D.S. N°
 1.179 de Hacienda de 2010 y en consideración a lo señalado en Oficios Circulares N° 544 y
@@ -23,8 +21,6 @@ Los fondos deberán presentar sus estados financieros de acuerdo a IFRS en forma
 (3) Título reemplazado por Circular N° 2063, de 2012.
 (4) Texto reemplazado por la Norma de Carácter General N° 431, de 2019.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 Los estados financieros deberán estar expresados en miles de la moneda funcional del fondo y ser auditados por empresas de auditoría externa, de aquellas inscritas en el Registro de Empresas de Auditoría Externa que para el efecto mantiene esta Comisión. Los estados financieros a ser presentados por cada fondo son los
 siguientes:
 ## 1. Estado de Situación Financiera
@@ -44,8 +40,6 @@ iii) Dictamen de los auditores externos: deberá ser enviado en un archivo en
 formato PDF.
 (5) Párrafo reemplazado por la NCG N°515, de 2024.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 iv) Declaración de responsabilidad: deberá ser enviada en un archivo en formato
 PDF.
 Respecto del envío de la información requerida en el numeral i) anterior, en el sitio Web de este Servicio se pondrá a disposición de la industria un ejemplo de archivo XML.
@@ -64,15 +58,11 @@ que éstos sean remitidos a este Servicio.
 (6) Expresión reemplazada por Circular N° 2015, de 2011.
 (7) Letra agregada por Circular N° 2063, de 2012.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 La entidad deberá informar a esta Comisión el hipervínculo a su sitio de Internet, especificando el URL (Uniform Resource Locator) donde se ubiquen los referidos estados financieros y el informe de los auditores externos, así como también la fecha a partir de la cuál éstos se encuentran disponibles. La información deberá ser remitida a este Servicio de acuerdo a las especificaciones establecidas en la “Ficha Técnica” disponible en CMF Supervisa. (8) La información contenida en el sitio web de la entidad, deberá presentarse en un lugar visible, de fácil acceso al público que desee acceder a ella y en un formato que permita su obtención gratuita. Esta información deberá permanecer disponible en el sitio en Internet de la sociedad por al menos 5 años consecutivos, contados desde su publicación.
 ## III. VIGENCIA
 La presente Circular rige a contar de esta fecha, para la presentación de los estados financieros al 31 de diciembre de 2010, en adelante.
 (8) Párrafo modificado por la NCG N°515, de 2024.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 ANEXO
 ### I) NOTAS OBLIGATORIAS A LOS ESTADOS FINANCIEROS
 A continuación, se detalla la información que en forma obligatoria y adicional a las revelaciones requeridas por IFRS, se deberá incorporar en las notas a los estados financieros de los fondos, la cual deberá presentarse en miles de la moneda funcional y en forma comparativa con las del ejercicio anterior, en la manera que se indica.
@@ -83,8 +73,6 @@ Adicionalmente, deberá especificarse qué tipo de operaciones podrá realizar l
 En relación con las revelaciones requeridas por IFRS respecto de los activos financieros a valor razonable con efecto en resultados, se deberá agregar el detalle de los saldos al 31 de diciembre de estos activos, expresado en miles de la moneda funcional del fondo, de acuerdo al formato que se expone a
 continuación:
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 Al 31 de diciembre de cada año, se presentan en esta categoría los siguientes instrumentos financieros:
 Al 31 de diciembre de 20X1 Al 31 de diciembre de 20X0 Al 1 de enero de 2010 (1)
 
@@ -113,8 +101,6 @@ Al 31 de diciembre de 20X1 Al 31 de diciembre de 20X0 Al 1 de enero de 2010 (1)
 
 (1) Esta columna se incluirá solo para los estados financieros “pro forma” referidos al 31 de diciembre de 2010.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 Composición de la cartera (continuación)… [En miles de….]
 
 | Instrumento | Nacional | Extranjero | total | % de activos netos | Nacional | Extranjero | total | % de activos netos | Nacional | Extranjero | total | % de activos netos |
@@ -142,8 +128,6 @@ Composición de la cartera (continuación)… [En miles de….]
 ## 3. Activos Financieros a Costo Amortizado
 En relación con las revelaciones requeridas por IFRS respecto de los activos financieros a costo amortizado, se deberá agregar el detalle de los saldos al 31 de diciembre de estos activos, expresado en miles de la moneda funcional del fondo, de acuerdo al formato que se expone a continuación:
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 Al 31 de diciembre de cada año, se presentan en esta categoría los siguientes instrumentos financieros:
 Al 31 de diciembre de 20X1 Al 31 de diciembre de 20X0 Al 1 de enero de 2010 (1)
 
@@ -175,8 +159,6 @@ Al 31 de diciembre de 20X1 Al 31 de diciembre de 20X0 Al 1 de enero de 2010 (1)
 
 (1) Esta columna se incluirá solo para los estados financieros “pro forma” referidos al 31 de diciembre de 2010.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 ## 4. Distribución de Beneficios a los Partícipes
 Se deberá detallar las distribuciones de beneficios efectuadas a los partícipes en el período de acuerdo al siguiente formato:
 
@@ -200,9 +182,6 @@ siguiente formato:
 | --- | --- | --- | --- |
 |  | Ultimo año | Últimos dos años | Últimos tres años |
 | Serie A Serie B Serie … |  |  |  |
-
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 b) Rentabilidad Real
 Adicionalmente, para las series destinadas a constituir planes de ahorro previsional voluntario o colectivo, se deberá informar la rentabilidad en términos reales, en consideración a las instrucciones impartidas en las Normas de Carácter General N° 226 y N° 227, ambas de 2008, o las que la modifiquen o reemplacen.
 ## 6. Custodia de Valores (Norma de Carácter General N° 235 de 2009)
@@ -219,8 +198,6 @@ En la columna “Límite excedido”, se deberá indicar si el exceso de inversi
 En la columna “Causa del exceso”, se deberá señalar si éstos corresponden a fluctuación de valores, disminución patrimonial, adquisición de valores u otros motivos, según la siguiente codificación: FV, DP, AV y O.
 Asimismo, en la columna “Observaciones” se deberá señalar si los excesos informados se produjeron por causas imputables a la sociedad administradora o ajenas a ella, y cualquier otro antecedente que aporte información relevante al respecto.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 8. Garantía constituida por la sociedad administradora en beneficio del fondo
 (Artículo 7° del D.L. N° 1.328 y Artículo 226 de la ley N° 18.045) Se deberá informar el detalle de la garantía constituida por la sociedad administradora en beneficio del fondo, en cumplimiento de las disposiciones contenidas en el artículo 7° del D.L. N° 1.328 de 1976, y artículo 226 de la Ley N° 18.045, indicando, a lo menos, la naturaleza, el nombre del emisor, el nombre del representante de los beneficiarios, el monto en unidades de fomento y la vigencia. La información se deberá presentar utilizando el cuadro que se muestra a continuación:
 
@@ -232,8 +209,6 @@ FECHA: 30.12.2010
 Los fondos que se definan como Fondos Mutuos Estructurados Garantizados deberán incorporar información respecto de las características generales de la garantía constituida para el cumplimiento de los objetivos del fondo, de conformidad a lo establecido en el Titulo IV) de la Circular N° 1.790 de 2006.
 Las características a exponer deberán hacer mención, al menos, al objetivo de la garantía, al valor que se garantiza, tipo de garantía de que se trata, identificación de la entidad garante, forma de determinar el monto de la garantía, período durante el cual tendrá vigencia, beneficiario, condiciones a las cuales estará sujeta su efectividad, forma y plazo de su pago, entre otras materias que se estime relevante revelar.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 ## 10. Operaciones de Compra con Retroventa
 Se deberá informar acerca de las operaciones de compra con retroventa efectuadas por el fondo, vigentes al 31 de diciembre de cada año, de acuerdo al siguiente esquema:
 
@@ -250,8 +225,6 @@ Se deberá informar acerca de las operaciones de compra con retroventa efectuada
 (2) Total transado: Corresponde al precio pagado por la compra del instrumento. Este monto, deberá expresarse en miles de la moneda funcional del fondo.
 (3) Precio pactado: Se deberá expresar en pesos, en unidades de fomento, en dólares, otra moneda o unidad de reajuste, según como haya sido pactado, considerando dos decimales.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 ## 11. Información Estadística
 Se deberá exponer información estadística del fondo o series de cuotas, según corresponda, al último día de cada mes del ejercicio que se informa, de acuerdo
 al siguiente cuadro:
@@ -284,8 +257,6 @@ Esta información deberá incluir las sanciones aplicadas en el período compren
 | Estado de tramitación |  |
 | Otros antecedentes |  |
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 El detalle solicitado, se informará por cada sanción y parte involucrada.
 En caso de no existir sanciones que informar, se deberá señalar expresamente que durante los ejercicios finalizados al 31 de diciembre del período actual y anterior, la sociedad administradora, sus directores y/o administradores no han sido objeto de sanciones por parte de algún organismo fiscalizador.
 ## 13. Hechos Relevantes
@@ -297,6 +268,4 @@ Se deberá señalar todo hecho significativo, de cualquier naturaleza que pueda 
 Informe de la empresa de auditoría externa referido a los estados financieros al ______ Razón Social de la empresa de auditoría externa RUT de la empresa de auditoría externa
 (9) Anterior Sección II eliminada por la NCG N°515, de 2024.
 
-### CIRCULAR N° 1.997
-FECHA: 30.12.2010
 Nombre de la persona autorizada RUT de la persona autorizada

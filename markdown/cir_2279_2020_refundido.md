@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2279
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-2 Hoja 1
 ### CAPÍTULO 21-2 INSTRUMENTOS DE CAPITAL ADICIONAL NIVEL 1 PARA LA
@@ -167,27 +169,27 @@ Para la asignación del monto distribuible se considera a los accionistas ordina
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝐴𝐶𝐶
-> 𝑂𝑅𝐷
-> 𝐴𝐶𝐶_% =
-> 𝐴𝐶𝐶 + 𝐵𝑂𝑁𝑂
+> ACC
+> ORD
+> ACC_% =
+> ACC + BONO
 > $$
-### 𝑂𝑅𝐷 𝑃𝐸𝑅
+### ORD PER
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝐵𝑂𝑁𝑂
-> 𝑃𝐸𝑅
-> 𝐵𝑁𝐷_% =
-> 𝐴𝐶𝐶 +𝐵𝑂𝑁𝑂
+> BONO
+> PER
+> BND_% =
+> ACC +BONO
 > $$
-### 𝑂𝑅𝐷 𝑃𝐸𝑅
+### ORD PER
 Los montos, con cargo a partidas distribuibles correspondientes a los accionistas, se designan para: i) el pago de dividendos de acciones ordinarias y ii) compras de acciones propias (buy backs), si es que corresponde, en la forma indicada.
 Circular N° 2.279 / 24.11.2020 por Resolución N° 5630
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-2 Hoja 10 𝑀𝑜𝑛𝑡𝑜_𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑖𝑏𝑙𝑒_𝐴𝐶𝐶 = 𝑀𝑀𝐷∗ 𝐴𝐶𝐶_% Los montos, con cargo a partidas distribuibles correspondientes a tenedores de bonos sin plazo de vencimiento, se designan para: i) el pago de intereses sobre montos nominales no depreciados y ii) reapreciación de montos nominales depreciados, en el orden anterior, en la forma indicada.
-𝑀𝑜𝑛𝑡𝑜_𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑖𝑏𝑙𝑒_𝐵𝑁𝐷 = 𝑀𝑀𝐷∗ 𝐵𝑁𝐷_% Este proceso de reapreciación ocurrirá hasta recuperar el valor nominal de la emisión, si es que el banco no presenta un deterioro en su nivel de solvencia.
+Capítulo 21-2 Hoja 10 Monto_distribuible_ACC = MMD∗ ACC_% Los montos, con cargo a partidas distribuibles correspondientes a tenedores de bonos sin plazo de vencimiento, se designan para: i) el pago de intereses sobre montos nominales no depreciados y ii) reapreciación de montos nominales depreciados, en el orden anterior, en la forma indicada.
+Monto_distribuible_BND = MMD∗ BND_% Este proceso de reapreciación ocurrirá hasta recuperar el valor nominal de la emisión, si es que el banco no presenta un deterioro en su nivel de solvencia.
 ## 7. Condiciones de compra o rescate
 La opción de compra, rescate o pago anticipado voluntario de instrumentos AT1, podrá ser ejercida por el banco emisor solo cuando cuente con la autorización previa de la Comisión, cuya primera fecha de rescate debe corresponder a un plazo no inferior a cinco años calendario contado desde su fecha de emisión.
 Para la aprobación de la compra o rescate, el emisor debe reemplazar el instrumento con capital de igual o mejor calidad, realizando la sustitución en condiciones sostenibles para la capacidad de ingresos del banco, o bien, demostrar que la posición de capital se encuentra por sobre los requerimientos mínimos de capital establecidos en el inciso primero del artículo 66, después de que se ejerce la opción de compra.

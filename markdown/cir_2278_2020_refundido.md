@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2278
+
 ### REGLAMENTO DE ADMINISTRACIÓN DEL FONDO DE GARANTÍA PARA PEQUEÑOS Y MEDIANOS EMPRESARIOS
 De acuerdo con lo dispuesto en el artículo 1° del Decreto Ley N° 3.472 (en adelante “la Ley”) modificado por las Leyes N° 18.280, 18.437, 18.840, 19.498,
 19.677, 20.202, 20.318, 20.792, 20.845, 21.207 y 21.229, lo previsto en la Ley

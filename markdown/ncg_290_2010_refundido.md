@@ -12,4 +12,3 @@ Para las entidades de depósito y custodia de valores, reguladas por la Ley N° 
 En uso de sus facultades legales, en particular el artículo 1° de la Ley N° 18.876, esta Superintendencia ha estimado pertinente emitir las instrucciones contenidas en la presente norma de carácter general.
 Autorízase a las entidades de depósito y custodia de valores a desarrollar como actividad complementaria, de aquellas establecidas en el artículo 1° de la Ley N° 18.876, proveer el servicio centralizado y electrónico de registro, suscripción y custodia de Contratos de Forward.
 Con todo, previo a brindar el servicio antes mencionado, las entidades de depósito y custodia deberán presentar a esta Superintendencia para su aprobación la respectiva modificación a su reglamentación interna y/o contrato de depósito, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

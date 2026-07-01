@@ -3,11 +3,10 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 176 — FECHA: 21.1.2005
+# NCG N° 176 — AUTORIZA ACTIVIDAD AFIN O COMPLEMENTARIA CONSISTENTE EN SUSCRIBIR CUOTAS DE FONDOS, RESCATARLAS Y MANTENERLAS EN CUSTODIA, POR CUENTA Y RIESGO DE ASEGURADOS
 
-REF: AUTORIZA ACTIVIDAD AFIN O COMPLEMENTARIA CONSISTENTE EN SUSCRIBIR
-### CUOTAS DE FONDOS, RESCATARLAS Y MANTENERLAS EN CUSTODIA, POR CUENTA Y RIESGO DE ASEGURADOS.
-A todas las entidades aseguradoras del segundo grupo Esta Superintendencia, en uso de sus facultades legales, en especial lo establecido en el artículo 4º del DFL 251, de 1931, y considerando lo dispuesto por el artículo 179 de la Ley 18.045, ha resuelto autorizar como actividad afín o complementaria de las entidades aseguradoras del segundo grupo, suscribir cuotas de fondos, rescatarlas y mantenerlas en custodia, por cuenta y riesgo de sus asegurados que contraten pólizas de seguros autorizadas como planes de ahorro previsional voluntario, conforme al artículo 20 del DL 3.500, de 1980, que contemplen esta modalidad, de acuerdo a las normas que se imparten en la presente norma de carácter general.
+
+Esta Superintendencia, en uso de sus facultades legales, en especial lo establecido en el artículo 4º del DFL 251, de 1931, y considerando lo dispuesto por el artículo 179 de la Ley 18.045, ha resuelto autorizar como actividad afín o complementaria de las entidades aseguradoras del segundo grupo, suscribir cuotas de fondos, rescatarlas y mantenerlas en custodia, por cuenta y riesgo de sus asegurados que contraten pólizas de seguros autorizadas como planes de ahorro previsional voluntario, conforme al artículo 20 del DL 3.500, de 1980, que contemplen esta modalidad, de acuerdo a las normas que se imparten en la presente norma de carácter general.
 ## I. Requisitos para ejercer las actividades autorizadas.
 Para efectuar las operaciones que se autorizan por la presente norma, y mientras mantengan vigentes pólizas que contemplen estas operaciones, las aseguradoras deberán cumplir con los
 siguientes requisitos:

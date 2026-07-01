@@ -12,4 +12,4 @@ N° 19.220, objeto de negociación por intermedio de las bolsas de productos, y
 b) En el financiamiento o refinanciamiento de activos y pasivos circulantes, tales como, cuentas por
 cobrar, existencias y cuentas por pagar de empresas.
 VIGENCIA La presente Circular rige a contar de esta fecha.
-### SUPERINTENDENTE SUBROGANTE SUPERINTENDENCIA DE VALORES Y SEGUROS
+### SUPERINTENDENTE SUBROGANTE

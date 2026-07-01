@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 323 — FECHA : 25.11.2011
+# NCG N° 323 — IMPARTE INSTRUCCIONES SOBRE DETERMINACIÓN DEL PATRIMONIO DE RIESGO, PATRIMONIO NETO Y OBLIGACIÓN DE INVERTIR
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en el artículo 1º, letra f), 3º letra b),

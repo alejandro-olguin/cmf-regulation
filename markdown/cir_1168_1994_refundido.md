@@ -3,18 +3,14 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# AUTORIZA GASTOS DE PUBLICIDAD Y DE DIFUSION LEY Nº 19.287, QUE MODIFICA LA LEY Nº 18.591 Y CREA LOS FONDOS SOLIDARIOS DE CREDITO UNIVERSITARIO.
+# CIRCULAR N° 1168 — AUTORIZA GASTOS DE PUBLICIDAD Y DE DIFUSION LEY Nº 19.287, QUE
 
-CIRCULAR Nº: 1168
-FECHA: 08.08.94
 
 Para todos los Fondos Solidarios de Crédito Universitario.
 Esta Superintendencia, en virtud de las facultades legales dispuestas en el art. 79 de la Ley Nº 18.591 de 1987, ha estimado necesario impartir la siguiente instrucción:
 Se autoriza en forma extraordinaria, a los Fondos Solidarios de Crédito Universitario para cargar como gastos administrativos del período anual 1994, los desembolsos efectivos en que incurran por concepto de la publicidad y difusión de la Ley Nº 19.287 que modifica la Ley Nº 18.591 y crea los Fondos Solidarios de Crédito Universitario.
 En todo caso, el monto máximo que cada fondo podrá cargar como gasto por este concepto, será el que resulte de aplicar la tabla acordada por el Consejo de Rectores, en su sesión Nº 362 de fecha 11 de mayo de 1994, la que se incluye como anexo a esta circular.
 
-CIRCULAR Nº: 1168
-FECHA: 08.08.94
 Fondo para gastos de Reprogramación - Ley 19.287
 
 | INSTITUCION | Nº Deud.Egresados | % del Total | Cuota c/r % deud.Egr |

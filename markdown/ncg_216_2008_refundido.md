@@ -25,7 +25,6 @@ inversión corresponda a productos de aquellos señalados en el artículo 5° de
 efectuar la inversión cuenten con inversiones financieras en valores susceptibles de ser ofrecidos públicamente en Chile o en el extranjero, por un monto no inferior a 10.000 Unidades de Fomento.
 6. Personas naturales o jurídicas y entidades, chilenas o extranjeras, que hayan delegado las
 decisiones de inversión en un Inversionista Calificado de acuerdo a las consideraciones de esta Norma, en virtud de un contrato de administración de cartera. Esto, en la medida que la facultad para participar en los mercados especiales, ofertas y colocaciones a que se refiere esta Norma haya quedado expresamente señalada en el contrato de administración respectivo y que el Inversionista Calificado informe al cliente las operaciones realizadas en virtud de dicha facultad, con la periodicidad establecida en dicho contrato.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 216
 FECHA: 12.06.2008
@@ -41,7 +40,6 @@ participar en mercados, colocaciones u ofertas con requisitos, condiciones, par�
 Las personas y entidades a que se refiere este número, sólo podrán ser consideradas como Inversionistas Calificados, en la medida que sus operaciones sean efectuadas a través de personas autorizadas por Ley N°18.045 para realizar funciones de intermediación de valores, corredores de bolsa de productos agropecuarios y administradoras de fondos fiscalizados por esta Superintendencia, que cuenten con políticas y procedimientos formales, por escrito y aprobados por sus directores o administradores, que garanticen que las inversiones ofrecidas a sus clientes son adecuadas para éstos, en función de su perfil de riesgo, experiencia y conocimientos. Es responsabilidad de los intermediarios y administradoras participantes el velar que las inversiones ofrecidas a sus clientes sean adecuadas para éstos, aún cuando cumplan las condiciones contenidas en este número.
 Asimismo, las políticas y procedimientos antes mencionados, deberán contemplar instancias formales de entrega de información a sus clientes respecto de las características, condiciones y riesgos particulares de cada instrumento o contrato objeto de inversión y para la manifestación de la voluntad de estos últimos, por escrito, de aceptarlos. La documentación que respalde el cumplimiento de esta disposición, deberá anexarse a la declaración a que se refiere la sección III de la presente norma.
 Las políticas antes referidas, podrán contemplar elementos o consideraciones equivalentes a las señaladas en las letras a), b) y c) de este número, en reemplazo de éstas, en la medida que se encuentren debidamente fundamentadas y que en ningún caso permitan el acceso a quienes no sean capaces de entender los riesgos de participar en mercados, colocaciones u ofertas con requisitos, condiciones, parámetros y riesgos distintos a los propios del mercado general de valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 216
 FECHA: 12.06.2008
@@ -60,7 +58,6 @@ determinados emisores de valores, al volumen de sus operaciones u otras circunst
 Normas de Carácter General, ha establecido menores requisitos de información para aquellos emisores que pretendan hacer oferta de sus valores en mercado especiales o dirigirlas exclusivamente a Inversionistas Calificados.
 • Que, tratándose de valores extranjeros, la información legal, económica y financiera
 corresponderá a aquella que el emisor entrega en sus mercados de origen o en otros mercados donde los valores se negocian y que la oferta pública de valores extranjeros en Chile, requiere de parte de la Superintendencia únicamente de la inscripción en el Registro de Valores Extranjeros que lleva al efecto, por lo cual, sólo le compete la
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 216
 FECHA: 12.06.2008
@@ -69,4 +66,3 @@ La declaración referida, deberá ser elaborada utilizando un tamaño de letra n
 ## IV. DISPOSICIONES GENERALES
 La presente Norma de Carácter General rige a contar de esta fecha.
 Derógase la Norma de Carácter General N°119, de fecha 16 de agosto de 2001.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

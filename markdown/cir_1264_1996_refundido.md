@@ -39,19 +39,6 @@ En el recuadro Total Prima Cedida debe indicarse la cuenta 41.112 de la FECU y e
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-|  |  |  |
-| --- | --- | --- |
-
-|  |  |  |
-| --- | --- | --- |
-
 ## 2. CORREDORES DE REASEGURO
-
-|  |  |  |
-| --- | --- | --- |
-
-|  |  |  |
-| --- | --- | --- |
-
-### REASEGURO NACIONAL TOTAL REASEGURO EXTRANJERO
+## 2. CORREDORES DE REASEGURO REASEGURO NACIONAL TOTAL REASEGURO EXTRANJERO
 TOTAL

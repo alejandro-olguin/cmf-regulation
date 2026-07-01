@@ -3,13 +3,13 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARACTER GENERAL N° 226 — FECHA: 08.09.2008
+# NCG N° 226 — Establece regulaciones comunes en relación con cotizaciones voluntarias, depósitos convenidos y depósitos de ahorro previsional voluntario
 
 SUPERINTENDENCIA DE PENSIONES CIRCULAR N(cid:176) (cid:176)(cid:176)(cid:176) 1533
 ### SUPERINTENDENCIA DE BANCOS CIRCULAR N° 3.445 E INSTITUCIONES FINANCIERAS
 SUPERINTENDENCIA DE VALORES Y SEGUROS NORMA DE CARÁCTER GENERAL N(cid:176) (cid:176)(cid:176)(cid:176) 226 VISTOS: Las facultades que confiere a estas Superintendencias, el inciso quinto del artículo 20 y el inciso octavo del artículo 20 O, ambos del Decreto Ley Nº 3.500, de 1980, en relación con el artículo vigésimo transitorio de la Ley N° 20.255, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras de Fondos de Pensiones, las Instituciones Autorizadas y el Instituto de Previsión Social.
-REF: Establece regulaciones comunes en relación con cotizaciones voluntarias, depósitos convenidos y depósitos de ahorro previsional voluntario. Deroga circulares N° 1.194, de la Superintendencia de Pensiones, N° 3.164 y N° 1.4 35, de la Superintendencia de Bancos e Instituciones Financieras y N° 1.585, de la Superintendencia de Valores y Seguros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
+
+Bancos e Instituciones Financieras y N° 1.585, de la Superintendencia de Valores y Seguros.
 
 ÍNDICE
 ## I. INTRODUCCIÓN…………………………………………………………………………………… 3
@@ -26,7 +26,7 @@ REF: Establece regulaciones comunes en relación con cotizaciones voluntarias, d
 ## XII. TRIBUTACIÓN Y BONIFICACIÓN.……………………………………………………………… 24
 ## XIII. PUBLICIDAD, PROMOCIÓN E INFORMACIÓN.……………………………………………… 28
 ## XIV. NORMAS TRANSITORIAS.………………………………………………………………………. 30 XV. DEROGACIÓN.…………………………………………………………………………………….. 30 XVI. VIGENCIA.…………………………………………………………………………………………… 31
-## I. INTRODUCCIÓN SUPERINTENDENCIA DE VALORES Y SEGUROS
+## I. INTRODUCCIÓN
 
 Con el objeto de incentivar el mecanismo de ahorro previsional voluntario establecido en el artículo 20 del D.L. N° 3.500, de 1980, en virtud del N° 13 del artículo 91 de la Ley N°
 20.255, publicada en el Diario Oficial del 17 de marzo de 2008, que entrará en vigencia el 1
@@ -36,7 +36,6 @@ Hasta la fecha de entrada en vigencia de las modificaciones introducidas por la 
 20.255 al ahorro previsional voluntario, el afiliado por sus aportes sólo tiene derecho a la
 opción de rebajar impuesto al efectuar cotizaciones voluntarias en una Administradora de Fondos de Pensiones o depósitos de ahorro previsional voluntario en una Institución Autorizada, y pagar impuestos con un recargo si retira recursos antes de pensionarse. En virtud de las modificaciones introducidas por esta ley, el afiliado puede ejercer otra opción que consiste en no rebajar impuesto al efectuar los depósitos y sólo pagar impuesto por la rentabilidad al momento del retiro. Además, a los afiliados que optan por esta nueva opción se les otorga una bonificación de cargo fiscal.
 En este contexto y con el objeto de cumplir con el mandato legal, las tres Superintendencias emiten la norma de carácter general que establece las normas y procedimientos de carácter general que deberán cumplir las Administradoras de Fondos de Pensiones e Instituciones Autorizadas en relación a las características y requisitos de los planes de ahorro previsional voluntario, la información histórica del trabajador, la recaudación y transferencias de los aportes, los traspasos de saldos entre las entidades, las comisiones, los retiros de fondos, la cobranza, la tributación, la bonificación fiscal y la publicidad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## II. DEFINICIONES
 Para los efectos de la presente Circular y de acuerdo con lo dispuesto en el D.L. 3.500 de
@@ -59,7 +58,6 @@ de Pensiones o en una Institución Autorizada por concepto de cotizaciones volun
 9. Depósitos Indirectos: sumas que se enteran por concepto de cotizaciones voluntarias,
 depósitos convenidos o depósitos de ahorro previsional voluntario en una Administradora de Fondos de Pensiones o en el Instituto de Previsión Social, para ser transferidas hacia la Entidad seleccionada por el trabajador.
 ## 10. Entidades: Administradoras de Fondos de Pensiones e Instituciones Autorizadas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 11. Instituciones Autorizadas: son aquellas distintas de las Administradoras de Fondos de
 Pensiones a que se refiere el inciso primero del artículo 20 del D.L. N° 3.500, de 1980, esto es, bancos e instituciones financieras, administradoras de fondos mutuos, compañías de seguros de vida, administradoras de fondos de inversión, administradoras de fondos para la vivienda y otras autorizadas que cuenten con planes de ahorro previsional voluntario autorizados por las Superintendencias de Bancos e Instituciones Financieras o de Valores y Seguros, según corresponda.
@@ -81,7 +79,6 @@ efectuada por el trabajador, directamente en una Institución Autorizada o en un
 depósitos convenidos y depósitos de ahorro previsional voluntario que efectúa una Administradora de Fondos de Pensiones o el Instituto de Previsión Social, a la Institución Autorizada o a una Administradora de Fondos de Pensiones, seleccionada por el trabajador.
 22. Traspaso: envío de todo o parte de los recursos originados en cotizaciones voluntarias,
 depósitos convenidos, depósitos de ahorro previsional voluntario y bonificación fiscal, entre Instituciones Autorizadas y/o entre Administradoras de Fondos de Pensiones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## III. ASPECTOS GENERALES
 1. Las alternativas de inversión para las cotizaciones voluntarias, depósitos de ahorro
@@ -98,7 +95,6 @@ cotizaciones voluntarias y depósitos de ahorro previsional voluntario podrán s
 directa o indirectamente depósitos convenidos, en cualquier Entidad. Los recursos acumulados por estos depósitos podrán ser traspasados, total o parcialmente, a cualquiera de las Administradoras de Fondos de Pensiones o Instituciones Autorizadas y sólo podrán retirarse como excedente de libre disposición cuando el trabajador se pensione y cumpla los requisitos específicos establecidos en el D.L. N°
 3.500. En el caso de los imponentes del IPS, sólo podrán retirar dichos recursos una
 vez que se hayan pensionado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## IV. CARACTERÍSTICAS DE LAS ALTERNATIVAS DE AHORRO PREVISIONAL
 VOLUNTARIO
@@ -119,7 +115,6 @@ d) Los intereses, dividendos o reajustes que generen los planes de ahorro
 previsional voluntario deberán ser reinvertidos en el mismo plan.
 e) Las Entidades deberán pagar los retiros y efectuar los traspasos a las
 Instituciones Autorizadas o a las Administradoras de Fondos de Pensiones, según corresponda, dentro de los plazos máximos establecidos por la respectiva Superintendencia. Con todo, dichos plazos no podrán superar los treinta días corridos desde la fecha de recepción de la solicitud de retiro o de traspaso por la entidad de origen, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 f) Los mencionados retiros de recursos que realicen los trabajadores deberán ser
 pagados directamente por la Entidad, mediante transferencia electrónica, dinero efectivo, vale vista nominativo o cheque nominativo a favor del trabajador, depósito en cuenta bancaria u otros medios autorizados por la respectiva Superintendencia.
 g) Las Entidades deberán establecer la estructura de comisiones para las
@@ -136,7 +131,6 @@ empleadores, según corresponda, deberá efectuarse en la forma que determine ca
 Se podrá convenir la utilización de medios electrónicos para efectuar el traspaso de la información.
 5. En el caso de traspasar recursos para efectos de pensionarse el trabajador deberá
 manifestar esta opción en la AFP en que se encuentre afiliado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 6. El formulario Selección de Alternativas de Ahorro Previsional Voluntario, deberá
 contener como mínimo la siguiente información:
@@ -166,7 +160,6 @@ m) Cuando se trate de un pago efectuado a través del empleador se deberá
 indicar el mes en el cual se efectuará el primer descuento.
 n) Indicar si la alternativa de ahorro previsional voluntario seleccionada permite o
 no la revocación de la solicitud de traspaso de los recursos, de acuerdo con lo que para tal efecto disponga la respectiva Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 o) Firma del trabajador.
 p) Firma autorizada y timbre de la Entidad destinataria.
 q) En la primera hoja y en forma destacada el siguiente párrafo:
@@ -185,7 +178,6 @@ c) Identificación del empleador (razón social y RUT) y su domicilio.
 d) Identificación del plan de ahorro previsional voluntario.
 e) Mes desde el cual regirá el término o suspensión de los aportes.
 f) Firma del trabajador.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 9) En el caso que las comunicaciones señaladas en los números anteriores sean realizadas a través de un medio electrónico, las Entidades deberán adoptar las medidas necesarias para garantizar la seguridad de las transmisiones y la integridad y contenido de las comunicaciones.
 ## VI. REGISTRO HISTÓRICO DE INFORMACIÓN POR TRABAJADOR
@@ -205,7 +197,6 @@ f) La bonificación de cargo fiscal podrá registrarse detallando las fechas, lo
 y la naturaleza de cada operación (cargo, abono, etc.), o bien, como un saldo total.
 g) Las cotizaciones voluntarias separadas en los saldos acumulados con
 anterioridad y posterioridad al 7 de noviembre de 2001, fecha de publicación en el Diario Oficial de la Ley N° 19.768.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 h) Los depósitos convenidos separados en los saldos acumulados con
 anterioridad al 7 de noviembre de 2001, a contar de esa fecha y hasta el 31 de diciembre de 2010 y aquellos posteriores a esta última fecha. En el caso de los depósitos convenidos posteriores al 31 de diciembre de 2010, se deberán registrar las fechas y montos de cada uno de ellos.
 2. La forma de registrar la información en el Registro Histórico no deberá afectar la
@@ -225,7 +216,6 @@ voluntarias, depósitos convenidos y depósitos de ahorro previsional voluntario
 características a todas las Instituciones Autorizadas y a las restantes Administradoras que así lo soliciten. A su vez, idéntica obligación tendrá el IPS respecto de todas las Instituciones Autorizadas y de las AFP.
 4. Las AFP y el Instituto de Previsión Social serán notificados por las Entidades acerca
 de los trabajadores respecto de los cuales se obligan a recaudar y transferir los recursos recibidos. Este aviso se hará mediante el envío de la copia física o electrónica respectiva del formulario definido en el número 6 del Capítulo V de la presente Circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 5. Los recursos recaudados por las Administradoras de Fondos de Pensiones y el IPS
 serán transferidos hacia las respectivas Entidades a más tardar el último día del mes siguiente al de su pago.
@@ -254,7 +244,6 @@ número anterior, será actualizado en función del valor cuota de cierre del Fo
 9. Conjuntamente con el envío del archivo, la entidad recaudadora deberá transferir
 electrónicamente a la de destino el monto correspondiente al total neto a pagar.
 Las Entidades de origen y destino deberán mantener una copia del archivo descrito en el número 7 anterior. No obstante, las entidades recaudadoras podrán convenir con las de destino el envío de un vale vista o cheque, ambos nominativos, girado a su nombre por el monto correspondiente al total neto a pagar.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 10. La Entidad de destino deberá adoptar todos los mecanismos de control que sean
 necesarios para verificar la conformidad de los fondos recibidos y la información entregada. En caso de discrepancia el proceso deberá volver a realizarse el día hábil siguiente. Una vez aceptado el proceso de pago las respectivas Entidades deberán formalizar su debida aprobación.
@@ -273,7 +262,6 @@ de las formalidades que debe cumplir el formulario de traspaso de fondos. La Ent
 permite a los trabajadores traspasar sus fondos desde el ahorro previsional voluntario al ahorro previsional voluntario colectivo.
 7. El plazo máximo para traspasar los recursos será el definido por la respectiva
 Superintendencia el que en ningún caso podrá ser superior a 30 días corridos desde la recepción del formulario.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 8. Para realizar el traspaso de los recursos las Entidades de origen deberán utilizar un
 Archivo electrónico denominado Traspaso de Saldos de Ahorro Previsional Voluntario, el que contendrá como mínimo la siguiente información:
@@ -304,7 +292,6 @@ obligatoriamente a la de destino el registro de información a que se refiere el
 10. El pago de los traspasos deberá realizarse mediante una transferencia electrónica a la
 Entidad de destino, por el monto correspondiente al total en pesos traspasado.
 Alternativamente las entidades podrán girar y entregar este monto a la de destino mediante un vale vista o cheque, ambos nominativos. El mencionado traspaso se imputará en primer lugar al saldo de cotizaciones voluntarias y depósitos de ahorro
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 15 previsional voluntario con a lo menos 48 meses de antigüedad. Agotados estos recursos
 se girará de dichas cotizaciones y depósitos efectuados con una antigüedad inferior a 48 meses. Las Entidades de origen y destino tomarán en consideración la separación de recursos antes señalada para constituir y actualizar el Registro Histórico de Información del Trabajador.
 11. La Entidad de destino deberá adoptar todos los mecanismos de control que sean
@@ -319,7 +306,6 @@ Si no hubiere beneficiarios de sobrevivencia se estará a lo dispuesto en el nú
 15. Para efectos de lo dispuesto en el número anterior, las Administradoras deberán
 consultar a todas las Entidades, por la existencia de depósitos convenidos y depósitos de ahorro previsional voluntario, de todos aquellos afiliados respecto de los cuales hubiese tomado conocimiento de su fallecimiento en el mes anterior, ya sea a través de una solicitud de pensión de sobrevivencia o de pago de cuota mortuoria. La consulta anterior incluirá a las Compañías de Seguros de Vida sólo respecto de la existencia de depósitos convenidos. Para tal efecto, las Administradoras de Fondos de Pensiones deberán remitir a cada Institución Autorizada una nómina con los nombres, apellidos y Rut de los afiliados fallecidos de que se trata. A su vez, las Instituciones Autorizadas deberán responder dicha consulta dentro de los 3 días hábiles siguientes a su recepción.
 Para aquellos casos en que el afiliado registre recursos por los conceptos antes indicados, dichas Instituciones deberán efectuar el traspaso a la Administradora respectiva, dentro del plazo de 30 días corridos, contado desde la fecha de recepción de la referida consulta.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 16. Cada vez que las Entidades reciban una solicitud de traspaso de saldos por depósitos
 de ahorro previsional voluntario o cotizaciones voluntarias, a través del formulario Selección de Alternativas de Ahorro Previsional Voluntario, independientemente del tipo de saldo que se solicite traspasar, deberán considerar que la solicitud de traspaso se refiere al saldo por depósitos de ahorro previsional voluntario, cotizaciones voluntarias y bonificación de cargo fiscal, cuando corresponda.
@@ -335,7 +321,6 @@ deberán mantener los registros de los distintos saldos de APV en forma separada
 porcentajes sobre el monto de los recursos administrados y a una suma fija en pesos por operación por la transferencia de depósitos convenidos o cotizaciones voluntarias o depósitos de ahorro previsional voluntario, hacia Instituciones Autorizadas o a otras Administradoras de Fondos de Pensiones. La comisión fija antes señalada deberá ser de igual valor, cualesquiera sea la entidad de destino, se descontará del monto del depósito y se devengará en la fecha en que se efectúe la transferencia.
 3. Tratándose de ahorro previsional voluntario acogido a la letra a) del artículo 20 L del
 D.L. N° 3.500, de 1980, simultáneamente con la rebaja de la comisión por administración, cuando proceda, corresponderá rebajar del saldo en UTM la parte del capital deducida como comisión, aplicándose el procedimiento establecido en el Capítulo XII de la presente Circular, considerando como retiro, para este solo efecto, el monto de la respectiva comisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 4. Las comisiones del IPS corresponderán a una suma fija en pesos por operación de
 transferencia de depósitos convenidos o cotizaciones voluntarias o depósitos de ahorro previsional voluntario, hacia Instituciones Autorizadas o a las Administradoras de Fondos de Pensiones. La comisión fija antes señalada deberá ser de igual valor, cualesquiera sea la Entidad de destino y se descontará del monto del depósito, devengándose en la fecha en que se efectúe la transferencia.
@@ -356,7 +341,6 @@ rentabilidad generada por dichos depósitos, tributará conforme a las reglas ge
 Aquella parte de los excedentes de libre disposición que correspondan a recursos originados en depósitos convenidos de montos inferiores al límite contemplado en el artículo 20 del decreto ley N° 3.500, de 1980, tributará conforme a las reglas generales.
 2. El trabajador o pensionado que decida efectuar el retiro total o parcial de fondos,
 deberá llenar una Solicitud de Retiro en cualquier agencia de la correspondiente Entidad, en que mantenga depositados sus recursos, presentando su cédula nacional de identidad. La presentación de la Solicitud de Retiro también podrá efectuarse
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 18 mediante el uso de Internet, según lo autorice la Superintendencia correspondiente.
 En este último caso, las Entidades serán responsables de adoptar todas las medidas que correspondan para garantizar la seguridad y confidencialidad del proceso de retiro de fondos.
 3. En dicha solicitud el trabajador o pensionado indicará su nombre completo, número
@@ -378,7 +362,6 @@ Superintendencia, el que en ningún caso podrá ser superior a 30 días corridos
 • Efectivo
 • Vale Vista nominativo
 • Cheque nominativo
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 • Depósito en Cuenta Bancaria del trabajador
 • Cualquier otra autorizada por la respectiva Superintendencia.
@@ -396,7 +379,6 @@ presentación del decreto judicial o la resolución administrativa que otorgue l
 ## XI. COBRANZA
 1. Las cotizaciones voluntarias, los depósitos convenidos y los depósitos de ahorro
 previsional voluntario en tanto sean efectuados a través de una Administradora de Fondos de Pensiones, se sujetarán a lo dispuesto en el artículo 19 del D.L. N° 3.500, de 1980 y la fiscalización de la cobranza le corresponderá a la Superintendencia de Pensiones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 2. Asimismo, el trabajador dependiente podrá instruir a su empleador que los depósitos
 convenidos sean efectuados directamente en una Institución Autorizada, la que deberá realizar la cobranza, sujetándose a lo dispuesto en el artículo 19 del D.L. N°
@@ -410,7 +392,6 @@ manifestando su voluntad de no continuar realizando depósitos de ahorro previsi
 Transcurrido el plazo de acreditación de cese o suspensión de la relación laboral, sin que se haya acreditado dicha circunstancia y con el objeto de iniciar las respectivas acciones de cobranza de conformidad con el artículo 19 del D.L. 3500, se entenderá que los respectivos aportes están declarados y no pagados conforme a la presunción establecida en dicho artículo. En este caso, el representante legal de la entidad o los apoderados designados deberán emitir la correspondiente resolución con mérito ejecutivo para el inicio de la respectiva acción judicial, conforme a las disposiciones legales aplicables.
 6. Los imponentes de alguno de los regímenes previsionales administrados por el
 Instituto de Previsión Social podrán acordar con su empleador que éste efectúe depósitos convenidos directamente en una Institución Autorizada o en una Administradora de Fondos de Pensiones. En este caso, la Entidad respectiva deberá efectuar la cobranza sujetándose a lo dispuesto en el artículo 19 del D.L. N° 3.500 y la fiscalización de dicha cobranza le corresponderá a la Superintendencia de Bancos e Instituciones Financieras, de Valores y Seguros o de Pensiones, según la entidad de que se trate.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 7. Además, los empleadores podrán efectuar depósitos de ahorro previsional
 voluntario o depósitos convenidos en el Instituto de Previsión Social, para que éste los transfiera a las Instituciones Autorizadas o a las Administradoras que el imponente haya seleccionado. Dicho Instituto estará obligado a seguir las acciones tendientes al cobro de los depósitos adeudados aún cuando el imponente se incorpore al Sistema de Pensiones establecido en el D.L. N° 3.500. La mencionada cobranza se efectuará de acuerdo con lo dispuesto en la Ley N° 17.322 y la fiscalización de dicha cobranza le corresponderá a la Superintendencia de Pensiones.
@@ -425,7 +406,6 @@ IPS, cesará la obligación para el empleador de descontar las cotizaciones volu
 ## 12. Lo dispuesto en los números 8 y 10 anteriores no se aplicará a los depósitos convenidos.
 13. Los empleadores que no den cumplimiento al pago de los depósitos de ahorro
 previsional voluntario, no podrán percibir recursos provenientes de instituciones públicas o privadas, financiados con cargo a recursos fiscales de fomento productivo, sin acreditar previamente ante las instituciones que administren los instrumentos
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 22 referidos, estar al día en el pago de dichos depósitos. Sin embargo, podrán solicitar
 su acceso a tales recursos, los que sólo se cursarán una vez que se ha acreditado el pago respectivo.
 14. Los empleadores que durante los 24 meses inmediatamente anteriores a la
@@ -445,7 +425,6 @@ establecido en el número 1 del artículo 42 bis de la Ley sobre Impuesto a la R
 voluntad a través de la suscripción de un formulario físico o electrónico, denominado Selección de Alternativas de Ahorro Previsional Voluntario en la Entidad respectiva.
 Cuando la comunicación sea electrónica, las entidades serán responsables de adoptar todas las medidas que correspondan para garantizar la seguridad, confidencialidad y veracidad de la información recepcionada. Dicha opción afectará a las remuneraciones devengadas a contar del mes siguiente de suscrito el formulario.
 La Entidad deberá comunicar al empleador la opción de cambio del trabajador, dentro de los diez días hábiles del mes siguiente a la suscripción, a través de carta por correo certificado, pudiendo convenirse la utilización de medios electrónicos que
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 23 permitan acreditar fehacientemente la comunicación de la información entre el
 empleador y la Entidad.
 4. Por cada depósito efectuado directamente en las Entidades, el trabajador podrá
@@ -462,7 +441,6 @@ Renta en tanto no sean retiradas. En consecuencia, estarán afectas a dicho impu
 bonificación, informándolo a la Tesorería General de la República para que ésta proceda a efectuar el depósito a que se refiere el número siguiente. Para tal efecto, las Entidades deberán informar al Servicio de Impuestos Internos los afiliados que efectuaron aportes de ahorro previsional voluntario sujeto al régimen tributario de la letra a) del artículo 20 L del D.L. Nº 3.500 y el monto de los aportes en el año que se informa. La forma, plazo y Entidad que enviará dicha información al SII se establecerá en una norma conjunta que emitirán las Superintendencias de Pensiones, de Valores y Seguros, de Bancos e Instituciones Financieras y el Servicio de Impuestos Internos.
 10. La bonificación será depositada por la Tesorería General de la República en el plazo
 que ésta determine, la cual deberá ser ingresada en la cuenta individual de ahorro previsional voluntario del trabajador que mantiene la Administradora de Fondos de Pensiones o Institución Autorizada. En esta cuenta individual se identificarán separadamente los aportes del trabajador y la bonificación. El monto depositado por concepto de bonificación estará sujeto a las mismas condiciones de rentabilidad y comisiones que la cotización o depósito en virtud del cual se originó.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 11. Dicha bonificación se depositará en la Entidad que envió la información para su
 cálculo al Servicio de Impuestos Internos. En caso que el trabajador haya retirado todo o parte de sus aportes con anterioridad a la recepción de la bonificación, la Entidad deberá devolver toda la bonificación o una proporción de ella, en caso de retiros parciales, cuando corresponda, a la Tesorería.
@@ -476,7 +454,6 @@ régimen tributario señalado en la letra a) del número 2 anterior, la Administ
 régimen tributario de la letra a) del artículo 20 L del D.L. N° 3.500, de 1980, tributarán por la rentabilidad real en relación al monto de cada operación. Esto significa que los retiros tributan sobre la ganancia obtenida en el ejercicio o rebajan de su base imponible afecta a impuesto la pérdida generada en éstos, según sea el caso.
 16. Para calcular el factor de rentabilidad real al momento del retiro, la Entidad debe
 registrar separadamente en sus sistemas de información el capital invertido por ahorro previsional voluntario en UTM, convirtiendo para ello cada uno de los depósitos y los retiros al valor de dicha unidad del mes en que se efectúa la operación. En todo caso, al monto de los retiros se le deberá deducir o agregar la parte que corresponde a la rentabilidad positiva o negativa, según sea el caso, en esta misma unidad a la fecha de la operación. Estas operaciones deberán efectuarse con dos decimales aproximando al décimo superior toda fracción igual o superior a cinco.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 17. La rentabilidad real positiva o negativa correspondiente a cada retiro, se determinará de
 la siguiente forma:
@@ -502,7 +479,6 @@ Este saldo deberá encontrarse actualizado.
 depósitos de ahorro previsional voluntario acogidos al régimen tributario de la letra
 b) del número 2 anterior, que no se destinen a incrementar o anticipar pensiones,
 estarán afectos a un impuesto único que se declarará y pagará en la misma forma y oportunidad que el impuesto global complementario. No obstante lo anterior, las
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Administradoras de Fondos de Pensiones y las Instituciones Autorizadas deberán efectuar una retención del 15% a dichos retiros, la cual se tratará según lo dispuesto en el artículo 75 de la Ley de Impuesto a la Renta y servirá de abono al impuesto único a que están afectos.
 22. Los depósitos convenidos que se enteren en una Administradora de Fondos de
@@ -518,7 +494,6 @@ ahorro previsional voluntario que estén previamente autorizados por las Superin
 que toda publicidad, promoción e información que entreguen no induzca a interpretaciones inexactas o equívocas sobre las características de las cotizaciones voluntarias, depósitos convenidos y depósitos de ahorro previsional voluntario.
 4. En el caso de planes de ahorro previsional voluntario de rentabilidad variable y de
 fondos administrados por las AFP, no se podrán publicitar proyecciones referidas a la rentabilidad obtenida por los depósitos de ahorro previsional voluntario, cotizaciones voluntarias y depósitos convenidos. Se exceptuará de esta disposición cualquier información que las Administradoras y las Instituciones Autorizadas entreguen a los trabajadores basados en el análisis de la situación particular de éstos, siempre y cuando se presenten además la totalidad de los supuestos que involucra el resultado informado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 5. Cuando la publicidad se refiera a los fondos administrados por AFP o a otros planes
 de ahorro previsional voluntario de rentabilidad variable, deberá agregarse al final del aviso publicitario, en forma destacada, la siguiente oración:
@@ -539,7 +514,6 @@ UF = valor de la unidad de fomento en el último día del mes i i
 UF = valor de la unidad de fomento en el último día del mes j j
 9. Las rentabilidades que se publiciten deberán basarse en información oficial entregada
 por las Superintendencias respectivas o por el Banco Central de Chile, cuando corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 10. Cuando se publicite la rentabilidad pasada deberá especificarse el período a que se
 refiere. Asimismo, no podrán publicitarse rentabilidades con un desfase superior a dos meses calendario respecto del mes en curso.
@@ -559,8 +533,7 @@ En tanto el Instituto de Previsión Social no entre en funciones el Instituto de
 Derógase la Circular Conjunta N° 1.194, de la Superintendencia de Administradoras de Fondos de de Pensiones, N° 3.164 y N° 1.435, de la Superintendencia de Bancos e Instituciones Financieras, y N° 1.585, de la Superintendencia de Valores y Seguros, de fecha 24 de enero de 2002, y sus modificaciones posteriores contenidas en la Circular Conjunta N° 1.238, de la Superintendencia de Administradoras de Fondos de Pensiones, N°
 3.203 y N° 1.473, de la Superintendencia de Bancos e Instituciones Financieras y N° 1.631
 de la Superintendencia de Valores y Seguros, que estableció regulaciones comunes sobre cotizaciones voluntarias, depósitos convenidos y depósitos de ahorro previsional voluntario.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS XVI. VIGENCIA
+
+### XVI. VIGENCIA
 La presente Norma entrará en vigencia a contar del 1 de octubre de 2008, exceptuando el Capítulo XIII, que entrará en vigencia desde la fecha de la presente Circular.
 Superintendente Subrogante de Pensiones Superintendente de Valores y Seguros Superintendente de Bancos e Instituciones Financieras
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

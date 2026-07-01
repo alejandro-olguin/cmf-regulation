@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES RELATIVAS A LA CONSTITUCION DE FILIALES ADMINISTRADORAS GENERALES DE FONDOS POR PARTE DE LAS ENTIDADESASEGURADORAS DEL SEGUNDO GRUPO A todas las entidades aseguradorasdel segundo grupo
+# NCG N° 123 — IMPARTE INSTRUCCIONES RELATIVAS A LA CONSTITUCION DE FILIALES ADMINISTRADORAS GENERALES DE FONDOS POR PARTE DE LAS ENTIDADESASEGURADORAS DEL SEGUNDO GRUPO A todas las entidades aseguradorasdel segundo grupo
 
-NORMA DE CARÁCTER GENERALN°123
-FECHA:22.11.2001
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en el artículo 4º del D.F.L. N°
 251, de 1931, ha resuelto impartir las siguientes instrucciones relativas a la constitución de filiales Administradoras Generales de Fondos, en adelante AGF a que se refiere el Título XXVII de la Ley N° 18.045, por parte de entidades aseguradoras del segundo grupo.
@@ -33,8 +31,6 @@ enajenación de instrumentos o activos para los fondos que la AGF administre, de
 c) La compañía matriz no podrá entregar a su filial AGF la información reservada de sus clientes o viceversa,
 sin la autorización de los mismos.
 
-NORMA DE CARÁCTER GENERALN°123
-FECHA:22.11.2001
 ## 3. Contabilización y valorización de las acciones de la filial AGF.
 La inversión que la compañía efectúe en acciones de su filial AGF, deberá valorizarse y contabilizarse conforme las normas establecidas en el Título II de la Circular N° 1360, o la que la modifique o reemplace, incluida la presentación de estados financieros consolidados.
 ## 4. Operaciones entre laAGF y su compañía matriz.

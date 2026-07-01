@@ -16,7 +16,6 @@ En consecuencia, la presente Norma viene en determinar los aspectos que deberán
 ## II. INFORMACIÓN A ENTREGAR
 Las empresas de depósito y custodia de valores deberán entregar a los mandantes con cuenta individual, al menos trimestralmente, un reporte que contenga la información referente a todos los saldos mantenidos en su respectiva cuenta a la fecha de cierre del reporte, así como de todas las operaciones efectuadas desde el día hábil siguiente a la fecha de cierre del reporte previo hasta la fecha de cierre del reporte respectivo.
 Este reporte deberá contener a lo menos la información que se detalla en el Anexo N°1 de la presente Norma.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 223
 FECHA: 22.08.2008
@@ -31,7 +30,6 @@ Finalmente, las entidades de depósito y custodia deberán implementar las medid
 Estas instrucciones entran en vigencia a contar de esta fecha.
 ## V. DISPOSICIÓN TRANSITORIA
 El primer reporte que se deberá remitir a los mandantes con cuenta individual corresponderá al reporte de septiembre de 2008.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 223
 FECHA: 22.08.2008
@@ -47,4 +45,3 @@ Dirección de correo electrónico Domicilio, si corresponde.
 III. Información de Saldos Para cada uno de los saldos mantenidos por el mandante con cuenta individual, se deberá presentar la siguiente información:
 Nemotécnico Unidades nominales de los valores IV. Información Operaciones Se deberá presentar la siguiente información respecto de todas las operaciones efectuadas sobre la cuenta del mandante individual:
 Fecha de la operación Nemotécnico Tipo de movimiento Monto Esta información deberá ser entregada junto con una glosa de la terminología utilizada en el listado por la empresa de depósito y custodia de valores, para el adecuado entendimiento del mandante con cuenta individual.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

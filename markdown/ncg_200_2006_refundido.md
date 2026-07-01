@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 200 — FECHA: 7.8.2006
+# NCG N° 200 — ESTABLECE NORMAS SOBRE OPERACIONES DE COBERTURA DE RIESGOS FINANCIEROS, INVERSIÓN EN PRODUCTOS DERIVADOS FINANCIEROS Y OPERACIONES DE PRÉSTAMO DE ACCIONES
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en los artículos 21 y 22 del Decreto con Fuerza de Ley Nº 251, de 1931, ha resuelto dictar la presente Norma de Carácter General a objeto de establecer las reglas aplicables a las operaciones de cobertura de riesgo financiero, de venta corta y a la inversión en productos derivados financieros, que efectúen las entidades aseguradoras y reaseguradoras.

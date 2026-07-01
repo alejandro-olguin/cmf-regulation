@@ -21,8 +21,8 @@ Los títulos representativos de productos agropecuarios y las facturas, deberán
 Las administradoras podrán adquirir facturas, por cuenta de sus fondos mutuos administrados, de aquellos deudores que tengan emisiones vigentes de instrumentos de deuda, donde la menor de sus clasificaciones de riesgo corresponda a la categoría B (si se tratare de títulos de deuda de largo plazo), N-4 (en caso de tratarse de títulos de deuda de corto plazo), o superior.
 En caso de que la factura se encuentre garantizada o asegurada en su totalidad por otra entidad, de acuerdo al procedimiento definido por la respectiva Bolsa de Productos, la exigencia de clasificación de riesgo corresponderá a la asignada al garantizador o asegurador de la factura. Este requerimiento no será aplicable tratándose de fondos mutuos dirigidos a inversionistas calificados, definidos en el numeral 8 del Título II de la Circular N° 1.578.
 Los títulos representativos de productos agropecuarios y las facturas, deberán en todo momento, ceñirse a las disposiciones en relación a su inscripción, transacción, liquidación y custodia, que para dicho efecto emitan la Superintendencia y la Bolsa de Productos correspondientes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 191
+
+### N.C.G. N° 191
 FECHA: 29.12.2005
 ## III. LÍMITES
 Los títulos representativos de productos agropecuarios podrán ser adquiridos por aquéllos fondos mutuos que puedan invertir en instrumentos de capitalización, según lo establecido en la Circular N° 1.578 de esta Superintendencia, y en la medida que sus propios reglamentos internos lo estipulen.
@@ -33,4 +33,3 @@ Las facturas podrán ser adquiridas por aquéllos fondos mutuos que puedan inver
 Los reglamentos internos de los fondos mutuos deberán señalar, en las secciones que corresponda de acuerdo al modelo establecido por la Circular N° 1.633, la posibilidad de inversión en los instrumentos y bienes indicados en los numerales 1 y 2 del Título I de la presente Norma de Carácter General, y sus correspondientes modificaciones.
 ## V. VIGENCIA
 Las instrucciones impartidas por esta norma rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE PLAZO PARA EMISIÓN DE TÍTULOS DE ACCIONES, REGISTRO DE TRASPASOS Y MEDIDAS DE SEGURIDAD, SALDOS ACCIONARIOS Y HORARIO DE FUNCIONAMIENTO DE LOS DEPARTAMENTOS DE ACCIONES. DEROGA CIRCULAR Nº 1494, OFICIOS CIRCULARES Nº 5845, 1863 Y 1493.
+# CIRCULAR N° 1816 — IMPARTE INSTRUCCIONES SOBRE PLAZO PARA EMISIÓN DE TÍTULOS DE ACCIONES, REGISTRO DE TRASPASOS Y MEDIDAS DE SEGURIDAD, SALDOS ACCIONARIOS Y HORARIO DE FUNCIONAMIENTO DE LOS DEPARTAMENTOS DE ACCIONES
 
-### CIRCULAR N° 1.816
-FECHA: 26.10.2006
 
 Para todas las sociedades anónimas abiertas e intermediarios de valores Esta Superintendencia, en uso de sus facultades legales, ha estimado necesario refundir y actualizar las instrucciones relativas a la emisión de títulos de acciones, al registro de traspasos y medidas de seguridad, saldos accionarios y horario de funcionamiento de los departamentos de acciones.
 La presente circular tiene por finalidad perfeccionar estos procesos y mejorar la transparencia de los mismos, así como evitar la realización de fraudes en el ámbito del registro de nuevos traspasos.
@@ -20,9 +18,6 @@ La declaración contenida en el formulario deberá ser del siguiente tenor:
 | --- | --- |
 | 2. Que la sociedad no emita el título. | ____ |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
 El hecho de que el solicitante opte por no requerir la emisión del título, no libera a la sociedad emisora de la obligación de cursar la inscripción correspondiente en el plazo y en la forma que establece el Reglamento de Sociedades Anónimas, ni impedirá al adquirente solicitar posteriormente la emisión y entrega de los títulos respectivos. En tal caso, efectuada tal solicitud, éstos deberán estar a su disposición dentro del plazo de 6 días hábiles, contado a partir de la fecha en que la sociedad hubiere recibido dicha solicitud.” En caso que el adquirente, habiendo seleccionado la opción Nº 1, no retirare los títulos respectivos dentro de un plazo de 60 días hábiles, contado desde la fecha en que la sociedad reciba la solicitud correspondiente, los títulos que hayan sido emitidos podrán ser inutilizados por la sociedad emisora siguiendo la tramitación establecida en el artículo 20 del Reglamento de Sociedades Anónimas.
 Producida la inutilización de los títulos, el adquirente podrá solicitar nuevamente la emisión de los títulos respectivos, previa suscripción de un nuevo formulario. En tal caso, los nuevos títulos deberán ser puestos a su disposición en el mismo plazo señalado en la opción Nº 1.
 En caso de no manifestarse ninguna de las opciones mencionadas en los números precedentes, se entenderá que el adquirente se ha manifestado por la opción Nº 2.
@@ -35,9 +30,7 @@ menos lo siguiente:
 - El número de acciones registradas a nombre del accionista a la fecha de emisión del
 certificado y respecto de las cuales no se haya emitido título.
 - Fecha de emisión del certificado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
+
 - Que el certificado constituye sólo un documento de constancia respecto del número
 de acciones inscritas que posee un accionista a una fecha determinada, y en ningún caso este certificado podrá ser objeto de transacción.
 - Que a la sociedad no le consta que el accionista no haya traspasado las acciones
@@ -58,9 +51,7 @@ Sin perjuicio de la obligación antes señalada las sociedades, en resguardo del
 Sociedades Anónimas, en especial en sus artículos 12 a 17.
 - Las instrucciones o recomendaciones impartidas por este Servicio para evitar la inscripción
 de traspasos efectuados en forma fraudulenta.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
+
 - Los requisitos establecidos en la legislación vigente respecto de la identidad, capacidad y
 propiedad de las partes contratantes, así como la suficiencia de los poderes en el caso de accionistas que actúen representados.
 Para un adecuado cumplimiento de los deberes referidos en el párrafo anterior, las sociedades emisoras deberán implementar un sistema de información tendiente a mantener un registro de todos y cada uno de los traspasos presentados para su inscripción, con indicación de la fecha y hora de su recepción, el nombre del cedente y cesionario, el número de acciones, la constancia de su aceptación o rechazo y la descripción clara de las causas que motivaron su rechazo.
@@ -77,9 +68,7 @@ Los corredores de bolsa y los agentes de valores, en virtud de lo dispuesto por 
 necesario.
 En este sentido y con el objeto de evitar la ocurrencia de fraudes, los intermediarios de valores deberán establecer por escrito políticas y procedimientos de validación que deberán ser utilizados por su personal para acreditar la identidad y capacidad legal de quienes contrataren por su intermedio, e implementar las medidas de control necesarias para cumplir con dicho objetivo. A tal efecto, podrán establecer entre otros, el uso de herramientas tecnológicas, como por ejemplo confirmación biométrica de identidad, o consulta a bases centralizadas de registros de identificación. Tales políticas y procedimientos, deberán estar a disposición de este Servicio en las oficinas de los intermediarios.
 Tratándose de una transacción sobre acciones o suscripción de acciones de pago, en la cual el cliente no deje los instrumentos en la custodia del intermediario o posteriormente decida retirarlos, el intermediario de valores tan pronto reciba la solicitud de su cliente deberá efectuar el traspaso o contrato de suscripción respectivo según se trate, y remitirlo a la sociedad en un plazo máximo de un día hábil, contado a partir de la fecha de la solicitud respectiva.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
+
 Cuando los corredores de bolsa y los agentes de valores efectúen la intermediación primaria que trata el artículo 23, letra c) parte final de la Ley Nº 18.045, el plazo antes indicado se contará desde la fecha en que se celebre el contrato de suscripción.
 La remisión de los traspasos o suscripciones mencionados deberá efectuarse a través de un medio que permita constatar la fecha en que ese envío fue efectuado.
 Los intermediarios quedarán liberados de la obligación de remitir los traspasos o los contratos de suscripción cuando sean los clientes quienes retiren dichos documentos, con el fin de presentarlos ellos mismos a la sociedad.
@@ -95,9 +84,7 @@ Registro que contenga la firma y datos de cada accionista, tales como nombres, a
 firmado ante notario o corredor de bolsa, con los que figuren en los registros mencionados en el numeral anterior, pudiendo a tal efecto, recurrir a otros sistemas de identificación y al uso de herramientas tecnológicas, como por ejemplo, confirmación biométrica de identidad.
 3. Determinar en qué casos, se requerirá previamente contactarse con el accionista
 vendedor a fin de confirmar la transferencia. En igual forma se deberá indicar la forma de actuar frente a los poderes para vender que no estén otorgados por escritura pública y, en general, frente a cualquier poder que presente irregularidades en su documentación, tales como falta de timbre notarial, su uso defectuoso o evidentemente falso.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
+
 4. Abstenerse de cursar los traspasos de acciones efectuados fuera de bolsa en que
 los títulos de las acciones no hayan sido previamente retirados y acompañados al traspaso, salvo que la sociedad compruebe por otros medios fehacientes, la autenticidad de la venta.
 5. En los casos en que se solicite la emisión de nuevos títulos de acciones ya sea por
@@ -114,9 +101,7 @@ Por otra parte, las sociedades emisoras que detecten cualquier hecho que pueda s
 Las sociedades anónimas deberán poner a disposición de sus accionistas información de sus saldos y movimientos accionarios como también de las operaciones que estén en proceso.
 De esta forma, las sociedades emisoras deberán proporcionar a todos los accionistas que figuren inscritos en su Registro de Accionistas al 31 de diciembre de cada año, información relativa al número de acciones de que es titular de acuerdo con la información mínima que se indica en anexo I adjunto, la que no deberá significar costo alguno para el accionista.
 Sin perjuicio de lo anterior, la sociedad deberá proporcionar mensualmente la información que se precisa en el anexo I o II adjuntos, a aquellos accionistas que expresamente lo soliciten, o con una menor periodicidad en caso que así lo acordaren ambas partes. Para estos efectos, el Directorio deberá adoptar las medidas pertinentes con el objeto de fijar el costo de procesamiento, impresión y despacho de esta prestación la que deberá ser informada a los accionistas en la junta más próxima. Cualquier modificación de tales costos deberá establecerse e informarse siguiendo el procedimiento antes mencionado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
+
 La información señalada en este literal deberá ser proporcionada en forma escrita a los accionistas, pudiendo el emisor establecer otras formas de envío a través de otros medios a requerimiento de los usuarios.
 ## V. HORARIO DEPARTAMENTO DE ACCIONES
 El horario mínimo de atención de público del departamento de acciones, tanto para consultas como para recepción de traspasos, deberá ser de lunes a viernes de 09:00 a 17:00 horas. Sin perjuicio de lo anterior, las sociedades anónimas, cuyas acciones se encuentren inscritas en una bolsa, podrán adecuar el funcionamiento de su departamento de acciones al horario de transacción bursátil, a fin de proporcionar a sus accionistas, a los corredores de bolsa e inversionistas, los antecedentes necesarios para las transacciones de acciones.
@@ -128,9 +113,7 @@ Derógase a contar del 1° de diciembre del 2006 la Circular Nº 1494 de fecha 1
 VIGENCIA Las disposiciones de la presente Circular rigen a contar del 1° de Diciembre del 2006.
 ### DISPOSICION TRANSITORIA
 A efectos de cumplir con lo preceptuado en el párrafo segundo, Nº 1, y párrafo primero, Nº 2, ambos del Capítulo III, tanto los intermediarios como las sociedades emisoras tendrán un plazo de 3 meses contados a partir de la entrada en vigencia de esta norma, para mantener dichas políticas y procedimientos disponibles en sus oficinas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
+
 ### ANEXO I SALDO ACCIONARIO Y PRINCIPALES MOVIMIENTOS
 a) Identificación de la sociedad emisora
 b) Identificación del accionista; RUT, apellido paterno, materno y nombres o razón social
@@ -155,9 +138,7 @@ de la restricción y número de acciones afectas.
 - Requerimientos de actualización de información del accionista en el registro de
 accionistas.
 k) Dirección y horario de atención del departamento de acciones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.816
-FECHA: 26.10.2006
+
 ### ANEXO II CARTOLA ACCIONARIA DETALLADA
 a) Identificación de la sociedad emisora
 b) Identificación del accionista; RUT, apellido paterno, materno y nombres o razón social
@@ -181,4 +162,3 @@ de la restricción y número de acciones afectas.
 - Dirección y horario de atención del departamento de acciones.
 - Requerimientos de actualización de información del accionista en el registro de
 accionistas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

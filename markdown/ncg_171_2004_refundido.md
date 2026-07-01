@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 171 — FECHA: 15.10.2004
+# NCG N° 171
 
 MAT.: ESTABLECE EXIGENCIAS MINIMAS DE SEGURIDAD Y CONDICIONES NECESARIAS
 ### PARA EL COMERCIO E INTERMEDIACION DE SEGUROS POR MEDIOS

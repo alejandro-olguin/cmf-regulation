@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2304
+
 Texto actualizado: Circular N°108 COOPERATIVAS Hoja 1
 ### TEXTO ACTUALIZADO
 Disposición: CIRCULAR N° 108 (de 04.06.2003) Para: COOPERATIVAS Materia: Instrucciones generales para Cooperativas de Ahorro y Crédito.

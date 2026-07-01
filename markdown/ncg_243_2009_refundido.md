@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 243 — FECHA : 3.02.2009
+# NCG N° 243 — IMPARTE INSTRUCCIONES RELATIVAS A LA CONSTITUCIÓN DE RESERVAS TÉCNICAS EN EL SEGURO DE INVALIDEZ Y SOBREVIVENCIA DEL D.L
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en los artículos 3º y 20º del D.F.L. Nº 251, de 1931, y el artículo 4º letra a) D.L. Nº 3.538 de 1980, ha estimado conveniente dictar las siguientes normas, referidas a las reservas técnicas que deben constituir las compañías del segundo grupo, por los contratos de seguros de invalidez y sobrevivencia de que trata el artículo 59 del D.L. Nº 3.500 de 1980 Las entidades aseguradoras del segundo grupo que celebren contratos por el seguro de invalidez y sobrevivencia establecido en el D.L. Nº 3.500, de 1980, y las entidades reaseguradoras que celebren contratos de reaseguro por este seguro, deberán constituir las reservas que a continuación se señalan las cuales tendrán el carácter de mínimas y obligatorias.
@@ -171,14 +171,14 @@ dio su conformidad por escrito a la decisión negativa de la compañía, o sin m
 La reserva para estas solicitudes se calculará según la categoría en que éstas se encuentren (I a I), de acuerdo
 1 6
 a la expresión que se señala a continuación, salvo la I6p, la cual deberá ser incluida en el número 2.4.2., aplicándose el cálculo señalado en dicho número.
-10 𝑛𝑖𝑘
-𝑅 =∑∑[(𝑃𝑃𝐼𝑇 ⋅𝐶𝐼𝑇 +𝑃𝑃𝐼𝑃 ⋅𝐶𝐼𝑃 )+(𝑃𝑃𝐼𝑇 ⋅𝐺1𝑖𝑇+𝑃𝑃𝐼𝑃 ⋅𝐺1𝑖𝑃+(1−𝑃𝑃𝐼𝑇 −𝑃𝑃𝐼𝑃 )⋅𝐺1𝑖𝑅)] 𝑘 𝑖𝑘 𝑘𝑗 𝑖𝑘 𝑘𝑗 𝑖𝑘 𝑘𝑗 𝑖𝑘 𝑘𝑗 𝑖𝑘 𝑖𝑘 𝑘𝑗 𝑖=1𝑗=1
+10 nik
+R =∑∑[(PPIT ⋅CIT +PPIP ⋅CIP )+(PPIT ⋅G1iT+PPIP ⋅G1iP+(1−PPIT −PPIP )⋅G1iR)] k ik kj ik kj ik kj ik kj ik ik kj i=1j=1
 Donde:
 i: Categorías en que se encuentran las solicitudes que no tienen un primer dictamen ejecutoriado k: Corresponde a la identificación de los grupos asegurados, esto es un grupo de mujeres y otro de hombres j: Corresponde a la solicitud de invalidez n : Número de solicitudes de pensión de invalidez en la categoría i, en el grupo k ik Probabilidad de pago de inválidos totales (PPIT ): Corresponde a la probabilidad que los siniestros en la ik categoría i y grupo k, lleguen a ser calificados como de invalidez total y se encuentren cubiertos por el seguro.
 Esta probabilidad será calculada por la compañía en base a sus propios antecedentes y a las normas señaladas al respecto en el Anexo Nº 2.
 Costo de inválidos totales (CIT ): Corresponde al costo individual del siniestro j, del grupo k.
 kj La fórmula a aplicar para la obtención de este valor es:
-𝐶𝐼𝑇 =max(𝐶𝑁 (𝑖)−𝐶𝐼 ;0) 𝑘𝑗 𝑘𝑗 𝑘𝑗
+CIT =max(CN (i)−CI ;0) kj kj kj
 Donde:
 CN (i) = Corresponde al capital necesario del siniestro liquidado j del grupo k calculado utilizando la tasa de jk interés vigente a la fecha del cálculo de la reserva, y tablas de mortalidad fijada por la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 i= Tasa de interés vigente a la fecha de cálculo de la reserva, de acuerdo a lo definido en el Anexo Nº 1.
@@ -188,107 +188,109 @@ k
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 
 La fórmula a aplicar para la obtención de este valor es:
-𝐶𝐼𝑃 =𝑂𝑃𝑇(𝑖) +𝑂𝑃𝐷(𝑖) 𝑘𝑗 kj kj Donde k: Corresponde a la identificación de los grupos asegurados, esto es distingue entre el grupo de mujeres y el de hombres i : Tasa de interés anual vigente a la fecha de cálculo de la reserva, de acuerdo a lo definido en el Anexo Nº 1.
+CIP =OPT(i) +OPD(i) kj kj kj Donde k: Corresponde a la identificación de los grupos asegurados, esto es distingue entre el grupo de mujeres y el de hombres i : Tasa de interés anual vigente a la fecha de cálculo de la reserva, de acuerdo a lo definido en el Anexo Nº 1.
 OPT(i)kj: Corresponde al valor actual de las obligaciones del periodo temporal, del siniestro j del grupo k, calculado utilizando la tasa de interés i vigente a la fecha del cálculo de la reserva, y tablas de mortalidad fijada por la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
 > 3
 > 1
-> OPT(i) =PT×𝑎̈
+> OPT(i) =PT×ä
 > (12)
 > $$
-+∑[ máx(CNS(i) × -CI ;0)×( P - P )] kj 𝑥:3̅| x+z-1 (1+i)z-1 kj z-1 x z x z=1 Donde x : Edad (actuarial) en años del causante del siniestro j del grupo k a la fecha de balance.
++∑[ máx(CNS(i) × -CI ;0)×( P - P )] kj x:3̅| x+z-1 (1+i)z-1 kj z-1 x z x z=1 Donde x : Edad (actuarial) en años del causante del siniestro j del grupo k a la fecha de balance.
 CNS(i) : Capital necesario para financiar sobrevivencia generada a la edad x+z-1 años del asegurado x+z−1
 (incluye cuota mortuoria).
-𝑎̈(12) : Renta actuarial unitaria desde la edad x hasta el final del período transitorio.
-𝑥:3̅| 𝑎̈(12) =( 𝑁𝑥−𝑁𝑥+3− 11 × 𝐷𝑥−𝐷𝑥+3) 𝑥:3̅| 𝐷𝑥 24 𝐷𝑥 PT : Pensión período transitorio P : Probabilidad de sobrevivir a la edad x+z dado que estaba vivo a la edad x años, usando las z x tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
+ä(12) : Renta actuarial unitaria desde la edad x hasta el final del período transitorio.
+x:3̅| ä(12) =( Nx−Nx+3− 11 × Dx−Dx+3) x:3̅| Dx 24 Dx PT : Pensión período transitorio P : Probabilidad de sobrevivir a la edad x+z dado que estaba vivo a la edad x años, usando las z x tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 P : Probabilidad de sobrevivir a la edad x+z-1 dado que estaba vivo a la edad x años, usando z-1 x las tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 OPD(i) : Corresponde valor actual de las obligaciones del período diferido, incluyendo cuota mortuoria, kj del siniestro liquidado j del grupo k calculado utilizando la tasa de interés vigente a la fecha del cálculo de la reserva, y tablas de mortalidad fijada por la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 1 1
-OPD(i) =máx{([𝐶𝑁𝐼(𝑖) × ]− [(CI − SR )× Pp+CI ×Pt])× 𝑃;0}+𝐶× ×𝑃𝑛𝑖 × 𝑃 kj 𝑥+3 (1+𝑖)3 kj kj kj 3 𝑥 (1+𝑖)3 𝑘 3 𝑥 donde 𝐶𝑁𝐼(𝑖) : Capital necesario para financiar una invalidez parcial o total generada a la edad x+3 del 𝑥+3 asegurado.
-𝐶𝑁𝐼(𝑖) = 𝐶𝑁𝐼𝑝(𝑖) ×Pp +𝐶𝑁𝐼𝑡(𝑖) ×Pt 𝑥+3 𝑥+3 𝑘 𝑥+3 𝑘
+OPD(i) =máx{([CNI(i) × ]− [(CI − SR )× Pp+CI ×Pt])× P;0}+C× ×Pni × P kj x+3 (1+i)3 kj kj kj 3 x (1+i)3 k 3 x donde CNI(i) : Capital necesario para financiar una invalidez parcial o total generada a la edad x+3 del x+3 asegurado.
+CNI(i) = CNIp(i) ×Pp +CNIt(i) ×Pt x+3 x+3 k x+3 k
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 
-𝐶𝑁𝐼𝑝(𝑖) : Capital necesario para financiar una invalidez parcial generada a la edad x+3 años del 𝑥+3 asegurado.
-𝐶𝑁𝐼𝑡(𝑖) : Capital necesario para financiar una invalidez total generada a la edad x+3 años del 𝑥+3 asegurado.
-𝑃 : Probabilidad de llegar vivo a la edad x + 3 años, dado que estaba vivo a los x años, usando
-3 𝑥
+CNIp(i) : Capital necesario para financiar una invalidez parcial generada a la edad x+3 años del x+3 asegurado.
+CNIt(i) : Capital necesario para financiar una invalidez total generada a la edad x+3 años del x+3 asegurado.
+P : Probabilidad de llegar vivo a la edad x + 3 años, dado que estaba vivo a los x años, usando
+3 x
 las tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 CIkj : Saldo de la cuenta individual siniestro j del grupo k SRkj : Se entenderá por saldo retenido el 30% del saldo de la cuenta de capitalización individual por concepto de cotizaciones obligatorias (considerando bono de reconocimiento si lo hubiera), valorizado al mes anterior al del cálculo de la reserva.
-C : Contribuciones, correspondiente al monto representativo de las cotizaciones que el afiliado habría acumulado en su cuenta de capitalización individual, si hubiera cotizado en dicha cuenta el 10% de las pensiones de invalidez pagadas conforme al primer dictamen 𝑃𝑝 : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea inválido parcial 𝑘 en el segundo dictamen 𝑃𝑡 : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea inválido total 𝑘 en el segundo dictamen 𝑃𝑛𝑖 : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea declarado no 𝑘 inválido en el segundo dictamen Pp + Pt + Pni = 1.
-Donde Pp = NPp𝑘 (2)
+C : Contribuciones, correspondiente al monto representativo de las cotizaciones que el afiliado habría acumulado en su cuenta de capitalización individual, si hubiera cotizado en dicha cuenta el 10% de las pensiones de invalidez pagadas conforme al primer dictamen Pp : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea inválido parcial k en el segundo dictamen Pt : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea inválido total k en el segundo dictamen Pni : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea declarado no k inválido en el segundo dictamen Pp + Pt + Pni = 1.
+Donde Pp = NPpk (2)
 ; Pt = NPtk (2)
-; Pni = NPni𝑘 (2) 𝑘 NPp𝑘 (t) 𝑘 NPp𝑘 (t) 𝑘 NPp𝑘 (t) NPp(2) : número de inválidos parciales del grupo k calificados como inválidos parciales en el segundo k dictamen (casos en categoría K6p).
-𝑁𝑃𝑡 (2) : número de inválidos parciales del grupo k calificados como inválidos totales en el segundo 𝑘 dictamen (casos en categoría K6t).
-𝑁𝑃𝑛𝑖 (2) : número de inválidos parciales del grupo k declarado como no inválidos en el segundo 𝑘 dictamen (casos en categoría K6n).
-𝑁𝑃𝑝 (t) : número de inválidos parciales del grupo k que reciben una calificación de segundo dictamen 𝑘
+; Pni = NPnik (2) k NPpk (t) k NPpk (t) k NPpk (t) NPp(2) : número de inválidos parciales del grupo k calificados como inválidos parciales en el segundo k dictamen (casos en categoría K6p).
+NPt (2) : número de inválidos parciales del grupo k calificados como inválidos totales en el segundo k dictamen (casos en categoría K6t).
+NPni (2) : número de inválidos parciales del grupo k declarado como no inválidos en el segundo k dictamen (casos en categoría K6n).
+NPp (t) : número de inválidos parciales del grupo k que reciben una calificación de segundo dictamen k
 (casos en categoría K6p + K6t + K6n).
-𝐺1𝑖𝑇 : Valor presente de los gastos estimados del DIS asociados a la tramitación y resolución de una 𝑘𝑗 solicitud j en la categoría i del grupo k (hombres o mujeres), que se califica en primer dictamen como inválido total. Incluye costos proyectados por peritajes, revisiones médicas, análisis técnicos, y administración hasta la emisión del primer dictamen.
+G1iT : Valor presente de los gastos estimados del DIS asociados a la tramitación y resolución de una kj solicitud j en la categoría i del grupo k (hombres o mujeres), que se califica en primer dictamen como inválido total. Incluye costos proyectados por peritajes, revisiones médicas, análisis técnicos, y administración hasta la emisión del primer dictamen.
 Para efectos de esta norma, DIS corresponde al Departamento de Invalidez y Sobrevivencia de la Asociación de Aseguradores de Chile A.G. (AACH), que centraliza las operaciones ligadas al Seguro de Invalidez y Sobrevivencia (SIS).
 Se calcula como el valor actual de los flujos anuales esperados:
-𝑛1 𝐺1𝑖𝑇 =∑𝑔1𝑖𝑇(𝑡)⋅𝑣(𝑡 − 0,5) 𝑘𝑗 𝑘𝑗 𝑡=1
+n1 G1iT =∑g1iT(t)⋅v(t − 0,5) kj kj t=1
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 
-Donde 𝑔1𝑖𝑇(𝑡) : gasto estimado del DIS en el año t para la solicitud j en la categoría i del grupo k 𝑘𝑗
+Donde g1iT(t) : gasto estimado del DIS en el año t para la solicitud j en la categoría i del grupo k kj
 (hombres o mujeres) con resultado de invalidez total definitiva en primer dictamen.
 Para su estimación se debe utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
-𝑛 : Número de años proyectados para finalizar la resolución de calificación de primer
+n : Número de años proyectados para finalizar la resolución de calificación de primer
 1 dictamen.
-1 𝑣 : factor de descuento anual definido como , donde i es la tasa de interés anual
-(1+𝑖) vigente al momento del cálculo, según lo señalado en el Anexo N.º 1 de la norma.
-𝐺1𝑖𝑃 : Valor presente de los gastos del DIS asociados a la tramitación y resolución de una solicitud j 𝑘𝑗 en categoría i del grupo k (hombres o mujeres), que se califica en el primer dictamen como inválido parcial. Incluye costos proyectados por peritajes, revisiones médicas, análisis técnicos, y administración hasta la emisión del segundo dictamen.
+1 v : factor de descuento anual definido como , donde i es la tasa de interés anual
+(1+i) vigente al momento del cálculo, según lo señalado en el Anexo N.º 1 de la norma.
+G1iP : Valor presente de los gastos del DIS asociados a la tramitación y resolución de una solicitud j kj en categoría i del grupo k (hombres o mujeres), que se califica en el primer dictamen como inválido parcial. Incluye costos proyectados por peritajes, revisiones médicas, análisis técnicos, y administración hasta la emisión del segundo dictamen.
 Se calcula como:
-𝐺1𝑖𝑃 =𝐺𝑖𝑃+3⋅𝐺𝐴𝑑𝑚+𝑃𝑝⋅𝐺2𝑃+𝑃𝑡⋅𝐺2𝑇+𝑃𝑛𝑖⋅𝐺2𝑁𝐼 𝑘𝑗 𝑘𝑗 𝑘𝑗 𝑘𝑗 𝑘𝑗 𝑘𝑗
+G1iP =GiP+3⋅GAdm+Pp⋅G2P+Pt⋅G2T+Pni⋅G2NI kj kj kj kj kj kj
 Donde:
-𝐺𝑖𝑃 : Gasto estimado del DIS asociado a la tramitación y resolución de la solicitud j en la 𝑘𝑗 categoría i del grupo k (hombres o mujeres), que resulta calificada como inválido parcial en el primer dictamen. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
+GiP : Gasto estimado del DIS asociado a la tramitación y resolución de la solicitud j en la kj categoría i del grupo k (hombres o mujeres), que resulta calificada como inválido parcial en el primer dictamen. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
 Se calcula como el valor actual de los flujos anuales esperados:
-𝑛1 𝐺𝑖𝑃 = ∑𝑔𝑖𝑃(𝑡)⋅𝑣(𝑡 − 0,5) 𝑘𝑗 𝑘𝑗 𝑡=1
+n1
+GiP = ∑giP(t)⋅v(t − 0,5) kj kj t=1
 Donde:
-𝑔𝑖𝑃(𝑡) : Gasto estimado del DIS en el año t para la solicitud j en la categoría i del 𝑘𝑗 grupo k, con resultado de invalidez parcial en el primer dictamen. Para su estimación se deberá utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
+giP(t) : Gasto estimado del DIS en el año t para la solicitud j en la categoría i del kj grupo k, con resultado de invalidez parcial en el primer dictamen. Para su estimación se deberá utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
 n1 : Número de años proyectados para finalizar la resolución de calificación de primer dictamen.
-1 𝑣 : factor de descuento anual definido como , donde i es la tasa de interés
-(1+𝑖) anual vigente al momento del cálculo, según lo señalado en el Anexo N.º
+1 v : factor de descuento anual definido como , donde i es la tasa de interés
+(1+i) anual vigente al momento del cálculo, según lo señalado en el Anexo N.º
 1 de la norma.
-𝐺𝐴𝑑𝑚 : Gasto promedio anual estimado del DIS asociados al pago de la pensión transitoria 𝑘𝑗 de una invalidez parcial calificada en primer dictamen j, correspondiente al grupo k
+GAdm : Gasto promedio anual estimado del DIS asociados al pago de la pensión transitoria kj de una invalidez parcial calificada en primer dictamen j, correspondiente al grupo k
 (hombres o mujeres).
-𝐺2𝑃 : Valor presente de los gastos del DIS asociados a la resolución de una invalidez 𝑘𝑗 parcial de primer dictamen j que resulta calificada como inválido parcial definitivo en el segundo dictamen, correspondiente al grupo k (hombres o mujeres). Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
-𝐺2𝑇 : Valor presente de los gastos del DIS asociados a la resolución de una invalidez 𝑘𝑗 parcial de primer dictamen j que resulta calificada como inválido total definitivo en
+G2P : Valor presente de los gastos del DIS asociados a la resolución de una invalidez kj parcial de primer dictamen j que resulta calificada como inválido parcial definitivo en el segundo dictamen, correspondiente al grupo k (hombres o mujeres). Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
+G2T : Valor presente de los gastos del DIS asociados a la resolución de una invalidez kj parcial de primer dictamen j que resulta calificada como inválido total definitivo en
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 10 el segundo dictamen, correspondiente al grupo k (hombres o mujeres). Incluye los
 costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
-𝐺2𝑁𝐼 : Valor presente de los gastos del DIS asociados a la resolución de una invalidez 𝑘𝑗 parcial de primer dictamen j que resulta no inválido en el segundo dictamen, correspondiente al grupo 𝑘. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
+G2NI : Valor presente de los gastos del DIS asociados a la resolución de una invalidez kj parcial de primer dictamen j que resulta no inválido en el segundo dictamen, correspondiente al grupo k. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
 Se calculan como el valor actual de los flujos anuales esperados:
-𝑛2 𝐺2𝐷 = ∑ 𝑔2𝐷(𝑡)⋅𝑣(𝑡 − 0,5) 𝑘𝑗 𝑘𝑗 𝑡=𝑛1+4
+n2
+G2D = ∑ g2D(t)⋅v(t − 0,5) kj kj t=n1+4
 Donde:
-𝑔2𝐷(𝑡): Gasto estimado del DIS en el año t asociados a la resolución de una 𝑘𝑗 invalidez parcial de primer dictamen j que resulta con dictamen definitivo
+g2D(t): Gasto estimado del DIS en el año t asociados a la resolución de una kj invalidez parcial de primer dictamen j que resulta con dictamen definitivo
 “D” de segundo dictamen. Para su estimación se deberá utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
-𝑛 : año proyectado para finalizar la resolución de calificación de segundo
+n : año proyectado para finalizar la resolución de calificación de segundo
 2 dictamen.
-1 𝑣 : factor de descuento anual definido como , donde i es la tasa de interés
-(1+𝑖) anual vigente al momento del cálculo, según lo señalado en el Anexo N.º
+1 v : factor de descuento anual definido como , donde i es la tasa de interés
+(1+i) anual vigente al momento del cálculo, según lo señalado en el Anexo N.º
 1 de la norma.
-D : P = inválido parcial, T = inválido total, NI = no inválido 𝐺1𝑖𝑅 : Valor presente de los gastos estimados del DIS asociados a la tramitación y 𝑘𝑗 resolución de una solicitud j en la categoría i del grupo k (hombres o mujeres), que no resulta cubierta por el seguro tras el primer dictamen. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen respectivo.
+D : P = inválido parcial, T = inválido total, NI = no inválido G1iR : Valor presente de los gastos estimados del DIS asociados a la tramitación y kj resolución de una solicitud j en la categoría i del grupo k (hombres o mujeres), que no resulta cubierta por el seguro tras el primer dictamen. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen respectivo.
 Se calcula como el valor actual de los flujos anuales esperados:
-𝑛1 𝐺1𝑖𝑅 =∑𝑔1𝑖𝑅(𝑡)⋅𝑣(𝑡 − 0,5) 𝑘𝑗 𝑘𝑗 𝑡=1 Donde 𝑔1𝑖𝑅(𝑡): gasto estimado del DIS en el año t para la solicitud j en la categoría i del 𝑘𝑗 grupo k, cuyo resultado es "no cubierto" tras el primer dictamen. Para su estimación se debe utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
-𝑛 : Número de años proyectados para finalizar la resolución de calificación de
+n1 G1iR =∑g1iR(t)⋅v(t − 0,5) kj kj t=1 Donde g1iR(t): gasto estimado del DIS en el año t para la solicitud j en la categoría i del kj grupo k, cuyo resultado es "no cubierto" tras el primer dictamen. Para su estimación se debe utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
+n : Número de años proyectados para finalizar la resolución de calificación de
 1 primer dictamen.
-1 𝑣 : factor de descuento anual definido como , donde i es la tasa de interés
-(1+𝑖) anual vigente al momento del cálculo, según lo señalado en el Anexo N.º
+1 v : factor de descuento anual definido como , donde i es la tasa de interés
+(1+i) anual vigente al momento del cálculo, según lo señalado en el Anexo N.º
 1 de la norma.
 2.4.2. Inválidos parciales transitorios sin solicitud de calificación por el segundo dictamen:
 Para el cálculo de la reserva deberán considerarse las probabilidades de cambio de estado desde la condición de invalidez parcial transitoria determinada en el primer dictamen, hacia uno de los estados finales posibles del proceso de calificación por segundo dictamen: inválido parcial definitivo, inválido total o no inválido.
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 
 Es decir:
-𝑛𝑘 Reserva IP =∑(𝑂𝑃𝑇2 +𝑂𝑃𝐷(𝑖)2 +𝐺𝐴𝑑𝑚⋅(𝑡+ℎ)+(𝑃𝑝 ⋅𝐺2𝑃+𝑃𝑡 ⋅𝐺2𝑇+𝑃𝑛𝑖 ⋅𝐺2𝑁𝐼)) 𝑘 𝑘𝑗 𝑘𝑗 𝑘𝑗 𝑘 𝑘𝑗 𝑘 𝑘𝑗 𝑘 𝑘𝑗 𝑗=1 Donde 𝑛 : Número de siniestros de invalidez parcial en periodo transitorio del grupo k.
-𝑘 t : Años enteros que restan para terminar período transitorio desde la edad x, es decir, si quedan 2 años y cinco meses, t es igual a 2.
+nk Reserva IP =∑(OPT2 +OPD(i)2 +GAdm⋅(t+ℎ)+(Pp ⋅G2P+Pt ⋅G2T+Pni ⋅G2NI)) k kj kj kj k kj k kj k kj j=1 Donde n : Número de siniestros de invalidez parcial en periodo transitorio del grupo k.
+k t : Años enteros que restan para terminar período transitorio desde la edad x, es decir, si quedan 2 años y cinco meses, t es igual a 2.
 h : Fracción de año que se debe sumar a t para completar el período transitorio, dado el período transitorio transcurrido. En el ejemplo anterior, h = 5/12.
 k : Corresponde a la identificación de los grupos asegurados, esto es distingue entre el grupo de mujeres y el de hombres i : Tasa de interés anual vigente a la fecha de cálculo de la reserva, de acuerdo a lo definido en el Anexo Nº 1.
 OPT(i)2 : Corresponde al valor actual de las obligaciones del periodo temporal, del siniestro j del grupo kj k, calculado utilizando la tasa de interés vigente a la fecha del cálculo de la reserva, y tablas de mortalidad fijada por la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 Para t > 0 t
-1 OPT(i)2=PT×𝑎̈(12) +(1−ℎ)×∑[𝑚á𝑥(CNS(i) × - CI ;0 )×( P- P)]
-kj 𝑥:𝑡̅̅+̅̅̅ℎ̅| x+z-1 (1+i)z-1 kj z-1 x z x
+1 OPT(i)2=PT×ä(12) +(1−ℎ)×∑[máx(CNS(i) × - CI ;0 )×( P- P)]
+kj x:t̅̅+̅̅̅ℎ̅| x+z-1 (1+i)z-1 kj z-1 x z x
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
@@ -296,54 +298,57 @@ kj 𝑥:𝑡̅̅+̅̅̅ℎ̅| x+z-1 (1+i)z-1 kj z-1 x z x
 > t+1
 > 1
 > $$
-+ℎ× ∑[𝑚á𝑥(CNS(i) × - CI ;0 )×( P- P)] x+z-1 (1+i)z-1 kj z-1 x z x z=1 Para t = 0 OPT(i)2=PT×ä(12) +h×[𝑚á𝑥(CNS(i) -CI ;0)×(1- P)] kj x:t̅̅+̅̅h̅| x kj x Donde PT : Pensión período transitorio t: Años enteros que restan para terminar período transitorio desde la edad x, es decir, si quedan
++ℎ× ∑[máx(CNS(i) × - CI ;0 )×( P- P)] x+z-1 (1+i)z-1 kj z-1 x z x z=1 Para t = 0 OPT(i)2=PT×ä(12) +h×[máx(CNS(i) -CI ;0)×(1- P)] kj x:t̅̅+̅̅h̅| x kj x Donde PT : Pensión período transitorio t: Años enteros que restan para terminar período transitorio desde la edad x, es decir, si quedan
 2 años y cinco meses, t es igual a 2.
 h: Fracción de año que se debe sumar a t para completar el período transitorio, dado el período transitorio transcurrido. En el ejemplo anterior, h = 5/12.
-𝑎̈(12) : Renta actuarial unitaria desde la edad x hasta el final del período transitorio correspondiente a 𝑥:𝑡̅̅+̅̅̅ℎ̅| un plazo de t + h años, que representa el tiempo restante de dicho período, esto es:
-### 𝑁 −𝑁 11 𝐷 −𝐷 𝑁 −𝑁 11 𝐷 −𝐷
-𝑎̈(12) =(1−ℎ)×( 𝑥 𝑥+𝑡 − × 𝑥 𝑥+𝑡 )+ ℎ×( 𝑥 𝑥+𝑡+1 − × 𝑥 𝑥+𝑡+1 ) 𝑥:𝑡̅̅+̅̅̅ℎ̅| 𝐷 24 𝐷 𝐷 24 𝐷 𝑥 𝑥 𝑥 𝑥 CNS(i) : Capital necesario para financiar sobrevivencia generada a la edad x+z-1 del asegurado (incluye x+z−1 cuota mortuoria).
+ä(12) : Renta actuarial unitaria desde la edad x hasta el final del período transitorio correspondiente a x:t̅̅+̅̅̅ℎ̅| un plazo de t + h años, que representa el tiempo restante de dicho período, esto es:
+### N −N 11 D −D N −N 11 D −D
+ä(12) =(1−ℎ)×( x x+t − × x x+t )+ ℎ×( x x+t+1 − × x x+t+1 ) x:t̅̅+̅̅̅ℎ̅| D 24 D D 24 D x x x x CNS(i) : Capital necesario para financiar sobrevivencia generada a la edad x+z-1 del asegurado (incluye x+z−1 cuota mortuoria).
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 12 x : edad (actuarial) en años del causante del siniestro j del grupo k a la fecha de balance
 P : Probabilidad de sobrevivir a la edad x+z dado que estaba vivo a la edad x años, usando las z x tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 P : Probabilidad de sobrevivir a la edad x+z+1 dado que estaba vivo a la edad x años, usando z+1 x las tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 OPD(i)2 : Corresponde valor actual de las obligaciones del periodo diferido, incluyendo cuota kj mortuoria, del siniestro liquidado j del grupo k calculado utilizando la tasa de interés vigente a la fecha del cálculo de la reserva, y tablas de mortalidad fijada por la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 1 1
-OPD(i)2 =𝑚á𝑥 [(1−h)×(𝐶𝑁𝐼(𝑖) × )× 𝑃 +h×(𝐶𝑁𝐼(𝑖) × )× 𝑃 kj 𝑥+𝑡 (1+𝑖)𝑡 𝑡 𝑥 𝑥+𝑡+1 (1+𝑖)𝑡+1 𝑡+1 𝑥
-−[(𝐶𝐼 −𝑆𝑅 )⋅𝑃𝑝 +𝐶𝐼 ⋅𝑃𝑡 ]⋅((1−ℎ)⋅ 𝑃 +ℎ⋅ 𝑃);0] 𝑘𝑗 𝑘𝑗 𝑘 𝑘𝑗 𝑘 𝑡 𝑥 𝑡+1 𝑥
+OPD(i)2 =máx [(1−h)×(CNI(i) × )× P +h×(CNI(i) × )× P kj x+t (1+i)t t x x+t+1 (1+i)t+1 t+1 x
+−[(CI −SR )⋅Pp +CI ⋅Pt ]⋅((1−ℎ)⋅ P +ℎ⋅ P);0] kj kj k kj k t x t+1 x
 1
-+𝐶× ×𝑃𝑛𝑖 ×((1−h)× 𝑃 +h× 𝑃)
-(1+𝑖)𝑡 𝑘 𝑡 𝑥 𝑡+1 𝑥 Donde x: edad (actuarial) en años del causante del siniestro j del grupo k a la fecha de balance.
++C× ×Pni ×((1−h)× P +h× P)
+(1+i)t k t x t+1 x Donde x: edad (actuarial) en años del causante del siniestro j del grupo k a la fecha de balance.
 t: Años enteros que restan para terminar período transitorio desde la edad x, es decir, si quedan
 2 años y cinco meses, t es igual a 2.
 h: Fracción de año que se debe sumar a t para completar el período transitorio, dado el período transitorio transcurrido. En el ejemplo anterior, h = 5/12.
 P : Probabilidad de sobrevivir a la edad x+t dado que estaba vivo a la edad x años, usando las t x tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
 P : Probabilidad de sobrevivir a la edad x+t+1 dado que estaba vivo a la edad x años, usando las t+1 x tablas de mortalidad para inválidos que para estos efectos fije la Comisión para el Mercado Financiero conjuntamente con la Superintendencia de Pensiones.
-𝐶𝐼 : Saldo de la cuenta individual siniestro j del grupo k.
-𝑘𝑗 𝑆𝑅 : Se entenderá por saldo retenido el 30% del saldo de la cuenta de capitalización individual por 𝑘𝑗 concepto de cotizaciones obligatorias (considerando bono de reconocimiento si lo hubiera), valorizado a la fecha en que quedó ejecutoriado el primer dictamen.
+CI : Saldo de la cuenta individual siniestro j del grupo k.
+kj SR : Se entenderá por saldo retenido el 30% del saldo de la cuenta de capitalización individual por kj concepto de cotizaciones obligatorias (considerando bono de reconocimiento si lo hubiera), valorizado a la fecha en que quedó ejecutoriado el primer dictamen.
 C: Contribuciones, correspondiente al monto representativo de las cotizaciones que el afiliado habría acumulado en su cuenta de capitalización individual, si hubiera cotizado en dicha cuenta el 10% de las pensiones de invalidez pagadas conforme al primer dictamen.
 CNI(i) : Capital necesario para financiar una invalidez parcial o total generada a la edad x+t años del x+t asegurado.
-𝐶𝑁𝐼(𝑖) = 𝐶𝑁𝐼𝑝(𝑖) ×Pp +𝐶𝑁𝐼𝑡(𝑖) ×𝑃𝑡 𝑥+𝑡 𝑥+𝑡 𝑘 𝑥+𝑡 𝑘 Donde 𝑃𝑝 : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea calificado 𝑘
+CNI(i) = CNIp(i) ×Pp +CNIt(i) ×Pt x+t x+t k x+t k Donde Pp : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea calificado k
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 13 como inválido parcial en el segundo dictamen
-𝑃𝑡 : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea calificado 𝑘 como inválido total en el segundo dictamen 𝑃𝑛𝑖 : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea declarado no 𝑘 inválido en el segundo dictamen CNIp(i) : Capital necesario para financiar una invalidez parcial generada a la edad x+t años del x+t asegurado.
-𝐶𝑁𝐼𝑡(𝑖) : Capital necesario para financiar una invalidez total generada a la edad x+t años del 𝑥+𝑡 asegurado.
+Pt : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea calificado k como inválido total en el segundo dictamen Pni : Probabilidad de que un inválido parcial en el primer dictamen del grupo k, sea declarado no k inválido en el segundo dictamen CNIp(i) : Capital necesario para financiar una invalidez parcial generada a la edad x+t años del x+t asegurado.
+CNIt(i) : Capital necesario para financiar una invalidez total generada a la edad x+t años del x+t asegurado.
 Pp + Pt + Pni = 1.
-k k k Donde Pp = NPp𝑘 (2)
-; Pt = NPt𝑘 (2)
-; Pni = NPni𝑘 (2) 𝑘 NPp𝑘 (t) 𝑘 NPp𝑘 (t) 𝑘 NPp𝑘 (t) 𝑁𝑃𝑝 (2): número de inválidos parciales del grupo k calificados como inválidos parciales en el 𝑘 segundo dictamen (casos en categoría K ).
-6p 𝑁𝑃𝑡 (2): número de inválidos parciales del grupo k calificados como inválidos totales en el 𝑘 segundo dictamen (casos en categoría K ).
-6t 𝑁𝑃𝑛𝑖 (2): número de inválidos parciales del grupo k declarado como no inválidos en el segundo 𝑘 dictamen (casos en categoría K ).
-6n 𝑁𝑃𝑝 (t): número de inválidos parciales del grupo k reciben una calificación de segundo 𝑘 dictamen (casos en categoría K + K + K ).
-6p 6t 6n 𝐺𝐴𝑑𝑚: Gasto promedio anual estimado del DIS asociados al pago de la pensión transitoria de una 𝑘𝑗 invalidez parcial calificada en primer dictamen j, correspondiente al grupo k (hombres o mujeres).
-𝐺2𝑃: Valor presente de los gastos del DIS asociados a la resolución de una invalidez parcial de 𝑘𝑗 primer dictamen j que resulta calificada como inválido parcial definitivo en el segundo dictamen, correspondiente al grupo k (hombres o mujeres). Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
-𝐺2𝑇: Valor presente de los gastos del DIS asociados a la resolución de una invalidez parcial de 𝑘𝑗 primer dictamen j que resulta calificada como inválido total definitivo en el segundo dictamen, correspondiente al grupo k (hombres o mujeres). Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
-𝐺2𝑁𝐼: Valor presente de los gastos del DIS asociados a la resolución de una invalidez parcial de 𝑘𝑗 primer dictamen j que resulta no inválido en el segundo dictamen, correspondiente al grupo 𝑘. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
+k k k Donde Pp = NPpk (2)
+; Pt = NPtk (2)
+; Pni = NPnik (2) k NPpk (t) k NPpk (t) k NPpk (t) NPp (2): número de inválidos parciales del grupo k calificados como inválidos parciales en el k segundo dictamen (casos en categoría K ).
+6p NPt (2): número de inválidos parciales del grupo k calificados como inválidos totales en el k segundo dictamen (casos en categoría K ).
+6t NPni (2): número de inválidos parciales del grupo k declarado como no inválidos en el segundo k dictamen (casos en categoría K ).
+6n NPp (t): número de inválidos parciales del grupo k reciben una calificación de segundo k dictamen (casos en categoría K + K + K ).
+6p 6t 6n GAdm: Gasto promedio anual estimado del DIS asociados al pago de la pensión transitoria de una kj invalidez parcial calificada en primer dictamen j, correspondiente al grupo k (hombres o mujeres).
+G2P: Valor presente de los gastos del DIS asociados a la resolución de una invalidez parcial de kj primer dictamen j que resulta calificada como inválido parcial definitivo en el segundo dictamen, correspondiente al grupo k (hombres o mujeres). Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
+G2T: Valor presente de los gastos del DIS asociados a la resolución de una invalidez parcial de kj primer dictamen j que resulta calificada como inválido total definitivo en el segundo dictamen, correspondiente al grupo k (hombres o mujeres). Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de antecedentes y administración del proceso hasta la emisión del dictamen.
+G2NI: Valor presente de los gastos del DIS asociados a la resolución de una invalidez parcial de kj primer dictamen j que resulta no inválido en el segundo dictamen, correspondiente al grupo
+k. Incluye los costos proyectados por peritajes, evaluaciones médicas, revisión de
+antecedentes y administración del proceso hasta la emisión del dictamen.
 Donde:
-𝑛2 𝐺2𝐷 = ∑ 𝑔2𝐷(𝑡)⋅𝑣(𝑡 − 0,5) 𝑘𝑗 𝑘𝑗 𝑡=𝑡+ℎ+1 D : P = inválido parcial, T = inválido total, NI = no inválido
+n2
+G2D = ∑ g2D(t)⋅v(t − 0,5) kj kj t=t+ℎ+1 D : P = inválido parcial, T = inválido total, NI = no inválido
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
-14 𝑛 : año proyectado para finalizar la resolución de calificación de
+14 n : año proyectado para finalizar la resolución de calificación de
 2 segundo dictamen.
-𝑔2D(𝑡) : gasto estimado del DIS en el año t para la solicitud j en la 𝑘𝑗 categoría i del grupo k, cuyo resultado es "D" tras el segundo dictamen. Para su estimación se debe utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
+g2D(t) : gasto estimado del DIS en el año t para la solicitud j en la kj categoría i del grupo k, cuyo resultado es "D" tras el segundo dictamen. Para su estimación se debe utilizar la mejor estimación interna de flujos basada en evidencia histórica y costos actuales del DIS.
 La tasa de interés que deberá utilizarse en la determinación de los valores actuales, será la señalada en el Anexo Nº 1, y el número de beneficiarios corresponderá a los declarados cuando el inválido adquiere la calidad de inválido parcial transitorio.
 2.4.3. Inválidos parciales transitorios con solicitud de calificación por el segundo dictamen:
 Los costos asociados a la calificación de segundo dictamen, se calcularán como el valor actual de las obligaciones de la compañía en el período temporal remanente y diferido, menos el saldo de la cuenta individual actualizada a la fecha de cálculo de la reserva que corresponda a la situación de invalidez final. En el caso de calificaciones de no inválido se debe considerar sólo las contribuciones.
@@ -354,7 +359,7 @@ Para el cálculo de la reserva deberá considerarse las probabilidades de llegar
 sobrevivencia.
 La tasa de interés que deberá utilizarse en la determinación de los valores actuales, será la señalada en el Anexo Nº 1 y el número de beneficiarios corresponderá a los existentes a la fecha de fallecimiento.
 2.4.5. Siniestros de sobrevivencia: La fórmula a aplicar en este caso, es la siguiente:
-𝑛𝑘 𝑅 =∑(Probabilidad de pago ×AAI +𝐺𝑆1) 𝑘 𝑘 𝑘𝑗 𝑘𝑗 𝑗=1
+nk R =∑(Probabilidad de pago ×AAI +GS1) k k kj kj j=1
 Donde:
 nk : corresponde al número de solicitudes de pensión de sobrevivencia del grupo k informadas a la compañía, a la fecha de cálculo de la reserva.
 Probabilidad de pago : corresponde a la probabilidad que los siniestros del grupo k en proceso de liquidación k
@@ -362,24 +367,25 @@ Probabilidad de pago : corresponde a la probabilidad que los siniestros del grup
 15 lleguen a ser pagados por la compañía. Esta probabilidad será calculada por la compañía
 en base a los antecedentes históricos de cada grupo y a las normas señaladas al respecto en el Anexo Nº 2.
 AAI : Corresponde a aporte adicional individual de la solicitud j del grupo k, calculado como la kj diferencia entre el capital necesario "CN" del individuo j del grupo k y el saldo de la cuenta individual "CI" del mismo individuo j de ese grupo. Calculado a la tasa de interés a la fecha de fallecimiento. Cuando la CI supere al capital necesario, el aporte cera igual a cero.
-𝐺𝑆1 : Valor presente de los gastos del Departamento de Invalidez y Sobrevivencia (DIS) 𝑘𝑗 asociados a la gestión de liquidación de una solicitud de pensión de sobrevivencia j del grupo k, clasificada en la categoría S1 (sin comunicación aprobatoria). Incluye costos administrativos vinculados a la revisión de antecedentes, validación del derecho, cálculo del aporte adicional, y cierre del expediente.
+GS1 : Valor presente de los gastos del Departamento de Invalidez y Sobrevivencia (DIS) kj asociados a la gestión de liquidación de una solicitud de pensión de sobrevivencia j del grupo k, clasificada en la categoría S1 (sin comunicación aprobatoria). Incluye costos administrativos vinculados a la revisión de antecedentes, validación del derecho, cálculo del aporte adicional, y cierre del expediente.
 Se calcula como:
-𝑛1 𝐺𝑠1= ∑𝑔𝑠1(𝑡)⋅𝑣(𝑡 − 0,5) 𝑘𝑗 𝑘𝑗 𝑡=1
+n1
+Gs1= ∑gs1(t)⋅v(t − 0,5) kj kj t=1
 Donde:
-𝑔𝑆1(𝑡) : Gasto estimado del DIS en el año t asociado a la solicitud j del grupo k, 𝑘𝑗 determinado a partir de evidencia histórica y costos actuales del DIS.
-1 𝑣 : factor de descuento anual definido como , donde i es la tasa de interés anual
-(1+𝑖) vigente al momento del cálculo, según lo señalado en el Anexo N.º 1 de la norma.
+gS1(t) : Gasto estimado del DIS en el año t asociado a la solicitud j del grupo k, kj determinado a partir de evidencia histórica y costos actuales del DIS.
+1 v : factor de descuento anual definido como , donde i es la tasa de interés anual
+(1+i) vigente al momento del cálculo, según lo señalado en el Anexo N.º 1 de la norma.
 n : número de años que se proyecta toma la resolución de un siniestro de
 1 sobrevivencia en etapa S1.
 2.4.6. Reserva total consolidada de siniestros en proceso de calificación por compañía adjudicataria
 De acuerdo con lo establecido al inicio de este título (III Reserva Técnica de siniestros), las reservas que cada compañía debe informar deben corresponder a la reserva total del sistema, calculada según la metodología instruida en los puntos anteriores, multiplicada por la participación de la compañía en la cobertura de los siniestros.
-De esta forma, en el caso de los siniestros en proceso de calificación, la reserva correspondiente a cada compañía adjudicataria para cada grupo asegurado 𝑘, se calculará como la suma de las reservas totales del sistema definidas en los puntos 2.4.1 a 2.4.5, ponderadas por su participación en la cobertura del contrato respectivo, a la cual se deberán adicionar los gastos administrativos propios en que incurra la compañía.
+De esta forma, en el caso de los siniestros en proceso de calificación, la reserva correspondiente a cada compañía adjudicataria para cada grupo asegurado k, se calculará como la suma de las reservas totales del sistema definidas en los puntos 2.4.1 a 2.4.5, ponderadas por su participación en la cobertura del contrato respectivo, a la cual se deberán adicionar los gastos administrativos propios en que incurra la compañía.
 Esto es:
-5 𝑅 =𝛼 ⋅∑𝑅 +𝐺𝐴𝑑𝑚
-𝑐𝑘 𝑐𝑘 𝑖𝑘 𝑐𝑘 𝑖=1
+5 R =α ⋅∑R +GAdm
+ck ck ik ck i=1
 Donde:
-𝛼 : Participación porcentual de la compañía c en el grupo asegurado k, según el contrato vigente.
-𝑐𝑘 𝑅 : Reserva correspondiente al grupo asegurado k , asociada al tipo de solicitud (invalidez o 𝑖𝑘 Sobrevivencia) y su etapa de calificación, según el siguiente detalle:
+α : Participación porcentual de la compañía c en el grupo asegurado k, según el contrato vigente.
+ck R : Reserva correspondiente al grupo asegurado k , asociada al tipo de solicitud (invalidez o ik Sobrevivencia) y su etapa de calificación, según el siguiente detalle:
 1: Solicitudes sin primer dictamen ejecutoriado (2.4.1)
 2: Inválidos parciales transitorios sin solicitud de segundo dictamen (2.4.2)
 3: Inválidos parciales transitorios con solicitud de segundo dictamen (2.4.3)
@@ -387,7 +393,7 @@ Donde:
 5: Siniestros de sobrevivencia (2.4.5)
 ### COMISIÓN PARA EL MERCADO FINANCIERO CHILE
 
-𝐺𝐴𝑑𝑚 : Gastos de administración asociados al grupo k de la compañía c, calculados como el valor 𝑐𝑘 presente de los flujos proyectados de gasto vinculados a la gestión de los siniestros en proceso de calificación del grupo asegurado. La tasa de interés anual a utilizar será la vigente a la fecha de cálculo, conforme a lo indicado en el Anexo N.º 1.
+GAdm : Gastos de administración asociados al grupo k de la compañía c, calculados como el valor ck presente de los flujos proyectados de gasto vinculados a la gestión de los siniestros en proceso de calificación del grupo asegurado. La tasa de interés anual a utilizar será la vigente a la fecha de cálculo, conforme a lo indicado en el Anexo N.º 1.
 Las fórmulas presentadas en estas secciones están expresadas en términos anuales para facilitar su comprensión y aplicación general. No obstante, las compañías podrán implementar los cálculos considerando flujos de gasto proyectados en base mensual, siempre que se respete la estructura metodológica, las definiciones y los supuestos establecidos en esta norma. Esta implementación deberá documentarse adecuadamente en las políticas internas de cálculo actuarial de la entidad.
 ## 3. Reserva de siniestros ocurridos y no reportados.
 Los Siniestros ocurridos y no reportados corresponden a la reserva que debe constituir el asegurador por aquellos siniestros que han ocurrido pero que aún no han sido denunciados a la compañía.
@@ -442,7 +448,8 @@ n : Corresponde al número de siniestros denunciados por invalidez del grupo k e
 SPI : Corresponde al costo pagado del siniestro r perteneciente al grupo k, denunciado en los últimos doce rk meses al mes del cálculo de reserva.
 RESI : Corresponde a la reserva a la fecha del cálculo, del siniestro r perteneciente al grupo k, rk denunciado en los últimos doce meses al mes del cálculo de reserva.”
 ### 3.2 Reserva de siniestros ocurridos y no reportados de sobrevivencia:
-𝑂𝑌𝑁𝑅𝑆 ∗𝐶𝑃𝐼𝑆 + 𝐶𝑃𝑀𝑆 , 𝑆𝑖 𝑒𝑙 𝑐𝑜𝑛𝑡𝑟𝑎𝑡𝑜 𝑝𝑟𝑒𝑠𝑒𝑛𝑡𝑎 𝑐𝑜𝑏𝑒𝑟𝑡𝑢𝑟𝑎 𝑣𝑖𝑔𝑒𝑛𝑡𝑒 𝑅𝑆 = { 𝑘 𝑘 𝑘 𝑘 𝑂𝑌𝑁𝑅𝑆 ∗𝐶𝑃𝐼𝑆 , 𝑆𝑖 𝑒𝑙 𝑐𝑜𝑛𝑡𝑟𝑎𝑡𝑜 𝑛𝑜 𝑝𝑟𝑒𝑠𝑒𝑛𝑡𝑎 𝑐𝑜𝑏𝑒𝑟𝑡𝑢𝑟𝑎 𝑣𝑖𝑔𝑒𝑛𝑡𝑒 𝑘 𝑘
+OYNRS ∗CPIS + CPMS , Si el contrato presenta cobertura vigente
+RS = { k k k k OYNRS ∗CPIS , Si el contrato no presenta cobertura vigente k k
 Donde:
 OYNRS: Corresponde a la estimación del número de siniestros de sobrevivencia del grupo k que han ocurrido k pero no han sido reportados a la compañía, calculada de acuerdo a la metodología establecida en el anexo N° 4.
 CPMS: Costo promedio mensual de siniestros de sobrevivencia del grupo k (hombres y mujeres), siniestros con k fecha de denuncia en los doce meses anteriores al mes del cálculo de reserva, el cual se determina de acuerdo a

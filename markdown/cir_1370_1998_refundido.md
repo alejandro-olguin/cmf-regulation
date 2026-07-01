@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1370 — CONTABILIZACION COSTOS DE EMISION Y COLOCACION DE ACCIONES Y TITULOS DE DEUDA A todos los emisores de valores inscritos en el Registro de Valores
+# CIRCULAR N° 1370 — CONTABILIZACION COSTOS DE EMISION Y COLOCACION DE ACCIONES Y TITULOS DE DEUDA A todos los emisores de valores inscritos en el Registro de Valores.
 
 
 Esta Superintendencia en uso de sus facultades legales ha estimado conveniente impartir instrucciones sobre la contabilización de los costos de emisión y colocación de acciones y títulos de deuda que emiten las entidades inscritas en el Registro de Valores.

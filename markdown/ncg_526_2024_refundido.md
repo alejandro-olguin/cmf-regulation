@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: DICTA INSTRUCCIONES RESPECTO A LA
-### FORMA DE DETERMINAR EL PATRIMONIO MÍNIMO Y GARANTÍAS QUE DEBEN MANTENER LAS ADMINISTRADORAS GENERALES DE FONDOS Y ADMINISTRADORAS DE CARTERA. DEROGA NCG N°157
-____________________________
-NORMA DE CARÁCTER GENERAL N°526
-23 de diciembre de 2024
+# DICTA INSTRUCCIONES RESPECTO A LA FORMA DE DETERMINAR EL PATRIMONIO MÍNIMO Y GARANTÍAS QUE DEBEN MANTENER LAS ADMINISTRADORAS GENERALES DE FONDOS Y ADMINISTRADORAS DE CARTERA. DEROGA NCG N°157 ____________________________ NORMA DE CARÁCTER GENERAL N°526 23 de diciembre de 2024
+
+
 Esta Comisión, en uso de las facultades que le confieren los artículos 1, 3, 5 en sus numerales 1, 8 y 18, y 20 en su numeral 3 del Decreto Ley N°3.538; el artículo 4, 10, 12,
 13, 14, 98, 99 de la Ley que regula la Administración de Fondos de Terceros y Carteras Individuales, contenida en el artículo primero de la Ley N°20.712; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N° 422 del 12 de diciembre de 2024, con el fin de establecer la forma de determinar el patrimonio mínimo y garantías de las Administradoras generales de fondos y Administradoras de cartera (en adelante, “Administradoras”), dicta la siguiente Norma de Carácter General.
 1
@@ -61,11 +59,11 @@ b) Se aplicará el criterio de compensación parcial a los activos “Tipo A” 
 sus requisitos de patrimonio de riesgo de crédito y mercado. A los activos “Tipo B” no les será aplicada dicha compensación.
 c) El cálculo del criterio de compensación parcial aplicable a los activos “Tipo A” considera la
 posición neta de cada activo criptográfico (subíndice “k”) de acuerdo con la siguiente fórmula. Se aplica un requisito de patrimonio de 100% sobre la posición neta de cada activo “Tipo A”.
-𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐧𝐞𝐭𝐚 =𝐌𝐚𝐱(𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐥𝐚𝐫𝐠𝐚 ,|𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐜𝐨𝐫𝐭𝐚 |)−𝟎.𝟔𝟓 𝐤 𝐤 𝐤
-∗𝐌𝐢𝐧(𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐥𝐚𝐫𝐠𝐚 ,|𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐜𝐨𝐫𝐭𝐚 |) 𝐤 𝐤
+Posición neta =Max(Posición larga ,|Posición corta |)−0.65 k k k
+∗Min(Posición larga ,|Posición corta |) k k
 d) Para los activos “Tipo B”, se aplica un requisito de patrimonio de 100% sobre la posición
 bruta de cada activo criptográfico (subíndice “k”), de acuerdo con siguiente fórmula.
-𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 =𝐌𝐚𝐱(|𝐩𝐨𝐬𝐢𝐜𝐢𝐨𝐧 𝐥𝐚𝐫𝐠𝐚 |,|𝐩𝐨𝐬𝐢𝐜𝐢𝐨𝐧 𝐜𝐨𝐫𝐭𝐚 |) 𝐤 𝐤 𝐤 Tabla 1. Listado de criptoactivos de Tipo A
+Posición =Max(|posicion larga |,|posicion corta |) k k k Tabla 1. Listado de criptoactivos de Tipo A
 
 | Nombre | Código |
 | --- | --- |

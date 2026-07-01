@@ -3,12 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: IMPARTE INSTRUCCIONES
-### SOBRE GOBIERNO CORPORATIVO Y GESTIÓN INTEGRAL DE RIESGOS EN
-LAS ADMINISTRADORAS
-### GENERALES DE FONDOS. DEROGA CIRCULAR N°1.869 DE 2008.
-NORMA DE CARÁCTER GENERAL N° 507
-8 de mayo de 2024
+# IMPARTE INSTRUCCIONES SOBRE GOBIERNO CORPORATIVO Y GESTIÓN INTEGRAL DE RIESGOS EN LAS ADMINISTRADORAS GENERALES DE FONDOS. DEROGA CIRCULAR N°1.869 DE 2008. NORMA DE CARÁCTER GENERAL N° 507 8 de mayo de 2024
+
+
 Para todas las Administradoras Generales de Fondos Esta Comisión, en uso de las facultades conferidas en el Decreto Ley N°3.538, la Ley N°20.712, y la Ley N°21.521, y teniendo en consideración que su mandato legal es velar por el correcto funcionamiento, desarrollo y estabilidad del mercado financiero, ha estimado pertinente impartir las siguientes instrucciones respecto del gobierno corporativo y gestión de riesgos para las sociedades Administradoras Generales de Fondos (en adelante, “administradoras” o “AGF”).
 ## I. ASPECTOS ORGANIZACIONALES DE LA GESTIÓN DE RIESGOS Y CONTROL
 INTERNO Las AGF deberán mantener una estructura organizacional apta para la definición, administración y el control de todos los riesgos pertinentes derivados del desarrollo de sus actividades. En ese tenor, la estructura organizacional debe ser la adecuada en relación al tamaño y actividades de la administradora; considerar los distintos tipos y la cantidad de fondos que maneja; el total de activos que administra; el número y tipo de partícipes o aportantes de los fondos (por ejemplo, inversionistas retail o institucionales); la complejidad de las relaciones con otras entidades (en particular, en lo relacionado con sus partes interesadas); y el volumen de sus negocios, entre otros aspectos. Por otra parte, dicha estructura organizacional deberá contribuir a minimizar los conflictos de intereses que puedan surgir entre las actividades propias de la AGF y el desempeño de las unidades de gestión de riesgos y auditoría interna.

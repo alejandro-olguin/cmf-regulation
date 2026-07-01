@@ -3,13 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: ESTABLECE LAS MENCIONES
-### MÍNIMAS DE LAS POLÍTICAS DE OPERACIONES HABITUALES Y REGULA LA DIFUSIÓN PÚBLICA DE
-LAS OPERACIONES CON PARTES
-### RELACIONADAS QUE HUBIEREN SIDO REALIZADAS.
-____________________________
-NORMA DE CARÁCTER GENERAL N°501
-8 de enero de 2024
+# ESTABLECE LAS MENCIONES MÍNIMAS DE LAS POLÍTICAS DE OPERACIONES HABITUALES Y REGULA LA DIFUSIÓN PÚBLICA DE LAS OPERACIONES CON PARTES RELACIONADAS QUE HUBIEREN SIDO REALIZADAS. ____________________________ NORMA DE CARÁCTER GENERAL N°501 8 de enero de 2024
+
+
 Esta Comisión, en virtud de lo establecido en el artículo 1, el numeral 1 del artículo 5 y el numeral 3 del artículo 20, todos del Decreto Ley N°3.538; en los artículos 146 y 147 de la Ley 18.046; en el artículo 172 del Decreto Supremo de Hacienda N°702, que contiene el Reglamento de Sociedades Anónimas; y lo acordado por el Consejo de la Comisión en sesión ordinaria N°370 de 14 de diciembre de 2023, ha estimado pertinente impartir las siguientes instrucciones a las sociedades anónimas abiertas y a las sociedades anónimas especiales:
 ## I. DE LA POLÍTICA DE OPERACIONES HABITUALES
 Las sociedades anónimas abiertas y las sociedades anónimas especiales cuyos directorios aprueben políticas de operaciones habituales, estableciendo operaciones con partes relacionadas que por ser ordinarias en consideración al giro de la sociedad pueden ejecutarse, previa autorización del directorio de dicha política, sin los requisitos y procedimientos establecidos en los numerales del artículo 147 de la Ley N°18.046, deben contemplar en dichas políticas a lo menos las siguientes materias:

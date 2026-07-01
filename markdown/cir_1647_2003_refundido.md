@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES PARA LA PUBLICACION DE LOS ESTADOS FINANCIEROS ANUALES DE FONDOS MUTUOS. DEROGA CIRCULAR N° 1334 DE 1997.
+# CIRCULAR N° 1647 — IMPARTE INSTRUCCIONES PARA LA PUBLICACION DE LOS ESTADOS FINANCIEROS ANUALES DE FONDOS MUTUOS
 
-CIRCULAR Nº 1.647
-FECHA: 24.01.2003
 
 Para todas las sociedades que administran fondos mutuos.
 Esta Superintendencia en uso de sus facultades legales, y en virtud de lo dispuesto en el inciso 1° del artículo 8° del D.S. N° 249 de 1982, Reglamento de Fondos Mutuos, ha considerado necesario impartir las siguientes instrucciones:
@@ -33,10 +31,6 @@ d) Nombre de la sociedad administradora.
 |  |  | Patrimonio neto |  |
 | Total Activos |  | Total pasivos |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.647
-FECHA: 24.01.2003
 ## 3. Resumen de la cartera de inversiones:
 ### RESUMEN DE LA CARTERA DE INVERSIONES FONDO MUTUO XXX AL………………….
 (cifras en miles de pesos o de la moneda que corresponda)
@@ -61,10 +55,7 @@ FECHA: 24.01.2003
 
 4. Duración de la cartera: Señalar la duración de la cartera del fondo en días, para los fondos
 mutuos definidos como aquellos señalados en los números 1, 2, 3, 7 y 8 de la sección II de la Circular N° 1.578 de 2002, en los dos últimos casos, cuando corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.647
-FECHA: 24.01.2003
 5. Notas explicativas: En las notas se deberán incluir antecedentes que sean relevantes,
 debiendo considerarse al menos los siguientes aspectos:
 a) Criterios de valorización: Describir brevemente los principales criterios de valorización
@@ -83,4 +74,3 @@ Valores y Seguros haya cursado a la sociedad administradora, durante el ejercici
 6.- Hechos relevantes: Resumir los principales hechos relevantes ocurridos en el período cubierto
 por los estados financieros. En caso que no existan hechos relevantes deberá revelarse expresamente
 7.- Hechos posteriores:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

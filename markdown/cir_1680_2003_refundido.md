@@ -19,7 +19,6 @@ involucren el pago a la entidad, de un monto en efectivo, en moneda de curso leg
 b) Aquellas que realicen personas naturales o jurídicas que pueden ser calificadas de
 operaciones sospechosas.
 Por operaciones sospechosas se entenderán aquellas que presenten elementos inusuales, irregulares o anormales, en relación con las actividades o giro del cliente o de cualquiera de los que participan en ella, y/o que por su gestación, diseño financiero, estructura, presentación, documentación utilizada, modificación de antecedentes ya registrados, información proporcionada o falta de ésta, por la reiteración o cuantía de las mismas o la intervención inusual de terceros o desconocidos, sea o pudiese ser indicativo de un origen ilícito de los recursos utilizados en la transacción o negociación o de la operación misma.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Respecto de las operaciones antes señaladas, se deberá poder rescatar sobre todo la
 información relativa a:
@@ -37,9 +36,7 @@ Este manual además deberá incluir un código de conducta del personal que cont
 El Gerente General o la administración, en su caso, deberá mantener la coordinación interna respecto de la vigilancia de las operaciones de los inversionistas, clientes o partes de las transacciones con la entidad, la observancia de las instrucciones del manual de procedimiento, el conocimiento de los casos sospechosos y su comunicación al Directorio o a la administración superior, según corresponda quien haga sus veces.
 ## 4. Vigilancia del Directorio
 El directorio o administración superior de cada entidad deberá aprobar el manual de procedimientos y evaluar al menos una vez dentro de cada año calendario, las políticas y procedimientos establecidos y su cumplimiento.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 5. Consideraciones finales
 Se deberán tomar todas aquellas providencias adicionales que se consideren necesarias y conducentes a la prevención y detección de operaciones de lavado de activos dentro de su giro.
 La presente Circular rige a contar de esta fecha y deroga la Circular N° 1484 de 16 de junio de 2000.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

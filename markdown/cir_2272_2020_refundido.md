@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2272
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-12 Hoja 1
 ### CAPÍTULO 21-12 CAPITAL BÁSICO ADICIONAL, ARTÍCULOS 66 BIS Y 66 TER DE LA LEY GENERAL DE BANCOS
@@ -23,11 +25,11 @@ Para ser clasificados en nivel A de solvencia, de acuerdo con el artículo 61 de
 Para efectos de calcular el capital CET1 adicional disponible para el cumplimiento de los colchones de capital, el banco deberá descontar del CET1 la fracción que utilice para cumplir con los requisitos legales establecidos en los artículos 51, 66, 66 quater y 66 quinquies de la LGB. Si los instrumentos híbridos de capital (bonos sin plazo fijo de vencimiento, acciones preferentes y bonos subordinados) y provisiones voluntarias, cubrieran solo parcialmente los requerimientos establecidos en el artículo 66, de acuerdo con las definiciones establecidas en el Capítulo 21-1 de la RAN, se descontarán los montos de CET1 utilizados para completar estos requerimientos.
 Así, el capital CET1 adicional disponible deberá ser calculado de acuerdo con
 la siguiente fórmula:
-### 𝐶𝐸𝑇1 −𝐶𝐸𝑇1
-𝑡𝑜𝑡𝑎𝑙 𝑎𝑟𝑡51,66,66𝑞𝑢𝑎𝑡𝑒𝑟,66𝑞𝑢𝑖𝑛𝑞𝑢𝑖𝑒𝑠 CET1 adicional disponible = , 𝐴𝑃𝑅 𝑡𝑜𝑡𝑎𝑙 Circular N° 2.272 / 25.09.2020 por Resolución N°4355
+### CET1 −CET1
+total art51,66,66quater,66quinquies CET1 adicional disponible = , APR total Circular N° 2.272 / 25.09.2020 por Resolución N°4355
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-12 Hoja 3 donde 𝐴𝑃𝑅 son los activos ponderados por riesgo totales del banco, de acuerdo 𝑡𝑜𝑡𝑎𝑙 con las metodologías establecidas en los Capítulos 21-6, 21-7 y 21-8 de la RAN.
+Capítulo 21-12 Hoja 3 donde APR son los activos ponderados por riesgo totales del banco, de acuerdo total con las metodologías establecidas en los Capítulos 21-6, 21-7 y 21-8 de la RAN.
 Además, si se hubiese acordado el pago de dividendos por la Junta de Accionistas a la fecha de estimación, que no se hubieren pagados aún y el monto supera el provisionado para tal propósito en los estados financieros, entonces la diferencia también debe ser restada del capital CET1 adicional disponible.
 Para efectos de medir el cumplimiento de este Título, el colchón contra cíclico se considerará como una extensión del colchón de conservación, por lo que el “nivel requerido” al que se refiere el inciso cuarto del artículo 56 de la LGB, será equivalente a la suma de los dos colchones. De acuerdo con esto, el déficit deberá calcularse utilizando la siguiente fórmula:
 CET1 adicional disponible Déficit colchones = max[1− ;0] nivel requerido Cuando el déficit en los colchones sea estrictamente mayor que cero, el reparto de utilidades del ejercicio, de acuerdo con la línea correspondiente al estado financiero consolidado auditado de diciembre del año anterior, quedará limitado según indica la siguiente tabla:
@@ -55,28 +57,28 @@ Los bancos deberán estimar e informar a esta Comisión el requerimiento contra 
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝑛
-> 𝐴𝑃𝑅𝐶
-> 𝑖
+> n
+> APRC
+> i
 > $$
-𝑅𝑒𝑞 𝑐𝑜𝑛𝑡𝑟𝑎 𝑐í𝑐𝑙𝑖𝑐𝑜 𝑖𝑛𝑡𝑒𝑟𝑛𝑎𝑐𝑖𝑜𝑛𝑎𝑙 = ∑𝐶𝑎𝑟𝑔𝑜 𝑐𝑜𝑛𝑡𝑟𝑎 𝑐í𝑐𝑙𝑖𝑐𝑜 ⋅ , 𝑖 𝐴𝑃𝑅𝐶 𝑡𝑜𝑡𝑎𝑙 𝑖=1
+Req contra cíclico internacional = ∑Cargo contra cíclico ⋅ , i APRC total i=1
 donde:
-• 𝑅𝑒𝑞 𝑐𝑜𝑛𝑡𝑟𝑎 𝑐í𝑐𝑙𝑖𝑐𝑜 𝑖𝑛𝑡𝑒𝑟𝑛𝑎𝑐𝑖𝑜𝑛𝑎𝑙 corresponde al colchón contra cíclico que el
+• Req contra cíclico internacional corresponde al colchón contra cíclico que el
 banco debe informar,
 • i se refiere a la jurisdicción con la cual tiene exposición el banco,
 Circular N° 2.272 / 25.09.2020 por Resolución N°4355
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-12 Hoja 5
-• 𝐶𝑎𝑟𝑔𝑜 𝑐𝑜𝑛𝑡𝑟𝑎 𝑐í𝑐𝑙𝑖𝑐𝑜 se refiere al cargo contra cíclico de la jurisdicción i,
-𝑖
-• 𝐴𝑃𝑅𝐶 se refiere a los activos ponderados por riesgo de crédito asociados a la
-𝑖 jurisdicción i,
-• 𝐴𝑃𝑅𝐶 se refiere a los activos ponderados por riesgo de crédito totales de
-𝑡𝑜𝑡𝑎𝑙 acuerdo con el nivel de consolidación informado, y
+• Cargo contra cíclico se refiere al cargo contra cíclico de la jurisdicción i,
+i
+• APRC se refiere a los activos ponderados por riesgo de crédito asociados a la
+i jurisdicción i,
+• APRC se refiere a los activos ponderados por riesgo de crédito totales de
+total acuerdo con el nivel de consolidación informado, y
 • n corresponde al número total de jurisdicciones con las cuales el banco tiene
 exposiciones.
-Para identificar la locación geográfica de las exposiciones, y por tanto el valor de los 𝐴𝑃𝑅𝐶 de las jurisdicciones, los bancos deberán ceñirse a los siguientes 𝑖
+Para identificar la locación geográfica de las exposiciones, y por tanto el valor de los APRC de las jurisdicciones, los bancos deberán ceñirse a los siguientes i
 criterios:
 • Todas las exposiciones deben asignarse a la jurisdicción de la contraparte, ya
 sea este un deudor o emisor de un instrumento financiero. En el caso que una exposición tuviera más de una contraparte, ubicadas en diferentes jurisdicciones, la exposición se asignará a la jurisdicción de la contraparte con mayor participación en la exposición. En caso de poseer igual participación, se debe considerar la jurisdicción que conlleve un mayor cargo contra cíclico.
@@ -89,7 +91,7 @@ considerar la locación geográfica de los activos subyacentes.
 • Para el caso de exposiciones generadas por filiales o sucursales en el
 extranjero, el banco podrá asignar como locación geográfica la ubicación de éstas, si se cumplieran los siguientes requisitos:
 o i. El tamaño de la exposición es inferior al 2% de los activos totales de la filial o sucursal, según sea el caso, y o ii. El banco no puede identificar, sin incurrir en un esfuerzo desproporcionado, el país de la contraparte basado en la información interna y/o externa que posee.
-Los 𝑐𝑎𝑟𝑔𝑜𝑠 𝑐𝑜𝑛𝑡𝑟𝑎 𝑐í𝑐𝑙𝑖𝑐𝑜 corresponderán a aquellos publicados por el BCBS 𝑖 y vigentes a la fecha de la estimación. La fecha de implementación de los 𝑐𝑎𝑟𝑔𝑜𝑠 𝑐𝑜𝑛𝑡𝑟𝑎 𝑐í𝑐𝑙𝑖𝑐𝑜 será aquella que determine la autoridad de cada jurisdicción 𝑖 i.
+Los cargos contra cíclico corresponderán a aquellos publicados por el BCBS i y vigentes a la fecha de la estimación. La fecha de implementación de los cargos contra cíclico será aquella que determine la autoridad de cada jurisdicción i i.
 Circular N° 2.272 / 25.09.2020 por Resolución N°4355
 
 ### RECOPILACION ACTUALIZADA DE NORMAS

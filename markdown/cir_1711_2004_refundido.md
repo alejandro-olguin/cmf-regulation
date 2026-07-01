@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# DICTA NORMAS GENERALES PARA LA CONTABILIDAD EN MONEDA EXTRANJERA. DEROGA CIRCULAR N° 331 DE 15 DE JULIO DE 1983.
+# CIRCULAR N° 1711 — DICTA NORMAS GENERALES PARA LA CONTABILIDAD EN MONEDA EXTRANJERA
 
-CIRCULAR Nº 1.711
-FECHA: 17.03.2004
 
 Para todas las sociedades inscritas en el Registro de Valores, así como aquellas que por ley deban regirse por las normas de las sociedades anónimas abiertas, con excepción de las entidades de seguros y de reaseguros.
 Esta Superintendencia, de acuerdo a sus facultades legales, ha estimado oportuno impartir instrucciones a aquellas sociedades que mantienen sus registros contables expresados en moneda extranjera, o que deseen cambiar sus registros contables expresados en moneda nacional a moneda extranjera.
@@ -20,7 +18,5 @@ Una vez obtenidas las autorizaciones para mantener los registros contables en mo
 4.- Corrección monetaria
 Las sociedades que mantengan sus registros contables en moneda extranjera no deben aplicar ningún tipo de ajuste por concepto de corrección monetaria. Se entenderá, para todos los efectos, que la mantención de saldos expresados en moneda extranjera, sustituye el mecanismo de corrección monetaria interno.
 
-CIRCULAR Nº 1.711
-FECHA: 17.03.2004
 Vigencia Las instrucciones de la presente circular rigen a contar de esta fecha.
 Derogación Derógase la Circular N° 331 de 15 de julio de 1983, a contar de la fecha de vigencia de la presente circular.

@@ -3,19 +3,15 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE LA IMPLEMENTACIÓN DE MEDIDAS RELATIVAS A LA GESTIÓN DE RIESGOS Y CONTROL INTERNO EN LAS ADMINISTRADORAS DE FONDOS.
+# CIRCULAR N° 1869 — IMPARTE INSTRUCCIONES SOBRE LA IMPLEMENTACIÓN DE MEDIDAS RELATIVAS A LA GESTIÓN DE RIESGOS Y CONTROL INTERNO EN LAS ADMINISTRADORAS DE FONDOS.
 
-### CIRCULAR N° 1.869
-FECHA: 15.02.2008
 
 Para todas las sociedades que administran fondos mutuos, fondos de inversión y fondos para la vivienda Sección I Introducción Esta Superintendencia, en uso de sus facultades legales, y en atención a lo dispuesto en el artículo
 3°, letra d), y el artículo 4°, letra a), del Decreto Ley N° 3.538 de 1980, ha estimado, en el ámbito de la gestión de riesgos y control interno de las sociedades administran fondos mutuos, fondos de inversión y fondos para la vivienda, impartir los lineamientos e instrucciones que a través de la presente circular se exponen, en atención al nuevo enfoque de supervisión que esta Superintendencia ha considerado implementar.
 La presente Circular, sin considerar la Sección I Introducción, se estructura en base a 8 secciones (II a IX) en las que se abordan los siguientes temas:
 Sección II Políticas y procedimientos de gestión de riesgos y control interno Sección III Identificación de riesgos en las áreas funcionales de la administración de fondos Sección IV Aspectos organizacionales de la gestión de riesgos y control interno Sección V Programa de gestión de riesgos y control interno Sección VI Manual de gestión de riesgos y control interno Sección VII Certificación anual Sección VIII Otras disposiciones Sección IX Vigencia Sección II Políticas y procedimientos de gestión de riesgos y control interno Las sociedades administradoras deberán elaborar y poner en práctica de manera formal, políticas y procedimientos de gestión de riesgos y control interno que contemplen los riesgos asociados en todas las actividades de la administradora, y en particular en cada una de sus áreas funcionales que se relacionan con: ciclo de inversión, ciclo de aportes y rescates y ciclo de contabilidad y tesorería.
 Tales políticas y procedimientos de gestión de riesgos y control interno, tienen como propósito controlar con eficacia los riesgos a que se enfrenta el negocio de la administradora, a la vez que contribuyen a que se minimicen los riesgos asociados a los objetivos de supervisión de esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 En este contexto, las administradoras deberán:
 (i) Identificar los riesgos que enfrentan
 (ii) Determinar el nivel de importancia de cada riesgo en relación a sus propios objetivos de negocios
@@ -28,9 +24,7 @@ En razón de lo anterior, la administradora deberá agrupar dichos riesgos de ac
 ## 1. Ciclo de inversión de los fondos que se administran.
 El ciclo de inversión comienza cuando el gerente pertinente (de inversiones) toma conocimiento sobre la existencia de recursos disponibles para su inversión o de la necesidad de desinversión y finaliza cuando las operaciones realizadas se ingresan al sistema de registro de inversiones y al sistema contable del fondo. El ciclo de inversión abarca todos los aspectos de la gestión de cartera, entre éstos, la definición de estrategias de inversión para un fondo específico, las decisiones de inversión o desinversión que adopte el gerente pertinente y/o el comité inversión, la aplicación de estas decisiones, el seguimiento, registro y monitoreo de las transacciones por parte de las unidades operacionales de la administradora y el registro de la propiedad de los activos (depósito y custodia). También contempla el control de las actividades cuyo objeto es verificar que se cumplan las disposiciones legales, la normativa vigente y el reglamento interno del fondo, así como los procedimientos definidos de gestión de riesgos y control interno, y aquellos tendientes al adecuado manejo y resolución de los conflictos de interés relacionados con este ciclo.
 1 Las definiciones de estos riesgos se encuentran en el Anexo I.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 2. Ciclo de aportes (suscripción de cuotas) y rescates (cuando corresponda) de los fondos
 que se administran.
 El ciclo de aportes y rescates comienza con el inicio de la oferta de cuotas de fondos y finaliza cuando se cierran y concilian todos los aspectos contenidos tanto en la solicitud de aporte como en la de rescate. Este ciclo abarca todas las materias que se relacionan con la venta de cuotas de los fondos que efectúa la administradora, directa o indirectamente, esto es, la recepción por parte de la administradora de las solicitudes de aportes, así como la recepción de las transferencias (cesión) o solicitudes de rescates; el debido procesamiento de esas solicitudes, incluida la conversión de los aportes o suscripciones y rescates en cuotas; el traspaso de fondos (dineros) y cuotas; la conciliación de estas operaciones con la cuenta del partícipe o aportante; el cómputo del número de cuotas en circulación en cada fondo y la información proporcionada a los partícipes y aportantes. También contempla verificar que se cumplan las disposiciones legales, la normativa vigente y el reglamento interno del fondo, así como los procedimientos definidos de gestión de riesgos y control interno, y aquellos tendientes al adecuado manejo y resolución de los conflictos de interés relacionados con este ciclo.
@@ -50,9 +44,7 @@ A continuación, se proporciona un ejemplo que muestra la forma en que la admini
 | Riesgo de mercado |  |  |  |  |  |  |
 
 Sección IV Aspectos organizacionales de la gestión de riesgos y control interno Las administradoras deberán mantener una estructura organizacional apta para la definición, administración y el control de todos los riesgos pertinentes derivados del desarrollo de sus actividades.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 En ese tenor, la estructura organizacional debe ser la adecuada en relación al tamaño y actividades de la administradora; considerar los distintos tipos y la cantidad de fondos que maneja; el total de activos que administra; el número y tipo de participes (aportantes) de los fondos (por ejemplo, inversionistas minoritarios o institucionales); la complejidad de las relaciones con otras entidades (en particular en lo relacionado con las entidades vinculadas); y el tamaño y volumen de las operaciones de los fondos que se administran, entre otros aspectos. Por otra parte, dicha estructura organizacional deberá contribuir a minimizar los conflictos de interés que puedan surgir entre las actividades propias de la administradora y el desempeño de las funciones de gestión de riesgos y control interno.
 Adicionalmente, la estructura organizacional de la administradora deberá considerar, al menos, que:
 1. El Directorio de la sociedad, en el ámbito de la presente Circular, sea la instancia responsable
@@ -66,9 +58,7 @@ El “Encargado de cumplimiento y control interno” podrá delegar determinadas
 Las funciones en cuestión, entre otras, son las siguientes:
 (i) Monitorear el cumplimiento de las políticas y procedimientos de gestión de riesgos y control interno, permanentemente.
 (ii) Proponer cambios en las políticas y en los procedimientos según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 (iii) Establecer e implementar los procedimientos adecuados para garantizar que el personal, al margen de la función que desempeñe o de su jerarquía, esté en conocimiento y
 comprenda:
 1. Los riesgos derivados de sus actividades
@@ -85,9 +75,7 @@ Cabe destacar que el “Encargado de cumplimiento y control interno” desempeñ
 El Directorio de la sociedad administradora decidirá si una persona es suficiente para desarrollar debidamente la función de “Encargado de cumplimiento y control interno”, o bien, si se requiere la competencia de una unidad independiente de las unidades operacionales. Para estos efectos, al momento de tomar esta decisión, deberá considerar factores tales como, los distintos tipos y la cantidad de fondos que maneja la administradora, el total de activos administrados, el número y tipo de partícipes o aportantes de los fondos, la complejidad de la estructura organizacional y el número y volumen de sus operaciones.
 4. Disponer de sistemas de tecnología e información adecuados que apoyen la administración de
 sus fondos en el desarrollo de todas sus funciones, incluidas las de inversión, aportes y rescates y contabilidad y tesorería de los fondos que se administran, y que a su vez permitan la continuidad de la implementación de las políticas y los procedimientos de gestión de riesgos y control interno.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 Sección V Programa de gestión de riesgos y control interno El programa de gestión de riesgos y control interno que defina la administradora, independientemente de si está a cargo de una persona, o bien de una unidad, implica la realización de dos funciones esenciales: 1. Función de gestión de riesgos y 2. Función de control; las que la presente Circular aborda a continuación.
 ## 1. Función de gestión de riesgos
 La función de gestión de riesgos por parte de una administradora, supone que ésta adopte las medidas correspondientes destinadas a identificar y cuantificar los riesgos relevantes a que se enfrenta en el desarrollo de sus funciones. La magnitud de dichos riesgos dependerá, entre otros elementos, de su tamaño, estrategia comercial y tipos de fondos administrados.
@@ -102,9 +90,7 @@ d) Que la administradora establezca y utilice procedimientos de administración 
 control interno adecuados.
 ### 1.1 Políticas y procedimientos de gestión de riesgos y control interno
 El Gerente General tendrá como responsabilidad, en el ámbito de la presente Circular, el elaborar políticas y procedimientos adecuados, en armonía con el modelo de negocios de la administradora. Éste podrá delegar la elaboración de la totalidad o de una parte de las políticas y los procedimientos a los gerentes de las distintas áreas o al “Encargado de cumplimiento y control interno”, pero seguirá siendo el responsable final de la exactitud, integridad y actualización de tales políticas y procedimientos, los cuales, según ya se señaló, deben ser aprobados por el Directorio.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 Estas políticas y procedimientos, deberán abordar como mínimo los siguientes aspectos:
 a) Cartera de inversión
 La administradora deberá definir políticas y procedimientos que especifiquen la forma en que controlará que las inversiones de cada fondo cumplan con los límites y los demás parámetros establecidos en las leyes, normativa vigente y en los reglamentos internos de cada fondo.
@@ -121,9 +107,6 @@ Algunos ejemplos de tales políticas y procedimientos son los códigos de conduc
 En este tenor, la administradora podrá definir políticas respecto a la celebración de contratos de confidencialidad con el personal temporal, los contratistas y otros proveedores de servicios, que tengan acceso a dicha información.
 f) Cumplimiento de la Legislación y Normativa
 La administradora deberá definir políticas y procedimientos que especifiquen la forma en que ésta garantizará el debido cumplimiento de las disposiciones contenidas en las leyes, normativas y reglamentos internos de los fondos en general, y en lo específico, en lo relativo al debido manejo de materias tales como, información privilegiada, operaciones prohibidas, manipulación de precios y eventualidad de fraude.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
 g) Información de los emisores
 La administradora deberá definir políticas y procedimientos respecto a la forma en que garantizará la tenencia de información actualizada sobre la situación financiera de los emisores respecto de los cuales se mantienen activos en cartera, su grado de liquidez
 (riesgo de liquidez), la volatilidad de los precios y otra información necesaria para evaluar la calidad de la composición de una cartera de inversiones.
@@ -139,9 +122,7 @@ k) Suitability
 La administradora deberá definir políticas y procedimientos tendientes a que los partícipes o aportantes inviertan sus recursos en los fondos de su administración, conociendo la información que les permita entender el riesgo que están asumiendo.
 Estas políticas podrán considerar el requerir al potencial inversionista, antecedentes tales como, situación financiera, horizonte de inversión, grado de tolerancia al riesgo, etc.
 Por su parte, los procedimientos deberán estar referidos a la forma en que la administradora controlará el cumplimiento de las políticas y procedimientos definidos y el actuar al respecto de los agentes colocadores, tanto propios como externos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 ### 1.2 Estrategias de mitigación de riesgos y planes de contingencia
 El Gerente General de la administradora estará a cargo de la elaboración de las estrategias de mitigación de riesgos y los planes de contingencia en relación con los principales riesgos que surjan de las actividades de la administradora en sus áreas funcionales. El Gerente General podrá delegar esta actividad al “Encargado de cumplimiento y control interno”, a los gerentes de cada área o a otra unidad de la organización, ya sea dentro de la misma administradora, o bien, a otra unidad perteneciente al grupo financiero de acuerdo a su naturaleza, sin embargo, seguirá siendo el responsable final de la misma.
 El Directorio deberá aprobar los planes de contingencia al menos dos veces al año o con la periodicidad que se estime necesaria, con el fin de reflejar cambios significativos experimentados en la estrategia de negocios de la administradora o cambios en las condiciones de mercado, por ejemplo, aumento en la volatilidad de precios o disminución en la liquidez de determinados valores. Finalmente, el “Encargado de cumplimiento y control interno” controlará que se dé cumplimiento a estos planes y a sus respectivos procedimientos.
@@ -159,9 +140,7 @@ mercado extraordinarias, con el fin de minimizar las pérdidas potenciales de lo
 iii) Planes de contingencia para el rescate de cuotas del fondo en situaciones de
 mercado extremas.
 iv) Otros planes de contingencia que se definan.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 ## 2. Función de control
 El “Encargado de cumplimiento y control interno” será el responsable de la función de control de la administradora, en las principales áreas funcionales de la actividad de administración de fondos. Esta responsabilidad implica la realización de diversas actividades para monitorear el cumplimiento de las políticas, los planes, procedimientos y controles para las áreas de inversión, aporte y rescate, contabilidad y tesorería, y otras que la administradora defina.
 Con objeto de implementar lo anteriormente señalado, las administradoras deberán establecer un sistema de control que, como mínimo, contemple:
@@ -178,9 +157,6 @@ funcionamiento. Estas pruebas deben incluir una evaluación de las instancias y 
 En este contexto, al “Encargado de cumplimiento y control interno” le corresponderá, al menos, la emisión de los siguientes informes:
 a) Un informe de periodicidad trimestral que detalle los incumplimientos detectados de las
 políticas y procedimientos definidos en el período que se informa, por la aplicación de los mecanismos de control, las circunstancias de cada caso y las acciones correctivas adoptadas para evitar que se repitan. Este informe será enviado al Directorio y al Gerente General de la administradora, en el plazo que defina cada administradora, nunca siendo éste superior a quince días de finalizado el trimestre que se informa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
 b) Un informe de periodicidad semestral que detalle el funcionamiento del sistema de
 control durante los seis meses anteriores a la fecha de emisión. Este informe deberá incluir una descripción de cómo ha operado la estructura de control en los fondos respecto a las tres funciones principales que se identifican en esta Circular, esto es, ciclo de inversión, aporte y rescate y contabilidad y tesorería; los resultados de las pruebas efectuadas para verificar la efectividad de los mecanismos de control; los incumplimientos y causas que los originaron y las acciones correctivas adoptadas para evitar su repetición. Este informe será enviado al Directorio y al Gerente General de la administradora, en el plazo que defina cada administradora, plazo nunca mayor a treinta días de finalizado el semestre que se informa.
 Sobre la base de estos informes, el Directorio determinará si se deben modificar los controles, y en qué áreas, para así alcanzar los objetivos mínimos establecidos en esta Circular, ambos informes deberán estar en todo momento a disposición de la Superintendencia.
@@ -201,9 +177,7 @@ que no se siga un procedimiento específico (excepciones) o en caso de incumplim
 contingencia y la identificación de las personas responsables.
 8. La descripción del procedimiento mediante el cual se prueban, revisan y actualizan los
 procedimientos y controles mencionados anteriormente y la periodicidad de estas gestiones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 Sección VII Certificación anual El Gerente General de la sociedad administradora deberá presentar a este Servicio una certificación, que deberá ser firmada por éste, o el que haga sus veces, sobre la suficiencia e idoneidad de la estructura de gestión de riesgos y control interno de la sociedad. Dicha certificación deberá ser enviada a esta Superintendencia dentro de los primeros 10 días hábiles del mes de enero de cada año, de acuerdo al siguiente formato:
 Yo,……………………………………………………………………………, certifico por medio del presente
 (nombre y cargo) que …………………………………………………………………………..……., cuenta con un sistema de
@@ -212,14 +186,11 @@ El Directorio de la sociedad administradora avala la presente certificación, se
 (fecha).
 (Nombre, Rut y firma de Gerente General o el que haga sus veces) Esta certificación deberá ser remitida a este Servicio, en un documento en formato pdf, a la siguiente casilla electrónica: circular1869@svs.cl, indicando en el “Asunto” el nombre de la sociedad administradora.
 Sección VIII Otras disposiciones La información, los registros y antecedentes que den cuenta del cumplimiento de la presente Circular, deberán estar en todo momento a disposición de la Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 Sección IX Vigencia Las disposiciones contenidas en la presente Circular, deberán estar implementadas al 31 de diciembre de 2008. Sin perjuicio de lo anterior, las sociedades administradoras deberán remitir a este Servicio, a más tardar el 30 de junio de 2008, un Informe detallado que dé cuenta de las gestiones desarrolladas hasta esa fecha y las pendientes por desarrollar, a objeto de dar debido cumplimiento a lo indicado, en el plazo antes citado (31/12/2008).
 En este tenor, la primera Certificación Anual a que se refiere la Sección VII de la presente Circular, deberá ser remitida a esta Superintendencia dentro de los 10 primeros días hábiles del mes de enero de 2009.
-### SUPERINTENDENTE SUBROGANTE SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENTE SUBROGANTE SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+### SUPERINTENDENTE SUBROGANTE
+
 Anexo I Definiciones de los tipos de riesgos
 1. Riesgo de mercado: Potencial pérdida causada por cambios en los precios del mercado,
 que podría generar efectos adversos en la situación financiera de los fondos que maneja la administradora. Abarca el riesgo de tasas de interés, el riesgo cambiario y los riesgos de precios en relación con los activos financieros de un fondo.
@@ -240,9 +211,7 @@ adecuados para la ejecución de las actividades del negocio de una administrador
 subcategorías:
 ### 4.1 Riesgo operacional externo (front-office): Exposición a pérdidas potenciales
 debido a las diversas actividades efectuadas por personas que participan en el negocio de la administradora, por ejemplo, operadores de mesa, administradores de cartera, corredores que asesoran a clientes sobre sus inversiones o se relacionan con éstos, supervisores y ejecutivos de venta.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.869
-FECHA: 15.02.2008
+
 ### 4.2 Riesgo operacional interno (back-office): Exposición a pérdidas potenciales que
 podrían ocurrir debido a errores de procesamiento de las transacciones o en la imputación de la información al sistema contable de la administradora para el registro y seguimiento de las actividades del negocio.
 ### 4.3 Riesgo de custodia: Exposición a pérdidas potenciales debido a negligencia,
@@ -251,4 +220,3 @@ malversación de fondos, robo, pérdida o errores en el registro de transaccione
 proporcionados por los sistemas de procesamiento de información, los sistemas computacionales o las aplicaciones del área comercial o a fallas operacionales de estos mismos. Los sistemas antedichos incluyen software, hardware, especificaciones técnicas, administración de bases de datos, redes de área local y sistemas comunicacionales. Esta área de riesgos incluye potenciales pérdidas causadas por la falta de capacidad de los sistemas aludidos anteriormente para el manejo de alzas en la actividad, fallos de seguridad e insuficiencia de personal o de documentación digital para poder resolver problemas.
 6. Riesgo jurídico: Exposición a pérdidas potenciales debido a la falta de integridad o a la
 inexactitud de la documentación sobre transacciones específicas o a la falta de firma (o no obtención de firmas de los clientes o de sus respectivos agentes o intermediarios autorizados) en las órdenes o contratos correspondientes, lo cual podría afectar la legalidad o validez comercial de las transacciones. Esta área de riesgo incluye las potenciales pérdidas debido al hallazgo de un incumplimiento normativo vigente o de las exigencias reguladoras, así como debido al resultado adverso de un procedimiento legal o arbitraje que involucre a un partícipe o aportante perjudicado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

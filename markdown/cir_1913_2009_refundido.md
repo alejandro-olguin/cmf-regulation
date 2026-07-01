@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# INSTRUYE RESPECTO AL USO DE CORRESPONDENCIA ELECTRÓNICA ENTRE LA SUPERINTENDENCIA Y ENTIDADES SUPERVISADAS. A todos los fiscalizados
+# CIRCULAR N° 1913 — INSTRUYE RESPECTO AL USO DE CORRESPONDENCIA ELECTRÓNICA ENTRE LA SUPERINTENDENCIA Y ENTIDADES SUPERVISADAS
 
-### CIRCULAR N° 1.913
-FECHA: 30.01.2009
 
 Esta Superintendencia, en uso de sus facultades legales y considerando las disposiciones de la ley N° 19.799 sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dicha Firma, ha resuelto impartir las
 siguientes instrucciones:
@@ -25,8 +23,6 @@ Cuando el documento electrónico solicite la entrega de información, dicho docu
 Para acceder a los documentos electrónicos, un usuario registrado por parte del fiscalizado, según lo establece la NCG 117 del 20 de abril de 2001, deberá conectarse a la página web de la Superintendencia e ingresar en el módulo SEIL su código usuario y su clave secreta.
 Posteriormente deberá seleccionar la aplicación “Correspondencia Electrónica”, y descargar los documentos que la Superintendencia ha puesto a su disposición en la página mediante la opciones para descargar/responder oficios y resoluciones.
 
-### CIRCULAR N° 1.913
-FECHA: 30.01.2009
 ## 4. Respuestas a los documentos electrónicos por parte del fiscalizado.
 Para responder a los documentos electrónicos enviados por la Superintendencia, bastará con que el usuario registrado ejecute los pasos señalados en el punto 3 precedente y seleccione el número de documento que desea responder. Las respuestas a documentos electrónicos deben ser realizadas mediante SEIL y no en formato papel.
 Las respuestas enviadas mediante SEIL deberán ser redactadas con la misma formalidad que aquellas enviadas mediante papel, bajo la responsabilidad del representante legal del fiscalizado y serán consideradas como respondidas por el representante legal.
@@ -44,8 +40,6 @@ La habilitación de un usuario significará la autorización del fiscalizado par
 Los fiscalizados deberán solicitar a la Superintendencia la habilitación de usuarios para esta aplicación según el procedimiento establecido en la NCG N° 117, señalando como código de información “PUFED”.
 La habilitación de cada usuario sólo se hará efectiva una vez que la Superintendencia haya recibido conforme el Anexo A que menciona la norma, debidamente firmado y con los datos que allí se señalan. Una vez que la Superintendencia habilite al usuario registrado, éste recibirá un correo electrónico que le indicará dicha situación.
 
-### CIRCULAR N° 1.913
-FECHA: 30.01.2009
 La Superintendencia comenzará usando este medio para comunicarse con las compañías de seguros. Luego informará mediante oficio circular a los fiscalizados el inicio de las comunicaciones por este medio, para que habiliten los usuarios necesarios.
 ## 9. Sistemas alternativos de envío de información.
 Ante situaciones de imposibilidad absoluta para acceder al Módulo SEIL de la Superintendencia, debido a razones de fuerza mayor, las entidades fiscalizadas podrán efectuarlo a través de la oficina de partes de la Superintendencia. En estos casos, el gerente general o representante legal de la entidad informante deberá incorporar una explicación fundada de los motivos que impidieron responder un documento electrónico utilizando el Módulo SEIL.

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1481 — INSTRUYE EL ENVIO POR MEDIO ELECTRONICO, DE INFORMACION CONTENIDA EN LISTA DE ACCIONISTAS (O SOCIOS) DE SOCIEDADES QUE SEÑALA Y REGLAMENTA EL ARTICULO 7º DE LA LEY Nº 18
+# CIRCULAR N° 1481 — INSTRUYE EL ENVIO POR MEDIO ELECTRONICO, DE INFORMACION CONTENIDA EN LISTA DE ACCIONISTAS (O SOCIOS) DE SOCIEDADES QUE SEÑALA Y REGLAMENTA EL ARTICULO 7º DE LA LEY
 
 
 Para todas las sociedades inscritas en el Registro de Valores.

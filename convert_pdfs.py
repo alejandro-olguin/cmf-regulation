@@ -11,15 +11,58 @@ Usage:
 """
 
 import argparse
+import json
 import logging
+import os
 import re
 import sys
+import time
+import unicodedata
 from pathlib import Path
+from typing import Any
+from urllib import error as urllib_error
+from urllib import request as urllib_request
 
 import pdfplumber
 
 INPUT_DIR = Path("pdf")
 OUTPUT_DIR = Path("markdown")
+DEFAULT_LLM_AUDIT_CHUNK_LINES = 80
+DEFAULT_LLM_AUDIT_OVERLAP_LINES = 10
+DEFAULT_LLM_AUDIT_SLEEP_SECONDS = 5.0
+DEFAULT_GEMINI_MODEL = "gemini-2.0-flash"
+DEFAULT_GEMINI_MAX_RETRIES = 3
+
+def _load_local_settings() -> dict[str, Any]:
+    """Load optional local settings from .env and config.local.json."""
+    settings: dict[str, Any] = {}
+
+    config_path = Path("config.local.json")
+    if config_path.exists():
+        try:
+            payload = json.loads(config_path.read_text(encoding="utf-8"))
+        except Exception as exc:
+            log.warning("Ignoring unreadable %s: %s", config_path.name, exc)
+        else:
+            if isinstance(payload, dict):
+                settings.update(payload)
+
+    env_path = Path(".env")
+    if env_path.exists():
+        try:
+            for raw_line in env_path.read_text(encoding="utf-8").splitlines():
+                line = raw_line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                key, value = line.split("=", 1)
+                key = key.strip()
+                value = value.strip().strip('"').strip("'")
+                if key and key not in os.environ:
+                    os.environ[key] = value
+        except Exception as exc:
+            log.warning("Ignoring unreadable %s: %s", env_path.name, exc)
+
+    return settings
 
 logging.basicConfig(
     level=logging.INFO,
@@ -36,9 +79,9 @@ log = logging.getLogger(__name__)
 #   CIRCULAR Nº 1512   or  CIRCULARN°2180    or  NORMA DE CARÁCTER GENERAL N° 209
 #   FECHA: 02.01.2001      FECHA :25.06.2015     FECHA : 24.12.2007
 _PAGE_HEADER_RE = re.compile(
-    r"(?:NORMA DE CAR[ÁA]CTER GENERAL\s+N[°º]\s*[\d]+|"
-    r"CIRCULAR\s*N[°º]\s*[\d]+(?:\s*[\w\s]*?)?)\s*\n"
-    r"FECHA\s*:?\s*\d{1,2}\.\d{1,2}\.\d{4}\s*\n?",
+    r"(?:NORMA DE CAR[ÁA]CTER GENERAL\s*N[°º]\s*:?\s*[\d.]+|"
+    r"CIRCULAR\s*N[°º]\s*:?\s*[\d.]+(?:\s*[\w\s]*?)?)\s*\n"
+    r"FECHA\s*:?\s*\d{1,2}\.\d{1,2}\.\d{2,4}\s*\n?",
     re.MULTILINE,
 )
 # CMF footer (post-2017 institution name)
@@ -61,39 +104,77 @@ _PAGE_FOOTER_SVS_NO_NUM_RE = re.compile(
 )
 
 
-def extract_document_title(first_page_text: str) -> str | None:
+def extract_document_title(first_page_text: str, source_file: str | None = None) -> str | None:
     """Extract the document title from the first-page header pattern.
 
     Priority:
-    1. Standard CMF/SVS page header (CIRCULAR or NORMA DE CARÁCTER GENERAL) — clean, concise.
-    2. REF.: line — used when no repeating standard header is present.
-
-    For CIRCULAR docs: combines the circular number with the REF.: description.
-    For NORMA docs: uses the header directly (no REF.: line present).
+    1. Standard CMF/SVS page header (CIRCULAR or NORMA DE CARÁCTER GENERAL)
+       combined with the REF.: description when available.
+    2. REF.: line only — used when no repeating standard header is present.
+    3. Minimal title derived from the file name — last-resort fallback for
+       compendium / recopilation documents that carry no header or REF line.
     """
     m = _PAGE_HEADER_RE.search(first_page_text)
 
-    # Try to find REF.: for a more descriptive title
-    ref_m = re.search(r"REF\.\s*:\s*(.+?)(?=\n(?:Para |Esta |[A-Z][a-záéíóúñü]))", first_page_text, re.DOTALL)
+    # Try to find REF.: for a more descriptive title. The marker appears as
+    # "REF.:", "REF :" or "REF:" across different document eras, so the period
+    # and surrounding spaces are optional.
+    ref_m = re.search(
+        r"REF\s*\.?\s*:\s*(.+?)(?=\n(?:Para |Esta |[A-Z][a-záéíóúñü]))",
+        first_page_text,
+        re.DOTALL,
+    )
     ref_title = None
     if ref_m:
-        ref_title = re.sub(r"\s+\d+\s*$", "", ref_m.group(1).strip())
-        ref_title = re.sub(r"\s+", " ", ref_title)
+        # Strip a trailing footnote/page number (1-3 digits) but preserve a
+        # legitimate 4-digit year that is part of the title (e.g. "... AGOSTO DE 1988").
+        ref_title = re.sub(r"\s+\d{1,3}\s*$", "", ref_m.group(1).strip())
+        ref_title = re.sub(r"\s+", " ", ref_title).strip()
 
     if m:
-        header = m.group(0).strip().replace("\n", " — ")
-        # For CIRCULAR docs, prepend the circular number to the REF.: description
-        if ref_title and "CIRCULAR" in header:
-            circ_num = re.search(r"CIRCULAR\s*N[°º]\s*(\d+)", header)
-            if circ_num:
-                # Trim REF title at first period to drop DEROGA clauses and addressee
-                short_ref = ref_title.split(".")[0].strip() if "." in ref_title else ref_title
-                return f"CIRCULAR N° {circ_num.group(1)} — {short_ref}"
-        return header
+        header = m.group(0).strip()
+        num_m = re.search(r"N[°º]\s*:?\s*([\d.]+)", header)
+        num = num_m.group(1).replace(".", "") if num_m else None
+        prefix = "CIRCULAR N°" if "CIRCULAR" in header else "NCG N°"
+        if ref_title:
+            # Trim REF title at first sentence break (period + space) to drop
+            # DEROGA clauses and addressee, without splitting numeric periods
+            # such as "19.083" or law/decree numbers. REF text sometimes opens
+            # with an enumerator ("1. REGULA ... 2.- DEROGA ..."); strip the
+            # leading enumerator and cut before the next one.
+            short_ref = re.sub(r"^\s*\d+\s*\.\-?\s*", "", ref_title)
+            short_ref = re.split(r"\s+\d+\s*\.\-?\s+", short_ref, maxsplit=1)[0].strip()
+            short_ref = re.split(r"\.\s", short_ref, maxsplit=1)[0].strip()
+            # Drop a trailing DEROGA/MODIFICA clause when it follows real content
+            # (but keep it when the whole REF *is* the derogation, e.g. a pure
+            # "DEROGA CIRCULAR N° 1127" circular).
+            clause = re.search(
+                r"\s+(?:Y\s+|,\s*)?(?:DEROGA|MODIFICA|COMPLEMENTA|REEMPLAZA|SUSTITUYE)\b",
+                short_ref,
+            )
+            if clause and clause.start() > 0:
+                short_ref = short_ref[: clause.start()].strip()
+            # Strip a dangling connector left by a truncated date/reference
+            # (e.g. "... N° 3.500, DE" -> "... N° 3.500").
+            short_ref = re.sub(r"[,;\s]+(?:DE|DEL|N[°º][\d.\s]*)\s*$", "", short_ref).strip()
+            return f"{prefix} {num} — {short_ref}" if num else short_ref
+        # No REF description: return the document reference WITHOUT the FECHA
+        # line (which must never appear in the title).
+        if num:
+            return f"{prefix} {num}"
+        return re.split(r"\s*\n?FECHA", header)[0].strip().replace("\n", " ")
 
     # Pure fallback: no repeating header, use REF.: only
     if ref_title:
         return ref_title
+
+    # Last resort: derive a minimal reference title from the file name so that
+    # compendium / recopilation documents (no header, no REF) still get an H1.
+    if source_file:
+        fn = re.match(r"(cir|ncg)_(\d+)_", source_file.lower())
+        if fn:
+            prefix = "CIRCULAR N°" if fn.group(1) == "cir" else "NCG N°"
+            return f"{prefix} {int(fn.group(2))}"
     return None
 
 
@@ -129,11 +210,21 @@ def format_table_as_markdown(table: list) -> str:
         cells = []
         for cell in row:
             cell = "" if cell is None else str(cell)
-            cell = cell.replace("\n", " ").replace("|", "\\|").strip()
+            cell = cell.replace("\n", " ").strip()
+            # Drop stray leading/trailing ruling pipes that pdfplumber sometimes
+            # captures as cell text (they would otherwise become escaped \| and
+            # break column counts).
+            cell = cell.strip("|").strip()
+            cell = cell.replace("|", "\\|")
             cells.append(cell)
         rows.append(cells)
 
     if not rows:
+        return ""
+
+    # Skip tables with no textual content at all (pdfplumber sometimes detects a
+    # ruling-only grid with empty cells, which would emit a noise table).
+    if not any(cell for row in rows for cell in row):
         return ""
 
     max_cols = max(len(r) for r in rows)
@@ -192,6 +283,13 @@ def extract_page_content(page) -> str:
             md = format_table_as_markdown(data)
             if md:
                 parts.append(md)
+            else:
+                # Grid detected but every cell was empty: recover any raw text
+                # in the table region instead of emitting an empty table.
+                region = page.crop((x0, top, x1, bottom))
+                rtxt = region.extract_text()
+                if rtxt and rtxt.strip():
+                    parts.append(rtxt.strip())
 
         prev_bottom = bottom
 
@@ -224,6 +322,8 @@ def fix_kerning_artifacts(text: str) -> str:
 
 
 def collapse_blank_lines(text: str) -> str:
+    # Remove stray lone-pipe lines (vertical rulings misread as text).
+    text = re.sub(r"(?m)^[ \t]*\|[ \t]*$\n?", "", text)
     return re.sub(r"\n{3,}", "\n\n", text)
 
 
@@ -236,6 +336,7 @@ def collapse_blank_lines(text: str) -> str:
 # raw PUA codepoints) and BEFORE equation detection (so the detector sees
 # proper Unicode operators rather than opaque PUA characters).
 _SYMBOL_FONT_MAP: dict[str, str] = {
+    "\uf020": " ",       # space (Symbol 0x20)
     "\uf021": "\u2200",  # ∀  for all
     "\uf024": "\u2203",  # ∃  there exists
     "\uf028": "(",
@@ -284,6 +385,10 @@ _SYMBOL_FONT_MAP: dict[str, str] = {
     "\uf0ba": "\u2261",  # ≡
     "\uf0bb": "\u2248",  # ≈
     "\uf0bc": "\u2026",  # …
+    "\uf0a7": "\u2022",  # •  list bullet (Symbol 0xA7)
+    "\uf0ae": "\u2192",  # →  right arrow (Symbol 0xAE)
+    "\uf0d8": "\u2022",  # •  list bullet
+    "\uf0ef": "\u2022",  # •  list bullet
     "\uf0c6": "\u2205",  # ∅
     "\uf0c7": "\u2229",  # ∩
     "\uf0c8": "\u222a",  # ∪
@@ -326,6 +431,25 @@ def map_symbol_font_chars(text: str) -> str:
         if old in text:
             text = text.replace(old, new)
     return text
+
+
+# Mathematical Alphanumeric Symbols (U+1D400–U+1D7FF): math-italic/bold variable
+# names and digits that PDFs embed in running prose. NFKC folds each to its plain
+# ASCII equivalent (e.g. 𝐶→C, 𝑘→k, 𝟎→0), keeping body text readable.
+_MATH_ALNUM_MAP: dict[int, str] = {
+    c: unicodedata.normalize("NFKC", chr(c))
+    for c in range(0x1D400, 0x1D800)
+    if unicodedata.normalize("NFKC", chr(c)) != chr(c)
+}
+
+
+def normalize_math_alphanumeric(text: str) -> str:
+    """Fold Unicode math-alphanumeric symbols to plain ASCII letters/digits.
+
+    Run *after* equation detection (which uses the math-italic range as a signal)
+    so the flagging still works, while the emitted text stays legible.
+    """
+    return text.translate(_MATH_ALNUM_MAP)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -635,6 +759,11 @@ def add_markdown_headings(text: str) -> str:
         # Skip REF: label lines
         if s.startswith("REF.:"):
             result.append(line)
+            continue
+
+        # Drop repeated page chrome that survives extraction as a standalone
+        # institutional line. These are not document headings.
+        if re.fullmatch(r"SUPERINTENDENCIA DE VALORES Y SEGUROS|COMISI[ÓO]N PARA EL MERCADO FINANCIERO", s):
             continue
 
         # Roman numeral top-level sections: "I. TITULO", "II TITULO", "III. TITULO"
@@ -1221,8 +1350,27 @@ _NCG_243_PATCHES = [
 ]
 
 
+# ─── CIR 1058 — Loan amortisation (present value of annuity) formula ─────────
+# The consolidated debt equals the annual instalment R times the present-value
+# annuity factor. In the PDF the numerator "1 - (1 + 0,01)-10" sits above the
+# denominator "0,01" on the next line, forming a fraction.
+_CIR_1058_PATCHES = [
+    (
+        re.compile(
+            r"75,77\s*=\s*R\s*\*\s*1\s*-\s*\(\s*1\s*\+\s*0,01\s*\)\s*-?10\s*\n"
+            r"0,01\s*\n",
+        ),
+        lambda m: "$$\n75{,}77 = R \\cdot \\frac{1 - (1 + 0{,}01)^{-10}}{0{,}01}\n$$\n",
+    ),
+]
+
+
 def patch_document(text: str, source_file: str) -> str:
     """Apply document-specific patches for known garbled content."""
+    if "cir_1058" in source_file.lower():
+        for pattern, replacement in _CIR_1058_PATCHES:
+            text = pattern.sub(replacement, text)
+
     if "ncg_209" in source_file.lower():
         # Replace garbled Internacional table block
         text = _INTERNACIONAL_BLOCK_RE.sub(
@@ -1288,12 +1436,316 @@ def build_metadata_header(source_file: str, title: str | None) -> str:
     )
 
 
+def _chunk_lines(lines: list[str], chunk_size: int, overlap: int) -> list[tuple[int, list[str]]]:
+    chunks: list[tuple[int, list[str]]] = []
+    if chunk_size <= 0:
+        return chunks
+
+    start = 0
+    total = len(lines)
+    step = max(1, chunk_size - max(0, overlap))
+    while start < total:
+        end = min(total, start + chunk_size)
+        chunks.append((start + 1, lines[start:end]))
+        if end >= total:
+            break
+        start += step
+    return chunks
+
+
+def _extract_json_payload(text: str) -> Any:
+    text = text.strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```$", "", text)
+    return json.loads(text)
+
+
+def _gemini_audit_chunk(
+    *,
+    api_key: str | None,
+    model: str,
+    source_file: str,
+    chunk_start_line: int,
+    chunk_lines: list[str],
+    max_retries: int = DEFAULT_GEMINI_MAX_RETRIES,
+) -> list[dict[str, Any]]:
+    numbered = "\n".join(f"{chunk_start_line + i:05d}: {line}" for i, line in enumerate(chunk_lines))
+    system_prompt = (
+        "Eres un revisor técnico de Markdown convertido desde PDFs regulatorios. "
+        "No reescribas el texto. Identifica problemas que luego puedan corregirse con reglas deterministas. "
+        "Devuelve SOLO JSON válido con la forma {\"findings\":[...]} y nada más."
+    )
+    user_prompt = (
+        f"Archivo: {source_file}\n"
+        f"Rango de líneas: {chunk_start_line}-{chunk_start_line + len(chunk_lines) - 1}\n\n"
+        "Revisa este fragmento y detecta problemas de:\n"
+        "- saltos de línea o párrafos cortados\n"
+        "- headings/títulos repetidos o incoherentes\n"
+        "- tablas mal armadas o columnas desalineadas\n"
+        "- contenido faltante, truncado o duplicado\n"
+        "- fórmulas o ecuaciones sospechosas\n\n"
+        "Cada hallazgo debe incluir estos campos:\n"
+        "- issue_type: newline|heading|table|missing_content|duplicate|equation|other\n"
+        "- severity: low|medium|high\n"
+        "- line_start: número entero\n"
+        "- line_end: número entero\n"
+        "- evidence: cita breve del fragmento\n"
+        "- deterministic_fix_hint: sugerencia concreta para una futura regla en el conversor\n"
+        "- confidence: número entre 0 y 1\n\n"
+        "Si no hay problemas, devuelve {\"findings\":[]}.\n\n"
+        f"Fragmento:\n{numbered}"
+    )
+    if not api_key:
+        raise RuntimeError("Gemini audit requires an API key via --llm-audit-api-key or GEMINI_API_KEY")
+
+    payload = {
+        "systemInstruction": {"parts": [{"text": system_prompt}]},
+        "contents": [{"role": "user", "parts": [{"text": user_prompt}]}],
+        "generationConfig": {
+            "temperature": 0,
+            "responseMimeType": "application/json",
+        },
+    }
+    data = json.dumps(payload).encode("utf-8")
+    api_url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+    req = urllib_request.Request(api_url, data=data, headers={"Content-Type": "application/json"}, method="POST")
+    last_exc: Exception | None = None
+    for attempt in range(max_retries + 1):
+        try:
+            with urllib_request.urlopen(req, timeout=120) as resp:
+                response_text = resp.read().decode("utf-8")
+            break
+        except urllib_error.HTTPError as exc:
+            last_exc = exc
+            if exc.code not in {429, 500, 502, 503, 504} or attempt >= max_retries:
+                log.warning(
+                    "Gemini audit chunk failed for %s lines %d-%d: HTTP %s",
+                    source_file,
+                    chunk_start_line,
+                    chunk_start_line + len(chunk_lines) - 1,
+                    exc.code,
+                )
+                return []
+            wait_seconds = 2 ** attempt
+            log.warning(
+                "Gemini rate-limited for %s lines %d-%d; retrying in %ds (%d/%d)",
+                source_file,
+                chunk_start_line,
+                chunk_start_line + len(chunk_lines) - 1,
+                wait_seconds,
+                attempt + 1,
+                max_retries,
+            )
+            time.sleep(wait_seconds)
+        except urllib_error.URLError as exc:
+            last_exc = exc
+            if attempt >= max_retries:
+                log.warning(
+                    "Gemini audit chunk failed for %s lines %d-%d: %s",
+                    source_file,
+                    chunk_start_line,
+                    chunk_start_line + len(chunk_lines) - 1,
+                    exc,
+                )
+                return []
+            wait_seconds = 2 ** attempt
+            log.warning(
+                "Gemini audit transient error for %s lines %d-%d; retrying in %ds (%d/%d)",
+                source_file,
+                chunk_start_line,
+                chunk_start_line + len(chunk_lines) - 1,
+                wait_seconds,
+                attempt + 1,
+                max_retries,
+            )
+            time.sleep(wait_seconds)
+    else:
+        if last_exc is not None:
+            log.warning(
+                "Gemini audit chunk failed for %s lines %d-%d after retries: %s",
+                source_file,
+                chunk_start_line,
+                chunk_start_line + len(chunk_lines) - 1,
+                last_exc,
+            )
+        return []
+
+    response = json.loads(response_text)
+    candidates = response.get("candidates", [])
+    if not candidates:
+        return []
+    content_parts = candidates[0].get("content", {}).get("parts", [])
+    if not content_parts:
+        return []
+    content = "".join(part.get("text", "") for part in content_parts if isinstance(part, dict))
+    parsed = _extract_json_payload(content)
+    findings = parsed.get("findings", []) if isinstance(parsed, dict) else []
+    if not isinstance(findings, list):
+        return []
+    normalized: list[dict[str, Any]] = []
+    for finding in findings:
+        if isinstance(finding, dict):
+            normalized.append(finding)
+    return normalized
+
+
+def audit_markdown_with_gemini(
+    markdown_text: str,
+    source_file: str,
+    *,
+    api_key: str | None,
+    model: str,
+    chunk_lines: int = DEFAULT_LLM_AUDIT_CHUNK_LINES,
+    overlap_lines: int = DEFAULT_LLM_AUDIT_OVERLAP_LINES,
+    sleep_seconds: float = DEFAULT_LLM_AUDIT_SLEEP_SECONDS,
+) -> list[dict[str, Any]]:
+    lines = markdown_text.splitlines()
+    findings: list[dict[str, Any]] = []
+    seen: set[tuple[Any, ...]] = set()
+
+    for chunk_start_line, chunk in _chunk_lines(lines, chunk_lines, overlap_lines):
+        if not chunk:
+            continue
+        chunk_findings = _gemini_audit_chunk(
+            api_key=api_key,
+            model=model,
+            source_file=source_file,
+            chunk_start_line=chunk_start_line,
+            chunk_lines=chunk,
+        )
+        for finding in chunk_findings:
+            key = (
+                finding.get("issue_type"),
+                finding.get("line_start"),
+                finding.get("line_end"),
+                finding.get("evidence"),
+                finding.get("deterministic_fix_hint"),
+            )
+            if key in seen:
+                continue
+            seen.add(key)
+            findings.append(finding)
+
+        if sleep_seconds > 0 and chunk_start_line + len(chunk) < len(lines):
+            time.sleep(sleep_seconds)
+
+    return findings
+
+
+def write_llm_audit_report(out_path: Path, findings: list[dict[str, Any]]) -> Path:
+    report_path = out_path.with_name(out_path.stem + ".llm-audit.json")
+    report_path.write_text(json.dumps({"findings": findings}, ensure_ascii=False, indent=2), encoding="utf-8")
+    return report_path
+
+
+def load_llm_audit_reports(output_dir: Path) -> list[tuple[Path, list[dict[str, Any]]]]:
+    reports: list[tuple[Path, list[dict[str, Any]]]] = []
+    for report_path in sorted(output_dir.glob("*.llm-audit.json")):
+        try:
+            payload = json.loads(report_path.read_text(encoding="utf-8"))
+        except Exception as exc:
+            log.warning("Skipping unreadable LLM audit report %s: %s", report_path.name, exc)
+            continue
+        findings = payload.get("findings", []) if isinstance(payload, dict) else []
+        if isinstance(findings, list):
+            normalized = [finding for finding in findings if isinstance(finding, dict)]
+        else:
+            normalized = []
+        reports.append((report_path, normalized))
+    return reports
+
+
+def summarize_llm_audit_reports(output_dir: Path) -> dict[str, Any]:
+    reports = load_llm_audit_reports(output_dir)
+    grouped: dict[tuple[str, str], dict[str, Any]] = {}
+
+    for report_path, findings in reports:
+        source_stem = report_path.name.removesuffix(".llm-audit.json")
+        for finding in findings:
+            issue_type = str(finding.get("issue_type", "other"))
+            fix_hint = str(finding.get("deterministic_fix_hint", "")).strip() or "(no hint)"
+            key = (issue_type, fix_hint)
+            bucket = grouped.setdefault(
+                key,
+                {
+                    "issue_type": issue_type,
+                    "deterministic_fix_hint": fix_hint,
+                    "findings": 0,
+                    "files": set(),
+                    "examples": [],
+                    "confidence_sum": 0.0,
+                },
+            )
+            bucket["findings"] += 1
+            bucket["files"].add(source_stem)
+            confidence = finding.get("confidence")
+            if isinstance(confidence, (int, float)):
+                bucket["confidence_sum"] += float(confidence)
+            if len(bucket["examples"]) < 3:
+                bucket["examples"].append(
+                    {
+                        "file": source_stem,
+                        "line_start": finding.get("line_start"),
+                        "line_end": finding.get("line_end"),
+                        "evidence": finding.get("evidence"),
+                    }
+                )
+
+    candidates: list[dict[str, Any]] = []
+    for bucket in grouped.values():
+        files = sorted(bucket["files"])
+        findings_count = bucket["findings"]
+        avg_confidence = bucket["confidence_sum"] / findings_count if findings_count else 0.0
+        candidates.append(
+            {
+                "issue_type": bucket["issue_type"],
+                "deterministic_fix_hint": bucket["deterministic_fix_hint"],
+                "findings": findings_count,
+                "files": len(files),
+                "file_samples": files[:10],
+                "examples": bucket["examples"],
+                "avg_confidence": round(avg_confidence, 3),
+            }
+        )
+
+    candidates.sort(key=lambda item: (-item["findings"], -item["files"], item["issue_type"], item["deterministic_fix_hint"]))
+    summary = {
+        "report_count": len(reports),
+        "candidate_count": len(candidates),
+        "candidates": candidates,
+    }
+    return summary
+
+
+def write_llm_audit_summary(output_dir: Path, summary: dict[str, Any]) -> Path:
+    summary_path = output_dir / "llm-audit-summary.json"
+    summary_path.write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
+    return summary_path
+
+
+def log_llm_audit_summary(summary: dict[str, Any]) -> None:
+    log.info("LLM audit reports: %d | candidate rules: %d", summary["report_count"], summary["candidate_count"])
+    for candidate in summary["candidates"][:10]:
+        log.info(
+            "  %s | %s | findings=%d files=%d avg_conf=%.3f",
+            candidate["issue_type"],
+            candidate["deterministic_fix_hint"],
+            candidate["findings"],
+            candidate["files"],
+            candidate["avg_confidence"],
+        )
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Main conversion pipeline
 # ─────────────────────────────────────────────────────────────────────────────
 
 
-def convert_file(pdf_path: Path, output_dir: Path) -> Path:
+def convert_file(
+    pdf_path: Path,
+    output_dir: Path,
+) -> Path:
     """Convert a single PDF to Markdown and write to output_dir."""
     output_dir.mkdir(parents=True, exist_ok=True)
     out_path = output_dir / (pdf_path.stem + ".md")
@@ -1309,7 +1761,7 @@ def convert_file(pdf_path: Path, output_dir: Path) -> Path:
 
             # Capture the document title from the very first page header
             if page_num == 0 and document_title is None:
-                document_title = extract_document_title(raw)
+                document_title = extract_document_title(raw, pdf_path.name)
 
             clean = remove_page_chrome(raw)
             clean = fix_kerning_artifacts(clean)
@@ -1326,7 +1778,7 @@ def convert_file(pdf_path: Path, output_dir: Path) -> Path:
     #     (avoids duplicating the heading in body text).
     if document_title and not _PAGE_HEADER_RE.search(document_title):
         full_text = re.sub(
-            r"REF\.\s*:\s*.+?(?=\n(?:Para |Esta |[A-Z][a-záéíóúñü]))",
+            r"REF\s*\.?\s*:\s*.+?(?=\n(?:Para |Esta |[A-Z][a-záéíóúñü]))",
             "",
             full_text,
             count=1,
@@ -1342,6 +1794,9 @@ def convert_file(pdf_path: Path, output_dir: Path) -> Path:
     full_text = map_symbol_font_chars(full_text)
     # 2. Detect equations (while lines are still short / individual)
     full_text = detect_and_flag_equations(full_text)
+    # 2b. Fold math-alphanumeric symbols (𝐶, 𝑘, 𝟎 …) to plain ASCII. Runs after
+    #     detection so the math-italic range can still signal formula blocks.
+    full_text = normalize_math_alphanumeric(full_text)
     # 3. Re-join wrapped paragraph lines (⚠️ blocks are non-joinable via ">" prefix)
     full_text = rejoin_wrapped_lines(full_text)
     # 4. Promote section headings
@@ -1351,11 +1806,16 @@ def convert_file(pdf_path: Path, output_dir: Path) -> Path:
 
     result = build_metadata_header(pdf_path.name, document_title) + full_text
     out_path.write_text(result, encoding="utf-8")
+
     log.info("  → %s (%d chars)", out_path, len(result))
     return out_path
 
 
-def convert_all(input_dir: Path, output_dir: Path, skip_existing: bool = False):
+def convert_all(
+    input_dir: Path,
+    output_dir: Path,
+    skip_existing: bool = False,
+):
     """Convert all PDFs in input_dir."""
     pdfs = sorted(input_dir.glob("*.pdf"))
     if not pdfs:
@@ -1393,7 +1853,45 @@ def main():
         action="store_true",
         help="Skip PDFs that already have a Markdown output",
     )
+    parser.add_argument(
+        "--llm-audit",
+        action="store_true",
+        help="[DEPRECATED] Ignored. LLM audit path is disabled.",
+    )
+    parser.add_argument(
+        "--llm-audit-api-key",
+        default=None,
+        help="[DEPRECATED] Ignored.",
+    )
+    parser.add_argument(
+        "--llm-audit-model",
+        default=None,
+        help="[DEPRECATED] Ignored.",
+    )
+    parser.add_argument(
+        "--llm-audit-chunk-lines",
+        type=int,
+        default=None,
+        help="[DEPRECATED] Ignored.",
+    )
+    parser.add_argument(
+        "--llm-audit-sleep-seconds",
+        type=float,
+        default=None,
+        help="[DEPRECATED] Ignored.",
+    )
     args = parser.parse_args()
+
+    if any(
+        [
+            args.llm_audit,
+            args.llm_audit_api_key is not None,
+            args.llm_audit_model is not None,
+            args.llm_audit_chunk_lines is not None,
+            args.llm_audit_sleep_seconds is not None,
+        ]
+    ):
+        log.warning("LLM audit flags are deprecated and currently ignored. Running deterministic conversion only.")
 
     if args.file:
         pdf_path = Path(args.file)
@@ -1402,7 +1900,11 @@ def main():
             sys.exit(1)
         convert_file(pdf_path, OUTPUT_DIR)
     else:
-        convert_all(INPUT_DIR, OUTPUT_DIR, skip_existing=args.skip_existing)
+        convert_all(
+            INPUT_DIR,
+            OUTPUT_DIR,
+            skip_existing=args.skip_existing,
+        )
 
 
 if __name__ == "__main__":

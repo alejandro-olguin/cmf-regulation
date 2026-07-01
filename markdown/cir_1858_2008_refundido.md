@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CARACTERÍSTICAS, CONDICIONES MÍNIMAS Y PROCEDIMIENTO DE AUTORIZACIÓN DE LOS PLANES DE AHORRO PARA EL FINANCIAMIENTO DE ESTUDIOS DE EDUCACIÓN SUPERIOR BAJO LA MODALIDAD DE FONDOS MUTUOS. A todas las administradoras de fondos mutuos y administradoras generales de fondos que administren fondos mutuos.
+# CIRCULAR N° 1858 — CARACTERÍSTICAS, CONDICIONES MÍNIMAS Y PROCEDIMIENTO DE AUTORIZACIÓN DE LOS PLANES DE AHORRO PARA EL FINANCIAMIENTO DE ESTUDIOS DE EDUCACIÓN SUPERIOR BAJO LA MODALIDAD DE FONDOS MUTUOS
 
-### CIRCULAR N° 1.858
-FECHA: 08.01.2008
 
 Esta Superintendencia, en uso de sus facultades legales y conforme a lo dispuesto en la Ley N° 20.027, ha resuelto impartir las siguientes instrucciones, relativas a Planes de Ahorro para la Educación Superior que ofrezcan las administradoras de fondos mutuos y administradoras generales de fondos que administren fondos mutuos.
 1. Planes de Ahorro para el Financiamiento de Estudios de Educación Superior
@@ -22,9 +20,6 @@ a) Sólo pueden ser titulares y/o beneficiarios las personas naturales, con naci
 chilena o extranjera con residencia definitiva en Chile;
 b) Si la cuenta es abierta a nombre de una persona menor de edad, éste deberá actuar a
 través de su apoderado, debidamente facultado, hasta que cumpla 18 años de edad;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.858
-FECHA: 08.01.2008
 c) Deberán incorporar en la solicitud de inversión correspondiente un cuadro o cláusula en
 la que se haga constar la expresión de voluntad inequívoca del partícipe en el sentido que sus recursos sean invertidos para efectos de constituir un plan de ahorro para el financiamiento de estudios de educación superior, en conformidad a lo dispuesto en la Ley N° 20.027. Asimismo, dicha solicitud deberá indicar con precisión el monto invertido con dicho objeto;
 d) Los titulares y/o beneficiarios de los planes de ahorro, así como cualquier persona,
@@ -39,9 +34,6 @@ aprobación de los correspondientes reglamentos internos y contratos de suscripc
 En virtud de lo establecido en el artículo 34 de la Ley 20.027, las administradoras de fondos mutuos y administradoras generales de fondos que administren fondos mutuos, pagarán, con cargo a los recursos aportados en los planes de ahorro, a las instituciones de educación superior autorizadas, los aranceles y matrículas por las carreras que los beneficiarios de los respectivos planes estén cursando y mientras permanezcan en ellas, para lo cual, el titular del plan de ahorro o su representante legal, deberá otorgar, al momento de la suscripción del contrato de cuotas, un mandato de pago y rescate de cuotas, el cual deberá contener a lo menos, la siguiente información:
 a) Individualización completa del mandante: nombres, apellidos paterno y materno, cédula
 nacional de identidad, domicilio, profesión u oficio del titular y/o beneficiario del Plan de Ahorro;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.858
-FECHA: 08.01.2008
 b) Individualización completa del mandatario: nombre, razón social, número de RUT,
 domicilio;
 c) Objetivo: rescate de cuotas para el pago de los aranceles y matrículas por las carreras
@@ -59,9 +51,7 @@ h) Lugar y fecha de otorgamiento.
 Las administradoras deberán mantener copia de los respectivos mandatos, debidamente autorizados por los beneficiarios y/o titulares de los planes de ahorro.
 ## 5. Rescates y Traspasos
 Los titulares de planes de ahorro para el financiamiento de estudios de educación superior podrán hacer rescates de cuotas, con cargo a los recursos ahorrados por los partícipes del fondo mutuo que corresponda, o la serie en su caso, de acuerdo a las políticas de rescate establecidas en sus respectivos reglamentos internos. Independiente de la moneda de la contabilidad del fondo, los recates que se realicen con motivo de estos planes de ahorro deberán ser pagados en pesos. Sin perjuicio de lo anterior, tendrán derecho a obtener el subsidio fiscal cumpliendo las condiciones establecidas en el Capitulo IV de la Ley Nº 20.027.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.858
-FECHA: 08.01.2008
+
 Asimismo, los titulares de planes de ahorro para el financiamiento de estudios de educación superior, podrán traspasar a cualquiera de las instituciones a que se refiere el artículo 29 de la Ley, la totalidad de los recursos acumulados en dichos planes, sin que por ello se pierdan los beneficios asociados a la permanencia en estos planes. Además, se deberá dejar expresa constancia de la fecha en que se suscribió el contrato de ahorro inicial, a objeto de aclarar que es continuador del mismo.
 Los respectivos traspasos sólo podrán realizarse mediante el rescate de las cuotas por parte del titular del plan o partícipe. Una vez producido el rescate, éste podrá reinvertir los recursos obtenidos en cuotas de otros fondos mutuos o, bien en otras opciones de Planes de Ahorro para el Financiamiento de Estudios de Educación Superior.
 La institución de origen no podrá obstaculizar los traspasos de recursos hacia las nuevas entidades seleccionadas.
@@ -74,10 +64,8 @@ El subsidio fiscal a que tienen derecho los partícipes de los fondos, que cumpl
 En caso que el estudiante titular y/o beneficiario del fondo haga abandono de la carrera que está estudiando y se mantengan cuotas en los planes de ahorro proveniente del subsidio fiscal, éstas deberán ser rescatadas y reembolsados al fisco de acuerdo a la instrucciones que al efecto imparta el Ministerio de Hacienda.
 ## 7. Comisiones
 Desde la fecha en que se efectué el primer pago de aranceles y matrícula, las administradoras, que mantengan fondos con planes de ahorro para financiar estudios de educación superior,
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.858
-FECHA: 08.01.2008
-podrán obtener una retribución consistente en el pago de una comisión de cargo de los titulares de los planes o partícipes, la que se denominará Comisión Especial y que podrá ser establecida por depósito periódico o por saldo, o una combinación de ambos, de acuerdo a las condiciones que se hubiere estipulado en los respectivos contratos. Todo aumento en las remuneraciones de la sociedad por su administración, entendiendo incorporada en éstas, la comisión especial antes referida, y gastos de operación que puedan atribuirse al fondo, se regirán por las normas generales aplicables a los fondos mutuos.
+4 podrán obtener una retribución consistente en el pago de una comisión de cargo de los
+titulares de los planes o partícipes, la que se denominará Comisión Especial y que podrá ser establecida por depósito periódico o por saldo, o una combinación de ambos, de acuerdo a las condiciones que se hubiere estipulado en los respectivos contratos. Todo aumento en las remuneraciones de la sociedad por su administración, entendiendo incorporada en éstas, la comisión especial antes referida, y gastos de operación que puedan atribuirse al fondo, se regirán por las normas generales aplicables a los fondos mutuos.
 La administradora no podrá cobrar comisión alguna por las transferencias de fondos provenientes de estas cuentas a una similar que se contrate en otra entidad autorizada para abrir y mantener planes de ahorro.
 ## 8. Información y Publicidad
 Las administradoras deberán informar al titular y/o beneficiario en forma anual, y a partir de los 16 años de edad del titular y/o beneficiario, semestralmente los movimientos registrados en sus respectivos planes de ahorro con indicación de los costos, la rentabilidad y volatilidad obtenida a la fecha como consecuencia de la variación de los respectivos valores cuotas, junto con una medida de riesgo objetiva. La forma en que se llevará a cabo lo anterior, deberá quedar establecida en el reglamento interno del fondo mutuo del cual se trate.
@@ -88,11 +76,8 @@ Para estos efectos, se entenderá por plan de ahorro equivalente, el fondo mutuo
 Si existieran dos o más en esa condición, los saldos antes señalados se transferirán a la sociedad administradora cuyo fondo haya obtenido la mayor rentabilidad, para un plan de ahorro para el financiamiento de estudios de educación superior, en los 2 años calendarios anteriores a la disolución o quiebra.
 Se entenderá por rentabilidad el resultado de la variación del valor cuota de los fondos calculado de acuerdo a lo señalado en el artículo 26 del Decreto Supremo de Hacienda Nº 249 de 1982.
 El traspaso comprenderá la totalidad de los fondos correspondiente a cada uno de los planes de ahorro, para el financiamiento de estudios de educación superior, y la cesión de los respectivos contratos de suscripción de cuotas celebrados con dicha institución. Además, se deberá dejar expresa constancia de la fecha en que se suscribió el contrato de ahorro inicial, a objeto de aclarar que es continuador del mismo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.858
-FECHA: 08.01.2008
+
 Se deberá indicar en los respectivos contratos de suscripción que no existen garantías estatales asociadas con la inversión de los fondos en caso de quiebra, disolución o liquidación de la administradora.
 ## 10. Normativa Fondos Mutuos
 En todas aquellas materias no reguladas por la ley Nº 20.027, el Decreto Supremo Nº 182 del Ministerio de Educación y la presente Circular, se entenderán aplicables toda la normativa vigente para los fondos mutuos.
 VIGENCIA La presente circular entra en vigencia a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

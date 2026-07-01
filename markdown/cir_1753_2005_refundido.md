@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# 1. ESTABLECE INSTRUCCIONES SOBRE PUBLICIDAD A SOCIEDADES QUE ADMINISTRAN FODNOS MUTUOS Y SOBRE INFORMACIÓN A PARTICIPES. 2. DEROGA SECCIONES A, B, C, D, Y E DE LA CIRCULAR N° 1.608 DE 2002.
+# CIRCULAR N° 1753 — ESTABLECE INSTRUCCIONES SOBRE PUBLICIDAD A SOCIEDADES QUE ADMINISTRAN FODNOS MUTUOS Y SOBRE INFORMACIÓN A PARTICIPES.
 
-### CIRCULAR N° 1.753
-FECHA: 21.06.2005
 
 Para todas las sociedades que administran fondos mutuos Esta Superintendencia, en uso de sus facultades, ha estimado conveniente dictar normas relativas a publicidad de las sociedades que administran fondos mutuos y de sus fondos mutuos y de información a los partícipes:
 #### A. NORMAS DE PUBLICIDAD
@@ -26,8 +24,7 @@ i) En toda publicidad en que se promocione la venta de cuotas, o se haga referen
 a la rentabilidad de un fondo mutuo, o a algún aspecto de su estructura de costos, esto es, comisiones de colocación, remuneración de la administradora y gastos de cargo del fondo o de la serie de cuotas, que realicen las sociedades administradoras directamente o a través de agentes colocadores, intermediarios de valores o terceros ajenos, por cualquier medio de comunicación, masivo o selectivo, se deberá indicar en forma clara y destacada la siguiente frase en forma
 textual:
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N° 1.753
-FECHA: 21.06.2005
+
 “Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas”.
 ii) En la publicidad de los fondos mutuos, que por cualquier medio de comunicación,
 masivo o selectivo, efectúen las sociedades que los administren, directamente o a través de agentes colocadores, intermediarios de valores o terceros ajenos, en que se haga mención a la rentabilidad o variabilidad del valor de sus cuotas o conceptos tales como seguridad y crecimiento, ya sea en forma expresa o implícita, deberá incluirse la siguiente frase en forma textual:
@@ -45,8 +42,7 @@ anteriormente indicado:
 - En caso que se publicite la posición de un fondo respecto de un ranking,
 esto es, comparando su rentabilidad con aquella obtenida por un grupo de fondos en igual lapso de tiempo, deberá señalarse el lugar ocupado por el fondo en ese ranking para, al menos, todos los períodos de tiempo exigidos.
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N° 1.753
-FECHA: 21.06.2005
+
 - Si se publicitare el spread de rentabilidad por un fondo respecto de la
 rentabilidad promedio lograda por un grupo de fondos en igual intervalo de tiempo, deberá indicarse el spread de rentabilidad del fondo en relación con la rentabilidad promedio del mismo grupo para, al menos, todos los períodos de tiempo señalados precedentemente.
 Además, deberá incluirse el siguiente texto de advertencia, en forma adicional a los requeridos por esta Circular:
@@ -65,8 +61,7 @@ tipo Fondos Mutuos Estructurados y que en su definición hayan adoptado las expr
 i) Deberá incorporarse en toda publicidad o promoción que se efectúe, el siguiente
 texto de advertencia, que sustituye al establecido en el numeral 2, letra ii), anterior:
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N° 1.753
-FECHA: 21.06.2005
+
 “La garantía ofrecida por el fondo no convierte esta inversión en un instrumento libre de riesgo. Infórmese sobre los requisitos y restricciones de la garantía”.
 ii) Sin perjuicio de lo dispuesto en la letra iv) del numeral 2 precedente, en la
 publicidad o promoción de fondos mutuos estructurados garantizados podrá hacerse referencia o explicitarse la rentabilidad futura garantizada, siempre que se haga mención a su vez, al plazo u otro factor al que se encuentre asociada dicha rentabilidad.
@@ -84,8 +79,7 @@ Las sociedades administradoras deberán remitir a este Servicio, un “ejemplar�
 Se entenderá como “ejemplar” al material publicitario en sí, cuando se trate de medios impresos; los textos con el contenido de dicha publicidad en caso de medios radiales, Internet u otros sistemas automatizados y una descripción detallada cronológicamente de las imágenes y del texto correspondiente, tratándose de avisos publicitarios en televisión, cine u otro medio audiovisual, debiéndose mantener en las oficinas de las administradoras, a disposición de esta Superintendencia, una cinta de video, CD o DVD con dichos avisos.
 En el caso del material realizado en medios impresos y cuando las dimensiones del ejemplar superen el “formato oficio”, éste deberá ser ajustado a dicho formato.
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N° 1.753
-FECHA: 21.06.2005
+
 Finalmente, en todas las inserciones o reportajes que a solicitud de las administradoras se realicen y sean pagados por éstas, deberá darse cumplimiento a lo dispuesto en la presente Circular, en todos aquellos puntos que les resulten de aplicación.
 #### C. REMISIÓN DE PUBLICACIONES O INSERCIONES DE PRENSA RELATIVAS A LAS SOCIEDADES ADMINISTRADORAS
 Cualquier sociedad que, en cumplimiento de la normativa de carácter general vigente, efectúe publicaciones o inserciones en la prensa por el solo hecho de ser sociedad anónima, deberá presentar un ejemplar de dicha publicación a este Servicio dentro de los plazos estipulados en las correspondientes leyes, reglamentos, normas de carácter general u otras circulares distintas de ésta.
@@ -98,8 +92,7 @@ Para estos efectos se entenderá como idéntica, aquélla publicidad que conteng
 Las sociedades administradoras deberán observar estrictamente el segundo inciso del artículo
 8° del Reglamento de Fondos Mutuos que establece que “La sociedad administradora, los intermediarios de valores y los agentes colocadores estarán obligados a mantener en sus oficinas, permanentemente a disposición del público, en la forma que determine la Superintendencia, información sobre las inversiones efectuadas a nombre del fondo”.
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N° 1.753
-FECHA: 21.06.2005
+
 Respecto a la información antes referida, ésta debe corresponder a lo menos a la indicada en la sección 2. de la Circular N° 1.581 de 17 de enero de 2002, o la que la modifique o reemplace. Dicha información no debe tener más de dos días hábiles de antigüedad.
 #### F. DEROGACION
 Deróguese las secciones A, B, C, D y E de la Circular N° 1.608 de 5 de julio de 2002.

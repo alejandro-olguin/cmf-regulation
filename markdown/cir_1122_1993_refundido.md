@@ -1325,29 +1325,8 @@ Se debe indicar el país en donde la entidad realiza operaciones que generan est
 ## ANEXO Nº 13 OBLIGACION DE INVERTIR
 (Cifras en miles de pesos) COMPAÑIA :.......................................................................................... AL : .......................................
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-
 ### TOTAL OBLIGACION DE INVERTIR RESERVAS TECNICAS
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-### TOTAL OBLIG. DE INVERTIR RES. TECNICAS Y PATRIMONIO DE RIESGO
+### TOTAL OBLIGACION DE INVERTIR RESERVAS TECNICAS TOTAL OBLIG. DE INVERTIR RES. TECNICAS Y PATRIMONIO DE RIESGO
 (*1) + (*2) = Corresponde a la suma de las cuentas 5.21.31.00, 5.21.32.00 y 5.21.33.00 su determinación se establece en circular sobre Reservas Técnicas.
 (*3) + (*4) = Corresponde a la cuenta 5.21.42.00
 (*) = Corresponde al definido en artículo 1, letra f), del D.F.L. Nº 251, de 1931.

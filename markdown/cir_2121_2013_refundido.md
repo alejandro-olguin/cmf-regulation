@@ -108,33 +108,35 @@ Se entenderá por lugar destacado a aquel visible y de fácil acceso con, a lo m
 En el lugar del sitio o página web de la compañía chilena destinado al SOAPEX deberá existir un módulo o sección específica que contenga una sección con “Información sobre este seguro”, cuyo contenido corresponderá al menos al que se establece en el formato de certificado del Anexo N° 1 de esta Circular y, junto con ello, acceso al texto completo de las condiciones generales de la póliza (o disponer de un link a éste). Además, en esta sección deberá señalarse un número de teléfono donde los interesados puedan llamar para consultar sobre la vigencia de la cobertura de un certificado en particular.
 a) Este módulo deberá contar con una aplicación que permita consultar sólo con el ingreso de la
 placa patente del vehículo, si el SOAPEX se encuentra contratado en esa compañía. La información a entregar deberá mostrarse en una sola pantalla y será estrictamente la siguiente:
- Identificación de la compañía.
- Identificación de la compañía extranjera en convenio con la compañía chilena, si corresponde.
- Número de póliza.
- Fecha de inicio y término de la vigencia del seguro.
- Número de inscripción en el Registro de Vehículos Motorizados.
- Tipo de Vehículo.
- Marca.
- Modelo.
- Año de fabricación.
- Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en letra del mismo tamaño que la utilizada en los datos del SOAPEX.
+• Identificación de la compañía.
+• Identificación de la compañía extranjera en convenio con la compañía chilena, si corresponde.
+• Número de póliza.
+• Fecha de inicio y término de la vigencia del seguro.
+• Número de inscripción en el Registro de Vehículos Motorizados.
+• Tipo de Vehículo.
+• Marca.
+• Modelo.
+• Año de fabricación.
+• Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en
+letra del mismo tamaño que la utilizada en los datos del SOAPEX.
 b) Además, deberá existir otra aplicación que permita consultar la información de un certificado
 SOAPEX, ingresando la placa patente del vehículo y otro dato del certificado. La información a entregar deberá mostrarse en una sola pantalla y será al menos la siguiente:
- Identificación de la compañía
- Identificación de la compañía extranjera en convenio con la compañía chilena, si corresponde.
- Número de póliza.
- Nombre y RUT o número del documento de identificación del tomador del seguro.
- Nacionalidad del tomador del seguro.
- Fechas de inicio y término de la vigencia del seguro
- Monto de la prima.
- Número de inscripción en el Registro de Vehículos Motorizados.
- Tipo de Vehículo.
- Marca.
- Modelo.
- Año de fabricación.
- Número de motor.
+• Identificación de la compañía
+• Identificación de la compañía extranjera en convenio con la compañía chilena, si corresponde.
+• Número de póliza.
+• Nombre y RUT o número del documento de identificación del tomador del seguro.
+• Nacionalidad del tomador del seguro.
+• Fechas de inicio y término de la vigencia del seguro
+• Monto de la prima.
+• Número de inscripción en el Registro de Vehículos Motorizados.
+• Tipo de Vehículo.
+• Marca.
+• Modelo.
+• Año de fabricación.
+• Número de motor.
 
- Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en letra del mismo tamaño que la utilizada en los datos del SOAPEX.
+• Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en
+letra del mismo tamaño que la utilizada en los datos del SOAPEX.
 La información a entregar en cualquiera de las dos aplicaciones deberá ser proporcionada mientras las obligaciones de la compañía de seguros estén vigentes, independientemente de la fecha de término de la vigencia de la póliza.
 ### 5.2 Presencia regional
 En el mismo lugar del sitio o página web de la compañía destinado al SOAPEX, deberá informar las regiones y dentro de éstas las ciudades, en las cuales tiene oficinas de atención de público que reciban y tramiten denuncias del SOAPEX.

@@ -87,47 +87,11 @@ Número Registro Auditores Externos SVS Deberá indicarse el número de registro
 | INFORMACIÓN GENERAL SOBRE LOS ESTADOS FINANCIEROS |
 | --- |
 | 4.10.01.00 Período de Presentación 4.10.02.00 Razón Social 4.10.03.00 RUT 4.10.04.00 Giro y Objeto Social 4.10.05.00 Domicilio 4.10.06.00 Principales cambios societarios de fusiones y adquisiciones 4.10.07.00 Grupo Económico 4.10.08.00 Sociedades incluidas en la consolidación 4.10.08.01 Nombre de la sociedad subsidiaria incluida en la consolidación 4.10.08.02 RUT de la sociedad subsidiaria incluida en la consolidación 4.10.08.03 País de la sociedad subsidiaria incluida en la consolidación 4.10.08.04 Porcentaje de participación directo 4.10.08.05 Porcentaje de participación indirecto 4.10.08.06 Porcentaje de participación total 4.10.09.00 Nombre de la Sociedad controladora 4.10.09.01 Rut de la Sociedad controladora 4.10.10.00 Nombre de la controladora última del grupo 4.10.10.01 Rut de la controladora última del grupo 4.10.11.00 Actividades principales 4.10.12.00 Fecha de escritura de constitución 4.10.13.00 Notaría de otorgamiento escritura de constitución 4.10.14.00 Nº de Resolución Exenta que otorga la inscripción en el registro especial de agentes administradores de mutuos hipotecarios 4.10.15.00 Fecha de inscripción en registro especial de agentes administradores de mutuos hipotecarios 4.10.16.00 Código de Inscripción 4.10.17.00 N° Registro de Valores Accionistas o Socios 4.10.18.00 Nombre de Accionista 4.10.19.00 RUT accionista o Socio 4.10.20.00 Tipo de persona 4.10.21.00 Porcentaje de propiedad 4.10.22.00 Auditores Externos 4.10.23.00 Número Registro Auditores Externos SVS |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
 especial de agentes administradores de mutuos hipotecarios
 4.10.15.00 Fecha de inscripción en registro especial de agentes administradores
 de mutuos hipotecarios
 
-|  |
-| --- |
-|  |
-
 Accionistas o Socios
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
 
 ## ANEXO N° 2 FORMATO DE LOS ESTADOS FINANCIEROS
 ## ANEXO N° 2 FORMATO DE LOS ESTADOS FINANCIEROS ESTADO DE SITUACIÓN FINANCIERA
@@ -1893,28 +1857,6 @@ de cada ejercicio, a valores neto y bruto en el siguiente cuadro:
 | Mejoras de Bienes Arrendados, Neto |
 | Otras Propiedades, Planta y Equipo, Neto |
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 Total Propiedades, Planta y Equipo, Neto 0 0 Clases de Propiedades, Planta y Equipo, Bruto DD-MM-AAAA DD-MM-AAAA-1
 (Presentación) M$ M$
 
@@ -1923,28 +1865,6 @@ Total Propiedades, Planta y Equipo, Neto 0 0 Clases de Propiedades, Planta y Equ
 | Terrenos, Bruto |
 | Edificios, Bruto |
 | Planta y Equipo, Bruto |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
 
 | Instalaciones Fijas y Accesorios, Bruto |
 | --- |
@@ -1969,24 +1889,6 @@ Total Propiedades, Planta y Equipo, Bruto 0 0
 | Depreciación Acumulada y Deterioro de Valor, Vehículos de Motor |
 | Depreciación Acumulada y Deterioro de Valor, Mejoras de los Bienes Arrendados |
 | Depreciación Acumulada y Deterioro Del Valor, Otros (*) |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
 
 Depreciación Acumulada y Deterioro de Valor, Propiedades, Planta y Equipo, Total 0 -
 (*) Se deberá aperturar este monto si supera el 5% del total del rubro.

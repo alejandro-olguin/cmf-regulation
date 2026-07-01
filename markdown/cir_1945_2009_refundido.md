@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1945 — IMPARTE NORMAS SOBRE DETERMINACIÓN DE LA UTILIDAD LÍQUIDA DEL EJERCICIO Y TRATAMIENTO DE AJUSTES DE PRIMERA APLICACIÓN EN EL RESULTADO ACUMULADO PARA ENTIDADES QUE EMITAN SUS ESTADOS FINANCIEROS BAJO IFRS
+# CIRCULAR N° 1945 — IMPARTE NORMAS SOBRE DETERMINACIÓN DE LA UTILIDAD LÍQUIDA DEL EJERCICIO Y TRATAMIENTO DE AJUSTES DE PRIMERA APLICACIÓN EN EL RESULTADO ACUMULADO PARA ENTIDADES QUE EMITAN SUS ESTADOS FINANCIEROS BAJO IFRS.
 
 
 Para todas las sociedades inscritas en el Registro de Valores con excepción de las compañías de seguros.
@@ -16,7 +16,6 @@ Tratándose de la política adoptada para el cálculo de la utilidad líquida di
 En junta ordinaria de accionistas se deberá informar la política utilizada para la determinación de la utilidad líquida distribuible, correspondiente a los estados financieros anuales que se aprueben en dicha junta. Adicionalmente, los ajustes que se realicen deberán ser informados detalladamente en la misma junta.
 Cabe señalar que si la empresa opta por efectuar lso ajustes señalados, deberá cumplir co lo
 siguiente:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 a) Será responsabilidad de la administración determinar la utilidad líquida e implementar las
 medidas necesarias para el adecuado control de los resultados no realizados y la fecha en que éstos se realicen.
 b) En nota explicativa a los estados financieros anuales, debidamente auditados. Se deberá
@@ -29,4 +28,3 @@ Finalmente, el saldo neto de los ajustes de primera aplicación también podrá 
 Cabe señalar que la opción determinada por el directorio para el tratamiento de los ajustes de primera aplicación, deberá ser informada en la junta ordinaria de accionistas que apruebe los primeros estados financieros anuales de acuerdo a IFRS y en caso que justificadamente se requiera una variación en dicha política, ella deberá ser informada a este Servicio tan pronto el directorio adopte tal decisión.
 También en junta ordinaria de accionistas, cuando corresponda, se deberá informar qué parte de la utilidad acumulada proveniente de los ajustes de primera aplicación se encuentra realizada y por lo tanto, susceptible de ser distribuida como dividendo eventual.
 Adicionalmente, en nota explicativa a los estados financieros anuales, debidamente auditados, se deberá informar detalladamente las utilidades acumuladas que se realicen, provenientes de los ajustes de primera aplicación, señalando el alcance del concepto de realización. Será responsabilidad de la administración, la implementación de las medidas para el adecuado control de los saldos provenientes de los ajustes de primera aplicación realizados y por realizar.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

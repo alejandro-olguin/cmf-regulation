@@ -14,4 +14,3 @@ La referida sociedad quedará comprendida dentro del Registro Especial de Entida
 No obstante lo anterior, a la sociedad administradora le serán aplicables los requerimientos de información establecidos en la sección II de la Norma de Carácter General N° 30 y sus modificaciones posteriores.
 ### III.- VIGENCIA
 La presente Norma de Carácter General rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

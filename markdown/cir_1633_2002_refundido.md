@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# 1. ESTABLECE MODELO ESTANDARIZADO DE REGLAMENTO INTERNO Y CONTRATO DE SUSCRIPCIÓN DE CUOTAS DE FONDOS MUTUOS. DEROGA CIRCULAR N° 1.219 DEL 29.05.95 Y LETRA F. DE LA CIRCULAR N° 1.608 DEL 05.07.02. 2. DEFINE PROCEDIMIENTO DE APROBACIÓN DE LOS REFERIDOS ANTECEDENTES.
+# CIRCULAR N° 1633 — ESTABLECE MODELO ESTANDARIZADO DE REGLAMENTO INTERNO Y CONTRATO DE SUSCRIPCIÓN DE CUOTAS DE FONDOS MUTUOS
 
-### CIRCULAR N° 1.633
-FECHA : 02.12.2002
 
 Para todas las sociedades administradoras de fondos mutuos y administradoras generales de fondos Esta Superintendencia, en uso de sus facultades legales y en virtud de lo dispuesto en el artículo 4° del D.S. N° 249, imparte las siguientes instrucciones en relación a la forma en que se procederá a la aprobación de reglamentos internos y textos de contratos de suscripción de cuotas de fondos mutuos, así como, de sus posteriores modificaciones:
 ## I. INSTRUCCIONES
@@ -19,9 +17,7 @@ www.svs.cl/sitio/html/seil/formularios/fondos_mutuos/inst_rfm.pdf.
 cuotas.
 El formulario de modificación del reglamento interno y el contrato de suscripción de cuotas deberán ajustarse al formato presentado en el Anexo 3 y Anexo 4, respectivamente, de la presente Circular y estructurarse en virtud a las instrucciones dispuestas en las correspondientes notas. Asimismo, las sociedades administradoras deberán completar en dichos formularios, únicamente las categorías que sean objeto de modificaciones, sin perjuicio de la descripción explicativa que incluyan en las respectivas cartas de presentación.
 Por su parte, las señaladas cartas deberán incluir una declaración de responsabilidad del gerente general de la sociedad administradora, respecto de la veracidad de la información contenida en ellas y de que las modificaciones indicadas, son las únicas que se introducen y que efectivamente éstas corresponden a las contenidas en el texto del reglamento interno y/o contrato de suscripción de cuotas cuya aprobación se solicita.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ## 3. Contenido y formato de los reglamentos internos
 Los reglamentos internos de los fondos mutuos deberán ajustarse al formato presentado en el Anexo 1 de la presente Circular y estructurarse de acuerdo a las instrucciones dispuestas en las correspondientes notas, incluyendo la información allí indicada. Para estos efectos, la sociedad administradora deberá tener en cuenta el tipo de fondo del cual se trate, conforme a lo dispuesto en el Circular N° 1.578 de 2002 o aquella que la modifique o la reemplace.
 ## 4. Contenido y formato de los contratos de suscripción de cuotas
@@ -37,18 +33,14 @@ Derógase, a contar del 1 de enero de 2003, fecha de entrada en vigencia de la p
 ## IV DISPOSICIÓN TRANSITORIA
 Para los fondos que a la fecha de dictación de la presente Circular se encuentren en operación, las disposiciones aquí establecidas deberán ser consideradas en la próxima modificación a los reglamentos internos o contratos de suscripción de cuotas que las sociedades administradoras presenten para su aprobación a esta Superintendencia, a partir del 1 de enero de 2003. En consecuencia, hasta el 31 de diciembre del presente año, las sociedades administradoras deberán continuar presentando los antecedentes para aprobación, mediante el procedimiento actualmente vigente.
 Sin perjuicio de lo anterior, el plazo máximo para adecuar los reglamentos internos y contratos de suscripción de cuotas de fondos mutuos, al formato dispuesto en esta Circular, será el siguiente, conforme sea el tipo de fondo del cual se trate:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 - Fondos Mutuos de Inversión en Instrumentos de Deuda de Corto Plazo con Duración
 Menor o Igual a 90 días y Fondos Mutuos de Inversión en Instrumentos de Deuda de Corto Plazo con Duración Menor o Igual a 365 días: 31 de julio de 2003.
 - Fondos Mutuos de Inversión en Instrumentos de Deuda de Mediano y Largo Plazo: 30
 de septiembre de 2003.
 - Fondos Mutuos que se definan como del tipo 4 al 8, según Circular N° 1.578: 30 de
 noviembre de 2003.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ANEXO
 ### MODELO DE REGLAMENTO INTERNO DE FONDOS MUTUOS
 REGLAMENTO INTERNO DE (Denominación del Fondo) Aprobado por Resolución Exenta Nº____ de fecha ___/___/___1 Este documento recoge las características esenciales del fondo que se indica. No obstante, dichas características pueden ser modificadas en el futuro, previa aprobación de la Superintendencia de Valores y Seguros.
@@ -59,9 +51,7 @@ Los fondos mutuos y sus sociedades administradoras se rigen por las disposicione
 Nombre del Fondo : __________________________________________________ Tipo de Fondo 2 : __________________________________________________ Sociedad Administradora : __________________________________________________
 ## III. INFORMACIÓN SOBRE LA SOCIEDAD ADMINISTRADORA
 (Denominación de la sociedad administradora), en adelante “la Administradora”, se constituyó por escritura pública de fecha ___/___/___, otorgada en la notaría de ______________ de don____________. Su existencia fue autorizada por Resolución Exenta Nº________ de fecha___/___/___, de la Superintendencia de Valores y Seguros. La Administradora se encuentra inscrita en el Registro de Comercio de____________ a fojas número_____________ del año________.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ## IV. CARACTERÍSTICAS DEL FONDO
 ## 1. Política de Inversión
 ### 1.1 Objetivo3
@@ -78,9 +68,6 @@ _______________________________________________________________________
 | --- |
 |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
 ## 2. Características de la Garantía 11
 a) Objeto : __________________________
 b) Entidad garante : __________________________
@@ -98,9 +85,7 @@ _______________________________________________________________________
 c) Gastos de cargo del fondo 14
 _______________________________________________________________________
 _______________________________________________________________________
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ## 4. Suscripciones y Rescates
 a) Condiciones generales
 1. El fondo será avaluado diariamente de acuerdo a la legislación vigente y los aportes se
@@ -120,9 +105,7 @@ Sin perjuicio de lo anterior, el partícipe podrá programar rescates, caso en e
 Los rescates se solicitarán de la siguiente forma 21: _________________________________
 ___________________________________________________________________________ Si la solicitud de rescate es presentada antes del cierre de operaciones del fondo, en la liquidación de la solicitud de rescate se utilizará el valor de la cuota correspondiente a la fecha de recepción de dicha solicitud o a la fecha en que se dé curso al rescate, si se trata de un rescate programado. Si la solicitud de rescate es presentada con posterioridad al cierre de operaciones del fondo, se utilizará el valor de la cuota del día siguiente al de la fecha de recepción.
 Tanto para efectos de la suscripción de cuotas como para el rescate de las mismas, se considerará como hora de cierre de operaciones del fondo________________ 22.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 El pago de los rescates se hará en dinero efectivo en_____________________ 23, dentro de un plazo no mayor de_________ días corridos/ hábiles / hábiles bancarios contado desde la fecha de presentación de la solicitud pertinente, o desde la fecha en que se dé curso al rescate si se trata de un rescate programado, pudiendo la administradora hacerlo en valores del fondo cuando así sea exigido o autorizado por la Superintendencia de Valores y Seguros.
 Tratándose de rescates que alcancen montos que representen un porcentaje igual o superior a un___% del valor del patrimonio del fondo y/o__________________________________________,24 se pagarán dentro del plazo de________ días corridos/ hábiles /hábiles bancarios contado desde la fecha de presentación de la solicitud de rescate, o de la fecha en que se dé curso al rescate, si se trata de un rescate programado. Para estos efectos, se considerará el valor del patrimonio del fondo correspondiente al día anterior a la fecha de solicitud de rescate o a la fecha en que se curse el rescate, si se trata de un rescate programado.
 Asimismo, cuando la suma de todos los rescates efectuados por un partícipe en un mismo día, sea igual o superior al monto precedentemente señalado, la administradora pagará los siguientes rescates de cuotas que, cualquiera sea su cuantía, efectúe el mismo partícipe dentro del mismo día, dentro del plazo de _____ días corridos/ hábiles / hábiles bancarios contado desde la fecha de presentada la solicitud de rescate o desde la fecha en que se dé curso al rescate si se trata de un rescate programado.25
@@ -135,9 +118,7 @@ d) Período de comercialización inicial: ______________________________________
 Cualquier modificación que en el futuro se introduzca en el presente reglamento, con el fin de e aumentar la remuneración de la sociedad administradora y los gastos de operación que pueda n atribuirse al fondo, una vez aprobada por la la Superintendencia, será comunicada al mercado por rr medio de la publicación de un aviso destacado en el diario________________ o, en ausencia de e éste, en el Diario Oficial. La modificación comenzará a regir luego de 15 días contados a partir de a la fecha de la publicación.
 Asimismo, cualquier modificación que se introduzca a este reglamento, con motivo de un cambio n en (el nombre, tipo o definición, o en la política de inversiones), una vez aprobada por la a Superintendencia, será comunicada al público en la misma forma antes señalada y comenzará a a regir una vez transcurrido igual plazo. Además, en una fecha no posterior a la publicación n del aviso, la sociedad administradora informará las modificaciones directamente a los partícipes , por
 ____________________27. La información especificará el contenido de cada uno de los s cambios que se introduzcan al presente reglamento interno. 28
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ## 7. Otros aspectos relevantes
 a) Contabilidad
 La contabilidad del fondo se llevará en___________ 29, razón por la cual tanto los activos, los s pasivos y el valor del patrimonio del fondo se expresarán en esa moneda, independientemente de la moneda en la cual se efectúen las inversiones de los recursos del fondo.
@@ -156,9 +137,7 @@ ____________________________________________________________________________
 e) Otros
 ____________________________________________________________________________
 ____________________________________________________________________________
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ANEXO
 ### MODELO DE CONTRATO DE SUSCRIPCIÓN DE CUOTAS DE FONDOS MUTUOS CONTRATO DE SUSCRIPCIÓN DE CUOTAS
 Nº___________ Contrato de aporte para los fondos mutuos: 36 Fecha ______ Hora_______
@@ -175,9 +154,7 @@ inversión, éste ha sido reducido en _________.43
 ______ Instrumento o valor de ahorro acogido a la letra A.- del artículo 57 bis de la Ley de Impuesto a la Renta, con derecho a rebajar impuestos al ahorrar y con la obligación de reintegrar impuestos cuando corresponda , por las cantidades retiradas por las cifras o saldos de ahorro netos negativos o determinados.
 ______ Instrumento o valor de ahorro acogido para efectos de constituir un plan de ahorro previsional voluntario, en conformidad a lo dispuesto en el D.L. 3.500. (Aplicable a los Fondos____________________) 45
 ______ Ninguna de las anteriores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 Condiciones generales Declaro que he sido debidamente informado de lo siguiente:
 a) Que el aporte neto pasará a formar parte del activo del Fondo, el cual será administrado
 libremente por la sociedad administradora e invertido conforme al Reglamento Interno del Fondo y a las demás disposiciones legales y reglamentarias aplicables a los fondos mutuos y sus futuras modificaciones. La sociedad deberá inscribir mi participación en el Registro de Partícipes que para el efecto lleva, dejando constancia de la cantidad de cuotas de que soy titular.
@@ -200,9 +177,7 @@ Asimismo, declaro que se me ha explicado claramente la política de inversiones 
 j) Que la sociedad administradora puede efectuar, unilateralmente, modificaciones tanto al
 reglamento interno del fondo, como al texto del presente contrato de suscripción de cuotas, en los términos señalados en el número 6. de la seción IV del reglamento interno y según la normativa vigente.
 k) (Otros) 50
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 (1) Porcentaje de Remuneración Anual 51
 (2 Comisiones de Colocación 52
 (3) Plazos Máximos para el Pago de los Rescates 53 Aceptación: Habiendo recibido la cantidad de dinero y en la forma indicada precedentemente, esta Sociedad Administradora acepta la participación del solicitante en el Fondo Mutuo __________ y procede a su inscripción en el Registro de Partícipes y declara que cumplirá con todas las normas legales y reglamentarias relativas a los partícipes y que ejecutará los mandatos que por este instrumento le confieren. Si la cantidad de dinero antes indicada incluye cheques, la aceptación se producirá cuando el valor de estos documentos sean percibidos por la Sociedad Administradora, de parte del Banco librado, para lo cual deberá presentarlos a cobro tan pronto como la hora de su recepción lo permita.
@@ -210,9 +185,7 @@ ______________________ 54 ________________________55
 ______________56 Nombre partícipe:______________57
 ______________ 58 RUT:______________59
 ______________ 60
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ANEXO
 ### FORMULARIO DE MODIFICACIÓN REGLAMENTO INTERNO
 ## 1. Modificaciones al Reglamento Interno
@@ -234,9 +207,7 @@ o Política de Inversión
 ◊ Entidad garante
 ◊ Beneficiarios
 ◊ Condicionamiento de su efectividad
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ◊ Forma y plazo de pago
 ◊ Otros datos de interés o Remuneración de la administradora y gastos de cargo del fondo
 ◊ Remuneración de la sociedad administradora
@@ -254,9 +225,7 @@ FECHA : 02.12.2002
 ◊ Aspecto tributario
 ◊ Contratación de servicios externos
 ◊ Otros
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ANEXO
 ### FORMULARIO DE MODIFICACIÓN CONTRATOS DE SUSCRIPCIÓN DE CUOTAS
 ## 1. Modificaciones al Contrato de Suscripción de Cuotas
@@ -270,13 +239,9 @@ ____________________ 98 o Porcentaje de Remuneración Anual o Comisiones de Colo
 (cid:0) Otros
 (cid:0) ANEXO 1. Autorización Inversión Periódica o Para fondos mutuos. ___________99 o Otros
 (cid:0) ANEXO 2. Suscripción Y Rescate De Cuotas A Través De Sistemas De Transmisión Remota o Para fondos mutuos. ____________100 o Aceptación o Sistemas a utilizar o Aspectos relevantes del sistema a utilizar o Declaración de responsabilidades o Otros”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ANEXOS Al CONTRATO
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ANEXO
 ### AUTORIZACIÓN INVERSIÓN PERIÓDICA
 Para fondos mutuos: 61 _______________ _______________
@@ -293,9 +258,7 @@ ______________________ 67 ________________________68
 ______________69 Nombre partícipe:______________70
 ______________ 71 RUT:______________72
 ______________ 73
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ANEXO
 ### SUSCRIPCIÓN Y RESCATE DE CUOTAS A TRAVÉS DE SISTEMAS DE TRANSMISIÓN REMOTA
 Para fondos mutuos: 74 _______________ _______________
@@ -312,9 +275,7 @@ ______________________ 80 ________________________81
 ______________82 Nombre partícipe:______________83
 ______________ 84 RUT:______________85
 ______________ 86
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 ### NOTAS EXPLICATIVAS
 1 Corresponde a la Resolución Exenta mediante la cual la Superintendencia aprobó las últimas
 modificaciones y texto refundido del reglamento interno del fondo.
@@ -347,10 +308,8 @@ previa aprobación de la Superintendencia de Valores y Seguros, lo que se inform
 El cambio de clasificación podría implicar cambios en los niveles de riesgos asumidos por el fondo en su política de inversiones”.
 - “Lo anterior no obsta a que antes de __________, este fondo pueda cambiar de
 clasificación, previa aprobación de la Superintendencia de Valores y Seguros, lo que se informará al público en la forma establecida en el número 6 de la sección IV del presente
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
-reglamento. El cambio de clasificación podría implicar cambios en los niveles de riesgos asumidos por el fondo en su política de inversiones”.
+19 reglamento. El cambio de clasificación podría implicar cambios en los niveles de riesgos
+asumidos por el fondo en su política de inversiones”.
 - “Durante su vigencia este fondo no cambiará de clasificación.”
 3 Se deberá especificar cuál es el objetivo general que busca alcanzar el fondo a través de
 la implementación de su política de inversiones . En caso de que se trate de un Fondo Mutuo Estructurado, ya sea Garantizado o no, se deberán también señalar cuáles serían las condiciones bajo las cuales no se podría otorgar al partícipe las condiciones de rentabilidad ofrecidas.
@@ -374,9 +333,7 @@ instrumentos de deuda de mediano y largo plazo e instrumentos de capitalización
 En todo caso, la inversión en instrumentos de capitalización deberá ser, a lo menos, de un ____% del valor de los activos del fondo”.
 - Si es tipo 6: “El fondo podrá invertir libremente en instrumentos de deuda de corto
 plazo, en instrumentos de deuda de mediano y largo plazo o en instrumentos de capitalización, ajustándose, en todo caso, a lo dispuesto en la política de diversificación de las inversiones, contenida en la letra d) siguiente.”
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 - Si es tipo 7 u 8: podrán definirse como cualquiera de los anteriores, debiendo, en
 tal caso, incorporar el párrafo correspondiente al tipo que se escoja.
 b) Segundo párrafo: se deberá incorporar el siguiente texto:
@@ -395,9 +352,7 @@ más de una opción, según corresponda:
 (3) “El fondo podrá invertir en instrumentos de los señalados en el primer párrafo, de emisores nacionales, aún cuando no hubieren sido sometidos a clasificación de riesgo”.
 (4) “La clasificación de riesgo de la deuda soberana del país de origen de los valores emitidos o garantizados por un Estado extranjero o banco central, en los cuales invierta el fondo, deberá ser a lo menos equivalente a la categoría____, a que se refiere el inciso segundo del artículo 88 de la Ley Nº18.045. Esto, conforme a lo dispuesto en la Circular Nº1.217 de 1995, o la que la modifique o la reemplace.”
 (5) “Los valores emitidos o garantizados por entidades bancarias extranjeras o internacionales en los que invierta el fondo deberán contar con una clasificación de riesgo equivalente a ___,___ o superiores a éstas, a que se refieren los incisos segundo y tercero del artículo 88 de la Ley Nº18.045.”
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 (6) “Los títulos de deuda de oferta pública, emitidos por sociedades en los que invierta el fondo deberán contar con una clasificación de riesgo equivalente a
 ___,___ o superiores a éstas, a que se refieren los incisos segundo y tercero del artículo 88 de la Ley Nº18.045.”
 (7) “El fondo podrá invertir en instrumentos de los señalados en el primer párrafo, de emisores extranjeros, aún cuando no hubieren sido sometidos a clasificación de riesgo”.
@@ -420,10 +375,8 @@ a) Primer párrafo: se deberá señalar si la administradora, por cuenta del fon
 celebrar contratos de derivados, de aquellos autorizados por el artículo 13 del D.L. Nº
 1.328 , indicándose, además, el objetivo de la realización de este tipo de operaciones y
 sus características relevantes (ej.: activos objeto, límites de inversión, etc.). Esto, en
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
-conformidad con lo dispuesto en la Norma de Carácter General N°71 o aquella que la reemplace.
+22 conformidad con lo dispuesto en la Norma de Carácter General N°71 o aquella que la
+reemplace.
 b) Segundo párrafo: se deberá indicar si la administradora, por cuenta del fondo, podrá
 realizar operaciones de venta corta y préstamo de acciones en las cuales estén autorizados a invertir, señalando cuál será su política de ventas cortas. Esta política, en todo caso, deberá incluir las siguientes menciones:
 1. Características generales de los emisores sobre los cuales se realizarán este tipo
@@ -443,10 +396,8 @@ c) Tercer párrafo: no obstante lo señalado en los dos párrafos precedentes, s
 contempla la posibilidad de realizar operaciones con instrumentos derivados y/o actuar como vendedor en corto de acciones, se deberán incorporar las siguientes advertencias, según sea la finalidad con la cual se efectúen dichas operaciones:
 1. Cuando la finalidad de las operaciones se limite a la estricta cobertura de riesgos:
 “Este fondo tiene previsto operar con instrumentos financieros derivados con la finalidad de cobertura de los riesgos asociados a sus inversiones de contado. El uso de instrumentos financieros derivados, incluso como cobertura de otras inversiones, también conlleva riesgos, como la posibilidad de que haya una
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
-correlación imperfecta entre el movimiento del valor de los contratos de derivados y las inversiones objeto de cobertura, lo que puede dar lugar a que ésta no tenga todo el éxito previsto.”
+23 correlación imperfecta entre el movimiento del valor de los contratos de derivados
+y las inversiones objeto de cobertura, lo que puede dar lugar a que ésta no tenga todo el éxito previsto.”
 2. En caso de que la finalidad de las operaciones se amplíe a la inversión, el párrafo
 anterior se sustituirá por el siguiente: “Este fondo tiene previsto operar con instrumentos financieros derivados y actuar como vendedor en corto de acciones, con la finalidad de cobertura y como inversión. Estos instrumentos implican riesgos adicionales a los de las inversiones de contado por el apalancamiento que conllevan, lo que les hace especialmente sensibles a las variaciones de precio del activo subyacente y puede multiplicar las pérdidas y ganancias de valor de la cartera.”
 d) Cuarto párrafo: se deberá señalar si la administradora, por cuenta del fondo, podrá
@@ -460,9 +411,7 @@ Asimismo, en caso de que se trate de un fondo cuya política de inversiones cons
 instrumento, respecto de su activo total. De ser necesario, conforme sean los valores específicos en los cuales podrá invertir el fondo, se podrá incluir la política de diversificación con relación a otras variables, tales como, distribución geográfica de las inversiones, distribución por sector económico, etc. En este sentido, se deberá establecer el porcentaje máximo del activo del fondo a invertir por tipo de instrumento, pudiendo, en todo caso la sociedad administradora establecer un mínimo. Ahora bien, si el nombre del fondo hace referencia explícita a aspectos, tales como, sectores específicos, áreas geográficas, actividades, etc., se deberá señalar obligatoriamente cuál será el porcentaje mínimo del activo del fondo que se invertirá en dichos sectores o áreas específicas.
 Además, en esta sección se deberá señalar, cuando corresponda, la condición de que a lo menos el 90% de los activos del fondo se destinará a la inversión en acciones con presencia bursátil. Esto, en caso de que el fondo, conforme a su tipología, pueda invertir en acciones, pueda hacerlo en esa magnitud y la administradora estime favorable el posibilitar que los rescates de las cuotas del fondo puedan acogerse a la exención tributaria a que se refiere el artículo 18º ter de la Ley de Impuesto a la Renta.
 Finalmente, en caso de que se trate de un Fondo Mutuo Dirigido a Inversionistas Calificados y que dentro de su política de diversificación de inversiones contemple la posibilidad de invertir menos del 50% de su activo en títulos de transacción bursátil, en depósitos o títulos emitidos o garantizados hasta su total extinción por bancos u otras instituciones financieras o por el
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 Estado, en cuotas de fondos mutuos, en monedas o en otros valores que determine la Superintendencia, conforme a lo dispuesto en inciso primero del numeral 2. del artículo13 del D.L. Nº 1.328, deberá incluir la siguiente advertencia:
 “Según se observa en la política de diversificación de las inversiones, este fondo puede realizar inversiones significativas en valores sin transacción bursátil, lo que supone asumir riesgos adicionales en relación con las inversiones en valores con transacción bursátil, por la inexistencia de un mercado que asegure la liquidez del instrumento.” Asimismo, en caso de que se trate de un Fondo Mutuo Dirigido a Inversionistas Calificados que dentro de su política de diversificación de las inversiones contemple la posibilidad de invertir más del 10% de su activo total, en acciones de sociedades anónimas abiertas que no cumplan con las condiciones para ser consideradas de transacción bursátil, deberán incorporar la
 siguiente advertencia:
@@ -480,9 +429,6 @@ a) En caso de remuneración única:
 administradora será de un ___% anual más IVA, la que se aplicará al monto que resulte de agregar al valor neto diario del fondo antes de remuneración, los rescates que corresponda liquidar ese día, es decir, aquellos rescates solicitados antes del cierre de operaciones del fondo.”
 - Si el fondo es tipo 2 al 6 o se define como tal: “La remuneración de la sociedad
 administradora será de un ___% anual más IVA, la que se aplicará al monto que resulte de deducir del valor neto diario del fondo antes de remuneración, los aportes recibidos antes del cierre de operaciones del fondo y de agregar los rescates que corresponda liquidar en el día, esto es, aquellos rescates solicitados antes de dicho cierre.”
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
 b) En caso de remuneración diferenciada por serie, por cada serie se podrá señalar lo
 siguiente:
 - Si el fondo es tipo 1 o se define como tal: “La remuneración de la sociedad
@@ -504,9 +450,7 @@ en la moneda que se indique en el número 1 de esta letra. Este texto correspond
 Serie Valor cuota inicial
 _____ ________________
 _____ ________________”
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 18 Se deberá señalar alguna de las siguientes alternativas, según sea el tipo de fondo de que se
 trate:
 1. día anterior al de la recepción: si se trata de un Fondo Mutuo de Inversión en
@@ -532,10 +476,7 @@ Estructurado, sea Garantizado o no.
 conformidad con lo dispuesto en el artículo 8º del D.S. Nº 249.
 28 Este párrafo, de carácter opcional, deberá incorporarse, en forma destacada, en caso de que
 se considere que la sociedad administradora, en el futuro, pueda incorporar cambios a una o
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
-más de las materias indicadas, en conformidad con lo dispuesto en el artículo 8º del D.S.
+27 más de las materias indicadas, en conformidad con lo dispuesto en el artículo 8º del D.S.
 Nº 249.
 29 Se deberá indicar la moneda en la cual se llevará la contabilidad del fondo.
 30 Esta letra deberá ser incorporada, sólo en caso de que el fondo espere repartir beneficios.
@@ -561,9 +502,7 @@ inversionista que adquirirá las cuotas del fondo, haciéndose referencia, al me
 que suscribe las cuotas del fondo. La sociedad administradora podrá incorporar otros campos, haciendo referencia al teléfono, dirección de correo electrónico, etc.
 42 En este campo se deberá indicar, en el momento en que se efectúe la operación, la forma en
 que el inversionista enterará su aporte; esto es, dinero efectivo, vale vista, cheque, etc.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 43 Al momento de efectuar la inversión, en este campo deberá señalarse el monto en la moneda
 que corresponda. Esto, sólo en el caso de que a los fondos a los que les resulta aplicable el contrato contemplan comisiones de colocación a ser canceladas al momento de la inversión.
 44 Al momento de la suscripción de cuotas, el inversionista deberá seleccionar sólo una de las
@@ -586,9 +525,7 @@ c) Para los fondos mutuos que sean de los tipos señalados en los números 7 y 8
 sección II de la Circular Nº1.578, se deberá indicar la leyenda señalada en la letra b) anterior. En caso de que el fondo, además se definiera como aquel señalado en el número 1 de la misma sección y circular mencionada, se deberá incorporar la leyenda contemplada en la letra a) anterior.
 48 Deberá señalarse si los fondos contemplan comisiones de colocación, ya sea al momento de la
 inversión o diferidas en su oportunidad de cobro al momento del rescate de las cuotas. Para aquellos fondos que sí las contemplan, deberá hacerse referencia a la tabla (2), la cual contendrá dicha información en detalle.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 Asimismo, en este apartado la sociedad administradora deberá hacer referencia a la estructura de comisiones por series de cuotas y/o familia de fondos, si corresponde, la cual se deberá incorporar en detalle también en la tabla (2) al igual que toda la información relevante al respecto.
 49 Esta letra sólo debe incorporarse en caso de que, conforme a lo dispuesto en el reglamento
 interno del o los fondos que correspondan, puedan atribuirse gastos al mismo.
@@ -611,9 +548,7 @@ o el mandatario acreditado.
 60 En este campo, al momento de la inversión, se deberá indicar el nombre completo de la
 persona que firma por la sociedad administradora.
 61 Se deberán individualizar los fondos que corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 62 Campo a completar por el partícipe al momento de la inversión. Donde se hace referencia a la
 cantidad del aporte, se deberá expresar éste en la unidad monetaria que corresponda; además, en este campo el partícipe podrá indicar el porcentaje de remuneración al que corresponderá el aporte.
 63 Al momento de la operación, deberá señalarse el nombre del fondo que corresponda.
@@ -640,9 +575,7 @@ cuotas, en atención principalmente a las formas de enterar el aporte que se hay
 parte de la sociedad administradora.
 68 Al momento de la inversión, deberá estampar la firma el inversionista que suscribe el contrato o
 el mandatario acreditado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 69 Se deberá indicar el nombre de la sociedad administradora.
 70 Al momento de la inversión, se deberá indicar el nombre del inversionista que suscribe.
 71 Se deberá indicar el RUT de la sociedad administradora.
@@ -671,10 +604,8 @@ interrupciones de los sistemas.
 realización de operaciones de suscripción y rescate de cuotas de fondos mutuos a través de sistemas de transmisión remota, le competan al partícipe y aquellas que le competan a la sociedad administradora.
 79 En este apartado se podrán incorporar otros aspectos que, a criterio de la sociedad
 administradora, sean relevantes en cuanto a la regulación de operaciones de suscripción y
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
-rescate de las cuotas de los fondos que administra, a través de sistemas de transmisión remota. Ejemplo: duración de esta modalidad de operar, causales que podrían ponerle término, etc.
+32 rescate de las cuotas de los fondos que administra, a través de sistemas de transmisión
+remota. Ejemplo: duración de esta modalidad de operar, causales que podrían ponerle término, etc.
 80 Al momento de la suscripción, deberá estampar la firma la persona autorizada para ello por
 parte de la sociedad administradora o el agente, según corresponda.
 81 Al momento de la operación, deberá estampar la firma el inversionista que suscribe el contrato
@@ -700,9 +631,7 @@ modificación solicitada por la sociedad a un contrato de suscripción de cuotas
 dando respuesta.
 94 Si seleccionó la opción “SI”, en la nota 92, deberá señalar el número del oficio al cual se está
 dando respuesta.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.633
-FECHA : 02.12.2002
+
 95 Deberá indicarse brevemente, las modificaciones introducidas al contrato de suscripción de
 cuotas que será remitido. Asimismo, el Gerente General de la sociedad deberá señalar que se hace responsable tanto de la veracidad de la información contenida en la carta, como que dichas modificaciones son las únicas que se introducen y que efectivamente éstas corresponden a las contenidas en el texto del contrato cuya aprobación se solicita.
 96 Deberán seleccionarse las categorías y subcategorías que se estén modificando.
@@ -714,4 +643,3 @@ de cuotas.
 Inversión Periódica” del contrato de suscripción de cuotas.
 100 Se deberán señalar los fondos mutuos que se eliminen o incorporen al Anexo 2. “Suscripción y
 Rescate de Cuotas a Través de Medios Remotos” del contrato de suscripción de cuotas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

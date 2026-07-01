@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 180 — FECHA: 20.5.2005
+# NCG N° 180 — ESTABLECE FORMA Y OPORTUNIDAD PARA ACREDITAR LOS REQUISITOS PARA ACCEDER A LOS BENEFICIOS DE D.L
 
 
 Esta Superintendencia, en uso de sus facultades legales, y en especial lo dispuesto en la letra u) del artículo 4° del D.L. N° 3.538, de 1980 y en el artículo 4° del D.L. N° 1.757, de 1977, ha resuelto impartir las siguientes instrucciones relativas a la forma y oportunidad en que se deberá acreditar el cumplimiento de los requisitos necesarios para acceder a los beneficios por accidentes sufridos y enfermedades contraídas por los miembros voluntarios de los Cuerpos de Bomberos establecidos en el

@@ -23,7 +23,6 @@ Las instrucciones impartidas en la presente normativa, son sin perjuicio de los 
 Salvo las prohibiciones establecidas en la ley, la inversión de los fondos podrá realizarse en todo tipo de instrumentos, contratos, bienes, o certificados representativos de éstos, que cumplan las siguientes condiciones mínimas de información, regulación y supervisión:
 a) La Jurisdicción o Estado en que se realicen las inversiones de los fondos deberá ser
 miembro del Grupo de Acción Financiera Internacional (GAFI - FATF) o de alguna organización intergubernamental de base regional equivalente, destinada a combatir el
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 376
 FECHA: 20.01.2015
@@ -43,7 +42,6 @@ a) Que se trate de fondos no rescatables y las dos terceras partes de las cuotas
 derecho a voto hayan aprobado la operación y acordado las condiciones para su realización;
 b) Que se trate de fondos no rescatables y que la operación se enmarque dentro de las
 definiciones contenidas en la política de operaciones habituales con relacionados que hayan aprobado las dos terceras partes de las cuotas emitidas con derecho a voto, y
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 376
 FECHA: 20.01.2015
@@ -66,7 +64,6 @@ equivalente o superior a la categoría A o N-2 a que se refiere el artículo 88 
 razonablemente que: i) tales instrumentos contarán con una buena capacidad de pago del capital e intereses en los términos y plazos pactados; y ii) ante posibles cambios en el emisor, en la industria a la que éste pertenece o en la economía, el eventual deterioro de dicha capacidad debiera ser leve.
 d) Tratándose de títulos de deuda extranjeros, que cuenten con clasificación de riesgo
 nacional equivalente o superior a la categoría A o N-2 a que se refiere el artículo 88 de la Ley N° 18.045, emitida por entidades clasificadoras internacionalmente reconocidas de aquellas que el Banco Central de Chile las considere para efectos de la inversión de sus propios recursos, por las mismas razones mencionadas en la letra c) anterior.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 376
 FECHA: 20.01.2015
@@ -90,7 +87,6 @@ señaladas en la letra a) anterior, y que hayan registrado en los últimos 90 d�
 Para efectos de lo establecido en el numeral ii) de la letra c) del artículo 59 de la ley, el límite a la inversión en cuotas de un fondo mutuo o de inversión nacional, en títulos representativos de un vehículo de inversión colectiva extranjero y en títulos de deuda de securitización correspondientes a un patrimonio de los referidos en el Título XVIII de la Ley N° 18.045, será de hasta un 50%, en tanto se cumplan las siguientes condiciones:
 a) Que los fondos nacionales y vehículos de inversión colectiva extranjeros contemplen en
 sus reglamentos internos como límite máximo a la inversión en instrumentos emitidos o garantizados por una misma entidad, el 30% o menos del valor de su activo;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 376
 FECHA: 20.01.2015
@@ -110,7 +106,6 @@ Lo anterior, sin perjuicio que, conforme a lo establecido en el artículo 18 de 
 Con todo, en aquellas circunstancias en que la pérdida de las características antes mencionadas pueda implicar que la administradora se vea imposibilitada de cumplir con las condiciones de rescatabilidad del fondo, la administradora deberá comunicar a este Servicio dicha situación tan pronto aquello hubiera ocurrido y, de estimarlo pertinente, efectuar la petición a la que se refiere el artículo 40 de la ley.
 ## VI. OTRAS MATERIAS
 Para efectos de lo dispuesto en el artículo 59 y 61 de la ley, se considerará:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER DE GENERAL N° 376
 FECHA: 20.01.2015
@@ -126,4 +121,3 @@ de 1995, 1.254 y 1.259 de 1996, 1.400 de 1998, 1.518 de 2001, 1.579 de 2002, 1.7
 1.797 de 2006, 1.999 de 2010, 2.038 y 2.047 de 2011; y todas sus respectivas modificaciones.
 ## VIII. VIGENCIA
 Las disposiciones establecidas en la presente Norma, rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2288
+
 ### SISTEMA DE RIESGOS
 (Instrucciones generales)
 ## 1. ARCHIVOS DEL SISTEMA DE RIESGOS
@@ -78,8 +80,8 @@ Corresponde al monto obtenido de la suma de los activos ponderados por riesgo de
 Circular N°2.288 / 27.04.2021 por Resolución N°2256
 
 Archivo R01 Hoja 3 Para el cálculo de este monto se deben utilizar los activos ponderados por riesgo bajo metodologías internas, si es que el banco cuenta con autorización de la Comisión, o en caso contrario, metodologías estándar. Adicionalmente, cuando se utilicen metodologías internas, se debe considerar el piso mínimo u output floor del 72,5% del total que se hubiese obtenido con las metodologías estándar, de acuerdo con la siguiente fórmula.
-𝐴𝑃𝑅 = max{𝐴𝑃𝑅𝐶 +𝐴𝑃𝑅𝑀 +𝐴𝑃𝑅𝑂 ; 72,5%
-### 𝑀𝐼 𝑀𝐸 𝑀𝐸 ⋅[𝐴𝑃𝑅𝐶 +𝐴𝑃𝑅𝑀 +𝐴𝑃𝑅𝑂 ] } 𝑀𝐸 𝑀𝐸 𝑀𝐸
+APR = max{APRC +APRM +APRO ; 72,5%
+### MI ME ME ⋅[APRC +APRM +APRO ] } ME ME ME
 ## 8. ACTIVOS TOTALES
 Corresponde al monto de los activos totales calculado según lo dispuesto en el numeral 3 del Título I del Capítulo 21-30 de la RAN.
 ## 9. ÍNDICE DE ADECUACIÓN DE CAPITAL

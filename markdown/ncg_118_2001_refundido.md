@@ -20,7 +20,6 @@ INDICE SECCION I : Inscripción del emisor, sus acciones suscritas y por suscrib
 2.- Procedimiento y presentación
 3.- Contenido de la solicitud
 A.- Prospecto B.- Antecedentes Económicos y Financieros C.- Antecedentes Adicionales
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -35,7 +34,7 @@ SECCION II : Información continua.
 ### 2.2 Hechos relevantes o esenciales
 ### 2.3 Otros antecedentes
 ## 3. Normas Especiales de Publicidad
-## 4. Colocación de Nuevas Acciones de Pago SUPERINTENDENCIA DE VALORES Y SEGUROS
+## 4. Colocación de Nuevas Acciones de Pago
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -59,7 +58,6 @@ acciones, para participar en este segmento de mercado, lo que deberá ser acredi
 Deberá presentarse una solicitud de inscripción a esta Superintendencia, que tendrá el
 siguiente contenido:
 A.- Prospecto B.- Antecedentes Económicos y Financieros
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -76,7 +74,6 @@ Una vez que el emisor haya proporcionado los antecedentes requeridos y soluciona
 3.- Contenido de la solicitud
 La solicitud de inscripción deberá contener al menos la información que se detalla a continuación, actualizada a la fecha de presentación:
 A.- Prospecto B.- Antecedentes Económicos y Financieros C.- Antecedentes Adicionales
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -101,7 +98,6 @@ sociedad.
 Superintendencia de Valores y Seguros. En caso que la inscripción de la sociedad se encuentre en tramite en el Registro de Valores, deberá indicarse tal situación registrando la glosa "en trámite", en todo caso, esta información deberá registrarse una vez que la Superintendencia de Valores y Seguros otorgue el certificado de inscripción de la sociedad.
 ### 2.50 Dirección : Indicar la dirección de la oficina principal de la
 sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -119,7 +115,6 @@ el controlador de la sociedad emisora, en virtud de lo establecido en los artíc
 ### 4.00 ANTECEDENTES LEGALES
 ### 4.10 Reseña legal y administrativa : Hacer una breve reseña de los estatutos de la
 sociedad, indicando aspectos tales como el o los objetos específicos de la sociedad, duración de la sociedad, la organización y modalidades de la administración social y de su fiscalización por los accionistas, y cualquier otro que la sociedad considere necesario resaltar.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -149,7 +144,6 @@ aprobó el capital autorizado.
 a escritura pública.
 ### 4.222 Notaría : Indicar la notaría en la cual el acta de la junta se
 redujo a escritura pública.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -178,7 +172,6 @@ d) Las tendencias.
 servicios que la sociedad desarrolla actualmente o desarrollará en el futuro, señalando si lo hace directamente o a través de sociedades filiales, coligadas, etc.. Asimismo, señalar la o las regulaciones particular(es) o específicas al negocio o negocios que desarrolla la sociedad, en caso que corresponda.
 ### 5.31 Información relevante : Resumir los hechos o informaciones esenciales o
 relevantes ocurridos durante los 12 meses anteriores a la fecha de presentación del presente
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -196,7 +189,6 @@ señalar si éstos se detentan a través de contratos de leasing u otros contrat
 ### 6.10 Estados financieros : Indicar a través de un cuadro comparativo las
 principales partidas (ver ítems 6.11 al 6.13) de los estados financieros anuales, individuales y consolidados cuando corresponda, de los últimos dos años, expresados en moneda de la fecha de cierre del último ejercicio anual.
 En caso que la sociedad no hubiere confeccionado los estados financieros exigidos en razón de su reciente formación, deberá indicar los estados financieros que tenga disponibles.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -223,7 +215,6 @@ ejercicio a patrimonio del año anterior.
 ### 6.27 Rendimiento activos operacionales : Definida como la razón de resultado operacional del
 ejercicio a activos operacionales del año anterior.
 Deberá señalarse cuáles son los activos operacionales que se consideran en el cálculo de este índice.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -255,7 +246,6 @@ clasificadoras de riesgo que efectuaron las clasificaciones registradas en el pu
 sociedad emisora entregará a los accionistas, señalando su periodicidad.
 ### 7.70 Otros : Indicar cualquier otro aspecto que a juicio de la
 administración sea importante.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -286,7 +276,6 @@ para cada serie, si corresponde.
 a emitir, para cada serie, si corresponde.
 ### 8.30 Precio de colocación : Indicar el precio de colocación de las acciones
 ordinarias y/o preferidas a emitir, según corresponda. En caso que el precio sea fijado a través de procedimientos de mercado, se deberá describir dicho procedimiento o mecanismo de fijación de precio.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -316,7 +305,6 @@ colocación comprenda acciones de primera y segunda emisión, que previo a la co
 directamente por el emisor y/o a través de intermediarios.
 ### 9.20 Colocadores : Indicar el nombre o razón social de los
 intermediarios que participarán en la colocación, si los hubiere.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -339,7 +327,6 @@ Superintendencia otorgó el certificado de inscripción de la emisión de accion
 financieros anual auditado, individual y consolidado (cuando corresponda) y su respectivo análisis razonado se encuentran disponibles en la oficina del emisor, en la Superintendencia de Valores y Seguros y en las oficinas de los colocadores.
 La misma indicación deberá realizarse respecto al último informe trimestral individual y consolidado
 (cuando corresponda).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -356,7 +343,6 @@ El presente prospecto ha sido diseñado sólo con el objeto de servir de referen
 #### B. ANTECEDENTES ECONOMICOS Y FINANCIEROS
 Deberá proporcionarse la siguiente información:
 B.1) Antecedentes económicos y financieros de la sociedad a inscribir
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -374,7 +360,6 @@ b.1 Balance general.
 b.2 Estado de resultados.
 b.3 Estado de flujo de efectivo.
 b.4 Notas explicativas a los estados financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -411,7 +396,6 @@ depreciación, amortización e ítems extraordinarios.
 Rentabilidad
 - Rentabilidad del patrimonio, definida como la razón de utilidad (pérdida) del
 ejercicio a patrimonio promedio (patrimonio del ejercicio anterior más patrimonio ejercicio actual dividido por dos).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -437,7 +421,6 @@ riesgo mencionadas, indicando sus fundamentos y lineamientos básicos, incluyend
 cómo han sido administrados tales cambios.
 - Cualquier otro antecedente que se estime necesario para un adecuado
 entendimiento de la exposición en cuanto a las distintas categorías de riesgo que enfrenta la sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -459,7 +442,6 @@ En el caso de que algunas de las sociedades señaladas anteriormente corresponda
 1.697, de 2003, o la que la reemplace, se deberá presentar, además, para cada una de
 ellas en Estado Complementario del Ajuste a Valor Patrimonial, según la forma e instrucciones que se imparten en el Anexo 2. Lo anterior, se deberá presentar conjuntamente con una declaración de los auditores externos de la sociedad a inscribir, en que se ratifique que los valores incluidos son los que sirvieron de base para la valorización de la inversión a valor patrimonial y para la consolidación de los estados financieros, como asimismo para emisión de su opinión de auditoria sobre los estado financieros individuales y consolidados, de la sociedad a inscribir.
 Cuando las sociedades señaladas anteriormente, tengan a su vez filiales, la información financiera (individual) requerida en el primer párrafo de este literal, deberá sustituirse por la información consolidada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -475,7 +457,6 @@ C.4 Cualquier modificación o cambio que se produzca en los estatutos de la soci
 Una copia de las escrituras de modificación de los estatutos sociales, aún no legalizadas, cuando corresponda.
 C.5 Facsímil de títulos accionarios Copia inutilizada y actualizada del título de las acciones que deban ser inscritas. En caso de no estar disponible, podrá presentarse un facsímil del mismo, el que deberá ser reemplazado por el original inutilizado antes de comenzar las transacciones de las acciones en el mercado.
 C.6 Copia del acta de la sesión de directorio que acordó la emisión y sus condiciones debidamente certificada por el gerente de la sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -487,7 +468,6 @@ C.11 Copia de la escritura pública en que conste la reducción del acta de la j
 C.12 Copia del aviso a publicar informando la opción preferente de suscripción respecto de los accionistas de la sociedad, para lo cual deberá emplearse el formato de aviso que se presenta en el anexo N° 1.
 C.13 Copia de la comunicación a los accionistas informándoles de la opción preferente de suscripción, para lo cual deberá emplearse el formato de aviso que se presenta en el anexo N° 1.
 C.14 Copia del aviso a publicar, que prescribe el artículo 29 del Reglamento de Sociedades Anónimas, para lo cual deberá emplearse el formato de aviso que se presenta en el anexo N° 2.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -506,7 +486,6 @@ d) Esta emisión se ofrece preferentemente a los accionistas de la sociedad, qui
 derecho de suscribir ______________ acciones nuevas por cada acción que posean inscrita en el Registro de Accionistas al día _____ de ______________ de 20_____. Estas acciones serán ofrecidas al precio de ____________ por acción, y deberán ser pagadas
 _____________________.
 El aviso de opción preferente para suscribir estas acciones, con el cual se inicia el período de opción, se publicará en el diario ____________, el día ______ de ______________ de 20____.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -528,7 +507,6 @@ riesgo y ________________________________(**).
 ### GERENTE GENERAL
 (*) Explicar el procedimiento a seguir en estos casos, informando si habrá más de un período de opción preferente. En caso de que los valores no suscritos queden sin efecto después de transcurrido(s) el(los) período(s) de opción preferente, deberá señalarse expresamente.
 (**) La información a que se refieren estas letras deberá ser omitida si no correspondiere.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -552,7 +530,6 @@ Si los valores no suscritos quedan sin efecto después de transcurrido el plazo 
 i) Se deberá indicar un resumen de los montos mensuales transados durante los doce meses
 anteriores a la solicitud de inscripción, en la forma establecida en el cuadro.
 Si no hubiere transacciones, se deberá señalar expresamente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -570,7 +547,7 @@ c) Este aviso señala el inicio del período de opción preferente, el que se ex
 30 días, vale decir hasta el ____ de ________________ de 20____
 d) El aviso a que se refiere el artículo 104 del Reglamento de Sociedades Anónimas se publicó en
 el diario _____________, el día ____ de _____________ de 20___.
-### EL GERENTE GENERAL SUPERINTENDENCIA DE VALORES Y SEGUROS
+### EL GERENTE GENERAL
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -586,7 +563,6 @@ e) Indicar las fechas entre las cuales se encontrará vigente la opción prefere
 acciones de pago.
 f) Indicar el diario y la fecha en que se publicó el aviso dispuesto en el artículo 104 del Reglamento
 de Sociedades Anónimas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -608,7 +584,6 @@ Para fines de orden, la presente sección se ha estructurado de la siguiente for
 #### A. Informes y estados financieros trimestrales y anuales
 A.1. Instrucciones generales Los requisitos mínimos de información aquí establecidos deberán ser complementados con toda la información que se estime esencial, bajo exclusiva responsabilidad de los directores o administradores en ejercicio de la sociedad.
 La sociedad deberá presentar sus estados financieros individuales y consolidados, cuando corresponda. Estos deberán presentarse en forma comparativa con los estados financieros de igual fecha del ejercicio anterior, de acuerdo las normas impartidas por estas Superintendencia para la presentación de estados financieros, en el formulario que para estos efectos se haya establecido.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -628,7 +603,6 @@ El informe de la revisión de información financiera interina de los estados fi
 30 de junio de cada ejercicio, deberá ser confeccionado por los auditores externos
 designados por la sociedad de acuerdo a lo dispuesto en el artículo 52 de la Ley Nº
 18.046.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -662,7 +636,6 @@ Resultados
 - Ingresos y costos de explotación, desglosados por línea de negocios, segmentos
 geográficos u otro que a juicio de la administración sean relevantes.
 - Resultado operacional.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -690,7 +663,6 @@ e.5. Análisis de riesgo de mercado
 Se deberá describir:
 - El grado de exposición que enfrenta la sociedad en relación a las categorías de
 riesgo de tasa de interés, de tipo de cambio, de precio de commodities y otros riesgos relevantes, identificando el descalce existente tanto a nivel de activos y pasivos como de ingresos y egresos para el período.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -712,7 +684,6 @@ A.4.2 Antecedentes económicos y financieros de filiales y otras sociedades en q
 Cuando se trate del informe anual, además de los estados financieros individuales y consolidados solicitados anteriormente, se deberá remitir conjuntamente con éstos para el último ejercicio anual y en forma comparativa con el año anterior, el Informe de los Auditores Externos (individual), al que se deberá adjuntar los estados financieros sobre los cuales se opinó, de:
 - Todas las filiales, entendiéndose por éstas, las definidas en el artículo 86 de la
 Ley Nº 18.046 y las demás sociedades con las cuales se deba consolidar, en los términos establecidos en la Circular N° 1.697, de 2003, o la que la reemplace.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -731,7 +702,6 @@ B.2. Toda capitalización de fondos que acuerde una sociedad con aumento del val
 La referida comunicación deberá indicar, al menos, lo siguiente:
 - Nombre del emisor y número de inscripción en el Registro de Valores.
 - Actual capital social y número de acciones emitidas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -752,7 +722,6 @@ domicilio legal y rol único tributario e indicación del tipo de entidad de que
 b) Documentos constitutivos: la ciudad, fecha y notaría en que se hubiere otorgado la
 escritura de constitución social, fecha y número del decreto de autorización y/o de instalación legal o resolución de autorización en su caso, e individualización de las inscripciones y publicaciones efectuadas para su legalización.
 En caso de tratarse de entidades que no sean sociedades, se deberá indicar los documentos constitutivos, fecha y número del decreto o resolución de autorización pertinentes según proceda, e individualización de las inscripciones y/o publicaciones efectuadas para su legalización.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -769,7 +738,6 @@ Las personas naturales que posean menos de un 10% del capital deberán incluirse
 En los casos a que se refiere este número, si la entidad tiene varias clases o series de acciones o de participación que otorguen diferentes derechos a sus titulares, deberá hacerse la indicación por clase de acción o participación que posea cada propietario.
 La información a que se refiere este número deberá presentarse actualizada a la fecha de cierre del ejercicio que comprenda la memoria.
 Además, se deberá indicar los cambios de mayor importancia que hayan ocurrido en la propiedad de la entidad durante el ejercicio a que se refiere la memoria.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -794,7 +762,6 @@ c) De acuerdo al artículo 50 bis de la ley Nº 18.046, deberá señalarse las a
 que desarrolle el comité de directores y los gastos en que incurra, incluidos los de sus asesores, cuando corresponda.
 d) Por otra parte, se deberá informar, de forma global, la remuneración total percibida
 por los gerentes y ejecutivos principales de la sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -818,7 +785,6 @@ el negocio. Además, deberá indicarse cualquier relación de propiedad o parent
 naturaleza que tenga la entidad, indicando título de tenencia o dominio, así como su uso y relación con las actividades y negocios.
 4. Equipos: principales maquinarias y equipos que la entidad posea, indicando
 su estado y título de tenencia o dominio.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -843,7 +809,6 @@ cada una de ellas, que se indica a continuación:
 ## 3. Objeto social e indicación clara de la o las actividades que desarrolla.
 4. Nombre y apellidos de los directores, administradores, en su caso, gerentes
 y ejecutivos principales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -869,7 +834,6 @@ más del 5% del activo total de la entidad, y que no revistan el carácter de fi
 La sociedad deberá informar cada uno de los conceptos que depuran la utilidad del ejercicio para llegar a la utilidad distribuible, tales como son las pérdidas acumuladas, el déficit acumulado período de desarrollo de la sociedad o de filiales, que deben ser absorbidas por la utilidad del ejercicio previo al reparto de dividendos (artículo 78 de Ley Nº 18.046, circular Nº 981 de 1990). También, se deberá informar la amortización del mayor valor de inversiones consolidada (Circular Nº 368 de 1983).
 En relación a los dividendos repartidos, si corresponde, se deberá indicar el monto pagado por dividendos provisorios y definitivos, imputables a la utilidad del ejercicio.
 Por último, se debería incluir en este ítem una estadística de los dividendos pagados por acción en los últimos tres años.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -884,7 +848,6 @@ Deberá incluirse un resumen de los hechos esenciales o relevantes divulgados po
 Asimismo, deberá incluirse información respecto a aquellos hechos esenciales o relevantes que aunque hayan ocurrido con anterioridad al período cubierto por la memoria, hayan tenido durante el ejercicio influencia o efecto en el desenvolvimiento de los negocios de la entidad, en sus estados financieros, en sus valores o en la oferta de ellos, o puedan tenerlo en los ejercicios futuros.
 14) Síntesis de comentarios y proposiciones de accionistas.
 Deberá incluirse una síntesis fiel de los comentarios y proposiciones relativos a la marcha de los negocios sociales formuladas por accionistas, de acuerdo a lo prescrito en el inciso tercero del artículo 74 de la Ley N°18.046.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -911,7 +874,6 @@ Deberá incluirse:
 - Estado de flujo de efectivo resumido.
 Dichos estados financieros deberán resumirse de acuerdo a lo indicado en el punto 3.1 de la presente Sección. En todo caso, deberá señalarse que los estados financieros completos de las sociedades indicadas, se encuentran a disposición del público en las oficinas de la entidad informante y de la Superintendencia de Valores y Seguros.
 16) Declaración de responsabilidad Deberá estamparse una declaración jurada de responsabilidad respecto de la veracidad de toda la información incorporada en la memoria anual. Dicha declaración deberá ser suscrita por la misma mayoría de los directores requerida por los estatutos sociales para la adopción de acuerdos de directorio, y por el gerente general o por quien haga sus veces, tratándose de sociedades anónimas. En caso de otras entidades, deberá ser suscrita por las personas que de acuerdo al pacto social representan válidamente a la entidad y por el gerente general.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -933,7 +895,6 @@ b) Indicación de que la comunicación se hace en virtud de lo establecido en el
 inciso segundo del artículo 10° de la Ley N° 18.045, y que se trata de un hecho esencial respecto de la sociedad, sus negocios, sus valores de oferta pública o de la oferta de ellos.
 Adicionalmente se deberá estampar como título, en letras mayúsculas, las palabras
 ### "HECHO ESENCIAL".
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -965,7 +926,6 @@ l) La renuncia o revocación del directorio y la renuncia o remoción del gerent
 m) Variaciones importantes en las condiciones del mercado en que participa la empresa,
 relacionadas con el tamaño de éste, barreras de entrada o salida, precios de productos, etc.
 n) Cambios de importancia en la propiedad de la empresa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -986,7 +946,6 @@ Una vez que haya cesado el carácter de reservado del hecho de que se trate, el 
 Las entidades inscritas en el Registro de Valores deberán hacer llegar a esta Superintendencia y a los intermediarios que participen en la colocación de sus valores que tengan mandato o convenio de colocación vigente, dentro de los plazos que se indican, los antecedentes que se indican a continuación. Cuando las entidades respectivas se hayan inscrito en alguna bolsa de valores, deberán, asimismo, remitir la información a todas las bolsas de valores existentes en el país se encuentren o no inscritas en ellas.
 #### A. Copia de las actas de las juntas de accionistas o de asambleas de socios, debidamente
 certificadas por el gerente, o la persona que haga sus veces, dentro del plazo de diez días hábiles contado desde su celebración.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -1010,7 +969,6 @@ salvo las comunicaciones referentes a citación a junta ordinaria y extraordinar
 J Copia de toda publicación o inserción que efectúe la sociedad en la prensa, referida a:
 valores de su emisión, su situación económica, financiera o jurídica, y en general cualquier otra materia que de acuerdo a la normativa vigente o a instrucciones específicas de esta Superintendencia requiera de publicación. Esta copia deberá enviarse en el plazo de un día hábil contado desde su publicación, salvo en aquellos casos en que la normativa vigente o instrucciones específicas de esta Superintendencia eximan expresamente de la citada obligación o establezcan un plazo distinto.
 En relación a las publicaciones de citación a junta de accionistas, deberá enviar copia correspondiente al primer aviso de citación y sólo comunicar las fechas en que se publicarán los dos avisos restantes. A su vez, las publicaciones requeridas por la Circular Nº 660 de 1986, o la que eventualmente la reemplace, así como, la publicación de estados financieros, no deberán ser remitidas a este Servicio, debiendo en todo caso mantener la documentación original disponible en las oficinas sociales, para poder ser consultadas por esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -1030,7 +988,6 @@ No obstante lo anterior, las sociedades podrán acogerse a lo dispuesto en la Ci
 En todo caso, aquellas sociedades sobre cuyos estados financieros anuales los auditores independientes hayan expresado una opinión sin ningún tipo de salvedades, podrán publicar dichos estados, resumidos en los siguientes términos:
 Balance General : Total activos circulantes, Total activos fijos, Total otros activos, Total activos, Total pasivos circulantes, Total pasivos a largo plazo, Interés minoritario, Total patrimonio y Total pasivos.
 Estado de resultados : Resultado de explotación, Resultado fuera de explotación, Resultado antes de impuesto a la renta e ítems extraordinarios, Impuesto a la renta, ítems extraordinarios y Utilidad (Pérdida) del ejercicio.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -1046,7 +1003,6 @@ Esta Superintendencia recomienda a las sociedades inscritas en el Registro de Va
 Aquellas sociedades que según la Ley N° 18.046 tengan la condición de abiertas y aquellas sociedades inscritas en el Registro de Valores, deberán indicar expresamente tales circunstancias en cualquier impreso, prospecto o publicación que la sociedad efectúe, sea con fines informativos, de publicidad u otros, en la medida que aquéllos se refieran a sí misma, a sus valores o a la oferta de ellos.
 3.4. Publicación de cancelación de inscripción
 Cuando una sociedad cancele su inscripción en el Registro de Valores, deberá publicar un aviso destacado, señalando este hecho. Este aviso se publicará, a lo menos, por dos veces, en los cinco (5) días hábiles siguientes a la cancelación. Su publicación se deberá efectuar en el mismo periódico determinado por la junta de accionistas para la publicación de los avisos de citación a junta.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº118
 FECHA: 15.05.2001
@@ -1062,4 +1018,3 @@ Cada vez que el emisor inicie una nueva colocación de acciones de primera emisi
 Adicionalmente, deberá remitir copia de los antecedentes requeridos en los literales C.5 al C.8 y C.11 al C.14, del numeral 3 de la Sección I.
 ## 5. VIGENCIA
 Las disposiciones establecidas en la presente Norma de Carácter General comenzarán a regir a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

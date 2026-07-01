@@ -3,12 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: MODIFICA LA ESTRUCTURA Y
-### CONTENIDO DE LA MEMORIA ANUAL DE LOS EMISORES DE VALORES Y MODIFICA Y DEROGA
-NORMAS QUE INDICA.
-_________________________________
-NORMA DE CARÁCTER GENERAL N°4611
-12 de noviembre de 2021
+# MODIFICA LA ESTRUCTURA Y CONTENIDO DE LA MEMORIA ANUAL DE LOS EMISORES DE VALORES Y MODIFICA Y DEROGA NORMAS QUE INDICA. _________________________________ NORMA DE CARÁCTER GENERAL N°4611 12 de noviembre de 2021
+
+
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo
 5, el numeral 3 del artículo 20, ambos del Decreto Ley N°3.538; el inciso primero del artículo 46 y los incisos segundo y tercero del artículo 74, ambos de la Ley N°18.046;
 los artículos 9 y 10, ambos de la Ley N°18.045; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°261 de 11 de noviembre de 2021, ha estimado pertinente impartir las siguientes instrucciones:
@@ -266,21 +263,21 @@ negativos.
 • Se deberá calcular el salario bruto por hora, es decir, el salario bruto
 mensual dividido por la cantidad de horas mensuales trabajadas de cada persona.
 Salario bruto por hora:
-𝑆𝑎𝑙𝑎𝑟𝑖𝑜 𝑏𝑟𝑢𝑡𝑜 𝑚𝑒𝑛𝑠𝑢𝑎𝑙 𝑖 𝑆𝑎𝑙𝑎𝑟𝑖𝑜 𝑏𝑟𝑢𝑡𝑜 𝑝𝑜𝑟 ℎ𝑜𝑟𝑎 = 𝑖 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 ℎ𝑜𝑟𝑎𝑠 𝑚𝑒𝑛𝑠𝑢𝑎𝑙𝑒𝑠 𝑑𝑒 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑖 Donde 𝑖 corresponde a cada trabajador de la entidad y el total de horas mensuales de trabajo corresponde a las horas estipuladas según el vínculo laboral que se tenga con la persona.
+Salario bruto mensual i Salario bruto por ℎora = i Total de ℎoras mensuales de trabajo i Donde i corresponde a cada trabajador de la entidad y el total de horas mensuales de trabajo corresponde a las horas estipuladas según el vínculo laboral que se tenga con la persona.
 La entidad deberá informar el cálculo de brecha salarial en función de la media y la mediana, para cada categoría de funciones, de acuerdo a lo que se señala a continuación.
 En cálculo de media Deberá dividir el valor promedio de salario bruto por hora de las mujeres por el promedio del salario bruto por hora de los hombres, para la misma categoría de funciones.
 Para dichos efectos se estará a los siguientes cálculos:
 Media de salario bruto por hora de las mujeres:
-(∑ 𝑆𝑎𝑙𝑎𝑟𝑖𝑜 𝑏𝑟𝑢𝑡𝑜 𝑝𝑜𝑟 ℎ𝑜𝑟𝑎 | 𝑚𝑢𝑗𝑒𝑟) 𝑖 𝑖 𝑀𝑒𝑑𝑖𝑎 𝑠𝑎𝑙𝑎𝑟𝑖𝑜 𝑏𝑟𝑢𝑡𝑜 𝑝𝑜𝑟 ℎ𝑜𝑟𝑎 = 𝑀 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑚𝑢𝑗𝑒𝑟𝑒𝑠 𝑡𝑟𝑎𝑏𝑎𝑗𝑎𝑑𝑜𝑟𝑎𝑠 Donde 𝑀 se refiere a las trabajadoras y el número de mujeres trabajadoras se refiere a aquellas consideradas en la suma de salarios brutos por hora.
+(∑ Salario bruto por ℎora | mujer) i i Media salario bruto por ℎora = M número de mujeres trabajadoras Donde M se refiere a las trabajadoras y el número de mujeres trabajadoras se refiere a aquellas consideradas en la suma de salarios brutos por hora.
 Media de salario bruto por hora de los hombres
 17
 
-(∑ 𝑆𝑎𝑙𝑎𝑟𝑖𝑜 𝑏𝑟𝑢𝑡𝑜 𝑝𝑜𝑟 ℎ𝑜𝑟𝑎 | ℎ𝑜𝑚𝑏𝑟𝑒) 𝑖 𝑖 𝑀𝑒𝑑𝑖𝑎 𝑠𝑎𝑙𝑎𝑟𝑖𝑜 𝑏𝑟𝑢𝑡𝑜 𝑝𝑜𝑟 ℎ𝑜𝑟𝑎 = 𝐻 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 ℎ𝑜𝑚𝑏𝑟𝑒𝑠 𝑡𝑟𝑎𝑏𝑎𝑗𝑎𝑑𝑜𝑟𝑒𝑠 Donde 𝐻 se refiere a los trabajadores y el número de hombres trabajadores se refiere a aquellos considerados en la suma de salarios brutos por hora.
+(∑ Salario bruto por ℎora | ℎombre) i i Media salario bruto por ℎora = H número de ℎombres trabajadores Donde H se refiere a los trabajadores y el número de hombres trabajadores se refiere a aquellos considerados en la suma de salarios brutos por hora.
 Media de brecha salarial Corresponde a la razón, expresada en porcentaje, entre la media de salario bruto por hora de las mujeres y la media de salario bruto por hora de los hombres.
-𝑴𝒆𝒅𝒊𝒂 𝒔𝒂𝒍𝒂𝒓𝒊𝒐 𝒃𝒓𝒖𝒕𝒐 𝒑𝒐𝒓 𝒉𝒐𝒓𝒂 𝑴 𝑴𝒆𝒅𝒊𝒂 𝒅𝒆 𝑩𝒓𝒆𝒄𝒉𝒂 𝑺𝒂𝒍𝒂𝒓𝒊𝒂𝒍= ×𝟏𝟎𝟎 𝑴𝒆𝒅𝒊𝒂 𝒔𝒂𝒍𝒂𝒓𝒊𝒐 𝒃𝒓𝒖𝒕𝒐 𝒑𝒐𝒓 𝒉𝒐𝒓𝒂 𝑯 En calculo mediana Deberá dividir el valor central de los datos ordenados del salario bruto por hora de mujeres por el valor central de los datos ordenados del salario bruto por hora de los hombres, para la misma categoría de funciones.
+Media salario bruto por hora M Media de Brecha Salarial= ×100 Media salario bruto por hora H En calculo mediana Deberá dividir el valor central de los datos ordenados del salario bruto por hora de mujeres por el valor central de los datos ordenados del salario bruto por hora de los hombres, para la misma categoría de funciones.
 Para esos efectos se ordenarán los valores de salario bruto por hora de menor a mayor. Si éstos corresponden a un número impar de datos, la mediana será el valor del salario bruto que se encuentre al centro de los registros. Si la cantidad de datos es un número par, la mediana será la media entre los dos salarios brutos por hora que se encuentren al centro de los registros.
 Para dichos efectos se estará a los siguientes cálculos:
-Mediana del salario bruto por hora M 𝑀𝑒𝑑𝑖𝑎𝑛𝑎 𝑠𝑎𝑙𝑎𝑟𝑖𝑜 𝑏𝑟𝑢𝑡𝑜 𝑝𝑜𝑟 ℎ𝑜𝑟𝑎 = valor del salario bruto por hora que se encuentra 𝑀 en la posición central de los datos ordenados de salarios brutos de las mujeres.
+Mediana del salario bruto por hora M Mediana salario bruto por ℎora = valor del salario bruto por hora que se encuentra M en la posición central de los datos ordenados de salarios brutos de las mujeres.
 Mediana del salario bruto por hora H
 
 |  | valor del salario bruto por hora que se encuentra |
@@ -288,7 +285,7 @@ Mediana del salario bruto por hora H
 | en la posición central de los datos ordenados de salarios brutos por hora de los |  |
 | hombres. |  |
 hombres.
-Mediana de la brecha salarial 𝑴𝒆𝒅𝒊𝒂𝒏𝒂 𝒔𝒂𝒍𝒂𝒓𝒊𝒐 𝒃𝒓𝒖𝒕𝒐 𝒑𝒐𝒓 𝒉𝒐𝒓𝒂 𝑴 𝑴𝒆𝒅𝒊𝒂𝒏𝒂 𝒅𝒆 𝑩𝒓𝒆𝒄𝒉𝒂 𝑺𝒂𝒍𝒂𝒓𝒊𝒂𝒍= ×𝟏𝟎𝟎 𝑴𝒆𝒅𝒊𝒂𝒏𝒂 𝒔𝒂𝒍𝒂𝒓𝒊𝒐 𝒃𝒓𝒖𝒕𝒐 𝒑𝒐𝒓 𝒉𝒐𝒓𝒂 𝑯
+Mediana de la brecha salarial Mediana salario bruto por hora M Mediana de Brecha Salarial= ×100 Mediana salario bruto por hora H
 5.5. Acoso laboral y sexual
 Deberá divulgar si la entidad cuenta con políticas para prevenir y gestionar el acoso laboral y sexual, señalando expresamente si cuenta con programas de capacitación sobre esas materias y con canales de denuncia.
 18
@@ -297,7 +294,7 @@ Junto con ello deberá divulgar el porcentaje del total de personal que fue capa
 5.6. Seguridad laboral
 Deberá referirse a las políticas de la entidad sobre seguridad laboral, informando las metas e indicadores de las tasas de accidentabilidad por cada cien trabajadores, tasa de fatalidad cada cien mil trabajadores, tasa de enfermedades profesionales por cada cien trabajadores y el promedio de días perdidos por accidente durante el año.
 Deberá considerar las siguientes fórmulas de cálculo:
-𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑎𝑐𝑐𝑖𝑑𝑒𝑛𝑡𝑒𝑠 𝑑𝑒 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑇𝑎𝑠𝑎 𝑎𝑐𝑐𝑖𝑑𝑒𝑛𝑡𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑 = ×100 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑡𝑟𝑎𝑏𝑎𝑗𝑎𝑑𝑜𝑟𝑒𝑠 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑓𝑎𝑡𝑎𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑝𝑜𝑟 𝑎𝑐𝑐𝑖𝑑𝑒𝑛𝑡𝑒𝑠 𝑑𝑒 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑇𝑎𝑠𝑎 𝑓𝑎𝑡𝑎𝑙𝑖𝑑𝑎𝑑 = ×100.000 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑡𝑟𝑎𝑏𝑎𝑗𝑎𝑑𝑜𝑟𝑒𝑠 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑒𝑛𝑓𝑒𝑟𝑚𝑒𝑑𝑎𝑑𝑒𝑠 𝑝𝑟𝑜𝑓𝑒𝑠𝑖𝑜𝑛𝑎𝑙𝑒𝑠 𝑇𝑎𝑠𝑎 𝑒𝑛𝑓𝑒𝑟𝑚𝑒𝑑𝑎𝑑𝑒𝑠 𝑝𝑟𝑜𝑓𝑒𝑠𝑖𝑜𝑛𝑎𝑙𝑒𝑠 = ×100 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑡𝑟𝑎𝑏𝑎𝑗𝑎𝑑𝑜𝑟𝑒𝑠 𝑑í𝑎𝑠 𝑝𝑒𝑟𝑑𝑖𝑑𝑜𝑠 𝑝𝑜𝑟 𝑎𝑐𝑐𝑖𝑑𝑒𝑛𝑡𝑒𝑠 𝑃𝑟𝑜𝑚𝑒𝑑𝑖𝑜 𝑑í𝑎𝑠 𝑝𝑒𝑟𝑑𝑖𝑑𝑜𝑠 𝑝𝑜𝑟 𝑎𝑐𝑐𝑖𝑑𝑒𝑛𝑡𝑒 = 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑎𝑐𝑐𝑖𝑑𝑒𝑛𝑡𝑒𝑠 𝑑𝑒 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 Donde el número de trabajadores corresponde al promedio mensual de trabajadores contratados.
+número de accidentes de trabajo Tasa accidentabilidad = ×100 número de trabajadores número de fatalidades por accidentes de trabajo Tasa fatalidad = ×100.000 número de trabajadores número de enfermedades profesionales Tasa enfermedades profesionales = ×100 número de trabajadores días perdidos por accidentes Promedio días perdidos por accidente = número de accidentes de trabajo Donde el número de trabajadores corresponde al promedio mensual de trabajadores contratados.
 Para la tasa de fatalidad, se deberá excluir del cálculo las muertes originadas por accidentes de trayecto y aquellos sufridos por dirigentes de instituciones sindicales a causa o con ocasión del desempeño de sus cometidos gremiales.
 5.7. Permiso postnatal
 Se deberá divulgar si cuenta con una política que establezca un período de descanso, posterior al nacimiento de un hijo o hija, o una vez otorgada judicialmente la tuición o cuidado personal como medida de protección o cuando se otorga el cuidado personal de un menor de edad en un procedimiento de solicitud de adopción, superior al legalmente vigente, señalando el tiempo definido en número de días, y si esa política tiene entre sus objetivos fomentar la corresponsabilidad parental, señalando cómo se incentiva el uso de permisos

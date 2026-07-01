@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1380 — ESTABLECE NORMAS RELATIVAS AL SISTEMA DE COMPENSACION DE DIVIDENDOS DE MUTUOS HIPOTECARIOS ENDOSABLES Y DE APORTES A CONTRATOS DE ARRENDAMIENTO DE VIVIENDAS CON PROMESA DE COMPRAVENTA REGIDOS POR LA LEY Nº 19
+# CIRCULAR N° 1380 — ESTABLECE NORMAS RELATIVAS AL SISTEMA DE COMPENSACION DE DIVIDENDOS DE MUTUOS HIPOTECARIOS ENDOSABLES Y DE APORTES A CONTRATOS DE ARRENDAMIENTO DE VIVIENDAS CON PROMESA DE COMPRAVENTA REGIDOS POR LA LEY Nº 19.281 A las entidades aseguradoras del segundo grupo, agentes administradores de mutuos hipotecarios
 
 
 Endosables y a las sociedades inmobiliarias a que se refiere el Título II de la ley Nº 19.281 Esta Superintendencia, en uso de sus facultades legales y considerando las disposiciones de la ley Nº 19.360, que creó el Sistema de Compensación de Dividendos de Préstamos Hipotecarios para la Vivienda y de aportes a contratos de arrendamiento de viviendas con promesa de compraventa regidos por la ley Nº 19.281, ha estimado conveniente impartir las siguientes instrucciones:

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1790 — DICTA INSTRUCCIONES Y ESTABLECE REQUISITOS RESPECTO A FONDOS MUTUOS ESTRUCTURADOS, QUE EN SU DEFINICIÓN ADOPTEN LA EXPRESION “GARANTIZADO”, “AFIANZADO”, “ASEGURADO” U OTRAS DE SIMILAR NATURALEZA
+# CIRCULAR N° 1790 — DICTA INSTRUCCIONES Y ESTABLECE REQUISITOS RESPECTO A FONDOS MUTUOS ESTRUCTURADOS, QUE EN SU DEFINICIÓN ADOPTEN LA EXPRESION “GARANTIZADO”, “AFIANZADO”, “ASEGURADO” U OTRAS DE SIMILAR NATURALEZA.
 
 
 Para todas las sociedades que administren fondos de mutuos Esta Superintendencia, en uso de sus facultades legales y en virtud de las disposiciones contenidas en la Circular N°1.578 de 2002, ha estimado necesario impartir las siguientes instrucciones, relativas a los fondos mutuos estructurados, que en su definición adopten la expresión “garantizado”,

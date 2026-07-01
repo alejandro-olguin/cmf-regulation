@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1375 — IMPARTE NORMAS SOBRE INFORMACION PARA OPERACIONES CON ADR’S Y OTRAS OBLIGACIONES A todas las sociedades anónimas abiertas que operen con ADR’s
+# CIRCULAR N° 1375 — IMPARTE NORMAS SOBRE INFORMACION PARA OPERACIONES CON ADR’S Y OTRAS OBLIGACIONES A todas las sociedades anónimas abiertas que operen con ADR’s.
 
 
 La Superintendencia de Valores y Seguros, en adelante la Superintendencia, en uso de sus atribuciones legales, ha estimado necesario regular la información que estarán obligadas a entregar las sociedades emisores de valores de oferta pública, cuyas acciones sean transadas en mercados de valores extranjeros, a través del mecanismo denominado ADR’s. E igualmente, aquéllas que deberán proporcionar el respectivo banco depositario, banco custodio o empresa de depósito de valores y tenedores de ADR’s, en su caso.

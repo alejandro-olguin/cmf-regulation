@@ -3,19 +3,15 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# NCG N° 398
+
 NORMA DE CARÁCTERGENERAL SP N° 162
 NORMA DE CARÁCTER GENERALSVS N° 398
 FECHA: 20.11.2015
 VISTOS: Lo dispuestoen los artículos 55 y 65 del D.L. N° 3.500, de 1980, en el artículo 20 del DFL N° 251, de
 1931, y las facultades que les confiere la ley, estas Superintendencias deben reemplazar las actuales tablas de mortalidad RV-2009, B-2006 y MI-2006, hombres y mujeres.
-REF.: FIJA TABLAS DE MORTALIDAD CB-H-2014 (HOMBRES), MI-H-2014 (HOMBRES), RV-M-2014
-### (MUJERES), B-M-2014 (MUJERES), Y MI-M-2014 (MUJERES).
 
-NORMA DE CARÁCTERGENERAL SP N° 162
-NORMA DE CARÁCTER GENERALSVS N° 398
-FECHA: 20.11.2015
-1. Conforme a lo dispuesto enlos artículos 55y 65 del D.L. N°3.500, de 1980, y en el artículo 20 del DFL
-N°251, las Superintendencias de Pensiones y de Valores y Seguros, en adelante “las Superintendencias”,establecen el uso de las siguientestablas de mortalidad:
+Superintendencias”,establecen el uso de las siguientestablas de mortalidad:
 - CB-H-2014 (hombres), tratándose de pensionados por vejez y beneficiarios no inválidos de
 pensión de sobrevivencia, en reemplazo de las actuales tablas de mortalidad RV-2009 (hombres) y B-2006 (hombres).
 - MI-H-2014 (hombres), tratándose de pensionados por invalidez y beneficiarios inválidos de pensión
@@ -525,14 +521,6 @@ FECHA: 20.11.2015
 qx brutos, mujeres causantes
 0,6
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 0
 56 66 76 86 96 07 17 27 37 47 57 67 77 87 97 08 18 28 38 48 58 68 78 88 98 09 19 29 39 49 59 69 79 89 99 001 101 201 301 401 501 601 701 801 901
 Edad
@@ -546,14 +534,6 @@ Los datos de las beneficiarias son suficientes hasta los 97 años, por lo que no
 qx brutos, mujeres beneficiarias
 0,3
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 0 56 66 76 86 96 07 17 27 37 47 57 67 77 87 97 08 18 28 38 48 58 68 78 88 98 09 19 29 39 49 59 69 79 89 99 001 101 201 301 401 501 601 701 801 901
 Edad
 ### SVS + SP
@@ -561,18 +541,6 @@ c.Cálculo de expuestos de mujeres inválidas:
 En el caso de las mujeres inválidas, los datos de pensionadas del D.L. 3.500 presentan una significativa volatilidad en las edades avanzadas debido al bajo volumen de información. La inclusión de los datos del IPS a partir de 83 años de edad permite contar con tasas brutas de mortalidad más estables.
 qx brutos, mujeres inválidas
 1
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
 
 0
 56 66 76 86 96 07 17 27 37 47 57 67 77 87 97 08 18 28 38 48 58 68 78 88 98 09 19 29 39 49 59 69 79 89 99 001 101 201 301 401 501 601 701 801 901
@@ -592,18 +560,6 @@ En el IPS la información de beneficiarios hombres es inexistente para las edade
 qx brutos, beneficiarios
 1
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 0 18 28 38 48 58 68 78 88 98 09 19 29 39 49 59 69 79 89 99 001 101 201 301 401 501 601 701 801 901
 Edad
 ### SVS + SP IPS
@@ -611,18 +567,6 @@ Considerando la escasez de datos de beneficiarios no inválidos y que su mortali
 El siguiente gráfico presenta las tasas de mortalidad brutas para beneficiarios y causantes del D.L.3.500:
 qx brutos, causantes y beneficiarios
 1
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
 
 0
 56 66 76 86 96 07 17 27 37 47 57 67 77 87 97 08 18 28 38 48 58 68 78 88 98 09 19 29 39 49 59 69 79 89 99 001 101 201 301 401 501 601 701 801 901
@@ -635,18 +579,6 @@ e. Cálculo de expuestos de hombres inválidos:
 Los datos de los inválidos son suficientes hasta los 89 años, por lo que no se utilizaron los datos del IPS.
 qx brutos, hombres inválidos
 1
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
 
 0
 56 66 76 86 96 07 17 27 37 47 57 67 77 87 97 08 18 28 38 48 58 68 78 88 98 09 19 29 39 49 59 69 79 89 99 001 101 201 301 401 501 601 701 801 901

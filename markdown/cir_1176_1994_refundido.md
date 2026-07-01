@@ -25,4 +25,3 @@ En consecuencia, constituirán, en su caso, a vía de ejemplo, conjuntos o compl
 - Bodegas y almacenes de guarda y custodia.
 ## II. VIGENCIA
 La presente circular rige a contar del 3 de octubre de 1994.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1202 — ESTABLECE FORMA Y CONTENIDO DEL INFORME QUE LAS EMPRESAS DE AUDITORIA EXTERNA DEBEN EMITIR CONFORME A LO PREVISTO EN LOS ARTICULOS 161 Y 170 DE LA LEY Nº 18
+# CIRCULAR N° 1202 — ESTABLECE FORMA Y CONTENIDO DEL INFORME QUE LAS EMPRESAS DE AUDITORIA EXTERNA DEBEN EMITIR CONFORME A LO PREVISTO EN LOS ARTICULOS 161 Y 170 DE LA LEY
 
 
 Para todas las empresas de auditoría externa, entidades aseguradoras y reaseguradoras, intermediarios de valores y sociedades administradoras de fondos fiscalizados por esta Superintendencia Esta Superintendencia en uso de sus atribuciones legales, ha estimado oportuno impartir las siguientes instrucciones.

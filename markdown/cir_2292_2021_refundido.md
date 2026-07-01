@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2292
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 8-37 Hoja 1
 ### CAPÍTULO 8-37 OPERACIONES DE LEASING
@@ -975,32 +977,32 @@ Capítulo 21-1 Hoja 11
 En este apartado se aplican los ajustes regulatorios finales a los componentes de capital. En un primer paso, se deberá deducir, sobre el capital ordinario nivel 1 ajustado del paso anterior (CET1_5), y de manera individual, valores que sobrepasen el 10% de CET1_5 en los siguientes tres rubros, que se conocen como partidas específicas: i) activos por impuestos diferidos por diferencias temporales netos de pasivos netos por impuestos diferidos que no hayan sido utilizados para deducir el activo definido en las letras a y g del numeral 2 del Título III, y derechos de servicios de créditos hipotecarios, al que se refiere el punto iii) de este párrafo; ii) inversiones en entidades significativas en CET1; y iii) derechos de servicios de créditos hipotecarios, neto de cualquier pasivo neto por impuestos diferidos que se extinguiría si esta partida sufriera deterioro o fuera dada de baja según la NIC 36.
 Por otro lado, bancos que reciban por parte del Fisco un crédito (activo) contingente, total o parcial, del monto de activos netos por impuestos diferidos por diferencias temporales, no tendrán que someter el monto del activo contingente al tratamiento descrito en este numeral.
 Considerando este ajuste inicial al capital ordinario nivel 1, se obtiene el CET1_6(INT) tal como sigue:
-𝐸𝑋𝐶_𝐼𝐷𝑁 =max{0;𝐼𝐷𝑁_𝐷𝑇−𝐶𝐸𝑇1_5⋅10%} 𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐼𝑆 =max{0;𝐶𝐸𝑇1_𝐼𝑆−𝐶𝐸𝑇1_5⋅10%} 𝐸𝑋𝐶_𝐷𝑆𝐶𝐻 =max{0;𝐷𝑆𝐶𝐻−𝐶𝐸𝑇1_5⋅10%}
-𝐶𝐸𝑇1_6(𝐼𝑁𝑇)= 𝐶𝐸𝑇1_5−(𝐸𝑋𝐶_𝐼𝐷𝑁+𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐼𝑆+𝐸𝑋𝐶_𝐷𝑆𝐶𝐻)
+EXC_IDN =max{0;IDN_DT−CET1_5⋅10%} EXC_CET1_IS =max{0;CET1_IS−CET1_5⋅10%} EXC_DSCH =max{0;DSCH−CET1_5⋅10%}
+CET1_6(INT)= CET1_5−(EXC_IDN+EXC_CET1_IS+EXC_DSCH)
 donde:
-• 𝐶𝐸𝑇1_5 es el CET1 resultante del paso anterior.
-• 𝐶𝐸𝑇1_6(𝐼𝑁𝑇) es el CET1 resultante de la deducción de las partidas específicas,
+• CET1_5 es el CET1 resultante del paso anterior.
+• CET1_6(INT) es el CET1 resultante de la deducción de las partidas específicas,
 evaluadas en forma individual.
-• 𝐼𝐷𝑁_𝐷𝑇 son los activos netos por impuestos diferidos por diferencias
+• IDN_DT son los activos netos por impuestos diferidos por diferencias
 temporales.
-• 𝐷𝑆𝐶𝐻 son los derechos de servicios de créditos hipotecarios, neto del pasivo
+• DSCH son los derechos de servicios de créditos hipotecarios, neto del pasivo
 neto por impuestos diferidos.
-• 𝐶𝐸𝑇1_𝐼𝑆 es la suma de exposición a instrumentos del tipo CET1 de inversiones
+• CET1_IS es la suma de exposición a instrumentos del tipo CET1 de inversiones
 significativas.
-• 𝐸𝑋𝐶_𝐼𝐷𝑁 es el excedente asociado a los activos netos por impuestos diferidos
+• EXC_IDN es el excedente asociado a los activos netos por impuestos diferidos
 por diferencias temporales que debe ser deducido al realizar análisis individual.
-• 𝐸𝑋𝐶_𝐶𝐸𝑇1_IS es el excedente asociado a las inversiones significativas en CET1
+• EXC_CET1_IS es el excedente asociado a las inversiones significativas en CET1
 que debe ser deducido al realizar análisis individual.
-• 𝐸𝑋𝐶_𝐷𝑆𝐶𝐻 es el excedente asociado a los derechos de servicios de créditos
+• EXC_DSCH es el excedente asociado a los derechos de servicios de créditos
 hipotecarios que debe ser deducido al realizar análisis individual.
 Circular N°2.292 / 19.08.2021 por Resolución N°4539
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-1 Hoja 12 Además del descuento individual, se requiere que la suma de los montos no descontados por las partidas específicas no sea superior al 15% del capital básico o capital ordinario nivel 1 una vez realizados todos los ajustes regulatorios, incluyendo las deducciones realizadas de las partidas específicas de forma individual, y considerando en el capital el monto no deducido. Este ajuste se realiza
 como sigue:
-𝐶𝐸𝑇1_6= 𝐶𝐸𝑇1_6(𝐼𝑁𝑇)
-−max{0;[(𝐼𝐷𝑁_𝐷𝑇+𝐶𝐸𝑇1_𝐼𝑆+𝐷𝑆𝐶𝐻)
-−(𝐸𝑋𝐶_𝐼𝐷𝑁+𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐼𝑆+𝐸𝑋𝐶_𝐷𝑆𝐶𝐻)]−𝐶𝐸𝑇1_6(𝐼𝑁𝑇)⋅(15/85)} Los montos no descontados de las partidas específicas estarán sujetos a un ponderador de riesgo de crédito de 250%. El monto asociado a un crédito (activo) contingente del Estado por impuestos diferidos por diferencias temporales, tendrá un ponderador de 100% para el cómputo de los APRC.
+CET1_6= CET1_6(INT)
+−max{0;[(IDN_DT+CET1_IS+DSCH)
+−(EXC_IDN+EXC_CET1_IS+EXC_DSCH)]−CET1_6(INT)⋅(15/85)} Los montos no descontados de las partidas específicas estarán sujetos a un ponderador de riesgo de crédito de 250%. El monto asociado a un crédito (activo) contingente del Estado por impuestos diferidos por diferencias temporales, tendrá un ponderador de 100% para el cómputo de los APRC.
 Considerando el ajuste regulatorio por umbral, se obtiene el monto CET1_6, que se considera como capital ordinario nivel 1 del banco. Para el caso del capital adicional nivel 1, dado que no existen ajustes regulatorios en este paso, su valor corresponderá al que viene dado por AT1_5. Similar situación ocurre para el capital nivel 2, cuyo monto quedará determinado por T2_5.
 ## IV. SOBRE LA MEDICIÓN DE LOS LÍMITES LEGALES Y APLICACIÓN DE ESTA NORMA
 El capital básico y patrimonio efectivo, una vez efectuados los ajustes regulatorios y exclusiones definidos en esta norma, aplicarán consolidadamente para el cálculo de todos los límites establecidos en la LGB que se refieran a “capital básico” y “patrimonio efectivo”, salvo que la LGB indique lo contrario. El límite del
@@ -1218,7 +1220,7 @@ Capítulo 21-6 Hoja 14 Para el caso en que la madurez de las exposiciones no est
 haciendo uso de una interpolación lineal, con los valores de PRC para 1 y 5 años.
 • En el caso de los tramos subordinados, el PRC se ajustará por medio de la siguiente
 fórmula:
-𝑃𝑅𝐶´= 𝑃𝑅𝐶⋅[1−𝑚𝑖𝑛{𝑇;50%}] donde 𝑇 corresponde al ancho del tramo, calculado como la resta entre el punto de pérdidas completas menos el punto de entradas en pérdidas del tramo analizado. El punto de pérdidas completas se calcula como la razón entre la suma de los saldos de menor prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización. El punto de entradas en pérdidas se calcula como la razón entre los saldos de menor o igual prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización.
+PRC´= PRC⋅[1−min{T;50%}] donde T corresponde al ancho del tramo, calculado como la resta entre el punto de pérdidas completas menos el punto de entradas en pérdidas del tramo analizado. El punto de pérdidas completas se calcula como la razón entre la suma de los saldos de menor prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización. El punto de entradas en pérdidas se calcula como la razón entre los saldos de menor o igual prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización.
 Bajo cumplimiento de los criterios STC, el PRC resultante estará sujeto a un piso de
 10% para tramos preferentes, y 15% para tramos suborinados. Si no hay cumplimiento de los criterios STC, el PRC resultante está sujeto a un piso igual al máximo entre 15% y el PRC de un tramo preferente de un instrumento securitizado con la misma clasificación y vencimiento.
 No obstante, para los instrumentos securitizados preferentes sobre activos subyacentes provenientes del mismo banco, se les asigna un PRC de 1250%.
@@ -1240,30 +1242,30 @@ Circular N°2.292 / 19.08.2021 por Resolución N°4539
 Capítulo 21-6 Hoja 18
 ### 4.4 Funciones de riesgo
 4.4.1 Enfoque general
-Para calcular los cargos por riesgo de crédito (en adelante, 𝐾) de las exposiciones individuales se utilizan las siguientes fórmulas:
-𝐴𝑗𝑢𝑠𝑡𝑒 𝑎 𝑙𝑎 𝑀𝑎𝑑𝑢𝑟𝑒𝑧 (𝑏)= (0.11852−0.05478⋅ln(𝑃𝐼))2
-1 0.5 𝑅 0.5 1+(𝑀−2.5)⋅𝑏
-𝐾 = 𝑃𝐷𝐼⋅(𝑁[( ) 𝐺(𝑃𝐼)+( ) 𝐺(99.9%)]−𝑃𝐼)⋅( )
-1−𝑅 1−𝑅 1−1.5⋅𝑏 donde 𝑁(𝑥) denota la función de distribución acumulada de una variable aleatoria normal estándar (es decir, la probabilidad de que una variable aleatoria normal con media 0 y varianza 1 sea inferior o igual a 𝑥), 𝐺(𝑧) denota la función de distribución acumulada inversa de una variable aleatoria normal estándar (es decir, el valor de 𝑥 tal que 𝑁(𝑥) = 𝑧).
-Por otro lado, para calcular los 𝐾 de las exposiciones minoristas se utiliza la siguiente
+Para calcular los cargos por riesgo de crédito (en adelante, K) de las exposiciones individuales se utilizan las siguientes fórmulas:
+Ajuste a la Madurez (b)= (0.11852−0.05478⋅ln(PI))2
+1 0.5 R 0.5 1+(M−2.5)⋅b
+K = PDI⋅(N[( ) G(PI)+( ) G(99.9%)]−PI)⋅( )
+1−R 1−R 1−1.5⋅b donde N(x) denota la función de distribución acumulada de una variable aleatoria normal estándar (es decir, la probabilidad de que una variable aleatoria normal con media 0 y varianza 1 sea inferior o igual a x), G(z) denota la función de distribución acumulada inversa de una variable aleatoria normal estándar (es decir, el valor de x tal que N(x) = z).
+Por otro lado, para calcular los K de las exposiciones minoristas se utiliza la siguiente
 fórmula:
-### 1 0.5 𝑅 0.5
-𝐾 = 𝑃𝐷𝐼⋅(𝑁[( ) 𝐺(𝑃𝐼)+( ) 𝐺(99.9%)]−𝑃𝐼)
-### 1−𝑅 1−𝑅
+### 1 0.5 R 0.5
+K = PDI⋅(N[( ) G(PI)+( ) G(99.9%)]−PI)
+### 1−R 1−R
 Luego, para calcular los APRC de las exposiciones se debe aplicar la siguiente
 fórmula:
-𝐴𝑐𝑡𝑖𝑣𝑜𝑠 𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜𝑠 𝑝𝑜𝑟 𝑅𝑖𝑒𝑠𝑔𝑜 𝑑𝑒 𝐶𝑟é𝑑𝑖𝑡𝑜 (𝐴𝑃𝑅𝐶)= 𝐾⋅12.5⋅𝐸𝐴𝐼 La correlación R se determina de acuerdo con los criterios establecidos en el siguiente numeral.
-El 𝐾 para una exposición en incumplimiento, es igual al máximo entre cero y la diferencia entre la PDI y la mejor estimación de pérdida esperada del banco. El monto del activo ponderado por riesgo para la exposición en incumplimiento es el producto entre K,
+Activos ponderados por Riesgo de Crédito (APRC)= K⋅12.5⋅EAI La correlación R se determina de acuerdo con los criterios establecidos en el siguiente numeral.
+El K para una exposición en incumplimiento, es igual al máximo entre cero y la diferencia entre la PDI y la mejor estimación de pérdida esperada del banco. El monto del activo ponderado por riesgo para la exposición en incumplimiento es el producto entre K,
 12.5 y EAI, tal como se muestra en la fórmula anterior.
 4.4.2 Cálculo de correlación
 La fórmula que determina la correlación dependerá de la contraparte y de su PI. En el caso general para exposiciones individuales, se calcula mediante la siguiente fórmula:
-1−𝑒−50⋅𝑃𝐼 1−𝑒−50⋅𝑃𝐼 𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅)= 0.12⋅( )+0.24⋅(1− )
-1−𝑒−50 1−𝑒−50 La correlación para instituciones financieras no bancarias queda determinada por la
+1−e−50⋅PI 1−e−50⋅PI Correlación (R)= 0.12⋅( )+0.24⋅(1− )
+1−e−50 1−e−50 La correlación para instituciones financieras no bancarias queda determinada por la
 siguiente fórmula:
-1−𝑒−50⋅𝑃𝐼 1−𝑒−50⋅𝑃𝐼 𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅)= 1.25⋅[ 0.12⋅( )+0.24⋅(1− )]
-1−𝑒−50 1−𝑒−50 Para las PYMES, definidas de acuerdo con los criterios establecidos en el numeral 3 del presente Capítulo, se utiliza la siguiente fórmula de correlación:
-1−𝑒−50⋅𝑃𝐼 1−𝑒−50⋅𝑃𝐼 𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅)= 0.08⋅( )+0.20⋅(1− )
-1−𝑒−50 1−𝑒−50 Para la determinación de los APRC, aplicables a las exposiciones a préstamos especializados, definidos de acuerdo con los criterios establecidos en el numeral 3, los bancos deberán aplicar las funciones de riesgo corporativas, de manera de encontrar los PRC para cada tipo de préstamo especializado.
+1−e−50⋅PI 1−e−50⋅PI Correlación (R)= 1.25⋅[ 0.12⋅( )+0.24⋅(1− )]
+1−e−50 1−e−50 Para las PYMES, definidas de acuerdo con los criterios establecidos en el numeral 3 del presente Capítulo, se utiliza la siguiente fórmula de correlación:
+1−e−50⋅PI 1−e−50⋅PI Correlación (R)= 0.08⋅( )+0.20⋅(1− )
+1−e−50 1−e−50 Para la determinación de los APRC, aplicables a las exposiciones a préstamos especializados, definidos de acuerdo con los criterios establecidos en el numeral 3, los bancos deberán aplicar las funciones de riesgo corporativas, de manera de encontrar los PRC para cada tipo de préstamo especializado.
 Circular N°2.292 / 19.08.2021 por Resolución N°4539
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
@@ -1335,60 +1337,62 @@ Dicha metodología de cálculo, que se describe en el numeral 2 de este Capítul
 Para determinar el cómputo de los APRO señalado en esta norma, no se permitirá la utilización de metodologías propias a las que se refiere el inciso segundo del artículo 67 de la LGB.
 La adhesión a los lineamientos dispuestos en esta norma será parte de la evaluación de gestión que realiza este Organismo a los bancos en el ámbito de los riesgos operacionales, el cual se aborda en la letra c) del numeral 3.2 del Título II del Capítulo 113 de la Recopilación Actualizada de Normas (en adelante RAN).
 ## 2. Metodología para el cómputo de los APRO
-Para determinar los APRO es necesario calcular el indicador de negocio (𝐵𝐼, por sus siglas en inglés), definido como la suma de tres componentes, tal como señala la siguiente
+Para determinar los APRO es necesario calcular el indicador de negocio (BI, por sus siglas en inglés), definido como la suma de tres componentes, tal como señala la siguiente
 fórmula:
-𝐵𝐼 = 𝐼𝐿𝐷𝐶 + 𝐹𝐶 + 𝑆𝐶
+BI = ILDC + FC + SC
 donde:
-𝐼𝐿𝐷𝐶: componente de intereses, leasing y dividendos (ILDC, por sus siglas en inglés) 𝐹𝐶: componente financiero (FC, por sus siglas en inglés) 𝑆𝐶: componente de servicios (SC, por sus siglas en inglés) Para determinar los componentes IDLC, FC y SC se utilizan las siguientes fórmulas:
-𝐼𝐿𝐷𝐶 = min{𝑎 ̅̅ 𝑏 ̅̅ 𝑠 ̅(̅ 𝐼 ̅ 𝐼 ̅̅ − ̅̅̅ 𝐼 ̅ 𝐸 ̅̅),2.25%⋅𝐼̅̅𝐸̅̅𝐴̅ } +𝐷̅̅̅𝐼 𝐹𝐶 = 𝑎
-̅̅ 𝑏
-̅̅ 𝑠
-̅(̅ 𝑇
+ILDC: componente de intereses, leasing y dividendos (ILDC, por sus siglas en inglés) FC: componente financiero (FC, por sus siglas en inglés) SC: componente de servicios (SC, por sus siglas en inglés) Para determinar los componentes IDLC, FC y SC se utilizan las siguientes fórmulas:
+ILDC = min{a ̅̅ b ̅̅ s ̅(̅ I ̅ I ̅̅ − ̅̅̅ I ̅ E ̅̅),2.25%⋅I̅̅E̅̅A̅ } +D̅̅̅I
+FC = a
+̅̅ b
+̅̅ s
+̅(̅ T
 ̅̅
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝐵
-> ̅̅)+𝑎 ̅̅
-> 𝑏
+> B
+> ̅̅)+a ̅̅
+> b
 > $$
-̅̅ 𝑠
-### ̅(̅̅ 𝐵
-̅̅ 𝐵
-̅̅) 𝑆𝐶 = max{𝑂̅̅̅𝑂̅̅𝐼,𝑂̅̅̅𝑂̅̅𝐸̅} +max{𝐹̅̅̅𝐼,𝐹̅̅̅𝐸̅},
+̅̅ s
+### ̅(̅̅ B
+̅̅ B
+̅̅)
+SC = max{O̅̅̅O̅̅I,O̅̅̅O̅̅E̅} +max{F̅̅̅I,F̅̅̅E̅},
 donde:
-𝐼𝐼: Ingresos por intereses (II, por sus siglas en inglés).
-𝐼𝐸: Gastos por intereses (IE, por sus siglas en inglés).
+II: Ingresos por intereses (II, por sus siglas en inglés).
+IE: Gastos por intereses (IE, por sus siglas en inglés).
 Circular N°2.292 / 19.08.2021 por Resolución N°4539
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-8 Hoja 2 𝐼𝐸𝐴: Activos que generan intereses (IEA, por sus siglas en inglés).
-𝐷𝐼: Ingresos por dividendos (DI, por sus siglas en inglés).
-𝑇𝐵: Ingresos netos del libro de negociación (TB, por sus siglas en inglés).
-𝐵𝐵: Ingresos netos del libro de banca (BB, por sus siglas en inglés).
-𝑂𝑂𝐼: Otros ingresos operativos (OOI, por sus siglas en inglés).
-𝑂𝑂𝐸: Otros gastos operativos (OOE, por sus siglas en inglés).
-𝐹𝐼: Ingresos por comisiones (FI, por sus siglas en inglés).
-𝐹𝐸: Gastos por comisiones (FE, por sus siglas en inglés).
+Capítulo 21-8 Hoja 2 IEA: Activos que generan intereses (IEA, por sus siglas en inglés).
+DI: Ingresos por dividendos (DI, por sus siglas en inglés).
+TB: Ingresos netos del libro de negociación (TB, por sus siglas en inglés).
+BB: Ingresos netos del libro de banca (BB, por sus siglas en inglés).
+OOI: Otros ingresos operativos (OOI, por sus siglas en inglés).
+OOE: Otros gastos operativos (OOE, por sus siglas en inglés).
+FI: Ingresos por comisiones (FI, por sus siglas en inglés).
+FE: Gastos por comisiones (FE, por sus siglas en inglés).
 La barra superior representa el promedio móvil de los últimos tres años y la función abs(.) el valor absoluto.
-El 𝐼𝐸𝐴 se obtiene directamente de la información del estado de situación financiera del banco. Los otros conceptos se establecen considerando los flujos del estado de resultados de los últimos 12 meses.
+El IEA se obtiene directamente de la información del estado de situación financiera del banco. Los otros conceptos se establecen considerando los flujos del estado de resultados de los últimos 12 meses.
 Las partidas del estado de situación financiera y del estado de resultados del banco consideradas para determinar cada componente, se describen en el Anexo 1 de este Capítulo.
-A partir del BI se calcula la componente del indicador de negocios (𝐵𝐼𝐶, por sus siglas en inglés). El BIC es igual a la suma ponderada de los montos del 𝐵𝐼 en función de dos tramos, considerando como ponderadores distintos coeficientes marginales por tramo
-(𝛼 ), de acuerdo con la siguiente tabla:
-𝑖
+A partir del BI se calcula la componente del indicador de negocios (BIC, por sus siglas en inglés). El BIC es igual a la suma ponderada de los montos del BI en función de dos tramos, considerando como ponderadores distintos coeficientes marginales por tramo
+(α ), de acuerdo con la siguiente tabla:
+i
 
 | Intervalo del BI en millones de UF |
 | --- |
-| 𝐵𝐼 ≤ 25 𝐵𝐼 > 25 |
+| BI ≤ 25 BI > 25 |
 
-A modo de ejemplo, si para un periodo determinado el 𝐵𝐼 de un banco fuese 45 millones de Unidades de Fomento (UF), entonces el 𝐵𝐼𝐶 resultante será 𝐵𝐼𝐶 = 0,12⋅25+
+A modo de ejemplo, si para un periodo determinado el BI de un banco fuese 45 millones de Unidades de Fomento (UF), entonces el BIC resultante será BIC = 0,12⋅25+
 0,15⋅(45−25) = 6 millones de UF.
 El cargo por riesgo operacional (ORC, por sus siglas en inglés) es el producto que resulta de multiplicar el BIC de cada banco, señalado anteriormente, por el multiplicador interno de pérdidas operacionales de dicha entidad (ILM, por sus siglas en inglés), tal como lo indica la siguiente expresión:
-𝑂𝑅𝐶 = 𝐵𝐼𝐶 ⋅ 𝐼𝐿𝑀
-El 𝐼𝐿𝑀 se calcula mediante la siguiente fórmula:
-𝐼𝐿𝑀 = 𝑙𝑛 (𝑒(1) − 1 + (𝐿𝐶/𝐵𝐼𝐶)^0,8)
+ORC = BIC ⋅ ILM
+El ILM se calcula mediante la siguiente fórmula:
+ILM = ln (e(1) − 1 + (LC/BIC)^0,8)
 donde:
-𝑙𝑛(.): representa la función logaritmo natural 𝑒(.): representa la función exponencial 𝐿𝐶: es la componente de pérdida, que se calcula como 15 veces el promedio de pérdidas operacionales anuales netas históricas de un banco, con información de los 10 años anteriores a la fecha del cálculo.
+ln(.): representa la función logaritmo natural e(.): representa la función exponencial LC: es la componente de pérdida, que se calcula como 15 veces el promedio de pérdidas operacionales anuales netas históricas de un banco, con información de los 10 años anteriores a la fecha del cálculo.
 Circular N°2.292 / 19.08.2021 por Resolución N°4539
 
 ### RECOPILACION ACTUALIZADA DE NORMAS

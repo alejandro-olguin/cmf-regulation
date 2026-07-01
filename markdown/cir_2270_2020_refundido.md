@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2270
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 1-13 Hoja 1
 ### CAPÍTULO 1-13 CLASIFICACIÓN DE GESTIÓN Y SOLVENCIA
@@ -1011,19 +1013,19 @@ Riesgo de spread de intermediación: la exposición a pérdidas ocasionadas por 
 Riesgo de brecha: la exposición a pérdidas ocasionadas por variaciones de la curva de tasas de interés. Se denomina paralelo cuando la perturbación es independiente de la estructura temporal de la curva de tasas.
 Riesgo de base: la exposición a pérdidas ocasionadas al calcular valorizaciones con diferentes índices de tasas de interés.
 Riesgo de opción: la exposición a pérdidas ocasionadas por el comportamiento del mercado o de los clientes, pudiendo modificar el perfil temporal de los flujos del banco.
-La medición de la exposición a los RMLB deberá considerar tanto el impacto sobre la capacidad de generación de intereses y reajustes netos de corto plazo (∆𝑁𝐼𝐼, por sus siglas en inglés), como el impacto sobre el valor económico de la institución financiera (Δ𝐸𝑉𝐸, por sus siglas en inglés), a raíz de movimientos adversos en las tasas de interés.
-En el caso de la medida 𝛥𝐸𝑉𝐸 se considera un Balance Estático (run-off), es decir, que no se sustituyen las distintas partidas por otras nuevas o nuevos negocios. Por su parte, para la medida 𝛥𝑁𝐼𝐼 se considera un Balance Constante, en donde se supone que las partidas que vencen se sustituyen con otras nuevas de iguales características, pero diferentes tasas de interés. Estas consideraciones están implícitamente reflejadas en las fórmulas establecidas para la determinación de ambas medidas.
+La medición de la exposición a los RMLB deberá considerar tanto el impacto sobre la capacidad de generación de intereses y reajustes netos de corto plazo (∆NII, por sus siglas en inglés), como el impacto sobre el valor económico de la institución financiera (ΔEVE, por sus siglas en inglés), a raíz de movimientos adversos en las tasas de interés.
+En el caso de la medida ΔEVE se considera un Balance Estático (run-off), es decir, que no se sustituyen las distintas partidas por otras nuevas o nuevos negocios. Por su parte, para la medida ΔNII se considera un Balance Constante, en donde se supone que las partidas que vencen se sustituyen con otras nuevas de iguales características, pero diferentes tasas de interés. Estas consideraciones están implícitamente reflejadas en las fórmulas establecidas para la determinación de ambas medidas.
 Circular N°2.270 / 11.09.2020 por Resolución N°4116
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-13 Anexo 1 – Hoja 2 Para la medición del ∆𝑁𝐼𝐼, el banco debe considerar los flujos de efectivo nocional a
+Capítulo 21-13 Anexo 1 – Hoja 2 Para la medición del ∆NII, el banco debe considerar los flujos de efectivo nocional a
 “precios revisados” (en adelante repricing, por el término en inglés), definidos más adelante, hasta un año, de acuerdo con la definición establecida en el numeral 2 de este Anexo, de activos, pasivos y partidas fuera de balance que sean sensibles a las tasas de interés, además de los reajustes. Dichos flujos deben ponderarse por factores que miden la sensibilidad de corto plazo de las posiciones según banda temporal, moneda y escenario de perturbación de las tasas de interés.
-Para la medición del Δ𝐸𝑉𝐸, el banco debe considerar todos los flujos de efectivo nocional a repricing. Luego, el banco debe establecer la curva de tasas libres de riesgo y las curvas asociadas a los 6 escenarios de perturbación, tal como se establece en el numeral 3 de este Anexo. Finalmente, con los flujos de efectivo y las curvas de tasas, se determinan las pérdidas del valor económico, tal como se establece en el numeral 4 de este Anexo.
+Para la medición del ΔEVE, el banco debe considerar todos los flujos de efectivo nocional a repricing. Luego, el banco debe establecer la curva de tasas libres de riesgo y las curvas asociadas a los 6 escenarios de perturbación, tal como se establece en el numeral 3 de este Anexo. Finalmente, con los flujos de efectivo y las curvas de tasas, se determinan las pérdidas del valor económico, tal como se establece en el numeral 4 de este Anexo.
 Este análisis se realiza por moneda significativa, entendiendo esto último como aquellas monedas que representan más del 5% de los activos o pasivos del libro de banca. Para efectos de este Anexo, los flujos en moneda local reajustable son tratados como una sola moneda, que denominaremos UR.
-El Directorio del banco debe establecer anualmente el límite a la medida ∆𝑁𝐼𝐼 y
-∆𝐸𝑉𝐸, de acuerdo con lo señalado en el Capítulo 1-13 de esta recopilación. El primero de ellos se establece como un porcentaje del margen neto de intereses y reajustes, mientras que el de largo plazo se establece como un porcentaje del capital nivel 1, definido en el Capítulo de esta Recopilación que regule el Patrimonio para efectos legales y reglamentarios. Sin perjuicio de lo anterior, esta Comisión podrá considerar que un banco es atípico, si es que su medida ∆𝐸𝑉𝐸 medido de acuerdo con el método estándar supera el 15% del capital nivel 1. Ambas métricas deberán medirse a nivel de consolidación local, considerando la respectiva jurisdicción.
+El Directorio del banco debe establecer anualmente el límite a la medida ∆NII y
+∆EVE, de acuerdo con lo señalado en el Capítulo 1-13 de esta recopilación. El primero de ellos se establece como un porcentaje del margen neto de intereses y reajustes, mientras que el de largo plazo se establece como un porcentaje del capital nivel 1, definido en el Capítulo de esta Recopilación que regule el Patrimonio para efectos legales y reglamentarios. Sin perjuicio de lo anterior, esta Comisión podrá considerar que un banco es atípico, si es que su medida ∆EVE medido de acuerdo con el método estándar supera el 15% del capital nivel 1. Ambas métricas deberán medirse a nivel de consolidación local, considerando la respectiva jurisdicción.
 Los bancos que sean calificados como atípicos por esta Comisión, en función de su exposición a RMLB, podrán ser sometidos a una revisión de suficiencia de capital.
-Si se concluye que la gestión del RMLB es inadecuada, de acuerdo con las disposiciones establecidas en el Capítulo 1-13 de esta Recopilación, o que se asume demasiado riesgo en relación con su capital, ganancias o su perfil general de riesgo, esta Comisión podrá exigir la adopción de algunas de las medidas del literal III de este Capítulo, esto es: i) reducir sus exposiciones a RMLB, ii) mejorar su marco de gestión del riesgo, iii) un aumento de capital. En caso de exigirse un aumento de capital, éste será por el monto equivalente al exceso de la medida ∆𝐸𝑉𝐸 sobre el 15% del capital nivel 1.
+Si se concluye que la gestión del RMLB es inadecuada, de acuerdo con las disposiciones establecidas en el Capítulo 1-13 de esta Recopilación, o que se asume demasiado riesgo en relación con su capital, ganancias o su perfil general de riesgo, esta Comisión podrá exigir la adopción de algunas de las medidas del literal III de este Capítulo, esto es: i) reducir sus exposiciones a RMLB, ii) mejorar su marco de gestión del riesgo, iii) un aumento de capital. En caso de exigirse un aumento de capital, éste será por el monto equivalente al exceso de la medida ∆EVE sobre el 15% del capital nivel 1.
 En todo caso, los modelos utilizados para los efectos señalados serán objeto de análisis por parte de la Comisión en las evaluaciones regulares de gestión de riesgo financiero y operaciones de tesorería, a que se refiere la letra B) del numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación.
 ## 2. Flujos de efectivo nocional
 ### 2.1 Definición de flujo de efectivo nocional a repricing
@@ -1039,13 +1041,13 @@ temprana en la que el banco o su contraparte están facultados para cambiar unil
 sido reembolsado o afecto a repricing.
 No se deben considerar flujos asociados a activos que se deducen del CET1, ni tampoco posibles flujos asociados a activos fijos o acciones en el libro de banca mantenidas por filiales del banco. Tampoco deben considerarse posibles flujos asociados al CET1.
 La fecha de cada reembolso, repricing o pagos de intereses se denomina, para efectos de este Anexo, fecha de repricing.
-Por último, el banco no deberá considerar para la medida Δ𝑁𝐼𝐼 partidas en el libro de banca que no generen un impacto en el margen neto de interés y reajuste, como son efectivo, divisas pendientes de transferencia, entre otras.
+Por último, el banco no deberá considerar para la medida ΔNII partidas en el libro de banca que no generen un impacto en el margen neto de interés y reajuste, como son efectivo, divisas pendientes de transferencia, entre otras.
 ### 2.2 Estructura general
 Todos los flujos sensibles a las tasas de interés deben ser asignados en una escala de
 19 bandas temporales (k) en función de su fecha de repricing, de acuerdo con la
 siguiente estructura:
 
-| Correlativo (k) | Plazo | Intervalos de tiempo (M: meses; A: años) | 𝑡 𝑘 |
+| Correlativo (k) | Plazo | Intervalos de tiempo (M: meses; A: años) | t k |
 | --- | --- | --- | --- |
 | 1 | Tasas a corto plazo | Overnight | 0.0028 |
 | 2 |  | Overnight <t≤1M | 0.0417 |
@@ -1066,8 +1068,8 @@ siguiente estructura:
 | 17 |  | 10A<t≤15A | 12.5000 |
 | 18 |  | 15A<t≤20A | 17.5000 |
 | 19 |  | t>20 | 25.0000 |
-𝑡 corresponde al punto medio de la banda temporal k, expresado en años.
-𝑘 Las diferentes posiciones del banco tienen tratamientos diferenciados según el tipo de exposición, donde deben distinguirse:
+t corresponde al punto medio de la banda temporal k, expresado en años.
+k Las diferentes posiciones del banco tienen tratamientos diferenciados según el tipo de exposición, donde deben distinguirse:
 ## I. Posiciones susceptibles a la estandarización
 ## II. Depósitos y otras obligaciones a la vista Circular N°2.270 / 11.09.2020 por Resolución N°4116
 ## II. Depósitos y otras obligaciones a la vista Circular N°2.270 / 11.09.2020 por Resolución N°4116 RECOPILACION ACTUALIZADA DE NORMAS
@@ -1075,7 +1077,7 @@ Capítulo 21-13 Anexo 1 – Hoja 4 III. Préstamos a tasa fija sujetos a riesgo 
 ## V. Opciones explícitas e implícitas
 Los tratamientos II, III y IV se refieren a posiciones que no son susceptibles a la estandarización pero que, tras ajustes en la distribución de los flujos de efectivo nocional dentro de las bandas temporales, se pueden agregar a las posiciones susceptibles a la estandarización (tratamiento I). Los tratamientos III y IV deben sólo aplicarse a clientes minoristas, de acuerdo con la definición establecida en el Capítulo 12-20 de la RAN. Si el banco está expuesto a riesgo de prepago de un préstamo a tasa fija, o bien, a riesgo de retiro anticipado de un depósito a plazo con clientes mayoristas, entonces deberá asignar dicha opción al tratamiento V.
 Posterior a la asignación de los flujos en las bandas temporales correspondientes, se calcula la variación, tanto del margen neto de interés y reajustes a 1 año como del valor económico para cada moneda significativa, dentro de seis escenarios de perturbación de las tasas interés. A dichos valores se agrega la pérdida asociada al riesgo de reajustabilidad a la exposición sobre el margen neto de interés y reajustes, y el resultado del tratamiento V, a la exposición sobre el valor económico, calculado en cada uno de los seis escenarios de perturbación de las tasas de interés.
-Luego, el ∆𝑁𝐼𝐼 se calcula como la suma de las pérdidas del margen neto de intereses y reajustes, mientras que el ∆𝐸𝑉𝐸 corresponde al valor máximo entre las peores reducciones del valor económico de la cartera, para todas las monedas significativas, dados los escenarios de perturbación de tasas de interés.
+Luego, el ∆NII se calcula como la suma de las pérdidas del margen neto de intereses y reajustes, mientras que el ∆EVE corresponde al valor máximo entre las peores reducciones del valor económico de la cartera, para todas las monedas significativas, dados los escenarios de perturbación de tasas de interés.
 ### 2.3 Tratamientos de flujo de efectivo nocional a repricing
 2.3.1 Tratamiento de las posiciones susceptibles a la
 estandarización El proceso de asignación a las bandas temporales para las posiciones susceptibles de estandarización se realiza de acuerdo con el vencimiento contractual, para aquellas posiciones a tasa fija; y en función de la siguiente fecha de repricing, como se definió en el numeral 2.1 de este Anexo, para aquellas posiciones a tasa flotante. En este último caso, los intereses se incluirán en las correspondientes bandas temporales hasta la siguiente fecha de repricing, y la amortización del capital se incluirá en la banda temporal que corresponda a la fecha de repricing.
@@ -1097,13 +1099,14 @@ Adicionalmente, el banco debe cumplir con los siguientes límites para cada cate
 
 En caso de que el banco no distinga el tipo de relación operacional de sus contrapartes minoristas, se deberá asignar la totalidad del saldo en la categoría sin relación operacional.
 2.3.3 Tratamiento de los préstamos a tasa fija sujetos a riesgo de
-prepago Para determinar las bandas temporales de los préstamos a tasa fija sujetos a riesgo de prepago, es necesario determinar, en primer lugar, las diferentes carteras p de préstamos homogéneos susceptibles de prepago. Luego para cada cartera p, y moneda c, el banco debe determinar la tasa de prepago condicional de referencia 𝑝
-(denominada 𝐶𝑃𝑅 ), con la estructura temporal vigente de las tasas de interés. La
-0,𝑐 tasa de prepago en el escenario de perturbación i, se calcula como:
-𝑝 𝑝 𝐶𝑃𝑅 = min⁡(1,𝛾 ∙𝐶𝑃𝑅 ) 𝑖,𝑐 𝑖 0,𝑐 El parámetro 𝛾 refleja que los prepagos suelen ser mayores durante los periodos de 𝑖 caídas de las tasas de interés y menores durante periodos de subidas. Para cada uno de los seis escenarios de perturbación de las tasas de interés, el parámetro 𝛾 𝑖
+prepago Para determinar las bandas temporales de los préstamos a tasa fija sujetos a riesgo de prepago, es necesario determinar, en primer lugar, las diferentes carteras p de préstamos homogéneos susceptibles de prepago. Luego para cada cartera p, y moneda c, el banco debe determinar la tasa de prepago condicional de referencia p
+(denominada CPR ), con la estructura temporal vigente de las tasas de interés. La
+0,c tasa de prepago en el escenario de perturbación i, se calcula como:
+p p
+CPR = min⁡(1,γ ∙CPR ) i,c i 0,c El parámetro γ refleja que los prepagos suelen ser mayores durante los periodos de i caídas de las tasas de interés y menores durante periodos de subidas. Para cada uno de los seis escenarios de perturbación de las tasas de interés, el parámetro γ i
 corresponde a:
 
-| Escenario | Descripción | 𝛾 𝑖 |
+| Escenario | Descripción | γ i |
 | --- | --- | --- |
 | 1 | Subida en paralelo | 0,8 |
 | 2 | Bajada en paralelo | 1,2 |
@@ -1112,13 +1115,13 @@ corresponde a:
 | 5 | Subida de la tasa a corto | 0,8 |
 | 6 | Bajada de la tasa a corto | 1,2 |
 
-Por último, para la determinación de los flujos de efectivo asociados a esta categoría, que denominaremos 𝐶𝐹 𝑝(𝑘), se deben asignar los flujos consistentes con las tasas 𝑖,𝑐 de prepago, de acuerdo con la siguiente expresión:
+Por último, para la determinación de los flujos de efectivo asociados a esta categoría, que denominaremos CF p(k), se deben asignar los flujos consistentes con las tasas i,c de prepago, de acuerdo con la siguiente expresión:
 Circular N°2.270 / 11.09.2020 por Resolución N°4116
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-13 Anexo 1 – Hoja 6 𝐶𝐹 𝑝(𝑘) = 𝐶𝐹𝑆 (𝑘)+𝐶𝑃𝑅 𝑝 ∙𝑁 𝑝 (𝑘−1) 𝑖,𝑐 𝑖,𝑐 𝑖,𝑐 𝑖,𝑐 𝐶𝐹𝑆 (𝑘) son los pagos contractuales de intereses y capital, y 𝑁 𝑝 (𝑘−1) se refiere al 𝑖,𝑐 𝑖,𝑐 saldo nocional insoluto en la banda temporal 𝑘−1. Consistentemente, las porciones de flujos que se consideran prepagadas deben descontarse de los flujos contractuales de las bandas siguientes.
-Es importante mencionar que, para efectos de este Anexo, los flujos de efectivo de referencia que no poseen perturbaciones a las tasas de interés vienen dados por 𝑖 =
-0, mientras que los escenarios de perturbación vienen dados por 𝑖 ∈ {1,…,6}.
+Capítulo 21-13 Anexo 1 – Hoja 6 CF p(k) = CFS (k)+CPR p ∙N p (k−1) i,c i,c i,c i,c CFS (k) son los pagos contractuales de intereses y capital, y N p (k−1) se refiere al i,c i,c saldo nocional insoluto en la banda temporal k−1. Consistentemente, las porciones de flujos que se consideran prepagadas deben descontarse de los flujos contractuales de las bandas siguientes.
+Es importante mencionar que, para efectos de este Anexo, los flujos de efectivo de referencia que no poseen perturbaciones a las tasas de interés vienen dados por i =
+0, mientras que los escenarios de perturbación vienen dados por i ∈ {1,…,6}.
 ## 3. Tratamiento de los depósitos y otras captaciones a plazo sujetos a
 riesgo de retiro anticipado Los depósitos y otras captaciones a plazo aseguran una tasa fija durante un plazo fijo y normalmente se cubrirían en esos términos. Sin embargo, estos depósitos pueden estar sujetos al riesgo de retiro anticipado. En consecuencia, los depósitos y otras obligaciones a plazo solo pueden tratarse como posiciones susceptibles a la estandarización (tratamiento I) si se cumple que:
 1. El depositante carece del derecho legal de retirar el depósito
@@ -1126,12 +1129,13 @@ anticipadamente; o
 2. Un retiro anticipado conlleva una penalización significativa que compensa al
 menos la pérdida de intereses entre la fecha de cancelación y la fecha de vencimiento contractual y el costo económico de cancelar el contrato.
 Si no se cumplen las condiciones anteriores, se considera que el depósito u otra obligación a plazo está sujeto a riesgo de retiro anticipado. El banco debe determinar las diferentes carteras homogéneas p, de depósitos y otras captaciones a plazo, sujetas a riesgo de retiro anticipado.
-El banco debe determinar el cociente de referencia para el retiro anticipado de 𝑝 depósitos y otras captaciones a plazo 𝑇𝐷𝑅𝑅 , aplicable a cada cartera p, en la
-0,𝑐 moneda c y utilizarlo para el ajuste de los flujos a las bandas temporales. Los depósitos y otras captaciones a plazo para los que se prevé su retiro anticipado se atribuyen a la primera banda temporal. El cociente para el retiro anticipado de depósitos y otras captaciones a plazo aplicable a cada cartera p, en la moneda c y el escenario de perturbación i se calcula como:
-𝑝 𝑝 𝑇𝐷𝐷𝑅 = min⁡(1,𝜇 ∙𝑇𝐷𝐷𝑅 ) 𝑖,𝑐 𝑖 0,𝑐 Los valores de los escalares 𝜇 se determinan de acuerdo con la siguiente tabla:
-𝑖
+El banco debe determinar el cociente de referencia para el retiro anticipado de p depósitos y otras captaciones a plazo TDRR , aplicable a cada cartera p, en la
+0,c moneda c y utilizarlo para el ajuste de los flujos a las bandas temporales. Los depósitos y otras captaciones a plazo para los que se prevé su retiro anticipado se atribuyen a la primera banda temporal. El cociente para el retiro anticipado de depósitos y otras captaciones a plazo aplicable a cada cartera p, en la moneda c y el escenario de perturbación i se calcula como:
+p p
+TDDR = min⁡(1,μ ∙TDDR ) i,c i 0,c Los valores de los escalares μ se determinan de acuerdo con la siguiente tabla:
+i
 
-| Escenario | Descripción | 𝛾 𝑖 |
+| Escenario | Descripción | γ i |
 | --- | --- | --- |
 | 1 | Subida en paralelo | 1,2 |
 | 2 | Bajada en paralelo | 0,8 |
@@ -1147,20 +1151,20 @@ Capítulo 21-13 Anexo 1 – Hoja 7 Los flujos de efectivo de depósitos y otras 
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝐶𝐹
-> 𝑝(1)
-> = 𝑇𝐷
-> 𝑝
+> CF
+> p(1)
+> = TD
+> p
 > $$
-∙𝑇𝐷𝑅𝑅 𝑝 𝑖,𝑐 0,𝑐 𝑖,𝑐 𝑝 donde 𝑇𝐷 es el saldo remanente de los depósitos a plazo de tipo p.
-0,𝑐
+∙TDRR p i,c 0,c i,c p donde TD es el saldo remanente de los depósitos a plazo de tipo p.
+0,c
 ## 4. Opciones sobre tasas de interés
 En este numeral se describe el método para calcular la exposición a los RMLB de las opciones sobre tasas de interés del libro de banca, sean explícitas o implícitas, que se agrega a la estimación del valor económico de la cartera en cada uno de los escenarios de perturbación de tasas.
 Se incluyen en este tratamiento las opciones asociadas al prepago de un préstamo a tasa fija y al retiro anticipado de un depósito a plazo, siempre y cuando dicho cliente sea mayorista, de acuerdo con la definición señalada en el Capítulo 12-20 de la RAN.
 La opcionalidad debe estimarse considerando la estructura temporal vigente de las tasas de interés, y la curva asociada al respectivo escenario de perturbación.
 Para cada opción emitida o, en la moneda c, la variación del valor, denotado por
-∆𝐹𝑉𝐴𝑂𝑜 , se calcula en cada escenario de perturbación i como:
-𝑖,𝑐
+∆FVAOo , se calcula en cada escenario de perturbación i como:
+i,c
 1. Una estimación del valor de la opción para su tenedor, cumpliendo las
 condiciones que establezca esta Comisión el Capítulo que regule los activos ponderados por riesgo de mercado, asumiendo:
 a. Una curva de rendimiento en la moneda c en el escenario de
@@ -1168,9 +1172,10 @@ perturbaciones de tasas de interés i; y
 b. Un aumento relativo de la volatilidad implícita del 25%.
 2. El valor de la opción emitida para su tenedor, dada la curva de rendimiento
 en la moneda c en la fecha de valoración.
-Del mismo modo, para cada opción adquirida q, el banco debe determinar la variación del valor de la opción entre el escenario de perturbación de tasas i y la estructura de tasas de interés vigente, combinada con un aumento relativo de la 𝑞 volatilidad implícita del 25%. Esto se denota por ∆𝐹𝑉𝐴𝑂 .
-𝑖,𝑐 La medida total del riesgo de opciones sobre tasas de interés, la cual se denomina 𝐾𝐴𝑂 , en el escenario de perturbación i y en la moneda c, se calcula como:
-𝑖𝑐 𝑛𝑐 𝑚𝑐 𝐾𝐴𝑂 = ∑∆𝐹𝑉𝐴𝑂𝑜 −∑∆𝐹𝑉𝐴𝑂 𝑞 𝑖,𝑐 𝑖,𝑐 𝑖,𝑐 𝑜=1 𝑞=1 𝑛 y 𝑚 corresponden al número de opciones emitidas y adquiridas, 𝑐 𝑐 respectivamente, en la moneda c.
+Del mismo modo, para cada opción adquirida q, el banco debe determinar la variación del valor de la opción entre el escenario de perturbación de tasas i y la estructura de tasas de interés vigente, combinada con un aumento relativo de la q volatilidad implícita del 25%. Esto se denota por ∆FVAO .
+i,c La medida total del riesgo de opciones sobre tasas de interés, la cual se denomina KAO , en el escenario de perturbación i y en la moneda c, se calcula como:
+ic nc mc
+KAO = ∑∆FVAOo −∑∆FVAO q i,c i,c i,c o=1 q=1 n y m corresponden al número de opciones emitidas y adquiridas, c c respectivamente, en la moneda c.
 Circular N°2.270 / 11.09.2020 por Resolución N°4116
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
@@ -1190,7 +1195,7 @@ Los seis escenarios prescritos reflejan perturbaciones absolutas para monedas es
 
 Las canastas 1 y 2 corresponden a las definidas en la norma que establezca esta Comisión, sobre determinación de los activos ponderados por riesgo de mercado.
 ### 5.2 Ajuste a curva de tasas de interés
-Para cada moneda c, el banco debe determinar una curva de tasas libres de riesgo, en composición continua, en línea con las políticas internas que tengan para estos efectos. A partir de la curva de tasas libres de riesgo para el punto medio de cada banda temporal 𝑡 , denominada 𝑟 (𝑡 ), se debe ajustar la curva de tasas de interés 𝑘 0,𝑐 𝑘 para los seis escenarios regulatorios, correspondientes a:
+Para cada moneda c, el banco debe determinar una curva de tasas libres de riesgo, en composición continua, en línea con las políticas internas que tengan para estos efectos. A partir de la curva de tasas libres de riesgo para el punto medio de cada banda temporal t , denominada r (t ), se debe ajustar la curva de tasas de interés k 0,c k para los seis escenarios regulatorios, correspondientes a:
 ## 1. Subida en paralelo
 ## 2. Bajada en paralelo
 3. Mayor pendiente (bajada de tasas a corto y subida de tasas a largo)
@@ -1198,45 +1203,45 @@ Para cada moneda c, el banco debe determinar una curva de tasas libres de riesgo
 ## 5. Subida de tasas a corto plazo
 ## 6. Bajada de tasas a corto plazo
 7.
-Se denomina 𝑅 , 𝑅 y 𝑅 las perturbaciones para la moneda c, en 𝑝𝑎𝑟𝑎𝑙𝑒𝑙𝑜,𝑐 𝑐𝑜𝑟𝑡𝑜,𝑐 𝑙𝑎𝑟𝑔𝑜,𝑐 línea con el numeral 3.1 de este Anexo. Luego, considerando dichas perturbaciones, se deben determinar las curvas de tasas para cada escenario, la cual denominaremos 𝑟 (𝑡 ), para una determinada banda temporal 𝑡 , moneda 𝑐 y escenarios prescritos 𝑖,𝑐 𝑘 𝑘 𝑖 ∈ {1,…,6}, de acuerdo con los siguientes ajustes:
+Se denomina R , R y R las perturbaciones para la moneda c, en paralelo,c corto,c largo,c línea con el numeral 3.1 de este Anexo. Luego, considerando dichas perturbaciones, se deben determinar las curvas de tasas para cada escenario, la cual denominaremos r (t ), para una determinada banda temporal t , moneda c y escenarios prescritos i,c k k i ∈ {1,…,6}, de acuerdo con los siguientes ajustes:
 Circular N°2.270 / 11.09.2020 por Resolución N°4116
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-13 Anexo 1 – Hoja 9
 ## 1. Perturbación en paralelo (escenario 1 y 2): consiste en una
 perturbación constante paralela al alza o a la baja en todas las bandas temporales. Es decir:
-𝑟 (𝑡 )−𝑟 (𝑡 ) = ±𝑅 𝑖,𝑐 𝑘 0,𝑐 𝑘 𝑝𝑎𝑟𝑎𝑙𝑒𝑙𝑜,𝑐 En la ecuación anterior para la subida en paralelo (escenario 1) se considera la suma, mientras que para la bajada en paralelo (escenario 2) se considera la resta.
+r (t )−r (t ) = ±R i,c k 0,c k paralelo,c En la ecuación anterior para la subida en paralelo (escenario 1) se considera la suma, mientras que para la bajada en paralelo (escenario 2) se considera la resta.
 2. Perturbación de la tasa a corto plazo (escenarios 5 y 6): la subida de
-tasas a corto plazo es mayor para los vencimientos más cortos, y menor para los más largos. Para la bajada de tasas a corto plazo, se plantea el efecto inverso. La perturbación se ajusta de acuerdo con el escalar 𝑆 𝑐𝑜𝑟𝑡𝑜 (𝑡 𝑘 ) = 𝑒 − 𝑡 𝑥 𝑘 , donde x=4, mediante la siguiente fórmula:
-𝑡 𝑟 (𝑡 )−𝑟 (𝑡 ) = ±𝑅 ∙𝑆 (𝑡 ) = ±𝑅 ∙𝑒 − 𝑥 𝑘 𝑖,𝑐 𝑘 0,𝑐 𝑘 𝑐𝑜𝑟𝑡𝑜,𝑐 𝑐𝑜𝑟𝑡𝑜 𝑘 𝑐𝑜𝑟𝑡𝑜,𝑐 De manera consistente, en la ecuación anterior para la subida de tasas a corto plazo (escenario 5) se considera la suma, mientras que para la bajada de tasas a corto plazo (escenario 6) se considera la resta. Por ejemplo, para calcular la bajada a corto plazo en la banda temporal 10, el valor medio de dicha banda temporal es 𝑡 =3,5 años, por lo tanto, el ajuste escalar para la perturbación a 𝑘
-3,5 corto plazo sería 𝑆 𝑐𝑜𝑟𝑡𝑜 (3,5) = 𝑒 − 4 = 0,417. Luego, el banco debe multiplicar esta cifra por la perturbación de corto plazo para obtener la cantidad que debe añadir a la curva de tasas en dicho punto de vencimiento. Si la perturbación de tasas a corto plazo fuera de 100 pb, el ajuste a las tasas a corto plazo para 𝑡 =3,5 años sería de 41.7 pb.
-𝑘 Consistentemente, se define el escalar para ajustes en las tasas de interés de largo plazo, mediante la siguiente fórmula:
-𝑆 (𝑡 ) = 1−𝑆 (𝑡 ) 𝑙𝑎𝑟𝑔𝑜 𝑘 𝑐𝑜𝑟𝑡𝑜 𝑘
+tasas a corto plazo es mayor para los vencimientos más cortos, y menor para los más largos. Para la bajada de tasas a corto plazo, se plantea el efecto inverso. La perturbación se ajusta de acuerdo con el escalar S corto (t k ) = e − t x k , donde x=4, mediante la siguiente fórmula:
+t r (t )−r (t ) = ±R ∙S (t ) = ±R ∙e − x k i,c k 0,c k corto,c corto k corto,c De manera consistente, en la ecuación anterior para la subida de tasas a corto plazo (escenario 5) se considera la suma, mientras que para la bajada de tasas a corto plazo (escenario 6) se considera la resta. Por ejemplo, para calcular la bajada a corto plazo en la banda temporal 10, el valor medio de dicha banda temporal es t =3,5 años, por lo tanto, el ajuste escalar para la perturbación a k
+3,5 corto plazo sería S corto (3,5) = e − 4 = 0,417. Luego, el banco debe multiplicar esta cifra por la perturbación de corto plazo para obtener la cantidad que debe añadir a la curva de tasas en dicho punto de vencimiento. Si la perturbación de tasas a corto plazo fuera de 100 pb, el ajuste a las tasas a corto plazo para t =3,5 años sería de 41.7 pb.
+k Consistentemente, se define el escalar para ajustes en las tasas de interés de largo plazo, mediante la siguiente fórmula:
+S (t ) = 1−S (t ) largo k corto k
 ## 3. Perturbaciones de pendientes (escenarios 3 y 4): conllevan
 inclinación (escenario 3) o aplanamiento (escenario 4) de la pendiente de la curva de tasas de interés, en las cuales tanto las tasas a largo como a corto plazo se ven perturbadas. La modificación de la curva de tasas de interés se obtiene mediante las siguientes fórmulas:
-𝑡 𝑡 𝑟 (𝑡 )−𝑟 (𝑡 ) = −0.65∙𝑅 ∙𝑒 − 𝑥 𝑘 +0.9∙𝑅 ∙(1−𝑒 − 𝑥 𝑘 )
-3,𝑐 𝑘 0,𝑐 𝑘 𝑐𝑜𝑟𝑡𝑜,𝑐 𝑙𝑎𝑟𝑔𝑜,𝑐 𝑡 𝑡 𝑟 (𝑡 )−𝑟 (𝑡 ) = 0.80∙𝑅 ∙𝑒 − 𝑥 𝑘 −0.6∙𝑅 ∙(1−𝑒 − 𝑥 𝑘 )
-4,𝑐 𝑘 0,𝑐 𝑘 𝑐𝑜𝑟𝑡𝑜,𝑐 𝑙𝑎𝑟𝑔𝑜,𝑐 Sin perjuicio del escenario 𝑖 considerado, el banco deberá aplicar un piso mínimo sobre las tasas post perturbaciones de -2% para las asociadas a moneda UR, y de 0% para el resto de las tasas. No obstante, si las tasas previas a la consideración de las perturbaciones fuesen inferiores a estos pisos, deberá entonces considerarse dicha tasa.
+t t r (t )−r (t ) = −0.65∙R ∙e − x k +0.9∙R ∙(1−e − x k )
+3,c k 0,c k corto,c largo,c t t r (t )−r (t ) = 0.80∙R ∙e − x k −0.6∙R ∙(1−e − x k )
+4,c k 0,c k corto,c largo,c Sin perjuicio del escenario i considerado, el banco deberá aplicar un piso mínimo sobre las tasas post perturbaciones de -2% para las asociadas a moneda UR, y de 0% para el resto de las tasas. No obstante, si las tasas previas a la consideración de las perturbaciones fuesen inferiores a estos pisos, deberá entonces considerarse dicha tasa.
 Circular N°2.270 / 11.09.2020 por Resolución N°4116
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-13 Anexo 1 – Hoja 10
 ## 6. Cálculo de las medidas estándar de exposición
-Para determinar las medidas ∆𝑁𝐼𝐼 y ∆𝐸𝑉𝐸, el banco debe calcular, en cada escenario de perturbación i y moneda c, el cambio en el resultado financiero neto y en el valor económico de su cartera, respectivamente. Para ello debe utilizar todos los flujos de efectivo nocionales a repricing, denominados 𝐶𝐹 (𝑡 ), donde 𝑡 se refiere al punto 𝑖,𝑐 𝑘 𝑘 medio de la banda temporal k, de acuerdo con lo estipulado en los numerales anteriores. Dentro de cada banda temporal se compensan las posiciones activas y pasivas asignadas, obteniendo una única posición, que puede ser positiva o negativa, asignándose al punto medio 𝑡 .
-𝑘 Para determinar la medida ∆𝑁𝐼𝐼 tanto para la perturbación de subida en paralelo
-(escenario 1) como la bajada en paralelo (escenario 2), y para cada moneda c, o Δ𝑁𝐼𝐼 , se debe considerar la siguiente fórmula:
-𝑖,𝑐
-6 𝛥𝑁𝐼𝐼 = ∑𝐶𝐹 (𝑡 )∙(𝑟 (𝑡 )−𝑟 (𝑡 ))∙(1−𝑡 )
-𝑖,𝑐 𝑖,𝑐 𝑘 𝑖,𝑐 𝑘 0,𝑐 𝑘 𝑘 𝑘=1 Luego, la medida ∆𝑁𝐼𝐼 se obtiene por medio de la siguiente fórmula:
-∆𝑁𝐼𝐼 = 𝑚𝑎𝑥 {∑max{∆𝑁𝐼𝐼 ;0}⁡}+2%⋅|𝑃𝑁 | 𝑖∈{1,2} 𝑖,𝑐 𝑈𝑅 𝑐 La fórmula incluye también los posibles desajustes en la posición neta (activa o pasiva) en moneda UR cuando la moneda funcional sea CLP, la cual se denomina 𝑃𝑁 . En caso de que un banco posea otra moneda funcional, deberá ajustar la 𝑈𝑅 definición de moneda UR para la determinación de su posición neta en monedas reajustable.
-Por otro lado, para determinar la medida ∆𝐸𝑉𝐸 se deben calcular los factores de descuento 𝐷𝐹 (𝑡 ), para cada escenario i, moneda c, y banda temporal, mediante la 𝑖𝑐 𝑘
+Para determinar las medidas ∆NII y ∆EVE, el banco debe calcular, en cada escenario de perturbación i y moneda c, el cambio en el resultado financiero neto y en el valor económico de su cartera, respectivamente. Para ello debe utilizar todos los flujos de efectivo nocionales a repricing, denominados CF (t ), donde t se refiere al punto i,c k k medio de la banda temporal k, de acuerdo con lo estipulado en los numerales anteriores. Dentro de cada banda temporal se compensan las posiciones activas y pasivas asignadas, obteniendo una única posición, que puede ser positiva o negativa, asignándose al punto medio t .
+k Para determinar la medida ∆NII tanto para la perturbación de subida en paralelo
+(escenario 1) como la bajada en paralelo (escenario 2), y para cada moneda c, o ΔNII , se debe considerar la siguiente fórmula:
+i,c
+6 ΔNII = ∑CF (t )∙(r (t )−r (t ))∙(1−t )
+i,c i,c k i,c k 0,c k k k=1 Luego, la medida ∆NII se obtiene por medio de la siguiente fórmula:
+∆NII = max {∑max{∆NII ;0}⁡}+2%⋅|PN | i∈{1,2} i,c UR c La fórmula incluye también los posibles desajustes en la posición neta (activa o pasiva) en moneda UR cuando la moneda funcional sea CLP, la cual se denomina PN . En caso de que un banco posea otra moneda funcional, deberá ajustar la UR definición de moneda UR para la determinación de su posición neta en monedas reajustable.
+Por otro lado, para determinar la medida ∆EVE se deben calcular los factores de descuento DF (t ), para cada escenario i, moneda c, y banda temporal, mediante la ic k
 siguiente fórmula:
-𝐷𝐹 (𝑡 ) = exp⁡(−𝑟 (𝑡 )∙𝑡 ) 𝑖,𝑐 𝑘 𝑖,𝑐 𝑘 𝑘 Tanto en los flujos de efectivo nocionales a repricing, como en los factores de descuento se reflejan los escenarios de perturbación de tasas de interés i y la moneda c, de acuerdo con lo señalado en los numerales anteriores.
+DF (t ) = exp⁡(−r (t )∙t ) i,c k i,c k k Tanto en los flujos de efectivo nocionales a repricing, como en los factores de descuento se reflejan los escenarios de perturbación de tasas de interés i y la moneda c, de acuerdo con lo señalado en los numerales anteriores.
 El cambio en el valor económico de la cartera en cada escenario de perturbación i y para cada moneda c, se calcula mediante la siguiente fórmula:
 19 19
-∆𝐸𝑉𝐸 = ∑𝐶𝐹 (𝑡 )∙𝐷𝐹 (𝑡 )−∑𝐶𝐹 (𝑡 )∙𝐷𝐹 (𝑡 )+𝐾𝐴𝑂 𝑖,𝑐 0,𝑐 𝑘 0,𝑐 𝑘 𝑖,𝑐 𝑘 𝑖,𝑐 𝑘 𝑖,𝑐 𝑘=1 𝑘=1 Es importante notar que en el cálculo se incluye la medida total del riesgo de opciones implícitas y explícitas sobre tasas de interés, para cada escenario i y moneda c, de acuerdo con lo señalado en el tratamiento V de este Anexo.
-Por último, las pérdidas del valor económico, o Δ𝐸𝑉𝐸 , se obtienen de manera análoga a la medida ∆𝑁𝐼𝐼, a partir de la siguiente fórmula:
-∆𝐸𝑉𝐸 = 𝑚𝑎𝑥 {∑max{∆𝐸𝑉𝐸 ;0}⁡} 𝑖∈{1,2,.,6} 𝑖,𝑐 𝑐 Circular N°2.270 / 11.09.2020 por Resolución N°4116
+∆EVE = ∑CF (t )∙DF (t )−∑CF (t )∙DF (t )+KAO i,c 0,c k 0,c k i,c k i,c k i,c k=1 k=1 Es importante notar que en el cálculo se incluye la medida total del riesgo de opciones implícitas y explícitas sobre tasas de interés, para cada escenario i y moneda c, de acuerdo con lo señalado en el tratamiento V de este Anexo.
+Por último, las pérdidas del valor económico, o ΔEVE , se obtienen de manera análoga a la medida ∆NII, a partir de la siguiente fórmula:
+∆EVE = max {∑max{∆EVE ;0}⁡} i∈{1,2,.,6} i,c c Circular N°2.270 / 11.09.2020 por Resolución N°4116
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-13 Anexo 2

@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# NCG N° 303
+
 ### N.C.G. N° 303
 FECHA: 14.02.2011
 MAT: NORMA APLICABLE A LAS EMISIONES DE TITULOS DE DEUDA DE

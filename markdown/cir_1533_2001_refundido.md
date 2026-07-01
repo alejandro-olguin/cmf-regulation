@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# INSTRUYE SOBRE USO DE SOFTWARE PARA LA PRESENTACION DE ESTADOS FINANCIEROS
+# CIRCULAR N° 1533 — INSTRUYE SOBRE USO DE SOFTWARE PARA LA PRESENTACION DE ESTADOS FINANCIEROS
 
-CIRCULAR Nº 1.533
-FECHA: 27.03.2001
 
 Para todas las sociedades inscritas en el Registro de Valores con excepción de las compañías de seguros Esta Superintendencia en uso de sus facultades legales, ha estimado necesario impartir instrucciones sobre la forma de presentación y envío de los estados financieros que deben confeccionar las sociedades de acuerdo a la circular Nº 1.501 de 2000.
 ## I. USO DE SOFTWARE
@@ -25,8 +23,6 @@ de correo electrónico fecusa@svs.cl.
 ## II. PRESENTACION DE INFORMACIÓN
 Los informes financieros, preparados utilizando el sofware FECU S.A.., deberán ser envíados a través del Módulo SEIL (Sistema de Envío de Información en Línea) del sitio web de esta Superintendencia (www.svs.cl), de acuerdo a las instrucciones establecidas para tales efectos en la Norma de Carácter General Nº 117 del 20 de abril de 2001, y a lo indicado en el Anexo A de esta Circular.
 
-CIRCULAR Nº 1.533
-FECHA: 27.03.2001
 La declaración de responsabilidad señalada en la letra f, del Título III de la Circular Nº 1.501 de
 2000, deberá ser ingresada utilizando el formulario electrónico "Declaración de Responsabilidad Módulo SEIL", el que se genera al momento del envío de la información financiera correspondiente.
 Sólo podrán efectuar este trámite las sociedades que cuenten con usuario registrado en esta Superintendencia, debidamente autorizado por el representante legal de la sociedad a la cual pertenece. Sobre el particular, se deberá tener presente lo siguiente:
@@ -44,15 +40,11 @@ Se exceptúa de la obligación establecida en el Título II a las sociedades aco
 Copia del acta de sesión de directorio en que se toma conocimiento y responsabiliza respecto de la información que se envía, referida a la información financiera al 31 de diciembre de
 2001, deberá ser enviada a esta Superintendencia en un plazo no mayor a 15 días desde la fecha de su celebración.
 
-CIRCULAR Nº 1.533
-FECHA: 27.03.2001
 ## VI. VIGENCIA
 La aplicación de las disposiciones contenidas en la presente circular comenzará a regir a partir de los estados financieros con cierre al 31 de marzo de 2001.
 ## VI. DEROGACION
 Derógase la circular Nº 1048 de 1991 y todas sus modificaciones posteriores, a contar de la fecha de vigencia de la presente circular.
 
-CIRCULAR Nº 1.533
-FECHA: 27.03.2001
 ### ANEXO A INSTRUCCIONES PARA EL ENVIO POR MEDIO ELECTRÓNICO
 La información solicitada, deberá ajustarse a las instrucciones que se señala en el presente anexo.
 i) NOMBRE DE LOS ARCHIVOS

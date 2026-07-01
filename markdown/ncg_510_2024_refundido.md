@@ -3,13 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: IMPARTE INSTRUCCIONES SOBRE
-### GESTIÓN DE RIESGO OPERACIONAL.
-DEROGA CIRCULARES N° 1.939 y 2.020, Y
-### LA NORMA DE CARÁCTER GENERAL N°
-## 256. MODIFICA LA NORMA DE CARÁCTER GENERAL N° 480.
-NORMA DE CARÁCTER GENERAL N°510
-8 de mayo de 2024
+# IMPARTE INSTRUCCIONES SOBRE GESTIÓN DE RIESGO OPERACIONAL. DEROGA CIRCULARES N° 1.939 y 2.020, Y LA NORMA DE CARÁCTER GENERAL N° 256. MODIFICA LA NORMA DE CARÁCTER GENERAL N° 480. NORMA DE CARÁCTER GENERAL N°510 8 de mayo de 2024
+
+
 Esta Comisión en uso de las atribuciones conferidas en el Decreto Ley N°3.538, la Ley N°18.045, la Ley N°18.876, la Ley N°19.220, la Ley N°20.345, el artículo 1° de la Ley N°20.712 y Ley N°21.521; y teniendo en consideración que su mandato legal es velar por el correcto funcionamiento, desarrollo y estabilidad del mercado financiero, ha estimado pertinente impartir las siguientes instrucciones respecto de la gestión de riesgo operacional para Administradoras Generales de Fondos, Bolsas de Valores, Bolsas de Productos, Intermediarios de Valores, Corredores de Bolsas de Productos, Sociedades Administradoras de Sistemas de Compensación y Liquidación de Instrumentos Financieros y Entidades de Depósito y Custodia de Valores.
 ## I. GESTIÓN DE RIESGO OPERACIONAL
 El riesgo operacional corresponde al riesgo que las deficiencias que puedan producirse en los sistemas de información, los procesos internos o el personal, o las perturbaciones ocasionadas por acontecimientos externos provoquen la reducción, el deterioro o la interrupción de los servicios que presta la entidad y, eventualmente, le originen pérdidas financieras. Incluye el riesgo de pérdidas ante cambios regulatorios que afecten las operaciones de la entidad, como también pérdidas derivadas de incumplimiento o falta de apego a la regulación vigente.

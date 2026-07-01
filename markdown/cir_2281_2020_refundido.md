@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2281
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-1 Hoja 12 Además del descuento individual, se requiere que la suma de los montos no descontados por las partidas específicas no sea superior al 15% del capital básico o capital ordinario nivel 1 una vez realizados todos los ajustes regulatorios, incluyendo las deducciones realizadas de las partidas específicas de forma individual, y considerando en el capital el monto no deducido. Este ajuste se realiza
 como sigue:
@@ -472,7 +474,7 @@ Circular N°2.281 /01.12.2020 por Resolución N°5838
 Capítulo 21-6 Hoja 14
 • En el caso de los tramos subordinados, el PRC se ajustará por medio de la siguiente
 fórmula:
-𝑃𝑅𝐶´ =𝑃𝑅𝐶 ⋅[1−𝑚𝑖𝑛{𝑇;50%}] donde 𝑇 corresponde al ancho del tramo, calculado como la resta entre el punto de pérdidas completas menos el punto de entradas en pérdidas del tramo analizado. El punto de pérdidas completas se calcula como la razón entre la suma de los saldos de menor prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización. El punto de entradas en pérdidas se calcula como la razón entre los saldos de menor o igual prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización.
+PRC´ =PRC ⋅[1−min{T;50%}] donde T corresponde al ancho del tramo, calculado como la resta entre el punto de pérdidas completas menos el punto de entradas en pérdidas del tramo analizado. El punto de pérdidas completas se calcula como la razón entre la suma de los saldos de menor prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización. El punto de entradas en pérdidas se calcula como la razón entre los saldos de menor o igual prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización.
 Bajo cumplimiento de los criterios STC, el PRC resultante estará sujeto a un piso de
 10% para tramos preferentes, y 15% para tramos suborinados. Si no hay cumplimiento de los criterios STC, el PRC resultante está sujeto a un piso igual al máximo entre 15% y el PRC de un tramo preferente de un instrumento securitizado con la misma clasificación y vencimiento.
 No obstante, para los instrumentos securitizados preferentes sobre activos subyacentes provenientes del mismo banco, se les asigna un PRC de 1250%.
@@ -548,7 +550,7 @@ La madurez efectiva se mide en años, está sujeta a un mínimo de un año y a u
 $$
 M = \frac{\sum_{t} t \cdot CF_t}{\sum_{t} CF_t}
 $$
-donde 𝐶𝐹 son los flujos de caja (capital, interés y comisiones) que el deudor está 𝑡 contractualmente obligado a pagar en el periodo t.
+donde CF son los flujos de caja (capital, interés y comisiones) que el deudor está t contractualmente obligado a pagar en el periodo t.
 Si el banco no pudiese calcular el vencimiento efectivo de los pagos contractuales definidos más arriba, podrá utilizar el vencimiento residual de acuerdo con las disposiciones contractuales de la exposición.
 En el caso de los derivados sujetos a un acuerdo marco de compensación, según lo señalado en el numeral 2.3 de este Capítulo, el vencimiento efectivo se define como el vencimiento promedio ponderado por el valor nocional de las operaciones incluidas en ese acuerdo de compensación.
 Para transacciones repos el banco debe ocupar una madurez efectiva de 6 meses
@@ -563,42 +565,42 @@ Circular N°2.281 /01.12.2020 por Resolución N°5838
 Capítulo 21-6 Hoja 18
 ### 4.4 Funciones de riesgo
 4.4.1 Enfoque general
-Para calcular los cargos por riesgo de crédito (en adelante, 𝐾) de las exposiciones individuales se utilizan las siguientes fórmulas:
-𝐴𝑗𝑢𝑠𝑡𝑒 𝑎 𝑙𝑎 𝑀𝑎𝑑𝑢𝑟𝑒𝑧 (𝑏) = (0.11852−0.05478 ⋅ln(𝑃𝐼))2
-1 0.5 𝑅 0.5 1+(𝑀−2.5)⋅𝑏
-𝐾 = 𝑃𝐷𝐼 ⋅(𝑁[( ) 𝐺(𝑃𝐼)+( ) 𝐺(99.9%)]−𝑃𝐼)⋅( )
-1 −𝑅 1−𝑅 1−1.5⋅𝑏
-donde 𝑁(𝑥) denota la función de distribución acumulada de una variable aleatoria normal estándar (es decir, la probabilidad de que una variable aleatoria normal con media 0 y varianza 1 sea inferior o igual a 𝑥), 𝐺(𝑧) denota la función de distribución acumulada inversa de una variable aleatoria normal estándar (es decir, el valor de 𝑥 tal que 𝑁(𝑥) = 𝑧).
-Por otro lado, para calcular los 𝐾 de las exposiciones minoristas se utiliza la siguiente
+Para calcular los cargos por riesgo de crédito (en adelante, K) de las exposiciones individuales se utilizan las siguientes fórmulas:
+Ajuste a la Madurez (b) = (0.11852−0.05478 ⋅ln(PI))2
+1 0.5 R 0.5 1+(M−2.5)⋅b
+K = PDI ⋅(N[( ) G(PI)+( ) G(99.9%)]−PI)⋅( )
+1 −R 1−R 1−1.5⋅b
+donde N(x) denota la función de distribución acumulada de una variable aleatoria normal estándar (es decir, la probabilidad de que una variable aleatoria normal con media 0 y varianza 1 sea inferior o igual a x), G(z) denota la función de distribución acumulada inversa de una variable aleatoria normal estándar (es decir, el valor de x tal que N(x) = z).
+Por otro lado, para calcular los K de las exposiciones minoristas se utiliza la siguiente
 fórmula:
-### 1 0.5 𝑅 0.5
-𝐾 = 𝑃𝐷𝐼 ⋅(𝑁[( ) 𝐺(𝑃𝐼)+( ) 𝐺(99.9%)]−𝑃𝐼)
-### 1−𝑅 1−𝑅
+### 1 0.5 R 0.5
+K = PDI ⋅(N[( ) G(PI)+( ) G(99.9%)]−PI)
+### 1−R 1−R
 Luego, para calcular los APRC de las exposiciones se debe aplicar la siguiente
 fórmula:
-𝐴𝑐𝑡𝑖𝑣𝑜𝑠 𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜𝑠 𝑝𝑜𝑟 𝑅𝑖𝑒𝑠𝑔𝑜 𝑑𝑒 𝐶𝑟é𝑑𝑖𝑡𝑜 (𝐴𝑃𝑅𝐶) = 𝐾⋅12.5⋅𝐸𝐴𝐷 La correlación R se determina de acuerdo con los criterios establecidos en el siguiente numeral.
-El 𝐾 para una exposición en incumplimiento, es igual al máximo entre cero y la diferencia entre la PDI y la mejor estimación de pérdida esperada del banco. El monto del activo ponderado por riesgo para la exposición en incumplimiento es el producto entre K,
+Activos ponderados por Riesgo de Crédito (APRC) = K⋅12.5⋅EAD La correlación R se determina de acuerdo con los criterios establecidos en el siguiente numeral.
+El K para una exposición en incumplimiento, es igual al máximo entre cero y la diferencia entre la PDI y la mejor estimación de pérdida esperada del banco. El monto del activo ponderado por riesgo para la exposición en incumplimiento es el producto entre K,
 12.5 y EAI, tal como se muestra en la fórmula anterior.
 4.4.2 Cálculo de correlación
 La fórmula que determina la correlación dependerá de la contraparte y de su PI. En el caso general para exposiciones individuales, se calcula mediante la siguiente fórmula:
-1−𝑒−50⋅𝑃𝐼 1−𝑒−50⋅𝑃𝐼 𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅) = 0.12⋅( )+0.24⋅(1− )
-1−𝑒−50 1−𝑒−50 La correlación para instituciones financieras no bancarias queda determinada por la
+1−e−50⋅PI 1−e−50⋅PI Correlación (R) = 0.12⋅( )+0.24⋅(1− )
+1−e−50 1−e−50 La correlación para instituciones financieras no bancarias queda determinada por la
 siguiente fórmula:
-1 −𝑒−50⋅𝑃𝐼 1−𝑒−50⋅𝑃𝐼
-𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅) = 1.25⋅[ 0.12⋅( )+0.24⋅(1 − )]
-1 −𝑒−50 1−𝑒−50
+1 −e−50⋅PI 1−e−50⋅PI
+Correlación (R) = 1.25⋅[ 0.12⋅( )+0.24⋅(1 − )]
+1 −e−50 1−e−50
 Para las PYMES, definidas de acuerdo con los criterios establecidos en el numeral 3 del presente Capítulo, se utiliza la siguiente fórmula de correlación:
-1−𝑒−50⋅𝑃𝐼 1−𝑒−50⋅𝑃𝐼 𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅) = 0.08⋅( )+0.20⋅(1− )
-1−𝑒−50 1−𝑒−50 Para la determinación de los APRC, aplicables a las exposiciones a préstamos especializados, definidos de acuerdo con los criterios establecidos en el numeral 3, los bancos deberán aplicar las funciones de riesgo corporativas, de manera de encontrar los PRC para cada tipo de préstamo especializado.
+1−e−50⋅PI 1−e−50⋅PI Correlación (R) = 0.08⋅( )+0.20⋅(1− )
+1−e−50 1−e−50 Para la determinación de los APRC, aplicables a las exposiciones a préstamos especializados, definidos de acuerdo con los criterios establecidos en el numeral 3, los bancos deberán aplicar las funciones de riesgo corporativas, de manera de encontrar los PRC para cada tipo de préstamo especializado.
 Circular N°2.281 /01.12.2020 por Resolución N°5838
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-6 Hoja 19 Las exposiciones comerciales hipotecarias de alta volatilidad corresponden a las exposiciones clasificadas en los numerales 3.12, 3.11 donde el pago depende materialmente de flujos de cajas generados por el inmueble, de acuerdo a los lineamientos establecidos en el método estándar, u otras exposiciones que el banco asi lo determinase. Los bancos deberán utilizar las fórmulas de riesgo asociadas a exposiciones corporativas, salvo por la estimación de la correlación, la cual debe obtenerse mediante la siguiente fórmula.
-1−𝑒−50⋅𝑃𝐼 1−𝑒−50⋅𝑃𝐼 𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅) = 0.12⋅( )+0.30⋅(1− )
-1−𝑒−50 1−𝑒−50 Para las exposiciones minoristas, la correlación quedará determinada por la
+1−e−50⋅PI 1−e−50⋅PI Correlación (R) = 0.12⋅( )+0.30⋅(1− )
+1−e−50 1−e−50 Para las exposiciones minoristas, la correlación quedará determinada por la
 siguiente fórmula:
-1−𝑒−35⋅𝑃𝐼 1−𝑒−35⋅𝑃𝐼 𝐶𝑜𝑟𝑟𝑒𝑙𝑎𝑐𝑖ó𝑛 (𝑅) = 0.03⋅( )+0.16⋅(1− )
-1−𝑒−35 1−𝑒−35 No obstante, para las exposiciones minoristas que estén caucionadas por un bien raíz residencial, se le asignará una correlación de 15%.
+1−e−35⋅PI 1−e−35⋅PI Correlación (R) = 0.03⋅( )+0.16⋅(1− )
+1−e−35 1−e−35 No obstante, para las exposiciones minoristas que estén caucionadas por un bien raíz residencial, se le asignará una correlación de 15%.
 ## 5. Técnicas de mitigación del riesgo de crédito
 Para utilizar técnicas que mitiguen el riesgo de crédito, los bancos deberán contar con toda la documentación utilizada en operaciones garantizadas, acuerdos de compensación, garantías personales y reales, la que deberá ser vinculante para todas las partes y tener fuerza legal en todas las jurisdicciones pertinentes.
 Los bancos deben corroborar lo anterior y contar con informes legales fundamentados, emitidos por la fiscalía del banco, asesores externos o auditoras externas, así como llevar a cabo el seguimiento que sea necesario a objeto de garantizar su continuo cumplimiento. El marco establecido en este numeral es válido para las exposiciones mencionadas en el numeral 2 de este Capítulo, ya sea que se utilice el método estándar o metodologías internos.
@@ -629,7 +631,7 @@ N o c
 > i
 > ×
 > $$
-
+••••
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
@@ -658,7 +660,7 @@ N o c
 > )
 > )
 > $$
-
+••••
 - Si el valor razonable neto de las posiciones compensadas es negativo o cero:
 $$
 EC = \sum_{i=1}^{n} Noc_i \times FC_i \times 0{,}4
@@ -1095,17 +1097,17 @@ Circular N°2.281 /01.12.2020 por Resolución N°5838
 Capítulo 21-6 Anexo N°5 – Hoja 1
 ## ANEXO N° 5 ESTIMACIÓN DE PÉRDIDA DADO EL INCUMPLIMIENTO
 Se asignará una pérdida dado el incumplimiento de 75% a los créditos que no estén caucionados por una garantía real elegible. Para efectos de este Anexo, se considera una garantía real elegible como aquella que esté legalmente constituida y mientras se cumplan todas las condiciones que permitan su eventual ejecución o liquidación en favor del banco acreedor.
-Cuando la exposición este caucionada por una garantía real elegible, la pérdida dado el incumplimiento debe calcularse como el promedio ponderado por exposición aplicable a la parte no garantizada de una exposición (𝑃𝐷𝐼 ) y la que es aplicable a la parte garantizada 𝑁𝐺 de una exposición (𝑃𝐷𝐼 ). En concreto:
+Cuando la exposición este caucionada por una garantía real elegible, la pérdida dado el incumplimiento debe calcularse como el promedio ponderado por exposición aplicable a la parte no garantizada de una exposición (PDI ) y la que es aplicable a la parte garantizada NG de una exposición (PDI ). En concreto:
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝐺
-> 𝐸 𝐸
-> 𝑁𝐺 𝐺
+> G
+> E E
+> NG G
 > $$
-𝑃𝐷𝐼 = 𝑃𝐷𝐼 ⋅ +𝑃𝐷𝐼 ⋅
-### 𝑁𝐺 𝐸 ⋅(1+𝐻 ) 𝐺 𝐸⋅(1+𝐻 )
-𝐸 𝐸 donde 𝐸 es la exposición afecta a requerimientos de capital por riesgo de crédito, de acuerdo con lo establecido en el numeral 3 de este Capítulo, y 𝐻 son los aumentos a la exposición 𝐸 que se establecen en las siguientes dos tablas:
+PDI = PDI ⋅ +PDI ⋅
+### NG E ⋅(1+H ) G E⋅(1+H )
+E E donde E es la exposición afecta a requerimientos de capital por riesgo de crédito, de acuerdo con lo establecido en el numeral 3 de este Capítulo, y H son los aumentos a la exposición E que se establecen en las siguientes dos tablas:
 
 |  |  | Ponderación por riesgo del emisor (soberanos, PSE y bancos centrales) |  |  |
 | --- | --- | --- | --- | --- |
@@ -1130,23 +1132,23 @@ Cuando la exposición este caucionada por una garantía real elegible, la pérdi
 | Efectivo en la misma moneda |  | 0% |  |
 | Otros tipos de exposiciones |  | 30% |  |
 
-𝐸 es el valor comercial de la garantía, tras la aplicación del descuento aplicable para 𝐺 ese tipo de colateral y para cualquier descalce de monedas entre la exposición y el colateral, según lo previsto en los párrafos siguientes. Es importante mencionar que el valor de 𝐸 está 𝐺 limitado al nivel del valor de 𝐸, definido anteriormente. En concreto: 𝐸 = min{(1−𝐻 )⋅ 𝐺 𝐺 𝑉𝐺;𝐸⋅(1+𝐻 )}, donde 𝑉𝐺 es el valor de la garantía, definido como el menor valor de 𝐸 tasación del inmueble al momento de origen del crédito, cuando se refiere a garantías hipotecarias o prendas, o bien, como el valor razonable, de acuerdo con lo señalado en el Capítulo 7-12 de la RAN, cuando se refiere a garantías financieras. En cualquier caso, la valorización se debe realizar de forma independiente, aplicando criterios conservadores. El valor de la garantía sólo podrá ajustarse si se produce una pérdida de valor del inmueble o una eventual situación que pudiese estar originando un alza transitoria en el valor de la garantía, que justifique una reducción permanente del valor del inmueble. 𝐻 es el 𝐺 descuento correspondiente a la garantía.
+E es el valor comercial de la garantía, tras la aplicación del descuento aplicable para G ese tipo de colateral y para cualquier descalce de monedas entre la exposición y el colateral, según lo previsto en los párrafos siguientes. Es importante mencionar que el valor de E está G limitado al nivel del valor de E, definido anteriormente. En concreto: E = min{(1−H )⋅ G G VG;E⋅(1+H )}, donde VG es el valor de la garantía, definido como el menor valor de E tasación del inmueble al momento de origen del crédito, cuando se refiere a garantías hipotecarias o prendas, o bien, como el valor razonable, de acuerdo con lo señalado en el Capítulo 7-12 de la RAN, cuando se refiere a garantías financieras. En cualquier caso, la valorización se debe realizar de forma independiente, aplicando criterios conservadores. El valor de la garantía sólo podrá ajustarse si se produce una pérdida de valor del inmueble o una eventual situación que pudiese estar originando un alza transitoria en el valor de la garantía, que justifique una reducción permanente del valor del inmueble. H es el G descuento correspondiente a la garantía.
 Circular N°2.281 /01.12.2020 por Resolución N°5838
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-6 Anexo N°5 – Hoja 2 Por otro lado, 𝐸 = 𝐸⋅(1+𝐻 )−𝐸 . Los términos 𝐸 y 𝐸 se utilizan únicamente
-### 𝑁𝐺 𝐸 𝐺 𝑁𝐺 𝐺
-para calcular la 𝑃𝐷𝐼. 𝑃𝐷𝐼 es la pérdida dado el incumplimiento aplicable a una exposición 𝑁𝐺 no garantizada, según lo previsto en el primer párrafo de este Anexo, y 𝑃𝐷𝐼 es la pérdida 𝐺 dado el incumplimiento aplicable a la exposición garantizada, la cual se determina por la
+Capítulo 21-6 Anexo N°5 – Hoja 2 Por otro lado, E = E⋅(1+H )−E . Los términos E y E se utilizan únicamente
+### NG E G NG G
+para calcular la PDI. PDI es la pérdida dado el incumplimiento aplicable a una exposición NG no garantizada, según lo previsto en el primer párrafo de este Anexo, y PDI es la pérdida G dado el incumplimiento aplicable a la exposición garantizada, la cual se determina por la
 siguiente tabla:
 
-| Tipo de garantía | 𝑃𝐷𝐼 𝐺 | 𝐻 𝐺 |
+| Tipo de garantía | PDI G | H G |
 | --- | --- | --- |
 | Garantías financieras | 0% | Determinado de acuerdo con las dos tablas anteriores. |
 | Bienes raíces | 20% | 40% |
 | Otras garantías reales | 25% | 40% |
 
-En caso en que la garantía admisible esté denominada en una moneda extranjera, se le debe agregar a 𝐻 un descuento adicional de 8%.
-𝐺 En el caso que una misma exposición esté caucionada por más de una garantía real elegible, debe extenderse la misma fórmula de la 𝑃𝐷𝐼, considerando las diferencias en la naturaleza de las garantías.
+En caso en que la garantía admisible esté denominada en una moneda extranjera, se le debe agregar a H un descuento adicional de 8%.
+G En el caso que una misma exposición esté caucionada por más de una garantía real elegible, debe extenderse la misma fórmula de la PDI, considerando las diferencias en la naturaleza de las garantías.
 Circular N°2.281 /01.12.2020 por Resolución N°5838
 
 Compendio de Normas Contables Capítulo B-1 Hoja 9

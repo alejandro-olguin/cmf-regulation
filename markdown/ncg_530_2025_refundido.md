@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: EJECUTA ACUERDO DEL CONSEJO DE LA
-### COMISIÓN PARA EL MERCADO FINANCIERO QUE APRUEBA EMISIÓN DE NORMATIVA QUE ESTABLECE EL MANUAL DE SISTEMA DE INFORMACIÓN FINTEC QUE IMPARTE INSTRUCCIONES PARA EL ENVÍO DE INFORMACIÓN PARA LA FISCALIZACIÓN DE LAS ENTIDADES AUTORIZADAS A PRESTAR LOS SERVICIOS DEL TÍTULO II DE LA LEY
-21.521.
-NORMA DE CARÁCTER GENERAL N°530
-20 de enero de 2025
+# EJECUTA ACUERDO DEL CONSEJO DE LA COMISIÓN PARA EL MERCADO FINANCIERO QUE APRUEBA EMISIÓN DE NORMATIVA QUE ESTABLECE EL MANUAL DE SISTEMA DE INFORMACIÓN FINTEC QUE IMPARTE INSTRUCCIONES PARA EL ENVÍO DE INFORMACIÓN PARA LA FISCALIZACIÓN DE LAS ENTIDADES AUTORIZADAS A PRESTAR LOS SERVICIOS DEL TÍTULO II DE LA LEY 21.521. NORMA DE CARÁCTER GENERAL N°530 20 de enero de 2025
+
+
 Esta Comisión, en uso de las facultades que le confiere el numeral 1 y 4 del artículo 5 del Decreto Ley N°3.538 de 1980 que crea la Comisión para el Mercado Financiero; lo dispuesto en la Ley N°21.521 y en la NCG N°502, junto a lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°424 de 26 de diciembre de 2024, ha resuelto impartir las siguientes instrucciones para requerir información de las entidades que presten servicios financieros basados en tecnología fiscalizadas por
 esta Comisión:
 ## I INFORMACIÓN A REMITIR

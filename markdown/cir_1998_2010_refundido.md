@@ -520,22 +520,6 @@ Este cuadro se incluirá en los estados financieros “pro forma” referidos al
 | beneficiario |
 fondo contable sociedad o prohibición
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 3) Juicios y contingencias Detallar los juicios y contingencias de las subsidiarias y asociadas del fondo señalando al menos lo siguiente:
 Juicios: Rol de la causa, tribunal, etapa procesal e instancia, montos comprometidos y las partidas del Estado de Situación Financiera en que se registran los efectos de tales acciones.
 Contingencias: Se deberá informar cualquier contingencia relacionada con las subsidiarias o asociadas del fondo, como por ejemplo riesgo de pérdida o deterioro de bienes en la sociedad por incendio, huelgas, sismos, explosión u otros riesgos, amenaza de expropiación de activos y reclamos o liquidaciones existentes o posibles, incluyendo toda información que al respecto se estime relevante exponer.
@@ -1539,10 +1523,6 @@ A continuación se adjunta al presente anexo, la información y antecedentes obl
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | NOMBRE CLASIFICADORA DE RIESGO |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |
-| --- |
-|  |
 
 ### CLASIFICADORA DE RIESGO CLASIFICACIÓN DE RIESGO PRIVADA VIGENTE N° DE INSCRIPCION NOMBRE CLASIFICADORA DE RIESGO
 

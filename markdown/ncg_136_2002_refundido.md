@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 136 — FECHA: 04.04.2002
+# NCG N° 136 — ESTABLECE NORMAS RELATIVAS AL OTORGAMIENTO Y ADQUISICION DE MUTUOS HIPOTECARIOS ENDOSABLES POR LAS ENTIDADES ASEGURADORAS Y REASEGURADORAS Y AL REGISTRO Y OPERACIÓN DE LOS AGENTES ADMINISTRADORES DE MUTUOS HIPOTECARIOS ENDOSABLES
 
 
 Esta Comisión, en uso de sus facultades legales, y en especial lo dispuesto en el Título V del DFL Nº 251, de 1931, ha estimado conveniente impartir las siguientes instrucciones relativas a la materia de la referencia:

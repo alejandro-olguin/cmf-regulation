@@ -17,8 +17,8 @@ El mandato legal previamente señalado encomienda a esta Superintendencia la det
 ## II. ANTECEDENTES GENERALES
 Para fines de la presente norma y tal como lo establece la Ley N| 18.876, se entenderá por estudio tarifario al documento que tiene por objeto respaldar la estructura de remuneraciones a ser aplicada por las empresas de depósito y custodia, a todos aquellos servicios que sean prestados a sus depositantes y que sean inherentes a la actividad de depósito y transferencia de valores.
 En dicho documentos, se deberá presentar y cuantificar los elementos físicos, operativos, tecnológicos financieros, entre otros, necesarios para sustentar la generación de los servicios presentados por las empresas de depósito y custodia de valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 224
+
+### N.C.G. N° 224
 FECHA: 25.08.2010
 El estudio tarifario deberá cumplir con los siguientes requisitos generales:
 - Deberá tener difusión pública a través del sitio Web de las propias empresas de depósito
@@ -42,8 +42,8 @@ proyecciones de su demanda y costos relevantes. Para la primera versión del est
 b) Definición y caracterización de los servicios a evaluar.
 Realizar una caracterización cualitativa de cada uno de los servicios objeto de este estudio, así como de las subcategorías que resulten necesarias para distinguir los recursos requeridos para cada prestación.
 Para cada uno de los servicios, se deberá entregar una descripción de su forma de funcionamiento e incluir el mercado específico al cual está orientado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 224
+
+### N.C.G. N° 224
 FECHA: 25.08.2010
 c) Definición del modelo utilizado para cuantificar la demanda y sus proyecciones.
 El estudio deberá explicar el modelo utilizado para realizar las proyecciones de demanda, los supuestos subyacentes y las fuentes de información utilizadas.
@@ -57,8 +57,8 @@ Las empresas deberán identificar y cuantificar una de las inversiones que fuero
 f) Determinación de la estructura de costos
 Se deberán identificar y cuantificar los costos necesarios para la prestación de cada uno de los servicios o grupos de servicios predefinidos, dentro de los horizontes de planificación. Para aquellos costos de carácter conjunto, se deberán explicar los criterios y/o metodologías de asignación Además, en aquellos casos donde se compartan recursos con servicios complementarios que no sean objeto de este estudio tarifario y/o con servicios prestados por entidades relacionadas, se deberán identificar la proporción de ellos que serán utilizados en las actividades sujetas al estudio, junto a sus criterios y/o metodologías de asignación.
 Finalmente, utilizando los escenarios de demanda proyectada y horizontes de planificación predefinidos, se deberá utilizar una estructura de costos medios y marginales para cada servicio o categorías de ellos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 224
+
+### N.C.G. N° 224
 FECHA: 25.08.2010
 g) Determinación de la estructura tarifaria y mecanismos de ajuste
 El estudio deberá presentar un detalle de las tarifas aplicables a cada servicio objeto del estudio, explicando la metodología de cálculo para cada caso.
@@ -73,11 +73,10 @@ Las actualizaciones del estudio deberán ser presentadas a lo menos cada dos añ
 En aquellos casos donde la empresa requiera realizar un ajuste puntual a los servicios prestados o alguna tarifa, que no afecte las variables, criterios y supuestos generales sobre los cuales se desarrolló el estudio, se podrá enviar un documento en carácter de anexo, donde se indique claramente los elementos modificados. Este anexo no será considerado como una actualización al estudio tarifario, para fines del plazo estipulado en el párrafo anterior.
 El envío del estudio tarifario a esta Superintendencia se deberá efectuar a través del Módulo SEIL (“Sistema de Envío de In formación en Línea”) del sitio Web www.svs.cl, según las instrucciones establecidas en la Norma de Carácter General N° 117 de 2001, o la que la modifique o reemplace.
 Finalmente, se hace presente que los ajustes de tarifas también son materia de modificación al reglamento interno de la empresa, en concordancia a lo establecido en el artículo 7° del Decreto Supremo N° 734; por lo tanto, la actualización del estudio tarifario que respalda dicho ajuste, deberá estar a disposición de esta Superintendencia previo a la aprobación de la modificación al reglamento interno requerida por el artículo 9° del precepto legal antes citado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 224
+
+### N.C.G. N° 224
 FECHA: 25.08.2010
 ## VI. DISPOSICION TRANSITORIA
 Las empresas de depósito y custodia de valores que estuviesen operando a la fecha de entrada en vigencia de la present5e Norma, dispondrán de un plazo máximo de un año contado desde esta última fecha para remitir a esta Superintendencia el referido estudio tarifario, de acuerdo a las instrucciones impartidas.
 ## VII. VIGENCIA
 Las instrucciones contenidas en la presente Norma de Carácter General rigen a contar de esta fecha
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

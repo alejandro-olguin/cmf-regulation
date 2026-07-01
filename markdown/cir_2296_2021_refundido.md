@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2296
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 1-13 Hoja 3
 ## 4. Clasificación de solvencia.

@@ -3,9 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR Nº 1246 — FECHA: 27.10.1995
+# CIRCULAR N° 1246 — ESTABLECE INFORMACION A ENTREGAR RESPECTO A GRUPO EMPRESARIAL
 
-REF : ESTABLECE INFORMACION A ENTREGAR RESPECTO A GRUPO EMPRESARIAL
+
 Para todas las sociedades fiscalizadas por esta Superintendencia
 ### I.- INTRODUCCION
 Esta Superintendencia, en uso de sus facultades legales, ha estimado conveniente impartir instrucciones acerca de la forma, periodicidad y contenido de la información que deberán enviar las sociedades fiscalizadas por esta Superintendencia, respecto a las personas naturales y jurídicas con las cuales conforman un mismo grupo empresarial.

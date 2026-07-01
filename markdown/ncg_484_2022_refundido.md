@@ -3,10 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: Comisiones en operaciones de crédito, Ley N°18.010 y ajuste de contratos vigentes.
-___________________________________
-NORMA DE CARÁCTER GENERAL N°484
-5 de agosto de 2022
+# Comisiones en operaciones de crédito, Ley N°18.010 y ajuste de contratos vigentes. ___________________________________ NORMA DE CARÁCTER GENERAL N°484 5 de agosto de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo 5° y el numeral 3 del artículo 20, todos del Decreto Ley N°3.538; el artículo 19° ter de la Ley N°18.010 modificado por la ley N°21.314; el artículo octavo transitorio de esta última ley;
 y lo acordado por el Consejo de la Comisión en sesión ordinaria N°299 de 4 de agosto de
 2022, ha estimado pertinente impartir las siguientes instrucciones:

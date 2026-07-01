@@ -16,7 +16,6 @@ En tal sentido, se entenderá por emisiones ordinarias a aquellas en que las est
 Previo a la inscripción de la emisión de títulos de deuda de securitización, la sociedad securitizadora deberá estar inscrita en el Registro de Valores, recayendo exclusivamente en ésta la responsabilidad respecto de la información proporcionada en la solicitud y en ningún caso sobre esta Superintendencia.
 Las disposiciones impartidas a través de la presente Norma serán aplicables a las emisiones de títulos de deuda de securitización tanto de corto plazo como de largo plazo.
 La Norma está estructurada de la siguiente manera, en su sección II se regula el procedimiento de inscripción de las emisiones de títulos de deuda de securitización; en la sección III se regula el procedimiento a seguir en caso de modificaciones a emisiones inscritas; la sección IV norma la difusión y publicidad que se haga de las emisiones inscritas y; la sección V establece las obligaciones de información continua y antecedentes que deben ser remitidos tanto por el emisor como por el representante de los tenedores de títulos de deuda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -28,7 +27,6 @@ La solicitud de inscripción deberá ser acompañada con los antecedentes requer
 Uno de los ejemplares de la presentación deberá ser en original o copia autorizada, tanto en lo que se refiere a los antecedentes preparados por el emisor como a la documentación anexa que se deba acompañar.
 II.2 Antecedentes para la Inscripción de Emisiones de Títulos de Deuda Según se trate de una emisión ordinaria o de una emisión realizada con arreglo a un programa de emisión, las solicitudes de inscripción deberán ser acompañadas con los antecedentes que se requieren a continuación.
 II.2.1 Emisiones Ordinarias Se entenderá por emisiones ordinarias a aquellas emisiones en que las estipulaciones asociadas a la misma se encuentren contenidas exclusivamente en una Escritura de Emisión, y sus eventuales modificaciones. En tal caso, los antecedentes que deberán ser presentados serán aquellos definidos en los puntos II.2.1.1, para emisiones destinadas al Mercado General, y II.2.1.2, para emisiones destinadas exclusivamente a Inversionistas Calificados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -46,7 +44,6 @@ C.4 En el evento que la administración sea encargado a un tercero, se deberá p
 C.5 En caso que los activos que conformarán el patrimonio separado vayan a ser entregados en custodia a un tercero, se deberá presentar el contrato suscrito con este último. En caso que a la fecha de la presentación de la solicitud dicho contrato no hubiere sido aún suscrito, deberá remitirse un borrador del mismo, debiéndose presentar copia del contrato debidamente suscrito por las partes en un plazo no mayor a 5 días hábiles desde la fecha de su suscripción.
 C.6 En caso de emisiones materializadas, se deberán presentar los siguientes
 antecedentes:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -60,7 +57,6 @@ D.1 Declaración de responsabilidad acerca de la veracidad de toda la informaci�
 D.2 Declaración de responsabilidad acerca de la solvencia del emisor, referido a que éste no se encuentra en cesación de pagos.
 Las declaraciones anteriormente requeridas deberán ser suscritas por la misma mayoría de directores establecida por los estatutos sociales para la adopción de acuerdos del directorio y por el gerente general o por quien haga sus veces. Para lo anterior, luego del texto de las correspondientes declaraciones deberán registrarse los nombres de los declarantes, sus cargos, el número de sus cédulas de identidad y estamparse las firmas respectivas.
 II.2.1.2 Emisiones Dirigidas a Inversionistas Calificados En caso de emisiones ordinarias dirigidas a Inversionistas Calificados, según la definición establecida para éstos en la Norma de Carácter General N° 119, y sus modificaciones, o la que la reemplace en el futuro, la solicitud de inscripción deberá contener los antecedentes requeridos a continuación.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -74,7 +70,6 @@ II.2.2 Emisiones Efectuadas al Amparo de un Programa de Emisión.
 Se entenderá por emisiones efectuadas con arreglo a un Programa de Emisión, a aquellas emisiones cuyas estipulaciones están contenidas en una Escritura Pública General y en una Escritura Pública Específica, de acuerdo a lo dispuesto en el artículo 144bis de la Ley de Mercado de Valores. En tal sentido, la Escritura Pública General contendrá las cláusulas generales aplicables a la realización de dos o más emisiones, y la Escritura Pública Específica considerará las condiciones particulares de la correspondiente emisión.
 Las emisiones que se realicen considerando dicho procedimiento deberán ser efectuadas con cargo a activos de una misma naturaleza y bajo similares condiciones. Asimismo, estas emisiones deberán ser realizadas dentro de un período determinado de tiempo, el cual no deberá ser superior en ningún caso a 2 años. De tal forma, las Escrituras Públicas Específicas respectivas no podrán ser suscritas fuera del plazo de 2 años desde la fecha de inscripción de la primera emisión que se efectúe al amparo de de la Escritura Pública General correspondiente.
 Para este tipo de emisiones, los antecedentes que deberán ser presentados en la solicitud de inscripción serán aquellos indicados en los puntos II.2.2.1, para emisiones destinadas al Mercado General, y II.2.2.2, para emisiones destinadas exclusivamente a Inversionistas Calificados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -89,7 +84,6 @@ En caso que alguno de los antecedentes requeridos en esta letra C no haya sido a
 E Declaraciones de responsabilidad.- se deberán presentar las declaraciones de responsabilidad, según lo requerido en la letra D del punto II.2.1.1 anterior II.2.2.2 Emisiones dirigidas a Inversionistas Calificados Para el caso de emisiones efectuadas con arreglo a un Programa de Emisión dirigidas exclusivamente a Inversionistas Calificados, según la definición establecida para éstos en la Norma de Carácter General N° 119, y sus modificaciones, o la que la reemplace, la solicitud de inscripción deberá contener los siguientes antecedentes.
 A Escritura Pública General.- La Escritura Pública General de emisión deberá contener las estipulaciones establecidas en el Anexo N° 2 de la presente Norma.
 No obstante, la remisión de la Escritura Pública General podrá obviarse en caso que dicho documento haya sido presentado a propósito de una emisión inscrita previamente. En este último caso, en la carta de presentación de la solicitud, referida en el punto II.1 anterior, deberá indicarse la fecha en que la Escritura Pública General fue remitida.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -100,7 +94,6 @@ E Declaraciones de responsabilidad.- se deberán presentar las declaraciones de 
 II.3 Actualizaciones, Adiciones, Correcciones y Modificaciones durante el Proceso de Inscripción Mientras dure el proceso de inscripción, si se requiriera actualizar, corregir y/o modificar parte de la información proporcionada y/o adicionar nuevos antecedentes, bastará que se presente dicha información conjuntamente con una carta de presentación firmada por el gerente o por quien haga sus veces, en la que se deberá indicar los cambios y/o actualizaciones efectuadas, o en su caso los nuevos antecedentes presentados.
 Las páginas corregidas deberán indicar en el margen superior derecho “Corrección pág N°…”. Asimismo, si una solicitud se debe complementar con nuevos antecedentes, deberá presentarse un nuevo índice actualizado. Si los nuevos antecedentes deben ubicarse entre los antecedentes acompañados en la solicitud original, se numerarán con el número de la página que antecede y se le agregará un punto y un nuevo dígito.
 Los nuevos antecedentes proporcionados deberán ser presentados con una declaración de responsabilidad referente a la veracidad de la documentación acompañada y una declaración jurada especial que indique que la entidad emisora no se encuentra en cesación de pagos, debiendo ambas declaraciones sujetarse a las formalidades establecidas en la letra D del punto II.2.1.1 anterior. No obstante, en caso que el directorio hubiese facultado expresamente al gerente general, éste podrá firmar dichas declaraciones, sin perjuicio de la responsabilidad que le pudiera caber al directorio.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -113,7 +106,6 @@ Las modificaciones efectuadas a los antecedentes acompañados en la inscripción
 III. Escrituras de Emisión Toda modificación efectuada a la Escritura de Emisión, a la Escritura Pública General y/o a la Escritura Pública Específica deberá ser anotada al margen de la inscripción respectiva, para lo cual la sociedad securitizadora deberá solicitar a esta Superintendencia dicha anotación de acuerdo a lo requerido a continuación.
 III.1.1 Emisiones No Colocadas Las solicitudes de modificación para emisiones no colocadas, deberán presentar los siguientes antecedentes en duplicado, debiendo presentarse un ejemplar en original o copia autorizada.
 (i) Carta de presentación firmada por el gerente general, o la persona que haga sus veces, solicitando la anotación en el Registro de la modificación efectuada. Adicionalmente, deberá individualizarse el o los antecedentes que han sido modificados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -132,7 +124,6 @@ III.1.2 Emisiones Colocadas Las solicitudes de modificación para emisiones tota
 (ii) Acta de la junta de tenedores de títulos de deuda de securitización en la que se haya aprobado la modificación, en caso que corresponda.
 (iii) En caso de emisiones parcialmente colocadas se deberá presentar adicionalmente las hojas del prospecto de emisión que hayan sido modificadas y/o actualizadas.
 La presentación de estos antecedentes deberá ser realizada dentro de los 10 días corridos siguientes de la junta de tenedores de títulos de deuda en la que se haya aprobado la modificación.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -146,7 +137,6 @@ La información que los emisores e intermediarios, en su caso, tengan a disposic
 (ii) Copia de todos los antecedentes presentados a esta Superintendencia con motivo de la inscripción de la emisión.
 (iii) Copia del certificado de inscripción de la emisión en el Registro de Valores.
 Asimismo, de ser requerido por el inversionista, se deberá entregar a este último copia del prospecto presentado en la solicitud de inscripción.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -162,7 +152,6 @@ La sociedad securitizadora y el intermediario colocador (según corresponda) deb
 ## V. REMISIÓN DE ANTECEDENTES E INFORMACIÓN CONTINUA
 Las sociedades securitizadoras y las entidades que cumplen la labor de representante de tenedores de títulos de deuda de securitización, quedarán sujetas a las obligaciones de información continua y remisión de antecedentes, según se detalla en los puntos V.1 y V.2 siguientes.
 V.1 Obligaciones para las sociedades securitizadoras Las sociedades securitizadoras deberán remitir la información y los antecedentes que se detallan a continuación según el hecho lo imponga. Dicha información y/o antecedentes deberán ser acompañados por una carta suscrita por el gerente general de la entidad, o
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -180,7 +169,6 @@ V.1.2. Sustitución de Activos Toda vez que se sustituyan activos que conforman 
 (iv) Carta suscrita por el Representante de Tenedores de Títulos de Deuda, en la que se acredite que los activos que han ingresado al patrimonio separado se encuentran libres de gravámenes, prohibiciones o embargos.
 Los documentos especificados en los literales (i) y (iii) anteriores deberán ser remitidos dentro de un plazo de 5 días corridos desde la fecha del otorgamiento de la escritura de sustitución. En caso de los antecedentes requeridos en los literales (ii) y
 (iv), estos deberán ser remitidos dentro de un plazo de 20 días corridos desde la fecha de otorgamiento de la escritura de sustitución.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -195,7 +183,6 @@ siguientes antecedentes:
 (i) Certificado emitido por el Representante de los Tenedores de Títulos de Securitización, de acuerdo a lo establecido en el artículo 144 bis de la Ley N°
 18.045.
 (ii) Certificado emitido por la o las correspondientes sociedades clasificadoras de riesgo, según corresponda, en el que se de cuenta que la incorporación del patrimonio separado no afecta el grado de inversión de los títulos emitidos por el patrimonio absorbente, de acuerdo a lo señalado en el artículo 144 bis de la Ley de Mercado de Valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -211,7 +198,6 @@ siguiente a su publicación:
 (iii) Copia de las publicaciones en la que se informe la lista de títulos de deuda de securitización que vayan a ser amortizados en forma extraordinaria.
 (iv) Toda publicación que efectúe la sociedad securitizadora relacionada al rescate anticipado, amortizaciones extraordinarias de los títulos de deuda u otras.
 Asimismo, se hace presente que en toda publicación que se realice en relación a una emisión de títulos de deuda, se deberá indicar en ésta el número y fecha de inscripción en el Registro de Valores de la respectiva emisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -224,7 +210,6 @@ V.1.11 Cancelación Una vez que las obligaciones emanadas por los títulos de de
 La solicitud de cancelación deberá ser presentada dentro de los 10 días corridos contados desde la fecha en que se haya producido el pago total del empréstito.
 V.2 Obligaciones para el Representante de los tenedores de títulos Los representantes de los tenedores de títulos de deuda de securitización deberán remitir la información y los antecedentes que se detallan a continuación, según el hecho lo imponga. La remisión de dicha información y/o antecedentes deberá ser acompañada por una carta suscrita por el gerente general de la entidad, en la que se deberá identificar expresamente la documentación que se acompaña, así como el número y fecha de inscripción en el Registro de Valores de la emisión a la cual dichos antecedentes se refieren.
 V.2.1 Informe Anual sobre Actividades Relacionadas con el Emisor Durante la vigencia de toda emisión de títulos de deuda de securitización, el representante de ésta deberá remitir a este Servicio dentro del mes de enero de cada año, un informe sobre las relaciones que durante el año inmediatamente anterior haya mantenido con la sociedad securitizadora emisora, distintas de las originadas por la emisión de títulos de deuda de securitización. En caso de no haberse mantenido ningún tipo de relación entre la entidad emisora y el representante de los tenedores de títulos de deuda de securitización, dicho hecho deberá ser consignado expresamente en el Informe Anual.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -236,7 +221,6 @@ V.2.4 Renuncia y Designación del Representante La renuncia y la designación de
 V.2.5 Otros Antecedentes Los representantes de los tenedores de títulos de deuda de securitización deberán remitir a esta Superintendencia los siguientes antecedentes, dentro de los 10 días siguientes a la fecha de suscripción del respectivo documento:
 (i) Copia de la escritura en que conste la designación de la persona encargada de recibir la cosa empeñada, si procediere.
 (ii) Copia de los documentos que den constancia de la sustitución o alzamiento parcial de las garantías de la emisión, y del alzamiento total de ellas cuando se hubiere pagado en su totalidad los títulos de deuda de securitización colocados, todo ello si procediere.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -247,7 +231,7 @@ Deróganse a contar de esta fecha las Normas de Carácter General N° 58, de 2 d
 Las disposiciones establecidas en la presente Norma de Carácter General comenzarán a regir a contar de esta fecha.
 ## VIII DISPOSICIÓN TRANSITORIA
 Las solicitudes de inscripción de títulos de deuda de securitización presentadas con anterioridad a la vigencia de la presente Norma, se regularán, para los efectos de su inscripción, por las disposiciones establecidas en la Norma de Carácter General N° 58 y la Norma de Carácter General N° 94, de ser el caso. Una vez se encuentren inscritas, se regirán por las disposiciones contenidas en la presente Norma.
-### SUPERINTENDENTE SUBROGANTE SUPERINTENDENCIA DE VALORES Y SEGUROS
+### SUPERINTENDENTE SUBROGANTE
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -275,7 +259,6 @@ presentados, e indicación de la fecha de esta información
 facultades de fiscalización sobre el emisor.
 ### 2.7 Determinación de los deberes y responsabilidades del representante, en especial, a las
 obligaciones de información que tendrá respecto de los tenedores de títulos de deuda de securitización.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -307,7 +290,6 @@ sociedad securitizadora para los títulos no custodiados.
 ### 6.1 Se deberá indicar la razón social y rol único tributario de las entidades que realizarán la
 clasificación de los títulos de deuda de securitización a emitir.
 ### 6.2 Normas relacionadas a la sustitución de las entidades clasificadoras de riesgo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -338,7 +320,6 @@ física de los títulos de deuda de securitización. En tal sentido, deberá ind
 casos de extravío, hurto o robo, inutilización o destrucción. Asimismo, se deberá indicar el plazo máximo para la entrega del respectivo duplicado.
 ### 10.4 Se deberá señalar si los títulos de deuda de securitización serán nominativos, a la orden y/o
 al portador.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -360,7 +341,6 @@ cuota, se deberá presentar una tabla de desarrollo en relación a los pagos que
 ### 12.0 Cartera Securitizada
 12.1 Indicar, de acuerdo a su naturaleza, las principales características de la cartera de activos a
 securitizar, debiendo considerar, a lo menos, lo siguiente: número de activos, valor total de la cartera a securitizar, valor promedio de los activos, plazo promedio de los activos desde su originación, plazo promedio remanente a su vencimiento, tasa promedio de originación de los activos y/o cualquier otro antecedente relevante referente a la cartera a securitizar
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -385,7 +365,6 @@ monto estimativo y fundamento de la estimación; indicación del procedimiento y
 según corresponda. En tal sentido, deberá referirse a lo menos al monto de dichos aportes, a la forma y plazo en que dichos aportes serán enterados y la persona obligada a efectuar los mismos.
 ### 13.8 Se deberá indicar expresamente si se concede la opción a los tenedores de títulos de deuda
 de securitización a cobrar el eventual saldo impago de sus créditos en el patrimonio común de la sociedad securitizadora.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -438,7 +417,6 @@ desarrollo, se deberá publicar con una anticipación mínima de 5 días corrido
 los títulos de deuda de securitización sorteados o sobre la parte de ella amortizados extraordinariamente, según corresponda, cesarán y serán pagaderos desde la fecha en que se efectúe el pago de la amortización correspondiente.
 ### 17.6 Que podrán tomar parte en la junta a celebrarse, los tenedores de títulos de deuda de
 securitización que se hayan inscrito para la junta respectiva, con cinco días hábiles de anticipación al día de celebración de la misma, en el registro especial del emisor que se abrirá para tal efecto.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -452,7 +430,6 @@ en el Registro de Valores que lleva esta Superintendencia
 términos financieros utilizados en el contrato de emisión, que no estén definidos en la legislación vigente o por la normativa dictada por esta Superintendencia
 ### 18.0 Otras estipulaciones
 Adicionalmente, podrá incluirse cualquier otra estipulación que las partes estimen conveniente para la mejor regulación de los derechos y protección de los tenedores de títulos de deuda de securitización.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -472,7 +449,6 @@ respaldarán las emisiones que se efectúen al amparo de la Escritura Pública G
 las carteras securitzadas. No obstante, esta información podrá ser definida en la Escritura Pública Específica.
 ### 1.4 Antecedentes de la administración de los activos
 Deberá contener las menciones establecidas en el numeral 4.0 del Anexo N° 1, salvo por la identificación del administrador, requerida en el punto 4.1 de dicho anexo, que podrá ser informada en la Escritura Pública Específica. No obstante, en este último caso, y en el evento que proceda la absorción de patrimonios separados, se deberá indicar la entidad que asumirá la administración de los activos securitizados del patrimonio separado fusionado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -495,7 +471,6 @@ que se formen a propósito de las emisiones efectuadas al amparo de la Escritura
 Deberá contener las menciones establecidas en el numeral 10.0 del Anexo N° 1.
 ### 1.12 Antecedentes y características de la estructura de emisión
 Deberá contener las menciones establecidas en el numeral 13.0 del Anexo N° 1 referidas a lo menos al patrimonio separado fusionado. No obstante, en caso que se haya establecido que no procederá la fusión entre patrimonios separados podrá obviarse la presentación de esta información.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -518,7 +493,6 @@ Se deberá individualizar la Escritura Pública General al amparo de la cual se 
 Deberá contener las menciones requeridas en el numeral 11.0 del Anexo N° 1
 ### 2.3 Cartera Securitizada
 Deberá contener las menciones requeridas en el numeral 12.0 del Anexo N° 1
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -532,7 +506,6 @@ Se deberán incluir las menciones establecidas en el numeral 17.0 del Anexo N° 
 Se deberá incluir todas las menciones que de acuerdo a lo permitido en el literal I de este anexo no fueron definidas en la Escritura Pública General.
 ### 2.8 Otras estipulaciones
 Adicionalmente, podrá incluirse cualquier otra estipulación que las partes estimen conveniente para la mejor regulación de los derechos y protección de los tenedores de títulos de deuda de securitización.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -553,7 +526,6 @@ series a emitir. Para lo anterior deberá considerar la siguiente información p
 valor total de la cartera. En caso que la cartera a securitizar esté compuesta por más de un tipo de activo, se deberá indicar el porcentaje que representa cada tipo de activo en la cartera- este cálculo deberá ser efectuado en base al monto que represente cada tipo de activo en la cartera total-.
 ### 1.6 Originador : Deberá informar la razón social del originador u
 originadotes de los activos a securitizar. En este último caso se deberá indicar el porcentaje que aporta en
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -578,7 +550,6 @@ securitizadora, se deberá informar otras entidades que hayan participado y/o va
 Valores emisión en el Registro de Valores
 ### 1.16 Leyenda de responsabilidad : Estampar en forma destacada y en letras mayúsculas, las
 siguientes leyendas, según corresponda:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -599,7 +570,6 @@ Se deberá incorporar un índice con el contenido del prospecto de emisión.
 ### 3.3 R.U.T. : Indicar el rol único tributario de la sociedad.
 ### 3.4 N° y fecha inscripción en el Re- : Indicar el número y fecha de inscripción de la sociedad
 gistro de Valores securitizadora en el Registro de Valores de la Superintendencia de Valores y Seguros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -620,7 +590,6 @@ Registro de Valores por parte de la sociedad securitizadora en los 5 años inmed
 ### 4.0 ANTECEDENTES LEGALES DE LA EMISIÓN
 ### 4.1 Acuerdo de emisión : Deberá indicar la siguiente información con respecto al
 acuerdo de emisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -647,7 +616,6 @@ en que se divide la emisión y el valor nominal total que representa cada una de
 que comprende cada serie, según corresponda.
 ### 5.4 Cortes : Indicar el valor nominal de los títulos que comprenden
 cada serie, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -669,7 +637,6 @@ siguiente información respecto a los títulos de deuda de securitización: el n
 portador, a la orden o nominativos. Esta información deberá ser presentada para cada serie según corresponda.
 ### 6.2 Forma de los títulos : Deberá indicar si los títulos a emitir serán materializados
 o desmaterializados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -692,7 +659,6 @@ una breve descripción de la naturaleza de éste. En tal sentido, deberá referi
 la información requerida en los siguientes puntos.
 7.2.1 Principales Características : De acuerdo a su naturaleza, se deberá presentar un
 resumen de las principales características de la cartera a securitizar, indicando, a modo de ejemplo y según corresponda, el número de activos, valor total de la cartera, valor promedio de los activos, plazo promedio ponderado de éstos, plazo promedio ponderado remanente de los contratos o créditos, plazo promedio ponderado de antigüedad, tasa de interés promedio ponderado de otorgamiento de los mismos y cualquier otro indicador que a juicio de la administración sea relevante para describir la cartera securitizada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -707,7 +673,6 @@ los activos a securitizar. En este último caso, se deberá identificar la parti
 originador de los activos, presentando conjuntamente una breve descripción de las actividades y negocios que realiza.
 7.3.2 Antecedentes financieros del : Para emisiones cuya estructura requiera la adquisición
 Originador periódica de nuevos activos, se deberá presentar información financiera relacionada al originador de los activos, la que permita formarse una idea del estado financiero del mismo. Para lo anterior, se deberá señalar el total por rubros de los Activos, Pasivos, Patrimonio y Resultados para un período de 3 años anteriores a la fecha del prospecto. Asimismo, se deberá indicar si la información presentada fue auditada y en dicho caso se deberá identificar al auditor externo de dicha información y el tipo de opinión emitida por éste(con o sin salvedad).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -724,7 +689,6 @@ al deudor que permita formarse una idea del estado financiero de este último. P
 (con o sin salvedad).
 7.4.3 Relación Deudor-Sociedad : Indicar cualquier relación significativa, ya sea de propieSecuritizadora dad, comercial u otra, que exista entre la entidad emisora
 y el deudor. En caso de las relaciones comerciales, no se deberá considerar aquellas surgidas a propósito de la respectiva emisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -747,7 +711,6 @@ se hayan impuesto en el Contrato de Emisión.
 en la estructura de emisión.
 ### 8.9 Cobro sobre Patrimonio Común : Se deberá indicar si se concede la opción a los
 tenedores de títulos de deuda de securitización a cobrar el eventual saldo impago de sus créditos, en el patrimonio común del emisor.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -768,7 +731,6 @@ recompra periódica de activos, se deberá presentar los factores de riesgo espe
 deberá presentar los factores de riesgo asociadas a las mismas y al sector de la actividad económica en que participan. En tal sentido, deberá presentar una breve descripción de cada uno de los factores de riesgo y el efecto que pueden tener éstos en la emisión
 ### 9.4 Otros Factores de Riesgos : Deberá identificar y presentar una breve descripción de
 los factores de riesgo que a juicio de la administración de la sociedad securitizadora puedan afectar la emisión y que no hayan sido recogidos en los puntos precedentes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -789,7 +751,6 @@ que exista entre la entidad emisora y el administrador de los activos. En caso d
 11.2 Otras Entidades relacionadas : En caso de existir otras entidades relacionadas a la adA la administración ministración de los activos, éstas deberán ser
 individualizadas, indicando conjuntamente el rol que cumplen en la administración. Asimismo se deberá presentar la información requerida en los puntos 11.1.1 y
 11.1.2 para las entidades informadas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -812,7 +773,6 @@ tenedores de títulos de deuda de securitización.
 ### 12.2 Dirección : Indicar la dirección del representante.
 ### 12.3 Relaciones : Indicar cualquier relación, ya sea de propiedad, comercial
 u otra, existente entre el representante y los principales accionistas o socios y administradores de la sociedad securitizadora
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -836,7 +796,7 @@ la emisión así como su número de teléfono.
 propiedad, comercial u otra, que exista entre la entidad emisora y el colocador o colocadores de la emisión. En caso de las relaciones comerciales, no se deberá considerar aquellas surgidas a propósito de la respectiva emisión.
 ### 13.4 Plazo colocación : Indicar el plazo convenido para la colocación de los
 valores.
-### 13.5 Código nemotécnico . Indicar, para cada serie, el código nemotécnico asignado SUPERINTENDENCIA DE VALORES Y SEGUROS
+### 13.5 Código nemotécnico . Indicar, para cada serie, el código nemotécnico asignado
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -858,7 +818,6 @@ a proporcionar a los tenedores. Asimismo, se deberá indicar si existirán otras
 financieros auditado y su respectivo análisis razonado se encuentran disponibles en las oficinas de la sociedad securitizadora, en la Superintendencia de Valores y Seguros y en la página web de ésta, para lo cual deberá indicar la dirección de ésta así como la URL de la página web, y en las oficinas de los colocadores, según corresponda. La misma indicación deberá realizarse respecto al último informe trimestral.
 ### 15.3 Inclusión de antecedentes : Indicar si se ha incluido información financiera adicional, la
 cual deberá ser incorporada como un anexo al prospecto
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -878,7 +837,6 @@ emisión en cuestión, se deberá incorporar un glosario con dicha terminología
 emisión.
 ### 17.4 Las instrucciones contenidas en este anexo han sido elaboradas sólo con el objeto de servir
 de referencia para la presentación de la información mínima requerida, por lo tanto se podrá incorporar información adicional. No obstante, la información que se proporcione deberá mantener en lo posible el orden que se indica en estas instrucciones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -899,7 +857,6 @@ Emisión acuerdo de emisión que aprobó el programa de emisión.
 suscribió el acuerdo referente al programa de emisión.
 4.1.2 Fecha : Deberá indicar la fecha en que fue acordado el programa
 de emisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -928,7 +885,6 @@ escritura específica de emisión.
 específica de emisión.
 4.6 Modificaciones a Escritura : En caso que la escritura específica de emisión sea modiEspecífica ficada, deberá presentar la siguiente información para
 cada modificación efectuada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -955,7 +911,6 @@ Emisión acuerdo de emisión que aprobó el programa de emisión.
 suscribió el acuerdo referente al programa de emisión.
 4.1.2 Fecha : Deberá indicar la fecha en que fue acordado el programa
 de emisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -984,7 +939,6 @@ escritura específica de emisión.
 específica de emisión.
 4.6 Modificaciones a Escritura : En caso que la escritura específica de emisión sea modiEspecífica ficada, deberá presentar la siguiente información para
 cada modificación efectuada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -1009,7 +963,6 @@ separado a formarse a propósito de la emisión, podrá fusionarse con los patri
 de los Patrimonios que podrán fusionarse con el patrimonio separado a formar al amparo de la emisión, se deberá indicar lo siguiente.
 10.2.1 Activo : Se deberá indicar el tipo de activo que podrá formar
 parte de las carteras securitizadas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -1031,7 +984,6 @@ Se deberán seguir las instrucciones establecidas en el punto 12.0 del Anexo N°
 Se deberán seguir las instrucciones establecidas en el punto 13.0 del Anexo N° 3
 ### 15.0 PAGO DE LOS TÍTULOS
 Se deberán seguir las instrucciones establecidas en el punto 14.0 del Anexo N° 3
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -1048,7 +1000,6 @@ la emisión en cuestión, se deberá incorporar un glosario con dicha terminolog
 fusión.
 ### 18.4 Las instrucciones contenidas en este anexo han sido elaboradas sólo con el objeto de servir
 de referencia para la presentación de la información mínima requerida, por lo tanto se podrá incorporar información adicional. No obstante, la información que se proporcione deberá mantener en lo posible el orden que se indica en estas instrucciones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
@@ -1075,10 +1026,8 @@ securitización, aquellos tenedores que se hayan inscrito para la junta respecti
 • Fecha del título, sello de la entidad emisora y la firma del emisor y del representante legal de
 los tenedores de títulos de deuda de securitización.
 • Deberá insertarse, en forma destacada, en el anverso o cara principal del título:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 214
 FECHA: 01.02.2008
 ### “EL PAGO DE ESTE TÍTULO SÓLO PUEDE PERSEGUIRSE SOBRE LOS ACTIVOS DEL PATRIMONIO SEPARADO CON CARGO AL CUAL SE HAYA EMITIDO, ELLO SIN PERJUICIO DE LO QUE ESTABLEZCA EL RESPECTIVO CONTRATO DE EMISIÓN. LA CIRCUNSTANCIA QUE LA SUPERINTENDENCIA DE VALORES Y SEGUROS HAYA REGISTRADO LA EMISIÓN, NO SIGNIFICA QUE GARANTICE SU PAGO, LA SOLVENCIA DE DICHO PATRIMONIO SEPARADO O CALIDAD DE LOS ACTIVOS QUE LO INTEGRAN.
 ### EN CONSECUENCIA, EL RIESGO EN SU ADQUISICIÓN ES DE RESPONSABILIDAD EXCLUSIVA DEL ADQUIRENTE”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

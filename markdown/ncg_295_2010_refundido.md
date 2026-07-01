@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 295 — FECHA: 29.11.2010
+# NCG N° 295 — ESTABLECE FORMA, PERIODICIDAD Y EXIGENCIAS QUE DEBEN CUMPLIRSE PARA EFECTOS DE LA ACREDITACIÓN DE CONOCIMIENTOS DE INTERMEDIACIÓN DE VALORES.
 
 
 Para las bolsas de valores e intermediarios de valores Esta Superintendencia, en virtud de lo dispuesto en la letra b), del inciso primero, del artículo 26 de la Ley N° 18.045, ha estimado pertinente impartir las instrucciones contenidas en la presente Norma de Carácter General, con el objeto de regular la forma, periodicidad y exigencias que deben cumplirse para acreditar los conocimientos de intermediación que deben poseer los intermediarios, sus directores y administradores, y demás trabajadores que participen en las actividades relacionadas con el corretaje de valores.
@@ -16,7 +16,6 @@ Corresponderá a las bolsas de valores constituir un Comité de Acreditación, e
 La función de acreditación que desempeñarán las bolsas, deberá realizarse de manera separada de las demás funciones de operación, regulación y supervisión que ésta lleve a cabo para el cumplimiento de su giro y demás obligaciones legales, reglamentarias y estatutarias.
 ## 1. DE LAS NORMAS DE ACREDITACIÓN
 Con el objeto de dar cumplimiento a las disposiciones contempladas en la ley, las bolsas de valores del país deberán regular de manera conjunta el proceso de acreditación que se deberá cumplir para esos efectos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Esa reglamentación tendrá por objeto preservar que los estándares y exigencias de acreditación sean uniformes en el mercado, debiendo referirse, al menos a las siguientes
 materias:
@@ -36,7 +35,6 @@ g. Normas que regulen con cuanta anticipación, contada desde la fecha de térmi
 de la vigencia del certificado, la persona deberá iniciar un nuevo proceso de acreditación para contar oportunamente con la certificación que le permitirá seguir ejerciendo las funciones para las cuales se había acreditado anteriormente. Estas normas, deberán contemplar un plazo que considere que la persona podría eventualmente reprobar el examen de idoneidad, por lo menos en una oportunidad, para efectos que pueda rendirlo nuevamente y contar con la debida certificación, antes de la fecha de término de la vigencia del certificado.
 h. La metodología que se utilizará para determinar las tarifas que serán de cargo de
 los solicitantes, debiendo resguardarse que éstas sean justas y acordes a los precios de mercado, y que permitan al Comité contar con los recursos suficientes para funcionar correctamente. Esto último, en caso que el financiamiento del Comité provenga de dichas tarifas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 i. Normas que regulen la vigencia de los certificados de acreditación, de
 conformidad a lo establecido en esta Norma.
 La reglamentación conjunta de las bolsas, así como sus modificaciones, deberá ser aprobada por la Superintendencia y sólo comenzará a regir una vez otorgada dicha autorización.
@@ -56,7 +54,6 @@ entregados al Comité para llevar a cabo adecuadamente su función.
 Los exámenes de idoneidad que rendirán quienes desempeñen las siguientes funciones, deberán considerar elementos de evaluación que se pronuncien al menos sobre las materias que se señalan en este numeral.
 i. Directores, administradores y gerente general: quienes están a cargo de la
 definición de las políticas y decisiones estratégicas, así como de la administración y supervisión general de los procesos llevados a cabo en el intermediario:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 3 i.1 Conocimientos de gestión de riesgos, que incluyan aspectos generales de la
 administración y control de éstos, y las herramientas existentes para su evaluación y mitigación.
 i.2 Conocimiento general del marco jurídico que rige el actuar de los participantes del mercado de valores, dentro del cual se cuenta la legislación pertinente, la normativa dictada por la Superintendencia, la reglamentación bursátil y las normas de conducta y recomendaciones efectuadas por los comités de regulación de los centros bursátiles, entre otros y según corresponda. Se deberá poner un especial énfasis en las temáticas relacionadas con manipulación de precios, resolución de conflictos de interés, oferta pública de valores y uso de información privilegiada. En este último caso, especialmente sobre los deberes de reserva por parte de quienes posean ese tipo de información y debida separación de funciones entre las unidades que manejen información.
@@ -68,7 +65,6 @@ por éste:
 ii.1 Conocimientos de gestión de riesgos en los términos indicados en la letra i.1 anterior.
 ii.2 Conocimiento del marco jurídico que rige el actuar de los participantes del mercado de valores, con especial énfasis en las normativas que regulan las conductas prohibidas por atentar contra los principios del mercado.
 ii.3 Las materias señaladas en la letra i.3 precedente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 4 iii. Gerentes y Jefes de áreas vinculadas con la documentación, registro,
 contabilidad, auditoría y liquidación de operaciones: quienes están a cargo de la dirección, gestión y supervisión de procesos o funciones de documentación, registro, contabilidad, auditoría y liquidación de operaciones del intermediario:
 iii.1 Conocimientos de gestión de riesgos en los términos indicados en la letra i.1 anterior, y aspectos particulares en materia de gestión de riesgo operacional, tecnológico y legal.
@@ -83,7 +79,6 @@ v. Operadores de Mesa: quienes están a cargo de la ejecución de las operacione
 del intermediario, sean éstas propias o de terceros:
 v.1 Conocimientos avanzados en el uso de herramientas y los productos financieros que opera, así como de los riesgos inherentes a ellos. En caso de operadores de mesa de uno o más productos financieros específicos, se referirá al conocimiento particular respecto de estos últimos.
 v.2 Conocimiento del marco jurídico que rige el actuar de los participantes del mercado de valores, con especial énfasis en las normativas que regulan las actividades permitidas y conductas prohibidas al intermediario y, por ende, respecto del cómo debe ser ese actuar para enmarcarse dentro de la legislación vigente y las sanas prácticas en los mercados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 5 vi. Ejecutivos de cuenta, ejecutivos de venta y asesores de inversión: quienes
 están a cargo de la oferta de los servicios financieros y productos operados por el intermediario, recepción de instrucciones de compra y venta de clientes, y efectuar a éstos recomendaciones de inversión:
 vi.1 Conocimientos avanzados en las características, particularidades y riesgos de los distintos productos y servicios financieros que vende o asesora.
@@ -98,7 +93,6 @@ En caso que la bolsa detectare o tomare conocimiento de alguna irregularidad en 
 ## 5. DEL REGISTRO DE PERSONAS ACREDITADAS
 Las bolsas de valores deberán llevar, de manera conjunta, un Registro de Personas Acreditadas, el que deberá contener toda la información que permita identificar a quienes han sido acreditados por éstas, las funciones que pueden desempeñar en un intermediario de valores de acuerdo a su acreditación y la fecha de inicio y término de la certificación correspondiente.
 El Registro deberá ser mantenido en medios y sistemas que garanticen su fidelidad e integridad, y que el público pueda acceder a toda la información de éste, de manera remota y gratuita.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 6. DE LA EDUCACIÓN CONTINUA
 Será obligación de cada intermediario de valores, establecer un programa interno o externo de capacitación continua, que garantice que los conocimientos que fueron originalmente acreditados por quienes hayan sido certificados, estarán permanentemente actualizados hasta la siguiente acreditación.
@@ -109,4 +103,3 @@ Los corredores de bolsa y agentes de valores, sus directores, administradores y 
 2013, mientras que las demás personas que desempeñan funciones para ellos, deberán obtenerla a más tardar el 30 de septiembre de 2013. Aquel personal que excepcionalmente no cuente con la acreditación respectiva en los plazos indicados, por haber reprobado el examen de idoneidad, dispondrá, por esta única vez, de un plazo adicional de 3 meses para cumplir con lo dispuesto en esta normativa.
 ## III. VIGENCIA
 Las disposiciones impartidas por la presente norma regirán a partir de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

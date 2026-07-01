@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE NORMAS DE VALORIZACION DE INSTRUMENTOS QUE INTEGRAN LA CARTERA DE INVERSIONES DEL FONDO PARA LA BONIFICACIÓN POR RETIRO. A la sociedad administradora del fondo para la bonificación por retiro.
+# CIRCULAR N° 1810 — ESTABLECE NORMAS DE VALORIZACION DE INSTRUMENTOS QUE INTEGRAN LA CARTERA DE INVERSIONES DEL FONDO PARA LA BONIFICACIÓN POR RETIRO
 
-### CIRCULAR N° 1.810
-FECHA: 31.08.2006
 
 Esta Superintendencia en uso de sus facultades legales, ha estimado necesario impartir normas relativas a la valorización de instrumentos que integran la cartera de inversiones del fondo para la bonificación por retiro (en adelante “el fondo”).
 ## 1. VALORIZACIÓN DE INSTRUMENTOS DE DEUDA NACIONALES Y EXTRANJEROS
@@ -22,9 +20,7 @@ ii. Si en el día de la valorización, existen “transacciones válidas” para
 iii. En el caso de no existir “transacciones válidas” para un instrumento el día de la valorización, el modelo considera, para la determinación de la tasa de valorización, las “transacciones válidas” de ese mismo día correspondientes a otros instrumentos que pertenezcan a la misma “categoría”1 que el título en cuestión, según ésta sea definida por el modelo.
 iv. En el evento que en el día de la valorización no existan “transacciones válidas” de un determinado título, o de algún instrumento perteneciente a su misma “categoría”, el modelo estima una tasa para valorizar ese instrumento.
 1 Las “categorías” agrupan los títulos según tipo de instrumentos y plazo de vencimiento.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.810
-FECHA: 31.08.2006
+
 La metodología de estimación contempla efectuar agrupaciones según “familias” de instrumentos que comparten características comunes en cuanto a su valorización, dividiendo éstas en “categorías”. A cada “familia” de instrumentos se le asigna una
 “estructura de referencia”, que es una curva de tasas de interés calculada diariamente, en base a las transacciones diarias y pasadas de los instrumentos que el mismo modelo define para construir la curva. De las tasa de interés que conforman la “estructura de referencia”, se obtiene la “TIR base”, a la cual debe sumarse el “spread” determinado por el modelo para la “categoría” correspondiente, obteniéndose de esta forma la tasa que se utilizará en la valorización del instrumento.
 Para todos los efectos, “transacciones válidas” son aquellas que cumplen las condiciones definidas por el modelo.
@@ -36,9 +32,7 @@ En el caso de los instrumentos de deuda extranjero, se utilizará como tasa de d
 ii. Si en el día de la valorización no se hubiese superado el monto de 500 Unidades de Fomento referido, o bien, si no se hubiese transado el título, éste se valorizará utilizando como tasa de descuento la última que se hubiere determinado en conformidad a lo dispuesto en la letra i. anterior.
 El gerente general de la sociedad administradora deberá velar para que esta valorización represente el valor de mercado del instrumento en cuestión. Si no lo representare, deberá efectuar ajustes al valor obtenido con el objeto de que la valorización refleje el monto al que el instrumento se pueda liquidar en el mercado.
 La sociedad administradora deberá llevar un registro con los ajustes realizados, los cuales se ordenarán de forma cronológica y separadamente, conforme sea el tipo de instrumento. El registro deberá contener al menos la fecha en que se realizó las modificaciones, la identificación del instrumento objeto del ajuste, las unidades nominales del instrumento objeto del ajuste, la tasa obtenida bajo la aplicación de los dispuesto en i. y ii. De la letra b), la tasa ajustada, la valorización del instrumento a cada una de las tasas y la diferencia sobre activos, los fundamentos que explican el ajuste y la identificación de la persona responsable de realizar las rectificaciones. El registro estará a disposición de esta Superintendencia a su sola solicitud.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.810
-FECHA: 31.08.2006
+
 ### 1.2 Metodología de valorización de la Superintendencia de Administradoras de Fondos
 de Pensiones.
 El fondo deberá valorizar diariamente los instrumentos representativos de deuda. El valor a utilizar será el resultante de actualizar el o los pagos futuros del instrumento considerando como tasa de descuento, aquella proveniente de la información de precios calculados de acuerdo a las normas establecidas en la Circular N° 1.216 de la Superintendencia de Administradoras de Fondos de Pensiones.
@@ -48,4 +42,3 @@ En el evento que dicha entidad no proporcione durante el día de la conversión,
 ### N| 18.840.
 ## 3. VIGENCIA
 Las instrucciones impartidas por esta Circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

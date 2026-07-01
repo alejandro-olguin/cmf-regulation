@@ -33,8 +33,8 @@ d) Nombre completo y R.U.T. del gerente general.
 e) Domicilio y teléfono comercial, fax y correo electrónico.
 f) Nombre completo, R.U.T., y cargo de las personas autorizadas para dar órdenes
 al corredor. El intermediario deberá mantener los antecedentes que respalden dicha autorización.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 203
+
+### N.C.G. N° 203
 FECHA: 19.10.2006
 ## 3. Relación del cliente con el corredor:
 a) Indicar si el cliente es accionista, socio o director del corredor.
@@ -66,8 +66,8 @@ de su cartera lo que se le ordenó comprar:
 En la ficha deberá indicarse si el cliente otorgará esta facultad en cada orden que formule, o efectuará una autorización general. En este último caso, deberá dejarse constancia expresa en la ficha.
 Las fichas deberán ser firmadas por el cliente o por su(s) representante(s) legal(es) o gerente(s), o por quien tenga poder suficiente, el o los cuales atestiguarán la veracidad de la información, previo al cumplimiento de cualquier orden por parte del corredor.
 Las bolsas de productos y los corredores podrán exigir cualquier información adicional que juzguen necesaria.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 203
+
+### N.C.G. N° 203
 FECHA: 19.10.2006
 El corredor es responsable de mantener permanentemente actualizada la información contenida en la ficha de cliente.
 A.2. Órdenes de Compra y Venta Las órdenes de compra-venta que reciba el corredor, al menos deberán contener la información señalada en el Anexo A de esta Norma y se regirán por las siguientes
@@ -94,8 +94,8 @@ cancelada por el cliente.
 Se considera orden permanente aquella en que no se ha especificado su plazo de vigencia.
 5. Se deberá especificar la condición de liquidación de la operación, esto es la forma
 y plazo de pago y entrega de los productos que tendrá ésta, la cual se deberá adaptar a lo establecido por la respectiva bolsa de productos agropecuarios, de la que el corredor es miembro.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 203
+
+### N.C.G. N° 203
 FECHA: 19.10.2006
 6. Se deberá incluir uno de los siguientes códigos, por cada orden, para identificar su
 procedencia:
@@ -124,8 +124,8 @@ no inferior a diez años, contado desde la fecha en que fueron otorgadas, o desd
 sus ofertas reemplaza el formulario de órdenes de compra o de venta de productos y la anotación cronológica en el registro especificado en la letra d) del número 8 anterior. No obstante lo anterior, estas operaciones deberán ser informadas en el “Registro de Operaciones” señalado en la sección A.3 de la presente Norma.
 10. En caso que el cliente haya optado por lo dispuesto en la letra b) del número 5 de
 la sección A.1. , se deberá señalar expresamente en cada orden que reciba el corredor, si el cliente dejará los productos en custodia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 203
+
+### N.C.G. N° 203
 FECHA: 19.10.2006
 11. Cuando el cliente haya determinado en su ficha que se otorgará caso a caso la
 facultad para que el corredor compre para sí lo que se le ordenó vender o venda de su cartera lo que se le ordenó comprar, deberá dejarse constancia de ello en la respectiva orden de compraventa.
@@ -144,8 +144,8 @@ a) Ordenes a precio de mercado, incluyendo entre ellas las órdenes de precio l�
 cuando éstas quedan dentro del precio de mercado. En el caso de igualdad de precio o de varias órdenes a precio de mercado, prevalecerá el orden cronológico.
 b) Ordenes a precio límite, por orden de precio, sólo en el caso que una sola orden
 quede dentro del precio de mercado. En caso que más de una orden, a precio límite, quede dentro del precio de mercado, prevalecerá el orden cronológico dentro de ellas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 203
+
+### N.C.G. N° 203
 FECHA: 19.10.2006
 2. Los corredores podrán establecer criterios adicionales para la ejecución de órdenes y
 distribución de transacciones, especificando:
@@ -167,15 +167,15 @@ Los corredores, cuando operen con cartera propia, esto es, cuando se dediquen ta
 Superintendencia y mantener permanentemente un patrimonio mínimo de 14.000 U.F. de acuerdo a lo señalado en el artículo 7° de la Ley N° 19.220. Asimismo, deberá demostrar las razones o índices de composición patrimonial, de liquidez y de solvencia que establezca la norma de carácter general que se dicte regulando tales materias.
 2. Las compras o ventas de productos para la cartera propia deberán ser postergadas
 mientras tengan pendientes órdenes de compra o venta de sus clientes por los mismos productos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 203
+
+### N.C.G. N° 203
 FECHA: 19.10.2006
 3. No podrán adquirir los productos que se les ordenó enajenar, ni enajenar de los suyos a
 quien le ordenó adquirir, sin autorización expresa del cliente. Esta autorización deberá constar por escrito en la respectiva orden de compraventa, o en la ficha de cliente, según lo haya definido el propio cliente.
 Una vez ejecutada la orden de un cliente, el corredor junto con darle a conocer los datos de su operación, deberá informarle, en términos generales, que esa operación se ejecutó en parte o en su totalidad contra su cartera propia.
 Estas normas entrarán en vigencia a contar del 1 de enero de 2007.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 203
+
+### N.C.G. N° 203
 FECHA: 19.10.2006
 ### ANEXO A
 
@@ -196,8 +196,8 @@ FECHA: 19.10.2006
 | OBSERVACIONES |  |  |  |
 
 Nombre, RUT y firma de la persona responsable de la elaboración Firma de la persona que da la orden
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS NN..CC..GG.. NN°° 220033
+
+### NN..CC..GG.. NN°° 220033
 FFEECCHHAA:: 1199..1100..22000066
 ### AANNEEXXOO BB RREEGGIISSTTRROO DDEE OOPPEERRAACCIIOONNEESS
 FFEECCHHAA:: HHOOJJAA NN°°

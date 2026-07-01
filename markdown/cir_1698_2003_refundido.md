@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# DETERMINACIÓN DEL VALOR JUSTO DE LOS ACTIVOS Y PASIVOS DE LA SOCIEDAD EN QUE SE INVIERTE E INFORMACION RELACIONADA
+# CIRCULAR N° 1698 — DETERMINACIÓN DEL VALOR JUSTO DE LOS ACTIVOS Y PASIVOS DE LA SOCIEDAD EN QUE SE INVIERTE E INFORMACION RELACIONADA
 
-CIRCULAR Nº 1.698
-FECHA: 31.12.2003
 
 Para todas las sociedades inscritas en el Registro de Valores, así como aquellas que por ley deban regirse por las normas de las sociedades anónimas abiertas, con excepción de las entidades de seguros y reaseguros y de aquellos que tengan normas específicas sobre esta materias.
 ## I. INTRODUCCION
@@ -21,8 +19,6 @@ Los profesionales encargados del estudio de valoración requerido para la determ
 pertenece, si corresponde.
 - Metodología utilizada para la valoración.
 
-CIRCULAR Nº 1.698
-FECHA: 31.12.2003
 - Detalle de los principales parámetros elegidos como referencia, informando sus valores,
 características y cualquier otro antecedente que fuese pertinente.
 - Relación detallada y completa de los activos y pasivos que fueron objeto de la

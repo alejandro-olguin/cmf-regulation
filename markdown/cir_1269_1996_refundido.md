@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1269 — ESTABLECE NORMAS SOBRE LAS INVERSIONES DE LOS FONDOS PARA LA VIVIENDA
+# CIRCULAR N° 1269 — ESTABLECE NORMAS SOBRE LAS INVERSIONES DE LOS FONDOS PARA LA VIVIENDA.
 
 
 Para todas las sociedades que administran fondos para la vivienda.
@@ -30,7 +30,6 @@ k) Efectos de comercio emitidos por empresas públicas y privadas, que correspon
 pagarés u otros títulos de crédito o inversión, con plazo de vencimiento no superior a un año desde su inscripción en el Registro de Valores, no renovables;
 l) Otros instrumentos de oferta pública, cuyos emisores sean fiscalizados por la
 Superintendencia de Valores y Seguros o la Superintendencia de Bancos e Instituciones Financieras, según corresponda, que autorice el Banco Central de Chile;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 m) Títulos de crédito, valores o efectos de comercio, emitidos o garantizados por Estados
 extranjeros, bancos centrales o entidades bancarias extranjeras o internacionales;
 n) Acciones emitidas por empresas extranjeras;
@@ -53,7 +52,6 @@ Las inversiones que se efectúen en acciones de las sociedades mencionadas en la
 o) del mismo título, deberán valorizarse diariamente al precio de mercado promedio
 ponderado de las transacciones efectuadas en las bolsas de valores, en que se encuentre inscrito el respectivo instrumento durante el día de la valorización. Si éste último se encuentra inscrito en más de una bolsa de valores, deberá utilizarse el precio promedio de todas las bolsas en las cuales se encuentren registradas las acciones o cuotas de fondos de inversión.
 Para efectos de determinar el precio promedio ponderado considerado relevante para la valorización de las acciones y cuotas de fondos de inversión antes referidas, se requerirá un monto mínimo diario de transacciones efectuadas en rueda o remate, igual o superior a 10 unidades de fomento. En caso contrario, deberán valorizarse al precio del día inmediatamente anterior, en el cual este monto fue alcanzado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 El precio promedio ponderado diario se obtendrá de promediar el precio de cada una de las transacciones efectuadas en las bolsas de valores del país, en rueda o remate, ponderadas según el porcentaje que represente el número de unidades transadas en cada una de las operaciones, respecto del total de acciones o cuotas de fondos de inversión transadas durante el día. De esta forma, el precio de valorización obtenido de acuerdo al promedio señalado anteriormente, regirá para el día de la valorización.
 2. Valorización de acciones y cuotas de fondos de inversión con derechos preferentes de
@@ -73,7 +71,6 @@ b) Valorización en el período comprendido entre la fecha límite y el inicio d
 vigencia para ejercer el D.P.S.A. o D.P.F.I., cuando el instrumento no registra transacciones.
 Si las transacciones efectuadas en bolsas de valores, de una acción o cuota de fondo de inversión, no alcanzan un monto mínimo de 10 unidades de fomento el día de la valorización, éstas deberán valorizarse al precio promedio ponderado correspondiente al día inmediatamente anterior en que se hubiesen efectuado transacciones que igualen o superen el monto antes referido, ajustado de acuerdo
 a la siguiente expresión:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 VT = (N x PP) + (N1 x PS)
 ### (N + N1)
@@ -95,7 +92,6 @@ cuando la acción o cuota de fondo de inversión y sus respectivos derechos pref
 Si las transacciones efectuadas en rueda o remate de la acción o cuota de fondo de inversión y de sus correspondientes derechos preferentes, todas éstas consideradas independientemente, alcanzan un monto igual o superior a 10 unidades de fomento el día de la valorización, se deberá considerar el precio de mercado promedio ponderado de dichas transacciones, de acuerdo a lo descrito en el número 1 anterior.
 d) Valorización durante el período de vigencia para ejercer el derecho preferente,
 cuando la acción o cuota de fondo de inversión y sus respectivos derechos preferentes no registran transacciones bursátiles.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Si las transacciones efectuadas en rueda o remate de una acción o cuota de fondo de inversión y de sus correspondientes derechos preferentes, todas éstas consideradas independientemente, no alcanzan un monto mínimo de 10 unidades de fomento el día de la valorización, ésta se efectuará conforme a sus respectivos valores teóricos o último precio promedio ponderado para las acciones o cuotas de fondos de inversión (VT o PP) y teórico o calculado (VTDP o VDP) para los correspondientes derechos preferentes.
 e) Valorización durante el período de vigencia para ejercer el derecho preferente,
@@ -110,7 +106,6 @@ Las inversiones en cuotas de fondos mutuos, señaladas en las letras j) y p) del
 B) Inversiones en instrumentos de deuda
 Las inversiones efectuadas en los instrumentos señalados en las letras a), b), c), d), e), f), k), m) y ñ) del título I de la presente Circular y que cumplan las condiciones para ser considerados valores de transacción bursátil, se valorizarán al precio de mercado promedio ponderado de las transacciones efectuadas en las bolsas valores el día de valorización.
 Si el instrumento se transa en más de una bolsa de valores, deberá utilizarse el precio promedio de las transacciones efectuadas en las bolsas de valores del país, en las cuales se transó el instrumento, en el día de la valorización.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 El precio de mercado será el resultante de actualizar los pagos futuros del título, considerando como tasa de descuento la tasa interna de retorno (TIR) promedio ponderada de las transacciones del respectivo instrumento, el día de la valorización, siempre que estas hayan superado un total de 150 unidades de fomento.
 Si en el día de la valorización, no se hubiesen efectuado transacciones en las condiciones antes señaladas, el instrumento se valorizará utilizando como tasa de descuento la última que se hubiese determinado en conformidad al párrafo anterior.
@@ -123,7 +118,6 @@ C) Inversiones en instrumentos derivados para la cobertura de riesgos financiero
 ## 1. Contratos de opciones
 Los contratos de opciones suscritos por un fondo para la vivienda, se valorizarán de acuerdo al precio de cierre bursátil correspondiente al día de la valorización.
 Sin perjuicio de lo anterior, si el precio de cierre antes mencionado no refleja el valor de liquidación de la opción en el mercado, la sociedad administradora deberá efectuar los ajustes pertinentes a dicho precio, los cuales deberán ser fundamentados y estar a disposición de esta Superintendencia, a su solicitud. En todo caso, siempre corresponderá efectuar dichos ajustes, cuando las condiciones del mercado de opciones y del mercado contado del activo objeto, indiquen que el precio de cierre es poco representativo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 La valoración de las opciones se realizará en forma independiente para cada serie de ellas. En este sentido, se entenderá que pertenecen a una misma serie, aquellas opciones de un mismo tipo (compra o venta) relativas a un mismo activo objeto, que tengan la misma fecha de vencimiento y el mismo precio de ejercicio.
 ## 2. Contratos a futuro
@@ -139,7 +133,6 @@ En el evento que el Banco Central de Chile no proporcione durante el día de la 
 C) Límites de inversión
 La inversión que los fondos para la vivienda mantengan en títulos de emisores extranjeros, estará sujeta a los límites establecidos en el artículo 62 de la Ley N° 19.281, y en caso de que se produjesen excesos respecto de dichos límites, deberán ser regularizados conforme a los procedimientos y plazos establecidos en el artículo 27 del reglamento de dicha Ley.
 De acuerdo con lo dispuesto en la letra a) del artículo 62 antes señalado, los fondos para la vivienda podrán invertir hasta el 25% del valor de su activo en cuotas de un fondo de inversión o fondo mutuo extranjero, a que se refieren las letras o) y p) de la Sección I, siempre que hubieren sido aprobadas por la Comisión Clasificadora de Riesgo para la inversión de los fondos de pensiones y que se transen habitualmente en los mercados internacionales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 No obstante, los fondos para la vivienda podrán invertir hasta un 7% de su activo en cuotas correspondientes a un mismo fondo de inversión o fondo mutuo extranjero, sin que se requiera la aprobación de la Comisión Clasificadora de Riesgo. Esto, siempre que las cuotas de participación emitidas por el fondo de inversión extranjero de que se trate, se puedan transar en un mercado secundario formal nacional y en el caso del fondo mutuo extranjero, se encuentre inscrito en el Registro de Valores Extranjeros de la Superintendencia de Valores y Seguros.
 Además, el emisor originario de los títulos debe estar inscrito en la entidad supervisora o reguladora competente de su país de origen.
@@ -150,7 +143,6 @@ Para estos efectos. la sociedad administradora deberá celebrar contratos, con e
 Los mencionados contratos deberán contener las estipulaciones necesarias que garanticen la seguridad y fluidez del servicio de custodia. A su vez, será responsabilidad de la sociedad administradora analizar la legalidad y consecuencia de las cláusulas contenidas en el contrato, de modo que permita asegurar el dominio sobre los valores adquiridos a nombre de los fondos para la vivienda y el adecuado ejercicio de las facultades del mismo.
 Una copia de los contratos que celebren las administradoras con la o las entidades custodiadas, deberá ser mantenida en su domicilio social a disposición de esta Superintendencia.
 La circunstancia de que la custodia de los instrumentos, propiedad del fondo para la vivienda, sea realizada por instituciones distintas a la propia sociedad administradora, no liberará a ésta de sus responsabilidades legales como administrador de los fondos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 En el caso que la entidad extranjera dejara de cumplir con los requisitos mencionados precedentemente y/o se encontrara imposibilitada de prestar el servicio de custodia, la sociedad administradora deberá encargar la custodia de los títulos extranjeros de propiedad de los fondos, a alguna otra entidad de las señaladas en el segundo párrafo anterior.
 Los títulos extranjeros susceptibles de ser adquiridos en el mercado nacional, de conformidad con lo previsto en el Título XXIV de la Ley N° 18.045, se podrán mantener en depósito y custodia de las empresas de depósitos de valores a que se refiere la Ley N° 18.876, en las condiciones establecidas en la Norma de Carácter General N° 235 de 2009.
@@ -160,4 +152,3 @@ Finalmente, la sociedad administradora deberá dar cumplimiento a lo establecido
 Las disposiciones contenidas en la presente Circular rigen a contar de esta fecha.
 ### ARTICULO TRANSITORIO
 Las administradoras de fondos para la vivienda, deberán dar cumplimiento a la obligación de informar establecida en el párrafo cuarto de la letra C) del número 2 antes indicado, en la próxima modificación al contrato de administración que efectúen.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

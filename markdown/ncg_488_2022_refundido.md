@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: IMPARTE INSTRUCCIONES PARA EL
-### ENVÍO DE INFORMACIÓN DE LOS ARTÍCULOS 26 BIS, 38 BIS Y 80 BIS DE LA LEY ÚNICA DE FONDOS.
-_________________________________
-NORMA DE CARÁCTER GENERAL N°488
-21 de noviembre de 2022
+# IMPARTE INSTRUCCIONES PARA EL ENVÍO DE INFORMACIÓN DE LOS ARTÍCULOS 26 BIS, 38 BIS Y 80 BIS DE LA LEY ÚNICA DE FONDOS. _________________________________ NORMA DE CARÁCTER GENERAL N°488 21 de noviembre de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren el artículo 1, los numerales 1, 4 y 18 del artículo 5 y el numeral 3 del artículo 20, todos del Decreto Ley N°3.538; los artículos 18, 26 bis, 38 bis y 80 bis de la Ley que Regula la Administración de Fondos de Terceros y Carteras Individuales (Ley Única de Fondos), contenida en el artículo primero de la Ley N°20.712, y lo acordado por el Consejo de la Comisión en sesión ordinaria N°314 de 17 de noviembre de 2022, ha estimado pertinente impartir las siguientes instrucciones:
 ## I. De la información a remitir
 En atención a las disposiciones de los artículos 26 bis, 38 bis y 80 bis de la Ley Única de Fondos, las Administradoras Generales de Fondos (en adelante, “las Administradoras”) deberán remitir anualmente a la Comisión la información que se indica

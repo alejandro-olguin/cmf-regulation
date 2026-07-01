@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 208 — FECHA : 12.10.2007
+# NCG N° 208 — ESTABLECE NORMAS RELATIVAS AL OTORGAMIENTO DE PRÉSTAMOS DE DINERO A PERSONAS NATURALES Y JURÍDICAS POR PARTE DE LAS ENTIDADES ASEGURADORAS
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial las contenidas en las letras f) del N° 1 y e) del N°

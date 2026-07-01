@@ -21,7 +21,6 @@ a) Mercados extranjeros reconocidos: para efectos de esta norma se entenderán p
 tales los mercados de valores extranjeros, de países miembros de IOSCO, que cuenten con estándares al menos similares a los del mercado local, en relación a la revelación de información, transparencia de las operaciones y sistemas institucionales de regulación, supervisión, vigilancia y sanción sobre los emisores y sus títulos. Tales sistemas deberán asegurar que la información revelada respecto del emisor y de sus valores sea veraz, suficiente y oportuna, y otorgar una adecuada protección de los intereses de los inversionistas. Al respecto, a la fecha de emisión de esta norma, la Superintendencia considera como “mercados extranjeros reconocidos” a los indicados en la lista contenida en el Anexo I que se adjunta.
 El Anexo I se entenderá modificado por el solo hecho de incorporar en la lista nuevos mercados y no requerirá modificación de la presente norma. El citado Anexo, se mantendrá permanentemente actualizado en el sitio web de esta institución.
 Para efectos de reconocer un nuevo mercado, previo a la presentación de la solicitud de inscripción de los valores extranjeros, que sean susceptibles de ser transados en otro mercado extranjero, los solicitantes deberán presentar un informe que de cuenta que dicho mercado cumple con las características ya mencionadas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -36,7 +35,6 @@ La información proporcionada para efectos de la solicitud de inscripción, así
 Si se requiere corregir partes de una solicitud, bastará que se presenten las páginas corregidas adjuntándose una carta firmada por el solicitante, que indique los cambios efectuados. En las páginas corregidas se indicará en el margen superior derecho "corrección pág. Nº...".
 En el caso de una solicitud incompleta o presentada en forma tal que requiera gran número de correcciones, esta Superintendencia podrá requerir al emisor o al patrocinador que presente una nueva solicitud.
 Mientras dure el proceso de inscripción, el emisor o el patrocinador, según corresponda, deberá remitir a este Servicio cualquier modificación que haya sufrido la información proporcionada para efectos de la inscripción.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -59,7 +57,6 @@ nombres apellidos, profesión y cargo que desempeñan en la entidad.
 principal del patrocinador.
 El domicilio del patrocinador se considerará válido para los efectos de las notificaciones administrativas y judiciales.
 Cualquier modificación en relación con el patrocinador o a su domicilio deberá ser comunicada a esta Superintendencia dentro del plazo del tercer día hábil de ocurrido el hecho, y mientras no se reciba dicha comunicación, serán válidas todas las actuaciones y notificaciones que se le practiquen en el domicilio informado a esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -75,7 +72,7 @@ Sección I.2: Información para inscripción de acciones o certificados represen
 Sección I.3: Información para inscripción de acciones o certificados representativos de acciones emitidas por emisores extranjeros, que sean susceptibles de ser ofrecidas públicamente en mercados extranjeros, solicitada por una bolsa de valores local, en su calidad de patrocinador.
 I.1 Información para inscripción de acciones o certificados representativos de acciones emitidas por emisores extranjeros, que sean susceptibles de ser ofrecidas públicamente en mercados extranjeros, solicitada por el emisor La solicitud de inscripción deberá contener al menos la información que se detalla a continuación, actualizada a la fecha de presentación:
 #### A. Antecedentes del emisor
-#### B. Antecedentes económicos y financieros SUPERINTENDENCIA DE VALORES Y SEGUROS
+#### B. Antecedentes económicos y financieros
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -101,7 +98,6 @@ correspondientes a los doce meses anteriores a la solicitud de inscripción.
 A.3. Factores a considerar por el inversionista
 1. Describir brevemente la modalidad de salida del capital y utilidades del emisor, del país
 de origen;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -116,7 +112,6 @@ Cuando el emisor no hubiera confeccionado los estados financieros exigidos en ra
 Cuando el emisor, no hubiese confeccionado los estados financieros auditados exigidos en los párrafos anteriores en razón de su reciente formación, acompañará estados financieros individuales y consolidados, en su caso, de la misma forma en que fueron presentados al organismo regulador de su país de origen o del mercado donde transa sus valores. No obstante, las acciones o certificados representativos de acciones emitidos por estos emisores sólo podrán ser ofrecidos públicamente en Chile a “Inversionistas Calificados”, conforme éstos se definen en la Norma de Carácter General N° 216. Tales valores, sólo podrán ser ofrecidos públicamente en Chile al mercado general una vez que el emisor haya presentado al organismo regulador de su país de origen o del mercado donde transa sus valores, estados financieros auditados.
 Los estados financieros deberán informar los principios y criterios contables que han sido utilizados para su elaboración.
 Adicionalmente, se deberá informar si los principios contables utilizados en la preparación de los estados financieros difieren o no de las Normas Internacionales de Contabilidad y de Información Financiera (IFRS).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -133,7 +128,6 @@ b) En el sitio web de la bolsa donde el emisor transe sus valores
 A la solicitud de inscripción se acompañarán los siguientes documentos e información
 adicional:
 E.1. Certificado de la o las bolsas de valores extranjeras, o en su defecto la acreditación donde conste la inscripción o registro inicial de los valores del emisor en dichas bolsas, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -156,7 +150,6 @@ A.1. Antecedentes generales
 del emisor y sus acciones. Asimismo, en caso de presencia del emisor y sus valores en otros países, señalar las instituciones que lo fiscalizan.
 A.2. Información relativa a las acciones y los derechos que ellas confieren
 ## 1. Series que se inscribirán en el Registro de Valores Extranjeros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -178,7 +171,6 @@ c) En el sitio web del patrocinador
 B.1. Estados financieros Deberán presentarse los estados financieros del emisor extranjero, individuales y consolidados cuando corresponda, para los dos últimos ejercicios anuales o el comparativo del último ejercicio anual, de la misma forma en que fueron presentados en su país de origen o en el mercado donde transa sus valores. Dichos antecedentes deberán incluir el dictamen de los auditores externos.
 Cuando el emisor no hubiera confeccionado los estados financieros exigidos en razón de su reciente formación, acompañará estados financieros auditados individuales y consolidados, en su caso, de la misma forma en que fueron presentados por el emisor al organismo regulador de su país de origen o del mercado donde transa sus valores, de una antigüedad no superior a 90 días a la fecha de la solicitud de inscripción.
 Cuando el emisor, no hubiera confeccionado los estados financieros auditados exigidos en los párrafos anteriores en razón de su reciente formación, acompañará estados financieros individuales y consolidados, en su caso, de la misma forma en que fueron presentados por el emisor, al organismo regulador de su país de origen o del mercado donde transa sus valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -195,7 +187,6 @@ I.3 Información para inscripción de acciones o certificados representativos de
 #### A. Antecedentes del emisor
 #### B. Otros Antecedentes
 Los antecedentes elaborados con objeto de la solicitud de inscripción, señalados en los literales A. y B., de la presente sección deberán ser presentados en idioma español.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -222,7 +213,6 @@ inversionistas extranjeros que adquieran acciones o certificados representativos
 A la solicitud de inscripción se acompañarán los siguientes documentos e información
 adicional:
 B.1 Una carta firmada por el representante de la Bolsa de Valores Nacional, o quien haga sus veces, en la que solicita la inscripción en el Registro de Valores Extranjeros de esta Superintendencia, de la totalidad o parte de las acciones o certificados representativos de acciones de los emisores de valores que transan en la Bolsa Extranjera con la cual ha celebrado el respectivo convenio. En la carta, se deberá señalar expresamente el mercado al que se encuentra dirigida la inscripción.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -236,7 +226,6 @@ Las traducciones al idioma español que se presenten a este Servicio y a las bol
 La Información continua requerida, se detalla en las siguientes secciones:
 Sección II.1: Información continua requerida a los emisores de acciones o certificados representativos de acciones inscritas en el Registro de Valores Extranjeros.
 Sección II.2: Información continua requerida a los patrocinadores de acciones o certificados representativos de acciones inscritas en el Registro de Valores Extranjeros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -254,7 +243,6 @@ Los prospectos elaborados con motivo de la nueva colocación de acciones o certi
 A.1. Estados financieros Los emisores de valores inscritos en el Registro de Valores Extranjeros remitirán sus estados financieros a esta Superintendencia y a todas las bolsas nacionales en que se encuentren inscritos sus valores. Dichos estados financieros se elaborarán y presentarán en la misma forma y plazos en que sean presentados a la autoridad reguladora de su país de origen o del mercado en que transe.
 Los estados financieros deberán informar los principios y criterios contables que han sido utilizados para su elaboración.
 Además, se deberá adjuntar toda otra información financiera importante que el emisor entregue periódicamente en el país de origen o en aquéllos en que se encuentre inscrito o registrado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -269,7 +257,7 @@ Los folletos informativos u otros documentos que se utilicen para la difusión y
 Adicionalmente, dichos folletos deberán incluir una leyenda destacada donde se señale que toda información proporcionada por el emisor, en particular el prospecto presentado para efectos de la inscripción de los valores en el Registro de Valores Extranjeros, está a disposición del público en las oficinas de los agentes colocadores que ofrezcan al público los valores, del emisor, del representante del emisor en Chile y en esta Superintendencia. En caso que la información señalada se encuentre publicada en un sitio web, deberá señalarse su dirección.
 II.2 Información continua requerida a los patrocinadores de acciones o certificados representativos de acciones inscritas en el Registro de Valores Extranjeros Se proporcionará a lo menos la siguiente información continua, en la forma y plazos que se
 indican a continuación:
-#### A. Antecedentes generales, económicos y financieros SUPERINTENDENCIA DE VALORES Y SEGUROS
+#### A. Antecedentes generales, económicos y financieros
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -285,7 +273,6 @@ Además, se deberá adjuntar toda otra información financiera importante que el
 A.2. Reportes anuales En caso que se disponga, se proporcionará el último reporte anual o informe que la administración del emisor haya presentado al organismo regulador de su país de origen o del mercado donde transe sus valores, que contenga información respecto de los negocios, desempeño y situación financiera de la sociedad.
 #### B. Información relevante
 Los patrocinadores de acciones o certificados representativos de acciones inscritas en el Registro de Valores Extranjeros, tienen la obligación de remitir a esta Superintendencia y a las bolsas de valores nacionales en que se encuentren inscritas las acciones del emisor o certificados representativos de acciones, todo hecho o información relevante, respecto del emisor, de sus negocios y de los valores que ofrece, que sea presentada al organismo regulador de país de origen del emisor o del mercado donde transe sus valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -309,7 +296,6 @@ extranjero ante el cual se encuentra inscrito el emisor.
 depósito.
 7. Ejercicio de Derechos: Indicar nombre, domicilio, teléfono(s), fax y E-mail de la entidad
 ante la cual los tenedores de los certificados de depósito ejercen los derechos políticos y económicos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -323,7 +309,6 @@ Las instrucciones contenidas en la presente norma son necesariamente de aplicaci
 Por tal razón, ante situaciones particulares que se planteen en relación a estas materias, deberá consultarse previa y oportunamente a esta Superintendencia.
 DEROGACIÓN Derógase la Norma de Carácter general N° 82.
 VIGENCIA La presente Norma de Carácter General rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -361,7 +346,6 @@ Los “mercados extranjeros reconocidos”, a la fecha de emisión de la present
 (1) Se refiere a las acciones que se encuentren inscritas y puedan ser transadas en el First Section y Second Section. La aprobación de las acciones emitidas por empresas extranjeras transadas en el segmento Nippon New Market – Hércules, se restringe a aquellas acciones inscritas en el subsegmento Standard Class 1 de la Osaka Securities Exchange Co, Ltd. (OSE).
 (2) Se refiere a las acciones que se encuentren inscritas en el Official List del SGX Mainboard, y puedan ser transadas en la Bolsa de Valores indicada.
 (3) Se refiere a las acciones que se encuentren inscritas y puedan ser transadas en la First Section y Second Section.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 217
 FECHA: 12.06.2008
@@ -375,4 +359,3 @@ FECHA: 12.06.2008
 (11) Se refiere a las acciones emitidas por empresas extranjeras transadas en el SWX Europe Limited e inscritas en los segmentos EU Regulated Market Segment -SMI Securities y UK Exchange Regulated Market Segment-SMI Securities.
 (12) Se refiere a las acciones que se encuentran inscritas en el Nordic List y puedan ser transadas en las Bolsas de Valores indicadas.
 (13) Se refiere a las acciones inscritas y transadas en los segmentos Oslo Børs y Oslo Axess de la bolsa de valores extranjera Oslo Børs ASA.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

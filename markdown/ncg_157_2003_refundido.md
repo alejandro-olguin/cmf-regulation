@@ -16,4 +16,3 @@ Sin perjuicio de lo antes dispuesto, el monto de las inversiones en bienes corpo
 La presente Norma de Carácter General rige a contar de esta fecha.
 DEROGACIÓN Derogase a contar de esta fecha las Circulares Nº 1.207, 1.208, 1.348 y 1.376 y el N° 1 de la Circular
 ### N° 1.534.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

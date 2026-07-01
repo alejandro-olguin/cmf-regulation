@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 172 — FECHA: 9.11.2004
+# NCG N° 172
 
 ### SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS CIRCULAR N° 1314 9. NOV. 2004 DE PENSIONES SUPERINTENDENCIA DE VALORES Y SEGUROS NCG. N° 172 9. NOV. 2004
 VISTOS: Lo dispuesto en el artículo 65 del D.L. N° 3.500, de 1980 y en el artículo 20 del DFL N° 251, de

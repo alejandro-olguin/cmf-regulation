@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 2025 — REGULA FORMA Y CONTENIDO DEL REGISTRO DE PARTÍCIPES
+# CIRCULAR N° 2025 — REGULA FORMA Y CONTENIDO DEL REGISTRO DE PARTÍCIPES.
 
 
 Para todas las sociedades que administran fondos mutuos Esta Superintendencia en virtud de lo dispuesto en el artículo 2° del Decreto Ley N° 1.328 de 1976 sobre Administración de Fondos Mutuos y en uso de las facultades que le confiere el artículo 4° del Reglamento del cuerpo legal citado, ha estimado pertinente impartir las siguientes instrucciones respecto de la forma en que la administradora deberá llevar el registro de partícipes y su contenido mínimo.
@@ -16,7 +16,6 @@ El registro de partícipes deberá contener, al menos, la siguiente información
 ## 1. Identificación: nombre completo o razón social, y RUT del partícipe.
 2. Número de cuotas: número de cuotas del fondo, o la serie correspondiente, de que es titular el
 partícipe.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 3. Fecha, hora y forma del aporte: fecha y hora de recepción por la administradora de cada uno
 de los aportes efectuados por el partícipe, y la forma en que se efectuó el aporte, esto es, si fue en dinero efectivo, moneda extranjera, vale vista, transferencia electrónica, cheque o valores.
@@ -39,7 +38,6 @@ de la persona que lo representó y de la fecha de la escritura pública y notari
 El partícipe deberá ser incorporado formalmente al registro de partícipes, al momento en que adquiere su calidad de tal, esto es:
 a) En caso de aportes recibidos en dinero efectivo, moneda extranjera o vale vista bancario, al
 momento en que la administradora, directamente o por medio de su agente, recibe el aporte del inversionista.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 b) En caso de aportes mediante cheques o transferencias electrónicas de dinero, al momento que
 su valor sea percibido por la administradora de manera final e irrevocable. La administradora deberá presentar a cobro dichos documentos, tan pronto su hora de recepción, por parte de ésta o de sus agentes, lo permita
 c) En caso de aportes efectuados en valores, al momento en que la administradora ha aceptado
@@ -55,4 +53,3 @@ exhiba a la administradora la inscripción de la resolución que otorgó la pose
 c) En caso de adjudicación, desde que se exhiba a la administradora los documentos
 particionales pertinentes.
 VIGENCIA La presente circular rige a contar del 1° de septiembre de 2011. Hasta esa fecha, el registro de partícipes deberá ser mantenido en los mismos términos en que es llevado al momento de la dictación de esta Circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

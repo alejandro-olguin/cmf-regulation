@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1795 — ESTABLECE MODELO DE PRESENTACIÓN DE ESTADOS FINANCIEROS PARA LOS CORREDORES DE BOLSA DE PRODUCTOS
+# CIRCULAR N° 1795 — ESTABLECE MODELO DE PRESENTACIÓN DE ESTADOS FINANCIEROS PARA LOS CORREDORES DE BOLSA DE PRODUCTOS.
 
 
 Para todos los corredores de bolsa de productos
@@ -20,7 +20,7 @@ subdivisiones:
 ### 1.00 Identificación
 ### 2.00 Estados Financieros
 ### 3.00 Condiciones de patrimonio, liquidez y solvencia
-### 4.00 Informe auditores externos SUPERINTENDENCIA DE VALORES Y SEGUROS
+### 4.00 Informe auditores externos
 
 La Ficha Estadística Codificada Uniforme (FECU), para corredores de bolsa de productos, se adjunta en Anexo N° 1.
 Los corredores son responsables de la preparación de los estados financieros de acuerdo a esta normativa y demás instrucciones vigentes, así como de su oportuna presentación a esta Superintendencia; cualquier atraso, error u omisión en la presentación de los antecedentes antes señalados, serán sancionados conforme a las disposiciones legales vigentes. En caso que los corredores de bolsa fuesen personas jurídicas, la responsabilidad recaerá sobre el Directorio o administradores, según el caso, sin perjuicio de la responsabilidad que le correspondiere al Gerente General o representante legal.
@@ -44,7 +44,7 @@ Los estados financieros comprenden lo siguiente:
 ### 2.01 Balance general
 ### 2.02 Estado de resultados
 ### 2.03 Estado de flujo de efectivo
-### 2.04 Notas explicativas a los estados financieros SUPERINTENDENCIA DE VALORES Y SEGUROS
+### 2.04 Notas explicativas a los estados financieros
 
 Los estados financieros deben prepararse de acuerdo a principios y normas contables de aceptación general y a las normas dictadas por esta Superintendencia para las entidades inscritas en el Registro de Corredores de Bolsa de Productos.
 En caso de producirse contradicciones entre las normas contables indicadas, prevalecerán las que haya dictado esta Superintendencia.
@@ -61,7 +61,6 @@ Los estados financieros se deben preparar en conformidad con la agrupación de c
 2.
 No deben agregarse rubros de ninguna naturaleza al formato establecido en esta circular.
 En caso de existir dudas respecto de la clasificación de alguna cuenta, se deberá consultar a esta Superintendencia con la debida anticipación a la fecha de presentación de los estados financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ### 2.01 BALANCE GENERAL
 Es un estado contable que muestra la posición financiera de la empresa a una fecha determinada, mediante la clasificación de los activos, pasivos exigibles y cuentas patrimoniales, de acuerdo a su naturaleza.
@@ -82,7 +81,6 @@ incluyen los derechos en instrumentos de renta fija por compromisos de compra (1
 artículo 4° de la Ley N°19.220 de 1993, neto de las provisiones por ajuste a mercado.
 11.05.00 Títulos representativos de productos agropecuarios: en este subgrupo se incluyen los
 títulos que representan a los productos agropecuarios, definidos en el N°3 del artículo 5° de la Ley N°19.220 de 1993, neto de las provisiones por ajuste a mercado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 11.06.00 Contratos sobre productos agropecuarios: en este subgrupo se incluyen los contratos
 sobre productos, que hace mención el N°1 del artículo 5° de la Ley N°19.220 de 1993, neto de las provisiones por ajuste a mercado. Esto es, contratos sobre productos agropecuarios que consten en facturas y otros contratos sobre productos agropecuarios
@@ -106,7 +104,6 @@ propiedad del corredor que se encuentren garantizando obligaciones propias de co
 anticipados y otros gastos anticipados.
 11.19.00 Otros activos circulantes: en este subgrupo se incluyen aquellos activos realizables a
 menos de un año, contado desde la fecha de cierre de los estados financieros, no clasificados en los subgrupos de cuentas señalados anteriormente. En el caso que este rubro sea igual o superior al 5% del grupo de cuentas "Total Activos Circulantes", debe exponerse su composición en nota explicativa a los estados financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 11.00.00 Total activos circulantes: representa la sumatoria de los subgrupos de cuentas 11.01.00
 al 11.19.00.
@@ -131,7 +128,6 @@ instrumentos que no constituyen valores de oferta pública, acciones sin cotizac
 efectivamente un potencial de servicio, tales como: derechos de llave pagados, instalaciones, remodelaciones y otros en locales arrendados, etc., neto de las amortizaciones correspondientes.
 13.04.00 Cuentas por cobrar a personas y empresas relacionadas a largo plazo: en este
 subgrupo se incluyen las cuentas por cobrar a personas y empresas relacionadas con el corredor de bolsa de productos, cuyo vencimiento se produce a más de un año plazo, contado desde la fecha de cierre de los estados financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 13.05.00 Documentos y cuentas por cobrar a largo plazo: en este subgrupo se incluye las
 obligaciones de terceros con la entidad, documentadas o no, cuyo vencimiento se produce a más de un año plazo, contado desde la fecha de cierre de los estados financieros.
@@ -154,7 +150,6 @@ incluyen todas aquellas obligaciones a corto plazo en moneda nacional o extranje
 21.02.00 Obligaciones por operaciones a futuro del mercado de valores: en este subgrupo se
 incluyen las obligaciones por compromisos de compra de instrumentos de renta fija
 (21.02.10), las obligaciones por operaciones de compra a plazo de instrumentos de renta variable (21.02.20), las obligaciones en instrumentos de renta fija por compromisos de venta (21.02.30) las obligaciones en instrumentos de renta variable por operaciones de venta a plazo (21.02.40) y las obligaciones por otras operaciones a futuro del mercado de valores (21.02.50).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 21.03.00 Obligaciones por operaciones a futuro del mercado de productos: en este subgrupo
 se incluye obligaciones de compra de productos por repos y operaciones a plazo
@@ -180,7 +175,6 @@ En el caso que este rubro sea igual o superior al 5% del grupo de cuentas "Total
 al 21.19.00.
 Pasivos largo plazo Incluye aquellas obligaciones de la entidad pactadas a plazos superiores a un año, contado desde la fecha de cierre de los estados financieros. Los conceptos que conforman el pasivo de largo plazo deben incorporarse a los subgrupos de cuentas que a continuación
 se indican:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 22.01.00 Obligaciones a largo plazo con bancos e instituciones financieras: en este subgrupo
 se incluyen las obligaciones en moneda nacional o extranjera con bancos e instituciones financieras con vencimiento a más de un año, contado desde la fecha de cierre de los estados financieros.
@@ -207,7 +201,6 @@ clasificadas en los subgrupos de cuentas anteriores que no provienen de la distr
 "Cambios en el Patrimonio" debe exponerse la composición de este subgrupo.
 23.06.00 Utilidades (pérdidas) acumuladas: en este subgrupo se incluyen las utilidades de
 ejercicios anteriores, que no han sido distribuidas a los accionistas o socios de la entidad o las pérdidas que no han sido absorbidas a la fecha de cierre de los estados financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 23.07.00 Utilidad (pérdida) del ejercicio: en este subgrupo se indica el resultado del ejercicio que
 se informa.
@@ -233,7 +226,6 @@ utilidades generadas por ventas de productos de cartera propia.
 incluyen los intereses devengados sobre derechos en productos por repos y operaciones a plazo, sobre derechos a cobrar por repos y operaciones a plazo de productos y las utilidades devengadas por operaciones a futuro del mercado de productos.
 41.15.00 Ingresos por intereses de cartera propia de productos: en este subgrupo se incluyen
 los intereses devengados por las inversiones en productos de la cartera propia de la entidad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 41.16.00 Ingresos por custodia: en este subgrupo se incluyen los ingresos por custodia de
 productos.
@@ -262,7 +254,6 @@ amortización y depreciación del período de los activos correspondientes.
 clasificados en la cuentas antes señaladas, el saldo deudor de las cuentas “Resultado monetario operacional” y “Diferencia de cambio operacional”. En el caso que este rubro sea igual o superior al 5% del grupo de cuentas “Total gastos operacionales” debe exponerse su composición en nota explicativa a los estados financieros.
 41.20.00 Total gastos operacionales: representa la sumatoria de los subgrupos de cuentas
 41.21.00 al 41.29.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 41.00.00 Total resultado operacional: representa la diferencia entre los grupos de cuentas
 41.10.00 y 41.20.00
@@ -286,7 +277,6 @@ Gastos no operacionales Corresponde a los ingresos no operacionales obtenidos du
 las pérdidas por ajustes a valor de mercado de los instrumentos de cartera propia.
 42.22.00 Pérdidas por ventas de cartera propia de valores: en este subgrupo se incluyen las
 pérdidas generadas por la venta de títulos de cartera propia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 42.23.00 Gastos por operaciones a futuro del mercado de valores: en este subgrupo se incluyen
 los gastos por intereses devengados en obligaciones por compromisos de compra y de venta de instrumentos de renta fija, en obligaciones de compra y venta a plazo de instrumentos de renta variable y las pérdidas por otras operaciones a futuro del mercado de valores. Además se deben incluir las pérdidas por compromisos, cuando corresponda.
@@ -311,7 +301,6 @@ cuentas 43.10.00 y 43.20.00.
 calculado de acuerdo a las normas tributarias vigentes.
 40.00.00 Utilidad (pérdida) del ejercicio: corresponde a la suma algebraica de los grupos de
 cuentas 41.00.00, 42.00.00, 43.00.00 y 44.00.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ### 2.03 ESTADO DE FLUJO DE EFECTIVO
 Estado financiero complementario, que muestra el origen y destino de los movimientos de efectivo producidos en un período, con el objetivo de medir la capacidad para generar flujos netos positivos, especialmente con las operaciones del giro.
@@ -328,7 +317,6 @@ Esta sección incluye una clasificación de los ingresos y egresos de efectivo p
 En relación con el flujo originado por actividades de la operación, éste incluye, principalmente, los ingresos y egresos de efectivo provenientes de operaciones que tienen incidencia directa en los resultados de la entidad. Sin embargo, dada la naturaleza de la intermediación de productos, se incorporan en esta clasificación algunos flujos netos que no se relacionan con resultados, pero sí forman parte de la operación que los generan, tales como las recaudaciones y pagos de efectivo por cuenta de clientes y la constitución de garantías en dinero por operaciones a futuro. En Anexo N° 3 de la presente circular, se encuentra la “Guía para la Determinación de los Flujos Originados por Actividades de la Operación”.
 B) Conciliación entre el resultado neto y el flujo neto originado por actividades de la
 operación.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Cuadro anexo que explica la diferencia entre el resultado neto del ejercicio y el flujo neto originado por actividades operacionales, la que se produce, fundamentalmente, por cargos y abonos a resultado que no afectan al flujo de efectivo y por el desfase de los flujos, representado este último por las variaciones de determinados activos y pasivos.
 ### 2.03.1 FLUJO NETO TOTAL DEL PERIODO
@@ -355,7 +343,6 @@ tipo, no capitalizados.
 renta y al valor agregado.
 51.10.00 Flujo neto originado por actividades de la operación: Suma de códigos 51.11.00 al
 51.19.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Flujo neto originado por actividades de financiamiento
 52.11.00 Aumento de capital: Ingresos por aportes de capital en dinero.
@@ -385,7 +372,6 @@ neto producido por el precio de compra pagado y posterior venta de cartera propi
 (Egresos) netos de efectivo provenientes de ganancias o pérdidas obtenidas en operaciones a futuro en el Mercado de Valores, tanto por cuenta propia como por cuenta de terceros.
 53.13.00 Ventas de activo fijo: Recaudación del precio de venta de los activos fijos enajenados,
 incluido el impuesto al valor agregado, si correspondiere.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 53.14.00 Ventas de inversiones en otras sociedades: Efectivo ingresado por concepto de
 ventas de acciones, derechos sociales e instrumentos financieros definidos en los códigos 13.01.00 y 13.02.00.
@@ -416,7 +402,6 @@ Tratándose de efectivo en moneda extranjera, la variación del tipo de cambio d
 cierre, y el efectivo final.
 50.40.00 Saldo inicial de efectivo: Suma de los saldos iniciales de las cuentas definidas como
 efectivo, expresada en moneda de cierre.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 50.00.00 Saldo final de efectivo: Suma de los saldos finales de las cuentas definidas como
 efectivo.
@@ -447,7 +432,6 @@ definidos en códigos anteriores.
 Cuando el monto incluido sea igual o superior al 5% de la utilidad o pérdida del ejercicio, deberá ser explicada en notas a los estados financieros.
 54.30.00 (Aumento) Disminución de activos: Variaciones de activos, que representan ingresos
 de efectivo aún no percibidos (aumentos) o ingresos devengados en períodos anteriores y percibidos durante el ejercicio actual (disminuciones).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 54.30.10 Cuentas por cobrar a clientes: Variación de cuentas por cobrar por servicios prestados
 por el corredor a sus clientes.
@@ -477,7 +461,6 @@ pérdida del ejercicio, depurada por los componentes definidos en los códigos 5
 ### 2.04 NOTAS EXPLICATIVAS A LOS ESTADOS FINANCIEROS
 Las notas explicativas tienen por objetivo proporcionar información adicional sobre las cifras contenidas en los estados financieros, para una mejor comprensión de éstos por parte de los usuarios. Por lo tanto, las notas son parte integrante de los estados financieros.
 En la preparación de las notas explicativas deben considerarse los siguientes aspectos:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 a) Las notas explicativas deben presentarse en la misma secuencia en que se indican.
 b) Las notas explicativas deben ser redactadas en un lenguaje claro y preciso, con el
 objeto que exista una adecuada interpretación por parte de los usuarios, cuidando además su presentación.
@@ -501,7 +484,6 @@ saldos en caja y en cuentas corrientes bancarias.
 - Valorización y clasificación de flujos de efectivo: descripción breve y fundada de
 cualquier criterio especial de valorización o clasificación que afecte la presentación del Estado de Flujo de Efectivo.
 Además de los criterios y normas antes señaladas la sociedad debe hacer referencia, entre otras, a las siguientes materias, cuando corresponda:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 - Conversión de moneda extranjera, indicando tipos de cambio.
 - Amortización de intangibles, indicando monto total y número de cuotas por
@@ -525,7 +507,6 @@ Indicar la corrección monetaria y la diferencia de cambio aplicada a los activo
 
 ## 4. INVERSIONES EN MERCADO DE VALORES
 Indicar el detalle de inversiones en valores en cartera propia según el esquema que se muestra en los cuadros a) y b) siguientes:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 a) Títulos de renta variable:
 
 | Instrumentos | Valor Contable | Menor Valor | Valor Neto | Mayor Valor | Valor Mercado | Valor Neto Ej. Anterior |
@@ -548,7 +529,6 @@ El total de la columna Valor Neto debe ser igual a lo presentado en el código 1
 Indicar el detalle de los derechos por operaciones a futuro efectuadas en el Mercado de Valores, según el esquema que se muestra en los cuadros a), b), c), d) y e) siguientes:
 a) Derechos en instrumentos de renta fija por compromisos de compra:
 Indicar los derechos sobre títulos por compromisos de compra vigentes, agrupados por tipo de instrumento, según el cuadro siguiente:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 | Instrumentos | Valor Presente | Menor Valor | Pérdidas Comprom. Calzados | Valor Neto | Mayor Valor | Valor Mercado | Valor Neto Ej. Anterior |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -577,8 +557,6 @@ Indicar los derechos a cobrar por compromisos de venta vigentes, efectuados sobr
 | Del Estado De entidades financieras Otros |  |  |
 | TOTAL |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 Los derechos a cobrar por compromisos de venta, sobre títulos de renta fija, se valorizan a la fecha de cierre de los estados financieros de acuerdo a lo establecido en la Circular N° 514, de fecha 13 de junio de 1985, aplicable a los intermediarios de valores.
 El total de la columna Valor Neto debe ser igual a lo presentado en el código 11.03.30.
 d) Derechos a cobrar por operaciones a plazo en instrumentos de renta variable:
@@ -605,7 +583,6 @@ Los derechos por contratos a futuro se valorizan según el valor de la unidad de
 En la columna Detalle se debe especificar los otros tipos de operaciones a futuro bursátiles con los que opere la sociedad.
 e.2) Otros derechos por operaciones a futuro del mercado de valores:
 Indicar los derechos por otras operaciones a futuro vigentes, no contemplados en el ítem anterior, agrupados según el cuadro siguiente:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 | Detalle | Monto Total |  |
 | --- | --- | --- |
@@ -632,7 +609,6 @@ Tratándose de productos no definidos en el párrafo anterior, el corredor deber
 El valor neto corresponde al costo de adquisición corregido monetariamente menos el menor valor por ajuste a mercado de la inversión o por provisiones adicionales efectuadas por la administración. En el caso de haber constituido provisiones adicionales, éstas deberán detallarse señalando por producto, el monto provisionado y las circunstancias que sustentan el ajuste efectuado.
 El total de la columna valor neto debe ser igual a lo informado en el código 11.04.00.
 b) Títulos representativos de productos agropecuarios:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Indicar los montos asociados a los títulos representativos de productos agropecuarios en cartera propia, según el siguiente cuadro:
 
@@ -657,7 +633,6 @@ Indicar los montos asociados a los contratos sobre productos agropecuarios en ca
 En la columna Detalle se debe especificar los otros tipos de contratos sobre productos agropecuarios con los que opere la sociedad.
 El valor neto corresponde al costo de adquisición corregido monetariamente menos el menor valor por ajuste a mercado de la inversión o por provisiones adicionales efectuadas por la administración. En el caso de haber constituido provisiones adicionales, éstas deberán detallarse señalando por tipo de contrato, el monto provisionado y las circunstancias que sustentan el ajuste efectuado.
 El total de la columna valor neto debe ser igual a lo informado en el código 11.06.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 d) Otros Títulos:
 Indicar los montos de los demás títulos, que la Superintendencia haya autorizado mediante norma de carácter general, mantenidos en la cartera propia del corredor, según
 el siguiente cuadro:
@@ -682,7 +657,6 @@ cuadro siguiente:
 | TOTAL |  | ( ) | ( ) |  |  |  |  |
 
 El valor neto corresponde al valor presente menos las provisiones por menores valores de mercado y las pérdidas por compromisos calzados de los productos comprometidos comprar, a la fecha de cierre de los estados financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 El total de la columna valor neto debe ser igual a lo informado en el código 11.08.10.
 b) Derechos a cobrar por repos y operaciones a plazo de productos:
@@ -717,8 +691,6 @@ el cuadro siguiente:
 |  |  |  |
 | TOTAL |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 En la columna tipo de contrato se debe especificar los tipos de contratos de futuros incluidos en este ítem.
 La columna Total Ejercicio Actual debe ser igual a lo informado en el código 11.08.40.
 e) Derechos por otros contratos de derivados del mercado de productos:
@@ -743,7 +715,6 @@ Indicar por tipo de deudor, las operaciones de intermediación por cobrar a la f
 
 La columna "Provisión sobre 30 días" corresponde a la provisión que debe efectuarse por aquellas partidas que se encuentran impagas por más de 30 días, contado desde la fecha en que debió pagarse y la fecha de cierre de los estados financieros.
 La columna "Total ejercicio actual" corresponde al monto de los deudores por intermediación vigentes y vencidos menos la provisión por deudores que se encuentran impagos sobre 30 días y debe ser igual a lo informado en el código 11.09.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 La columna "Total ejercicio anterior" corresponde al saldo por cobrar a la fecha de cierre del ejercicio anterior, neto de la provisión correspondiente.
 ## 9. TÍTULOS PATRIMONIALES DE BOLSAS DE PRODUCTOS
@@ -765,7 +736,6 @@ a) Títulos de deuda que no constituyen valores de oferta pública
 | TOTAL |  |  |  |  |  |
 
 Debe señalarse en cada caso el origen de dicho título de deuda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 b) Acciones sin cotización bursátil y derechos en sociedades
 
 | Nombre Entidad | Número Acciones | % Particip. | Valor Contable | Información Emisor |  |  | Total Ej. Anterior |
@@ -795,8 +765,6 @@ b) Largo plazo
 | 1. 2. 3. |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 Cuando por las obligaciones descritas anteriormente existan cláusulas especiales que hagan necesaria una mayor información, ésta debe exponerse al pie del cuadro.
 ## 12. OBLIGACIONES POR OPERACIONES A FUTURO DEL MERCADO DE VALORES
 Indicar el detalle de las obligaciones por operaciones a futuro, efectuadas en el Mercado de Valores, según el esquema que se muestra en los cuadros a), b), c), d) y e) siguientes:
@@ -824,7 +792,6 @@ el cuadro siguiente:
 La columna Total Ejercicio Actual debe ser igual a lo informado en el código 21.02.20.
 c) Obligaciones en instrumentos de renta fija por compromisos de venta:
 Indicar las obligaciones por compromisos de venta de títulos de renta fija vigentes, agrupados por tipo de instrumento, según el cuadro siguiente:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 | Instrumentos | Valor Presente | Mayor Valor | Valor Neto | Menor Valor | Valor Mercado | Valor neto Ej. anterior |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -849,7 +816,6 @@ e) Obligaciones por otras operaciones a futuro del mercado de valores:
 e.1) Obligaciones por contratos a futuro del mercado de valores:
 Indicar las obligaciones por contratos a futuro bursátiles, según el esquema señalado en
 el cuadro siguiente:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 | Detalle | Total |  |
 | --- | --- | --- |
@@ -882,8 +848,6 @@ Indicar las obligaciones de compra vigentes, según el cuadro siguiente:
 | Cliente Corredores de productos Entidades relacionadas |  |  |
 | TOTAL |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 La columna Total Ejercicio Actual debe ser igual a lo informado en el código 21.03.10.
 b) Obligaciones en productos por repos y operaciones a plazo:
 Indicar las obligaciones en productos, según el cuadro siguiente:
@@ -914,8 +878,6 @@ Indicar las obligaciones por contratos a futuro, agrupados según el cuadro sigu
 |  |  |  |
 | TOTAL |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 En la columna tipo de contrato se debe especificar los tipos de contratos de futuros incluidos en este ítem.
 La columna Total Ejercicio Actual debe ser igual a lo informado en el código 21.03.40.
 e) Obligaciones por otros contratos de derivados del mercado de productos:
@@ -941,7 +903,6 @@ Indicar por tipo de acreedor las operaciones de intermediación por pagar a la f
 
 ## 15. IMPUESTO A LA RENTA
 Indicar el monto de los impuestos a pagar y los PPM (Pagos provisionales mensuales) aplicables o monto de las pérdidas tributarias aprovechables a futuro.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 16. CAMBIOS EN EL PATRIMONIO
 Indicar las principales variaciones del patrimonio en el ejercicio, de acuerdo al cuadro siguiente:
@@ -975,8 +936,8 @@ Adicionalmente, se deberá informar:
 (5) Indicar en pesos el capital societario actual, ya sea éste el señalado en el estatuto social o aquél que se produce de pleno derecho conforme a lo dispuesto en el artículo 10° de la Ley N° 18.046, tratándose de sociedades anónimas.
 (6) Indicar en pesos aquella parte del capital social suscrito y no pagado por los accionistas o socios, según corresponda.
 (7) Indicar en pesos aquella parte del capital social suscrito, que los accionistas o socios han pagado a la caja social.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS 17. COMISIONES, SERVICIOS Y DERECHOS DE BOLSA POR OPERACIONES EN RUEDA
+
+### 17. COMISIONES, SERVICIOS Y DERECHOS DE BOLSA POR OPERACIONES EN RUEDA
 Indicar los montos correspondientes a las comisiones y servicios por operaciones en rueda y los derechos de bolsa, que componen los ingresos y los gastos operacionales, según el esquema señalado en el cuadro siguiente:
 
 | Código Fecu | Comisiones por Operaciones | Derechos de Bolsa | Total |  |
@@ -998,7 +959,6 @@ En la presente nota se deberá detallar el tipo de activo entregado en garantía
 |  |  | TOTAL |  | ( ) |  |  |  |
 
 El total de la columna valor neto debe ser igual a lo informado en el código 11.14.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 b) Garantías de obligaciones a largo plazo y de obligaciones de terceros:
 b.1) Garantías de obligaciones a largo plazo:
 Indicar monto de los activos de propiedad del corredor que se encuentran garantizando obligaciones propias a largo plazo.
@@ -1021,8 +981,6 @@ En la presente nota se deberá indicar monto de la garantía, nombre del benefic
 |  |  |  |  | ( ) ( ) ( ) |  |  |  |
 |  |  | TOTAL |  | ( ) |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 La suma de los totales de las columnas valor neto de los literales b.1), b.3), más el valor neto de los activos entregados en garantía en cumplimiento del artículo 11 de la Ley antes citada, en caso que corresponda, deberá ser igual a lo informado en el código
 13.06.00.
 c) Legales:
@@ -1044,7 +1002,6 @@ Asimismo, se deberá detallar, por tipo de productos y de valores, los porcentaj
 | TOTAL |  |  |  |  |  |  |  |
 
 La custodia deberá presentarse valorizada a precio de mercado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 20. CAUCIONES OTORGADAS POR TERCEROS A FAVOR DEL INTERMEDIARIO
 Indicar las garantías reales y/o personales recibidas de terceros en favor de la entidad, señalando en forma expresa la relación entre la entidad informante y el otorgante de la caución, monto de los pasivos involucrados e identificación del acreedor que recibe la garantía.
@@ -1063,7 +1020,6 @@ Indicar las sanciones de cualquier naturaleza que esta Superintendencia haya cur
 Asimismo, deberá informar las sanciones que las bolsas de productos hayan cursado a la sociedad, a sus directores y/o administradores.
 Esta información debe cubrir las sanciones aplicadas en el período comprendido entre el 1° de enero al 31 de diciembre del año anterior y durante el ejercicio actual. No obstante lo anterior, si la sanción fuere reclamada judicialmente, en esta nota debe seguir informándose hasta que la causa se encuentre con sentencia ejecutoriada y se haya cumplido con la sanción impuesta.
 En caso de no haberse aplicado sanciones en los períodos indicados, debe mencionarse expresamente esta circunstancia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 23. HECHOS RELEVANTES
 Indicar todo hecho relevante ocurrido en el período cubierto por los estados financieros. En esta materia, a modo de ejemplo se pueden mencionar: disminución importante del valor de los activos, variaciones cambiarias de importancia, cambios relevantes en alguna condición de mercado, cambios en la administración y/o propiedad de la entidad, incumplimiento de las normas de patrimonio mínimo, liquidez y solvencia que establezca esta Superintendencia y cualquier otro hecho que pueda producir influencia positiva o negativa en la marcha de la empresa.
@@ -1080,7 +1036,6 @@ Para lo anterior, se deberá adjuntar el informe antes citado, digitalizado en f
 Los corredores de bolsa de productos deben publicar un resumen de sus estados financieros anuales dentro del trimestre siguiente a la fecha de cierre de los mismos, en un periódico de amplia circulación de su domicilio social, en el boletín bursátil o sitio web de la bolsa de productos respectiva, o en el sitio web del corredor, de acuerdo a las instrucciones que imparta esta Superintendencia.
 ## 2. VIGENCIA
 La aplicación de las normas y disposiciones contenidas en la presente circular rigen a partir de la elaboración de los estados financieros al 31 de marzo de 2006.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 3. DISPOSICIÓN TRANSITORIA
 a) Los corredores de bolsa de productos deberán remitir a este Servicio sus estados
@@ -1092,7 +1047,6 @@ b. Por otra parte, los corredores de bolsa de productos deberán publicar el res
 estados financieros auditados correspondientes al 31 de diciembre de 2005, dentro del cuatrimestre siguiente a la fecha de cierre de los mismos.
 c. Finalmente, los estados financieros correspondientes al 31 de marzo de 2006, deberán
 ser presentados de acuerdo a las instrucciones impartidas por la presente circular. El plazo de entrega será hasta el último día del bimestre siguiente a la fecha de cierre respectivo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## ANEXO N° 1 FICHA ESTADISTICA CODIFICADA UNIFORME (FECU)
 ### 1.00 IDENTIFICACION
@@ -1108,8 +1062,6 @@ ser presentados de acuerdo a las instrucciones impartidas por la presente circul
 
 | 1.04 | Tipo de Operación 1. Por cuenta propia y de terceros 2. Sólo por cuenta de terceros |
 | --- | --- |
-
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ### 2.00 ESTADOS FINANCIEROS Corredores de Bolsa de Productos
 ### 2.01 BALANCE GENERAL (En miles de pesos, sin decimales)
@@ -1163,8 +1115,6 @@ ser presentados de acuerdo a las instrucciones impartidas por la presente circul
 |  | 13.00.00 |  |  | TOTAL OTROS ACTIVOS |  |  |  |  |  |  |  |
 |  | 10.00.00 |  |  | TOTAL ACTIVOS |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 |  |  |  |  |  |  | dd/mm/aaaa |  |  | dd/mm/aaaa |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PASIVOS |  |  |  |  |  | al / / |  |  | al / / |  |  |
@@ -1207,8 +1157,6 @@ ser presentados de acuerdo a las instrucciones impartidas por la presente circul
 | 23.09.00 |  |  | Dividendos provisorios o participaciones (menos) |  |  |  |  |  |  |  |  |
 |  | 23.00.00 |  |  | TOTAL PATRIMONIO |  |  |  |  |  |  |  |
 |  | 20.00.00 |  |  | TOTAL PASIVOS |  |  |  |  |  |  |  |
-
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 |  |  |  |  |  |  | dd/mm/aaaa |  |  | dd/mm/aaaa |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1255,8 +1203,6 @@ ser presentados de acuerdo a las instrucciones impartidas por la presente circul
 | 44.00.00 |  |  | IMPUESTO A LA RENTA |  |  |  |  |  |  |  |  |
 |  | 40.00.00 |  |  | UTILIDAD (PERDIDA) DEL EJERCICIO |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
 ### 2.03 ESTADO DE FLUJO DE EFECTIVO (En miles de pesos, sin decimales) 2.03.1 FLUJO NETO TOTAL DEL PERIODO
 
 |  |  |  |  |  |  | dd/mm/aaaa |  |  | dd/mm/aaaa |  |  |
@@ -1299,8 +1245,7 @@ ser presentados de acuerdo a las instrucciones impartidas por la presente circul
 | 50.30.00 |  |  | VARIACION NETA DEL EFECTIVO |  |  |  |  |  |  |  |  |
 | 50.40.00 |  |  | SALDO INICIAL DE EFECTIVO |  |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS 2.03.2 CONCILIACION ENTRE EL RESULTADO NETO Y EL FLUJO NETO ORIGINADO POR ACTIVIDADES DE LA OPERACIÓN
+### 2.03.2 CONCILIACION ENTRE EL RESULTADO NETO Y EL FLUJO NETO ORIGINADO POR ACTIVIDADES DE LA OPERACIÓN
 (En miles de pesos, sin decimales)
 
 |  |  | dd/mm/aaaa | dd/mm/aaaa |
@@ -1331,8 +1276,6 @@ ser presentados de acuerdo a las instrucciones impartidas por la presente circul
 | 54.40.13 | Intereses por pagar |  |  |
 | 54.40.14 | Impuestos por pagar |  |  |
 | 54.40.15 | Otras cuentas por pagar |  |  |
-
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## ANEXO N° 2 PLAN DE CUENTAS PARA CORREDORES DE BOLSA DE PRODUCTOS BALANCE GENERAL 10.00.00 TOTAL ACTIVOS 11.00.00 TOTAL ACTIVOS CIRCULANTES
 11.01.00 Disponible
@@ -1370,7 +1313,6 @@ variable
 11.06.10 Contratos sobre productos agropecuarios que consten en facturas
 11.06.20 Otros contratos sobre productos agropecuarios
 11.06.90 Provisión menor valor contratos sobre productos agropecuarios (menos)
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 11.07.00 Otros Títulos
 11.07.10 Otros títulos
@@ -1417,7 +1359,6 @@ variable
 11.14.70 Otras garantías por obligaciones a corto plazo
 11.14.80 Provisión menor valor títulos en garantía corto plazo
 11.14.90 Provisión menor valor productos en garantía corto plazo
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 11.15.00 Gastos anticipados
 11.15.10 Seguros contratados
@@ -1459,7 +1400,6 @@ variable
 13.05.00 Documentos y cuentas por cobrar a largo plazo
 13.05.10 Documentos por cobrar a largo plazo
 13.05.20 Cuentas por cobrar a largo plazo
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 13.06.00 Garantías de obligaciones a largo plazo y de obligaciones de terceros
 13.06.10 Títulos de renta variable en garantía a largo plazo
@@ -1503,7 +1443,6 @@ valores
 21.05.30 Remuneraciones y honorarios por pagar
 21.05.40 Dividendos por pagar
 21.05.50 Comisiones por pagar
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 21.05.60 Instituciones de previsión por pagar
 21.05.70 Cuenta por pagar cámara de compensación
@@ -1543,7 +1482,6 @@ valores
 22.03.20 Cuentas por pagar a socios o accionistas
 22.03.30 Cuentas por pagar a directores y/o administradores
 22.03.90 Cuentas por pagar a otras personas relacionadas
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 22.09.00 Otros pasivos a largo plazo
 22.09.10 Otros pasivos a largo plazo
@@ -1568,8 +1506,8 @@ valores
 23.09.00 Dividendos provisorios o participaciones (menos)
 23.09.10 Dividendos provisorios (menos)
 23.09.20 Participaciones pagadas (menos)
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS ESTADO DE RESULTADOS 40.00.00 UTILIDAD (PERDIDA) DEL EJERCICIO 41.00.00 TOTAL RESULTADO OPERACIONAL 41.10.00 TOTAL INGRESOS OPERACIONALES
+
+### ESTADO DE RESULTADOS 40.00.00 UTILIDAD (PERDIDA) DEL EJERCICIO 41.00.00 TOTAL RESULTADO OPERACIONAL 41.10.00 TOTAL INGRESOS OPERACIONALES
 41.11.00 Comisiones por operaciones en rueda
 41.11.10 Intermediación de productos en rueda
 41.11.90 Otras comisiones en rueda
@@ -1602,7 +1540,6 @@ productos agropecuarios
 41.22.30 Pérdidas por menor valor de cartera propia en contratos sobre productos
 agropecuarios
 41.22.40 Pérdidas por menor valor de cartera propia en Otros Títulos
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 41.23.00 Pérdidas por ventas de cartera propia de productos
 41.23.10 Pérdidas por ventas de productos en cartera
@@ -1645,7 +1582,6 @@ renta fija
 42.12.40 Intereses sobre derechos por operaciones de venta a plazo de instrumentos
 de renta variable
 42.12.50 Ingresos por otras operaciones a futuro del mercado de valores
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 42.13.00 Ingresos por intereses y dividendos de cartera propia de valores
 42.13.10 Ingresos por cuotas de fondos mutuos
@@ -1684,8 +1620,8 @@ de renta variable
 42.25.20 Pérdidas en ventas de otros activos
 42.29.00 Otros gastos no operacionales
 42.29.10 Otros gastos no operacionales
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS 43.00.00 RESULTADO POR AJUSTE DE MONEDA
+
+### 43.00.00 RESULTADO POR AJUSTE DE MONEDA
 43.10.00 Corrección monetaria
 43.10.10 Corrección monetaria
 43.20.00 Diferencia de cambio
@@ -1693,8 +1629,8 @@ de renta variable
 ### 44.00.00 IMPUESTO A LA RENTA
 44.10.00 Impuesto a la renta
 44.10.10 Impuesto a la renta
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS ESTADO DE FLUJO DE EFECTIVO
+
+### ESTADO DE FLUJO DE EFECTIVO
 50.00.00 Saldo Final Efectivo
 ### 50.10.00 FLUJO NETO TOTAL DEL PERIODO
 51.10.00 Flujo neto originado por actividades de la operación
@@ -1726,8 +1662,8 @@ de renta variable
 53.17.00 Incorporación de activos fijos
 53.18.00 Inversiones en otras sociedades
 53.19.00 Otros desembolsos de inversión
-### 50.20.00 EFECTO DE LA INFLACION SOBRE EL EFECTIVO 50.30.00 VARIACION NETA DEL EFECTIVO 50.40.00 SALDO INICIAL DE EFECTIVO SUPERINTENDENCIA DE VALORES Y SEGUROS
-### 50.20.00 EFECTO DE LA INFLACION SOBRE EL EFECTIVO 50.30.00 VARIACION NETA DEL EFECTIVO 50.40.00 SALDO INICIAL DE EFECTIVO SUPERINTENDENCIA DE VALORES Y SEGUROS CONCILIACION ENTRE EL RESULTADO NETO Y EL FLUJO NETO ORIGINADO POR ACTIVIDADES DE LA OPERACION
+### 50.20.00 EFECTO DE LA INFLACION SOBRE EL EFECTIVO 50.30.00 VARIACION NETA DEL EFECTIVO 50.40.00 SALDO INICIAL DE EFECTIVO
+### 50.20.00 EFECTO DE LA INFLACION SOBRE EL EFECTIVO 50.30.00 VARIACION NETA DEL EFECTIVO 50.40.00 SALDO INICIAL DE EFECTIVO CONCILIACION ENTRE EL RESULTADO NETO Y EL FLUJO NETO ORIGINADO POR ACTIVIDADES DE LA OPERACION
 55.00.00 Flujo neto originado por actividades de la operación
 54.00.00 Utilidad (Pérdida) del ejercicio
 54.10.00 Resultados en ventas de activos
@@ -1752,7 +1688,6 @@ servicios
 54.40.13 Intereses por pagar
 54.40.14 Impuestos por pagar
 54.40.15 Otras cuentas por pagar
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## ANEXO N° 3 GUIA PARA LA DETERMINACION DE LOS FLUJOS ORIGINADOS POR ACTIVIDADES DE LA OPERACION
 Esta guía tiene por objetivo orientar la determinación de cada uno de los componentes del flujo neto operacional definido en esta misma circular. Su preparación es obligatoria y podrá ser solicitada en cualquier momento por esta Superintendencia. No obstante lo anterior, no se requerirá su presentación conjuntamente con la de los estados financieros trimestrales y anuales.
@@ -1760,8 +1695,8 @@ El anexo contiene las relaciones entre los saldos de las cuentas de resultado y 
 Para estas relaciones se han utilizado las cuentas individuales definidas en el Plan de Cuentas para Corredores de Bolsa de Productos. En aquellos casos de cuentas que puedan ser utilizadas en forma alternativa o que contengan conceptos que deban ser considerados en distintas clasificaciones del flujo de efectivo, se indica un código a manera de referencia.
 Las clasificaciones de la FECU agrupan cuentas que pueden tener distinta ubicación en las referidas relaciones. Por lo tanto, los corredores deberán mantener una adecuada identificación de los saldos de las cuentas individuales.
 Para los efectos de determinar las variaciones de las distintas cuentas incorporadas en las fórmulas de esta guía, deberá aplicarse el método desarrollado en el Boletín Técnico Nº 50 del Colegio de Contadores de Chile A.G..
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS DETERMINACION DE LOS FLUJOS ORIGINADOS POR ACTIVIDADES DE LA OPERACION
+
+### DETERMINACION DE LOS FLUJOS ORIGINADOS POR ACTIVIDADES DE LA OPERACION
 51.11.00 Comisiones recaudadas
 + Comisiones por operaciones en rueda y derechos de bolsa 41.11.10, 41.11.90
 + Comisiones por operaciones fuera de rueda 41.12.10
@@ -1788,7 +1723,6 @@ Para los efectos de determinar las variaciones de las distintas cuentas incorpor
 + (-) Dism. (Aum.) neta de contratos sobre productos 11.06.10, 11.06.20 agropecuarios (incluye ventas netas del período)
 (-) Pérdida por menor valor de contratos sobre productos 41.22.30 agropecuarios
 + (-) Aum. (Dism.) provisión menor valor contratos sobre 11.06.90 productos agropecuarios
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 + (-) Dism. (Aum.) neta de otros títulos 11.07.10
 (incluye ventas netas del período)
@@ -1816,7 +1750,6 @@ de productos Repos y operaciones a plazo
 (-) Pérdidas por contratos de opciones 41.24.60
 + (-) Dism. (Aum.) de derechos por contratos de opciones 11.08.30
 + (-) Aum. (Dism.) de obligaciones por contratos de opciones 21.03.30
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Otros contratos de derivados
 + Ingresos por otros contratos de derivados 41.14.50
@@ -1852,7 +1785,6 @@ Otros gastos
 + (-) Dism. (Aum.) de gastos anticipados 11.15.10, 11.15.20,
 11.15.90
 + (-) Aum. (Dism.) de cuentas y documentos por pagar 21.05.10, 21.05.20
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 + (-) Aum. (Dism.) de otras cuentas por pagar 21.05.90
 + (-) Aum. (Dism.) de acreedores varios 21.08.10
@@ -1875,4 +1807,3 @@ Otros gastos
 + Iva crédito generado en el período (1) NOTAS
 (1) El IVA generado durante el período, tanto débito como crédito, deberá extraerse de los registros correspondientes y expresarse en moneda de cierre. Además, deberá cuidarse la adecuada separación del impuesto de acuerdo a las operaciones que lo generan.
 (2) Los intereses devengados por pagar deben abonarse, en lo posible, a una cuenta especial.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

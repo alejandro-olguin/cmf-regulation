@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1237 — ESTABLECE FORMA, CONTENIDO Y OPORTUNIDAD DE LA INFORMACION REQUERIDA POR EL ARTICULO 171 DE LA LEY DE MERCADO DE VALORES
+# CIRCULAR N° 1237 — ESTABLECE FORMA, CONTENIDO Y OPORTUNIDAD DE LA INFORMACION REQUERIDA POR EL ARTICULO 171 DE LA LEY DE MERCADO DE VALORES.
 
 
 Para todos los intermediarios de valores y administradoras de fondos autorizados por ley fiscalizados por esta Superintendencia.
@@ -25,7 +25,6 @@ transacciones.
 c) Relación: Deberá señalarse la relación de la persona que efectuó la o las
 transacciones con la entidad informante, para lo cual deberá indicar uno de los
 siguientes códigos:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 GG = Gerente general.
 GA = Gerente de área o subgerente.
@@ -50,4 +49,3 @@ La información detallada en este punto (Nº 3), deberá ser expuesta en orden c
 La información objeto de la presente Circular deberá ser referida a un mes calendario y ser enviada a esta Superintendencia el día hábil subsiguiente, al último día del mes calendario al que se encuentra referida.
 III.- VIGENCIA:
 La presente Circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

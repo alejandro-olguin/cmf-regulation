@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARACTER GENERAL N° 50 — FECHA : 09.09.1994
+# NCG N° 50 — ESTABLECE NORMAS RELATIVAS 1) A LAS PERSONAS QUE PARTICIPEN EN LA INTERMEDIACION POR CUENTA DE LOS CORREDORES DE SEGUROS; 2) A LA OBLIGACION DE INFORMAR SOBRE DIVERSIFICACION DE NEGOCIOS, Y SOBRE POLIZAS DE SEGUROS PARA RESPONDER DEL CUMPLIMIENTO DE SUS OBLIGACIONES; 3) A LA COMERCIALIZACION DEL SEGURO OBLIGATORIO DE ACCIDENTES PERSONALES DE LA LEY
 
 
 Para todos los corredores de seguros Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en los artículos 3º letra m) y 57º del D.F.L. Nº 251, de 1931, ha resuelto dictar la siguiente Norma de Carácter General:

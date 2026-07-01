@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2333
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 18-5 Hoja 1
 ### CAPÍTULO 18-5 INFORMACIÓN SOBRE DEUDORES DE LAS INSTITUCIONES FINANCIERAS

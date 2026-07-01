@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE NORMAS PARA DETERMINAR LA RENTABILIDAD DEL FONDO PARA LA BONIFICACIÓN POR RETIRO. A la sociedad administradora del fondo para la bonificación por retiro.
+# CIRCULAR N° 1826 — ESTABLECE NORMAS PARA DETERMINAR LA RENTABILIDAD DEL FONDO PARA LA BONIFICACIÓN POR RETIRO
 
-### CIRCULAR N° 1.826
-FECHA: 09.01.2007
 
 Esta Superintendencia en uso de sus facultades legales, ha estimado necesario impartir normas relativas al cálculo de rentabilidad del fondo para la bonificación por retiro (en adelante el “fondo”).
 ## 1. DISPOSICIONES GENERALES
@@ -22,9 +20,7 @@ La rentabilidad nominal del fondo para períodos mayores de tiempo se determinar
 Rp = ⎜ ∏(1+ Rd) −1⎟×100%
 ⎜⎢ t ⎥ ⎟
 ⎝⎣ ⎦ ⎠ t=1
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.826
-FECHA: 09.01.2007
+
 Donde:
 Rp : Corresponde a la rentabilidad del período Rd
 : Corresponde a la rentabilidad diaria del día t t N : Corresponde al número de días del período N
@@ -33,4 +29,3 @@ Adicionalmente, la administradora del fondo calculará la “Rentabilidad Real E
 En los casos en que se publicite la rentabilidad pasada obtenida por el fondo, sólo podrá publicitarse períodos iguales o superiores a un mes calendario. Asimismo, toda publicidad, promoción o información que la administradora del fondo proporciones respecto de la rentabilidad nominal del fondo deberá advertir mediante una frase que dicho indicador no considera el pago de la comisión variable. Asimismo, en el caso de la rentabilidad real se advertirá que ésta no incorpora el pago de la comisión variable.
 ## 3. VIGENCIA
 Las instrucciones impartidas por esta circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

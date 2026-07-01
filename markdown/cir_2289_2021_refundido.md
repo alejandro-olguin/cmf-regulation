@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2289
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 2-2 Hoja 1
 ### CAPÍTULO 2-2 CUENTAS CORRIENTES BANCARIAS Y CHEQUES

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# REQUIERE EL ENVÍO DE INFORMACIÓN RELATIVA A PORTABILIDAD FINANCIERA. NORMA DE CARÁCTER GENERAL N°462 1 de diciembre de
+# REQUIERE EL ENVÍO DE INFORMACIÓN RELATIVA A PORTABILIDAD FINANCIERA. NORMA DE CARÁCTER GENERAL N°462 1 de diciembre de 2021
 
 
 Esta Comisión, en uso de las facultades que le confieren el artículo 3° y el inciso 3 del numeral 4 del artículo 5° del Decreto Ley N°3.538 de 1980 que crea la Comisión para el Mercado Financiero; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°263 de 25 de noviembre de 2021, ha resuelto impartir las instrucciones contenidas en la presente normativa, a los bancos, compañías de seguros y cooperativas de ahorro y crédito fiscalizadas por esta Comisión.

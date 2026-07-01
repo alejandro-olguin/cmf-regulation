@@ -3,11 +3,10 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 148 — FECHA: 09.10.2002
+# NCG N° 148 — IMPARTE INSTRUCCIONES RELATIVAS AL SISTEMA DE EVALUACION DEL RIESGO DE MERCADO DE LA CARTERA DE INVERSIONES DE LAS ENTIDADES ASEGURADORAS Y REASEGURADORAS
 
-REF: IMPARTE INSTRUCCIONES RELATIVAS AL SISTEMA DE EVALUACION DEL RIESGO
-### DE MERCADO DE LA CARTERA DE INVERSIONES DE LAS ENTIDADES ASEGURADORAS Y REASEGURADORAS.
-A todas las entidades aseguradoras y reaseguradoras Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en el artículo 1º, letra f) del D.F.L Nº251, de 1931, ha resuelto impartir las siguientes instrucciones relativas a la puesta en aplicación, por parte de las entidades aseguradoras y reaseguradoras, de un sistema de evaluación del riesgo de mercado de su cartera de inversiones.
+
+Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en el artículo 1º, letra f) del D.F.L Nº251, de 1931, ha resuelto impartir las siguientes instrucciones relativas a la puesta en aplicación, por parte de las entidades aseguradoras y reaseguradoras, de un sistema de evaluación del riesgo de mercado de su cartera de inversiones.
 ## I. DETERMINACIÓN DEL RIESGO DE MERCADO DE LA CARTERA DE INVERSIONES.
 Las entidades aseguradoras y reaseguradoras deberán medir el riesgo de mercado que afecta a su cartera de inversión, determinando la "máxima pérdida probable" estimada para su cartera, derivada de fluctuaciones en precios de mercado.
 Para este efecto, todas las compañías deberán poner en aplicación un sistema de medición de riesgo de mercado de las inversiones, utilizando la metodología de cálculo conocida como de

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# 1.- DICTA INSTRUCCIONES RELATIVAS A LA DETERMINACIÓN DE LA BASE PARA EL CALCULO DE LA REMUNERACIÓN DIARIA DE LA SOCIEDAD ADMINISTRADORA. 2.- DEROGA CIRCULAR N° 782, DE 1988.
+# CIRCULAR N° 1738 — DICTA INSTRUCCIONES RELATIVAS A LA DETERMINACIÓN DE LA BASE PARA EL CALCULO DE LA REMUNERACIÓN DIARIA DE LA SOCIEDAD ADMINISTRADORA.
 
-CIRCULAR Nº 1.738
-FECHA: 17.01.2005
 
 Para todas las sociedades que administran fondos mutuos.
 En virtud de sus atribuciones legales, esta Superintendencia ha estimado necesario dictar las
@@ -21,14 +19,10 @@ El porcentaje de remuneración, establecido en los reglamentos internos de este 
 ### III.- FONDOS MUTUOS DEFINIDOS COMO DE AQUELLOS SEÑALADOS EN LOS NUMEROS 7 Y 8 DE LA SECCION II DE LA CIRCULAR N° 1.578 DE 2002
 Estos fondos deberán sujetarse a las instrucciones impartidas en el Título II precedente.
 Ahora bien, en el caso de fondos mutuos de este tipo, que adicionalmente se definan como de aquél señalado en el número 1 de la sección II de la Circular N° 1.578 de 2002, les serán aplicables las disposiciones contenidas en el Título I anterior.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.738
-FECHA: 17.01.2005
 Sin perjuicio de lo dispuesto en los párrafos precedentes, las sociedades que administran fondos mutuos podrán establecer en los reglamentos internos de sus fondos, mecanismos que consideren bases distintas a las indicadas en esta Circular para la determinación de la remuneración diaria de la administradora, en la medida que éstos den cumplimiento a las disposiciones contenidas en los artículos 10 del D.L. N° 1.328 de 1976 y 6° del D.S. N° 249 de
 1982.
 ### IV.- DEROGACIÓN
 Deróguese la Circular N° 782 de 29 de febrero de 1988.
 ### V.- VIGENCIA
 La presente circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

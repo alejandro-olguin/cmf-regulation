@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2249
+
 ### COMPENDIO DE NORMAS CONTABLES PARA BANCOS
 Este Compendio contiene las instrucciones contables impartidas a los Bancos por la Comisión para el Mercado Financiero (CMF). Su versión actualizada, con las modificaciones que se disponen mediante circulares y que sustituyen las hojas pertinentes, incluye todas las instrucciones contables vigentes para los bancos.
 

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 318 — FECHA : 01.09.2011
+# NCG N° 318 — IMPARTE INSTRUCCIONES SOBRE APLICACIÓN DE NORMAS IFRS EN LA CONSTITUCIÓN DE RESERVAS TÉCNICAS DE LOS SEGUROS DE RENTA VITALICIA Y DE INVALIDEZ Y SOBREVIVENCIA, DEL D.L
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en los artículos 3º letra b) y 20 del D.F.L.

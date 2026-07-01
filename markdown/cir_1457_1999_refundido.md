@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1457 — IMPARTE INSTRUCCIONES SOBRE: 1
+# CIRCULAR N° 1457 — IMPARTE INSTRUCCIONES SOBRE:
 
 
 Esta Superintendencia, en uso de sus facultades legales, ha resuelto impartir las siguientes instrucciones:
@@ -31,8 +31,6 @@ diferida en el tiempo, incluya pagos por concepto de gastos de inspección u otr
 ### 4.5 Tratándose de pólizas de seguros de incendio, desgravamen, cesantía y otros, contratados en
 forma colectiva, cuya prima sea soportada por el deudor en su patrimonio y que sean condición para la obtención de un crédito, línea de crédito o tarjeta de crédito, en cualquier institución que otorgue créditos o sea emisora de tarjetas bancarias y no bancarias, deberá informarse en la póliza y en un anexo al certificado de cobertura, además de la comisión de intermediación precedentemente referida, cualquier otra comisión o estipendio devengado a favor del contratante, intermediario u otras personas relacionadas a éstos, por otros conceptos, tales como, comisión por volumen, producción, contingentes y recaudación.
 
-CIRCULAR Nº: 1457
-FECHA : 09.11.99
 Para éstos efectos, se entenderá que constituyen condición para la obtención de un crédito, línea de crédito o tarjeta de crédito, los seguros que por disposición legal o reglamentaria sea obligatoria su contratación, aquellos en que el beneficiario sea el contratante o una persona relacionada a éste, o aquellos que sean exigidos para la operación.
 4.5.1. La indicación de esta(s) comisión(es), deberá hacerse en los mismos caracteres, de formato,
 tamaño y tipo de letra, que el resto de la información contenida en el certificado de cobertura.
@@ -55,11 +53,7 @@ Igual obligación regirá respecto de las personas que sin ser asegurados, tenga
 3. La contratación colectiva de una póliza, no exime al corredor de seguros de sus obligaciones como
 intermediario, respecto de los asegurados individualmente considerados en la póliza respectiva.
 4. Tratándose de seguros de desgravamen y de incendio asociados a créditos hipotecarios para el
-financiamiento de viviendas, otorgados a personas naturales por bancos, instituciones financieras o agentes administradores de mutuos hipotecarios endosables; si la institución que otorga el crédito hipotecario actúa como contratante del seguro, la compañía deberá solicitar a dicha entidad, un mandato expreso firmado por el asegurado deudor del crédito, que autorice a ésta a actuar en tal sentido. En este mandato se deberá señalar además, que el asegurado deudor está en conocimiento que puede contratar los seguros por su cuenta, directamente en cualquier entidad aseguradora o a través de cualquier corredor de seguros del
-
-CIRCULAR Nº: 1457
-FECHA : 09.11.99
-país. Sin este mandato, en los términos señalados, la compañía no podrá incorporar a un asegurado deudor, por un crédito hipotecario determinado, a la póliza colectiva contratada por la entidad que otorga el crédito.
+financiamiento de viviendas, otorgados a personas naturales por bancos, instituciones financieras o agentes administradores de mutuos hipotecarios endosables; si la institución que otorga el crédito hipotecario actúa como contratante del seguro, la compañía deberá solicitar a dicha entidad, un mandato expreso firmado por el asegurado deudor del crédito, que autorice a ésta a actuar en tal sentido. En este mandato se deberá señalar además, que el asegurado deudor está en conocimiento que puede contratar los seguros por su cuenta, directamente en cualquier entidad aseguradora o a través de cualquier corredor de seguros del país. Sin este mandato, en los términos señalados, la compañía no podrá incorporar a un asegurado deudor, por un crédito hipotecario determinado, a la póliza colectiva contratada por la entidad que otorga el crédito.
 5.- En los seguros que se ofrezcan en forma simultánea o conjunta con una operación de crédito,
 identificando como beneficiario exclusivo al deudor, a las personas naturales por éste designadas, o a sus herederos legales, deberán contemplar el derecho a retractarse del seguro., sin expresión de causa ni penalización alguna, en el plazo de 5 días hábiles contados desde que el crédito es cursado, o desde la suscripción del seguro, lo que sea posterior.
 El derecho de retractación deberá ser informado en la propuesta de seguro o solicitud de incorporación.
@@ -85,8 +79,6 @@ sólo podrá ser efectuada por entidades aseguradoras y corredores de seguros de
 3. La promoción, publicidad u oferta de seguros que las entidades aseguradoras y los corredores de seguros
 realicen, no podrá incluir referencia a o de terceros distintos y ajenos a la actividad aseguradora, salvo en cuanto al uso de sus dependencias, en conformidad a la normativa correspondiente, o que en el caso exclusivo de las entidades aseguradoras existan convenios de promoción y publicidad con entidades ajenas a la actividad aseguradora. La referencia a un tercero, en los términos precedentes, no alterará la responsabilidad exclusiva de la aseguradora por dicha promoción, publicidad u oferta debiendo velarse, en todo caso, por no inducir a error o confusión en el público respecto a la responsabilidad de la aseguradora.
 
-CIRCULAR Nº: 1457
-FECHA : 09.11.99
 Tratándose de promoción y publicidad de seguros de renta vitalicia del D.L. N° 3.500 de 1980, se podrá incluir referencias a terceros, exclusivamente cuando éstos faciliten sus dependencias, caso en el cual, dicha mención deberá emplearse para los fines estrictos de identificar el lugar de oferta y comercialización del seguro.
 4. Las promociones u ofertas publicitarias que efectúen las entidades aseguradoras serán vinculantes, y se
 considerarán incorporadas en el contrato que se llegare a celebrar. En caso de existir contradicción o conflicto entre los términos y condiciones del seguro y la promoción, publicidad u oferta del mismo, primarán y prevalecerán aquellas más beneficiosas para el asegurado.

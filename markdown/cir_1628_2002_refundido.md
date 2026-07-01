@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# INFORMACION ESTADISTICA DE PLANES DE AHORRO PREVISIONAL VOLUNTARIO QUE OFRECEN INSTITUCIONES QUE SEÑALA A todas las entidades aseguradoras del segundo grupo, intermediarios de valores,
+# CIRCULAR N° 1628 — INFORMACION ESTADISTICA DE PLANES DE AHORRO PREVISIONAL VOLUNTARIO QUE OFRECEN INSTITUCIONES QUE SEÑALA A todas las entidades aseguradoras del segundo grupo, intermediarios de valores,
 
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 
 Administradoras de fondos mutuos, de fondos de inversión, de fondos para la vivienda y administradoras generales de fondos
 ## I. INTRODUCCION
@@ -18,18 +16,12 @@ En virtud de lo anterior, esta Superintendencia ha desarrollado un formulario el
 La periodicidad de entrega de la información será mensual para cada cuadro descrito en el Anexo N° 1 de esta Circular. El plazo de entrega será de 10 días corridos después del cierre del mes correspondiente.
 ## II. NORMAS DE PRESENTACION
 La información estadística remitida a este Servicio deberá cumplir estrictamente con los contenidos contemplados en los cuadros del Anexo N° 1 de esta circular, debiendo remitirse en el formato y medio establecidos en el Anexo N° 2.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 ## III. VIGENCIA
 Las instrucciones impartidas por la presente circular rigen a contar de esta fecha.
 ## IV. TRANSITORIO
 El plazo de entrega de la información correspondiente al período comprendido entre el 1 de enero y 31 de marzo de 2003, será hasta el día 15 de abril de 2003.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 ## ANEXO N° 1
 CUADRO N° 1 : DEPOSITOS DE AHORRO PREVISIONAL VOLUNTARIO
 NÚMERO DE CUENTAS DE DEPÓSITOS DE AHORRO PREVISIONAL VOLUNTARIO (APV) VIGENTES, NÚMERO DE AHORRANTES, SALDO TOTAL ACUMULADO, NÚMERO Y MONTO DE DEPÓSITOS, TRASPASOS RECIBIDOS, RETIROS Y TRASPASOS REALIZADOS DEL MES POR PLAN OFRECIDO.
@@ -53,10 +45,6 @@ NÚMERO DE CUENTAS DE DEPÓSITOS CONVENIDOS, NUMERO DE AHORRANTES, SALDO TOTAL A
 |  |  |  |  |  |  |  |  |  |  |
 | TOTAL INSTITUCION |  |  |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 CUADRO N° 3 : TRASPASOS DE DEPOSITOS DE AHORRO PREVISIONAL VOLUNTARIO.
 ### TRASPASOS DE DEPOSITOS DE AHORRO PREVISIONAL VOLUNTARIO DEL MES (M$)(6)
 
@@ -89,10 +77,6 @@ CUADRO N° 4 : TRASPASOS DE DEPOSITOS CONVENIDOS.
 | Otras Entidades autorizadas por la SVS |  |
 | TOTAL |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 CUADRO N° 5: CUENTAS DE DEPÓSITO DE AHORRO PREVISIONAL VOLUNTARIO
 ### NUMERO DE PERSONAS CON CUENTAS DE DEPOSITO DE AHORRO PREVISIONAL VOLUNTARIO POR SALDO, EDAD Y GÉNERO
 
@@ -103,10 +87,6 @@ CUADRO N° 5: CUENTAS DE DEPÓSITO DE AHORRO PREVISIONAL VOLUNTARIO
 | + 0 – 5 + 5 – 10 + 10 - 20 + 20 - 50 + 50 - 100 + 100 - 200 + 200 - 500 + 500 – 1000 + 1000 – 2000 + 2000 – 3000 + 3000 – 4000 + 4000 – 5000 + 5000 – 7000 + 7000 – 10000 + 10000 - 15000 + 15000 - 20000 + 20000 - 30000 + 30000 - 40000 + 40000 - 50000 + 50000 - 60000 + 60000 - 80000 + 80000 – 100000 + 100000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 CUADRO N° 6 : DEPOSITOS CONVENIDOS
 ### NUMERO DE PERSONAS CON CUENTAS DE DEPÓSITOS CONVENIDOS POR SALDO, EDAD Y
 GÉNERO
@@ -121,10 +101,7 @@ GÉNERO
 NOTAS:
 (1) Este cuadro debe ser completado por cada institución, segregado por tipo de plan ofrecido.
 Para el caso de Fondos Mutuos los planes deben ser ordenados por tipo de fondo de acuerdo a la clasificación que indica la Circular Nº 1.578 y especificar la serie de cuota que lo ofrece, si corresponde.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 (2) Para el caso de las compañías de seguros del segundo grupo, se deben considerar las
 siguientes precisiones:
 a) Plan de Ahorro Previsional Voluntario: Pólizas autorizadas como plan de APV.
@@ -139,19 +116,13 @@ g) Monto Total de Retiros del mes: Monto total de retiros y rescates del mes.
 (4) Para el caso de las administradoras de fondos, se entiende por depósitos a los aportes efectuados por los partícipes o aportantes en un determinado fondo o serie de cuota, según corresponda.
 (5) Para completar esta columna se debe considerar dentro del Número de Traspasos Recibidos, Monto Total de Traspasos Recibidos, Número de Traspasos Realizados y Monto Total de Traspasos Realizados, tanto los traspasos que se realicen a otras entidades, como los que se realicen dentro de la entidad.
 (6) En este cuadro deben informarse, además, los traspasos realizados dentro de la misma entidad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 ## ANEXO N° 2 - ESPECIFICACIONES TÉCNICAS
 1. La información solicitada deberá ser enviada a este Servicio a través del Módulo SEIL del sitio
 Web www.svs.cl.
 2. La información se deberá presentar en miles de pesos y con dos decimales, según
 corresponda, y en caso que para determinado campo no exista información, deberán completarse los valores en cero.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.628
-FECHA: 23.10.2002
 ANEXO
 ### PROCEDIMIENTO DE ENVIO DE ESTADISTICAS SOBRE PLANES DE AHORRO PREVISIONAL VOLUNTARIO MEDIANTE MODULO SEIL
 Las entidades aseguradoras del segundo grupo, intermediarios de valores, administradoras de fondos mutuos, de fondos de inversión, de fondos para la vivienda y administradoras generales de fondos podrán remitir a la Superintendencia de Valores y Seguros información estadísticas sobre planes de Ahorro Provisional Voluntario, a través de la opción Sistema de Envío de Información en Línea (SEIL), disponible en el sitio Web de este Servicio (www.svs.cl).
@@ -165,4 +136,3 @@ Superintendencia el documento de autorización de habilitación de usuarios corr
 3. Las entidades podrán solicitar la incorporación de la opción “Estadísticas de Ahorro Provisional
 Voluntario” (Código IEAPV) a usuarios ya activados, agregando la nueva habilitación, si es que ésta no desea activar nuevos usuarios al efecto.
 Para ello deberá remitir a la SVS el documento de autorización de habilitación de usuarios correspondiente, señalado en el punto 2 precedente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

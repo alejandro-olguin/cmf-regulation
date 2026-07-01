@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 325 — FECHA : 29.12.2011
+# NCG N° 325 — IMPARTE INSTRUCCIONES SOBRE SISTEMA DE GESTIÓN DE RIESGOS DE LAS ASEGURADORAS Y EVALUACIÓN DE SOLVENCIA DE LAS COMPAÑÍAS POR PARTE DE LA COMISIÓN
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en la letra b) del artículo 3° del DFL N°251, de

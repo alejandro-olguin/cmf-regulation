@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: IMPARTE INSTRUCCIONES SOBRE EL
-### CÁLCULO DEL PRECIO DE CIERRE AL QUE SE REFIERE LA LEY N°21.420
-_________________________________
-NORMA DE CARÁCTER GENERAL N°485
-30 de agosto de 2022
+# IMPARTE INSTRUCCIONES SOBRE EL CÁLCULO DEL PRECIO DE CIERRE AL QUE SE REFIERE LA LEY N°21.420 _________________________________ NORMA DE CARÁCTER GENERAL N°485 30 de agosto de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren los artículos 5 numeral 1 y 20 numeral 3 del Decreto Ley N°3.538; el artículo tercero transitorio de la Ley N°21.420; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°302 de 25 de agosto de 2022, ha estimado pertinente impartir las siguientes instrucciones:
 ## I. PRECIO DE CIERRE AL QUE SE REFIERE AL ARTÍCULO TERCERO TRANSITORIO DE LA LEY N°21.420
 El precio de cierre oficial al 31 de diciembre de 2021 de las acciones a las que se refiere el numeral 1 del artículo 107 de la Ley sobre Impuesto a la Renta, en tanto referido a la alternativa establecida en el artículo tercero transitorio de la Ley N°21.420 de 2022, se establecerá conforme a la siguiente metodología:

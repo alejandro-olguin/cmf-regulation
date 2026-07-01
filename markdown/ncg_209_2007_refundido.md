@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 209 — FECHA : 24.12.2007
+# NCG N° 209 — IMPARTE INSTRUCCIONES RELATIVAS AL ANÁLISIS DE SUFICIENCIA DE ACTIVOS EN ENTIDADES ASEGURADORAS Y REASEGURADORAS DEL SEGUNDO GRUPO, QUE MANTENGAN OBLIGACIONES VIGENTES DE SEGUROS DE RENTA VITALICIA DEL D.L
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en el artículo 3° letra b) y k) y

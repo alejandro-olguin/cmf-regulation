@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 316 — FECHA : 12.08.2011
+# NCG N° 316 — NORMAS SOBRE VALORIZACIÓN DE INVERSIONES INMOBILIARIAS
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo establecido en el artículo 3º letras b) y f) del D.F.L. Nº 251, de 1931 y en el artículo 4° letra e) del DL 3538, ha resuelto impartir las siguientes instrucciones relativas a la valorización de las inversiones inmobiliarias que, de conformidad a la ley y a su objeto social, puedan efectuar las compañías de seguros y reaseguros.

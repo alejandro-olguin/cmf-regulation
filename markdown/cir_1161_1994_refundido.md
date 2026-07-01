@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# VALORIZACION DE ACCIONES DE FONDOS MUTUOS, ANTE MANIFESTACIONES DE EJERCICIO DE DERECHO A RETIRO DE LA SOCIEDAD EMISORA.
+# CIRCULAR N° 1161 — VALORIZACION DE ACCIONES DE FONDOS MUTUOS, ANTE MANIFESTACIONES DE EJERCICIO DE DERECHO A RETIRO DE LA SOCIEDAD EMISORA.
 
-CIRCULAR Nº 1.161
-FECHA: 22.06.1994
 
 Para todas las sociedades administradoras de fondos mutuos.
 En uso de sus facultades legales y en consideración a lo dispuesto en los artículos 69, 69 bis, 70 y 71 de la ley Nº 18.045 sobre Sociedades Anónimas, esta Superintendencia ha estimado necesario dictar las siguientes instrucciones.
@@ -19,4 +17,3 @@ Esta forma de valorización deberá ser mantenida hasta la fecha en que efectiva
 Sin perjuicio de lo anterior, si el precio de las acciones se pagare durante el período en que la acción se valoriza exclusivamente a precio relevante, y aquél fuere superior a éste, el fondo mutuo deberá reconocer la diferencia el día en que se efectúe el pago.
 Cabe señalar que el día a contar del cual no puede convocarse a la junta de que trata el artículo 71 de la Ley Nº 18.046, corresponde al décimo quinto después de finalizado el período en que los accionistas disidentes pueden manifestar su intención de ejercer el derecho a retiro.
 VIGENCIA Las instrucciones contenidas en la presente circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

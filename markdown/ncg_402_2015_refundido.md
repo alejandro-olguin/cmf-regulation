@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 402 — FECHA: 22.12.2015
+# NCG N° 402 — CUMPLIMIENTO DEL ARTÍCULO 9° BIS DEL DFL 251
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en la letra d) del artículo 4° de D.L.

@@ -8,7 +8,6 @@
 NORMA DE CARÁCTER GENERAL SVS N° 330
 ### CIRCULAR SBIF BANCOS N° 3.530, COOPERATIVAS N° 147, FILIALES N° 62
 FECHA: 21.03.2012
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS:
 VISTOS: Lo dispuesto en el artículo 40 del D.F.L. N° 251, de 1931, y las facultades que confiere la ley a las Superintendencias de Valores y Seguros y de Bancos e Instituciones Financieras, se imparten las siguientes instrucciones de cumplimiento obligatorio para los bancos, cooperativas, agentes administradores de mutuos hipotecarios endosables, cajas de compensación de asignación familiar y cualquier otra entidad que tenga dentro de su giro otorgar créditos hipotecarios, en adelante entidades crediticias y a las Compañías de Seguros de Vida y de Seguros Generales, en adelante, la aseguradora o compañía de seguros, y Corredores de Seguros. Para los efectos de la presente norma, también serán consideradas entidades crediticias las sociedades inmobiliarias, respecto de los seguros que deban contratar en virtud de los contratos de arrendamiento de vivienda con promesa de compraventa, celebrados en conformidad a lo dispuesto en la ley N° 19.281.
 

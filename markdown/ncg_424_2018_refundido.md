@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE ESTRUCTURA DE PRESENTACIÓN DE NORMAS DE CONDUCTA DE AUTORREGULACIÓN. _________________________________ NORMA DE CARÁCTER GENERAL N°424 26 de abril de
+# ESTABLECE ESTRUCTURA DE PRESENTACIÓN DE NORMAS DE CONDUCTA DE AUTORREGULACIÓN. _________________________________ NORMA DE CARÁCTER GENERAL N°424 26 de abril de 2018
 
 
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 y 18 del artículo 5, el numeral 3 del artículo 20 y el artículo 77, todos del D.L. N°3.538, lo establecido en el artículo séptimo de la Ley N°21.000 y lo acordado por su Consejo en Sesión Ordinaria N°39 de 26 de abril de 2018, ha estimado pertinente requerir a las entidades obligadas a autorregularse en virtud de lo establecido en el artículo 72 del referido Decreto Ley, y que no participen del Comité de Autorregulación Financiera, lo siguiente:

@@ -1607,10 +1607,6 @@ La Compañía deberá revelar, los montos totales para las posiciones en forward
 ### (1) M$
 Forward Compra Venta Opciones Compra
 
-|  |
-| --- |
-|  |
-
 Venta Swap (2) Total
 (1) Corresponde al valor de los activos entregados en margen de la operación si fuera aplicable.
 (2) Se debe incluir los credit default swap.
@@ -2049,38 +2045,6 @@ IINVERSIONES QUE R C ES O P M A P L A D Ñ A Í N A A R S E U S M ER E V E A L S
 ### TOTAL TOTAL TOTAL TOTAL TOTAL TOTAL CON
 Nivel 1 Nivel 2 Nivel 3 R AC A V Z T A O IV L N O O A R S B A L AM C O O D R S O T T O IZ ADETE O RIORA A C M C T O O IV R S O T T O I S Z A A I A N A D V D M E A I R N P S IS O IÓ T R N R Nivel 1 Nivel 2 Nivel 3 R AC A V Z T A O IV L N O O A R S B A L AM C O O D R S O T T O IZ ADETE O RIORA A C M C T O O IV R S O T T O I S Z A A I A N V C E D U R E E S L N IÓ TA N IN C V U E D E R E N S T IÓ A N
 ### E DO LA E DO ASEGURA COMPAÑÍA DO
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Nivel 1 Instrumentos cotizados con mercados activos; donde el valor razonable está determinado por el precio observado en dichos mercados.
 
@@ -4362,11 +4326,6 @@ NIIF 3, Valor razonable de un pasivo contingente adquirido en una combinación d
 
 M$
 
-|  |
-| --- |
-|  |
-|  |
-
 Sanciones:
 Se debe identificar el número, folio o código identificador de los procesos sancionatorios a informar que tengan un impacto financiero, de imagen o riesgo significativo para la compañía. El proceso debe ser informado desde que la aseguradora toma conocimiento del mismo y hasta que la resolución o sentencia que lo resuelva se encuentre firme o ejecutoriado.
 Entidad que sanciona:
@@ -4607,86 +4566,46 @@ Estas Notas se confeccionan según lo estipulado en la Norma de Carácter Genera
 Esta Nota está compuesta de tres cuadros, los que se señalan a continuación:
 ### 1) PRIMAS Y FACTOR DE REASEGURO GRANDES RIESGOS INCENDIO VEHÍCULOS OTROS INCENDIO OTROS
 
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-
 6.31.11.10 pi
 6.31.11.10 dic i-1*IPC1
 6.31.11.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.11.20 pi
 6.31.11.20 dic i-1*IPC1
 6.31.11.20 pi-1*IPC2
 
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-
 6.31.13.00 pi
 6.31.13.00 dic i-1*IPC1
 6.31.13.00 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.13.10 pi
 6.31.13.10 dic i-1*IPC1
 6.31.13.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.30 pi
 6.31.13.30 dic i-1*IPC1
 6.31.13.30 pi-1*IPC2
 ### 2) SINIESTROS ULTIMOS TRES AÑOS GRANDES RIESGOS INCENDIO VEHÍCULOS OTROS INCENDIO OTROS
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
 6.31.13.10 pi
 6.31.13.10 dic i-1*IPC1
 6.31.13.10 pi-1*IPC2
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.10 pi-1*IPC2
 6.31.13.10 dici-2*IPC3
 6.31.13.10 pi-2*IPC4
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.13.10 pi-2*IPC4
 6.31.13.10 dici-3*IPC5
 6.31.13.10 pi-3*IPC6
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
 
 6.31.13.30 pi
 6.31.13.30 dic i-1*IPC1
 6.31.13.30 pi-1*IPC2
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-
 6.31.13.30 pi-1*IPC2
 6.31.13.30 dici-2*IPC3
 6.31.13.30 pi-2*IPC4
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 
 6.31.13.30 pi-2*IPC4
 6.31.13.30 dici-3*IPC5
@@ -4843,17 +4762,6 @@ Primas por Pagar (Sólo seguros generales)
 | --- | --- |
 |  |  |
 |  |  |
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-|  |
-| --- |
-|  |
 
 ### 1.3 RRC P.P
 ### 1.4 RS PP

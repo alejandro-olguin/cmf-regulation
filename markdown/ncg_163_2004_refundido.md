@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 163 — FECHA: 21.6.2004
+# NCG N° 163 — IMPARTE NORMAS SOBRE CONTRATACION DE SEGUROS DE RENTAS VITALICIAS DEL D.L
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto la letra m) del artículo 3° y artículo 20 bis del DFL N°251, de 1931, y considerando las modificaciones introducidas al D.L N°3.500 de 1980 por la ley N°19.934, ha resuelto impartir las siguientes normas relativas a la oferta y contratación de rentas vitalicias a que se refiere el mencionado Decreto Ley Nº 3.500.

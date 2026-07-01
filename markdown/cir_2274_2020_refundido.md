@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2274
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-1 Hoja 1
 ### CAPÍTULO 21-1 PATRIMONIO PARA EFECTOS LEGALES Y REGLAMENTARIOS
@@ -61,38 +63,38 @@ Circular N°2.274 / 08.10.2020 por Resolución N°4620
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-1 Hoja 4 El excedente en manos de terceros deberá ser calculado como la diferencia entre el capital ordinario nivel 1 disponible en la filial y el capital regulatorio exigido en ella, ponderando esta diferencia por la participación que tienen las terceras partes a través del interés no controlador. El capital regulatorio exigido se obtiene de la multiplicación entre el requerimiento de capital ordinario nivel 1, incluyendo el capital adicional a que se refiere el artículo 66 bis, y el menor valor entre los activos ponderados por riesgo (APR) de la filial a nivel consolidado y la proporción asociada a la filial de los APR consolidados del banco matriz. La operación anterior se representa en la fórmula siguiente:
-𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐹 =max{0;[𝐶𝐸𝑇1_𝐹 −𝑅_𝐶𝐸𝑇1_𝐹 ⋅ min{𝐴𝑃𝑅_𝐶𝑂𝑁_𝐹; 𝐴𝑃𝑅_𝐶𝑂𝑁_𝑀 ⋅ 𝛽}] 𝑖 𝑖 𝑖 𝑖 𝑖
-⋅(1−𝑃𝐴𝑅_𝐶𝐸𝑇1_𝐹)} 𝑖
+EXC_CET1_F =max{0;[CET1_F −R_CET1_F ⋅ min{APR_CON_F; APR_CON_M ⋅ β}] i i i i i
+⋅(1−PAR_CET1_F)} i
 donde:
-• 𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐹 es el excedente regulatorio de capital ordinario nivel 1 de la filial i.
-𝑖
-• 𝐶𝐸𝑇1_𝐹 es el capital ordinario nivel 1 de la filial i.
-𝑖
-• 𝑅_𝐶𝐸𝑇1_𝐹 es el requerimiento regulatorio al capital ordinario nivel 1 de la filial
-𝑖 i, expresado como porcentaje de los APR.
-• 𝐴𝑃𝑅_𝐶𝑂𝑁_𝐹 son los APR consolidados de la filial i.
-𝑖
-• 𝐴𝑃𝑅_𝐶𝑂𝑁_𝑀 son los APR consolidados del banco matriz.
-• 𝛽 corresponde a la participación de los APR de la filial en los APR de la matriz
-𝑖 de la filial i.
-• 𝑃𝐴𝑅_𝐶𝐸𝑇1_𝐹 es la participación de la matriz en el capital ordinario nivel 1 de la
-𝑖 filial i, expresada como porcentaje.
+• EXC_CET1_F es el excedente regulatorio de capital ordinario nivel 1 de la filial i.
+i
+• CET1_F es el capital ordinario nivel 1 de la filial i.
+i
+• R_CET1_F es el requerimiento regulatorio al capital ordinario nivel 1 de la filial
+i i, expresado como porcentaje de los APR.
+• APR_CON_F son los APR consolidados de la filial i.
+i
+• APR_CON_M son los APR consolidados del banco matriz.
+• β corresponde a la participación de los APR de la filial en los APR de la matriz
+i de la filial i.
+• PAR_CET1_F es la participación de la matriz en el capital ordinario nivel 1 de la
+i filial i, expresada como porcentaje.
 Para el caso de filiales que no tienen requisitos de capital equivalentes a los bancos, el excedente regulatorio se deberá estimar de la siguiente forma:
-𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐹 =max{0;[𝐶𝐴𝑃_𝐹 −𝑅𝐸𝑄_𝐶𝐴𝑃_𝐹 ] ⋅(1−𝑃𝐴𝑅_𝐶𝐴𝑃_𝐹)} 𝑖 𝑖 𝑖 𝑖
+EXC_CET1_F =max{0;[CAP_F −REQ_CAP_F ] ⋅(1−PAR_CAP_F)} i i i i
 donde:
-• 𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐹 es el excedente regulatorio de capital ordinario nivel 1 de la filial
-𝑖 i.
-• 𝐶𝐴𝑃_𝐹 es el capital de la filial i, según lo defina la autoridad por la cual es
-𝑖 regulada la filial, expresado en unidades monetarias.
-• 𝑅𝐸𝑄_𝐶𝐴𝑃_𝐹 es el requerimiento regulatorio al capital de la filial i, expresado
-𝑖 en unidades monetarias.
-• 𝑃𝐴𝑅_𝐶𝐴𝑃_𝐹 es la participación de la matriz en el capital de la filial i, expresada
-𝑖 como porcentaje.
+• EXC_CET1_F es el excedente regulatorio de capital ordinario nivel 1 de la filial
+i i.
+• CAP_F es el capital de la filial i, según lo defina la autoridad por la cual es
+i regulada la filial, expresado en unidades monetarias.
+• REQ_CAP_F es el requerimiento regulatorio al capital de la filial i, expresado
+i en unidades monetarias.
+• PAR_CAP_F es la participación de la matriz en el capital de la filial i, expresada
+i como porcentaje.
 Considerando lo anterior, el capital básico CET1_2 resultante de este paso
 está dado por:
-𝑛
-𝐶𝐸𝑇1_2= 𝐶𝐸𝑇1_1−∑𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐹
-𝑖 𝑖=1 donde n corresponde al número de filiales.
+n
+CET1_2= CET1_1−∑EXC_CET1_F
+i i=1 donde n corresponde al número de filiales.
 Circular N°2.274 / 08.10.2020 por Resolución N°4620
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
@@ -148,34 +150,36 @@ entidad emisora, se computará íntegramente por el banco inversor al determinar
 • En el caso de que los instrumentos de capital adicional nivel 1 ó nivel 2, no
 sean parte del capital regulatorio de la entidad financiera emisora, entonces no se aplicará el descuento de estos instrumentos. Por el contrario, cuando sean parte del capital regulatorio de la entidad financiera, deberá verificarse el cumplimiento de los requisitos sobre capital regulatorio indicados en los numerales 2 ó 4 del Título II, según corresponda al tipo de capital. En caso de que los instrumentos cumplan los requisitos, entonces el descuento debe realizarse en el respectivo nivel de capital. En caso contrario, se descontarán de capital ordinario nivel 1.
 Cumpliéndose los requisitos anteriores, el banco deberá agregar los montos de CET1, AT1 y T2 de las inversiones no significativas. Luego, el monto a deducir corresponderá al excedente entre el monto agregado y el 10% del capital ordinario nivel 1 obtenido en el paso anterior (CET1_3). La distribución de la deducción, por cada componente de capital, será proporcional a los montos de CET1, AT1 y T2 en inversiones no significativas. En caso de que el banco no disponga de suficiente capital para realizar la deducción a un determinado nivel (CET1_3, AT1_3 y T2_3), la diferencia en la deducción se llevará a cabo en el nivel de capital inmediatamente superior. Luego de aplicar este ajuste, se obtiene el capital ordinario nivel 1 ajustado CET1_4, capital adicional nivel 1 ajustado AT1_4 y capital nivel 2 ajustado T2_4. Estos valores se pueden expresar matemáticamente como sigue:
-𝑇2_𝐼𝑁𝑆 𝑇2_4 = 𝑇2_3−min{𝑇2_3;max{0; (𝐶𝑅_𝐼𝑁𝑆− 𝐶𝐸𝑇1_3⋅10%)}⋅( )} 𝐶𝑅_𝐼𝑁𝑆 𝐴𝑇1_𝐼𝑁𝑆 𝐴𝑇1_4= 𝐴𝑇1_3−min{𝐴𝑇1_3;max{0; (𝐶𝑅_𝐼𝑁𝑆− 𝐶𝐸𝑇1_3⋅10%)}⋅( ) 𝐶𝑅_𝐼𝑁𝑆 𝑇2_𝐼𝑁𝑆
-+max{0; (𝐶𝑅_𝐼𝑁𝑆 − 𝐶𝐸𝑇1_3⋅10%)⋅( )− 𝑇2_3 }} 𝐶𝑅_𝐼𝑁𝑆
-𝐶𝐸𝑇1_4= 𝐶𝐸𝑇1_3
-𝐶𝐸𝑇1_𝐼𝑁𝑆
-−min{𝐶𝐸𝑇1_3;max{0; (𝐶𝑅_𝐼𝑁𝑆− 𝐶𝐸𝑇1_3⋅10%)}⋅ ( ) 𝐶𝑅_𝐼𝑁𝑆 𝐴𝑇1_𝐼𝑁𝑆
-+max{0;(𝐶𝑅_𝐼𝑁𝑆−𝐶𝐸𝑇1_3⋅10%)⋅ ( )−𝐴𝑇1_3 } 𝐶𝑅_𝐼𝑁𝑆 𝑇2_𝐼𝑁𝑆
-+max{0; (𝐶𝑅_𝐼𝑁𝑆 − 𝐶𝐸𝑇1_3⋅10%)⋅ ( )− 𝑇2_3}} 𝐶𝑅_𝐼𝑁𝑆
+T2_INS
+T2_4 = T2_3−min{T2_3;max{0; (CR_INS− CET1_3⋅10%)}⋅( )} CR_INS AT1_INS
+AT1_4= AT1_3−min{AT1_3;max{0; (CR_INS− CET1_3⋅10%)}⋅( ) CR_INS T2_INS
++max{0; (CR_INS − CET1_3⋅10%)⋅( )− T2_3 }} CR_INS
+CET1_4= CET1_3
+CET1_INS
+−min{CET1_3;max{0; (CR_INS− CET1_3⋅10%)}⋅ ( ) CR_INS AT1_INS
++max{0;(CR_INS−CET1_3⋅10%)⋅ ( )−AT1_3 } CR_INS T2_INS
++max{0; (CR_INS − CET1_3⋅10%)⋅ ( )− T2_3}} CR_INS
 donde:
-• 𝐶𝐸𝑇1_4 es el capital ordinario nivel 1 luego de restar el ajuste por
+• CET1_4 es el capital ordinario nivel 1 luego de restar el ajuste por
 inversiones no significativas.
-• 𝐴𝑇1_4 es el capital adicional nivel 1 luego de restar el ajuste por
+• AT1_4 es el capital adicional nivel 1 luego de restar el ajuste por
 inversiones no significativas.
-• 𝑇2_4 es el capital nivel 2 luego de restar el ajuste por inversiones no
+• T2_4 es el capital nivel 2 luego de restar el ajuste por inversiones no
 significativas.
-• 𝐶𝐸𝑇1_3 es el capital ordinario nivel 1 obtenido del paso anterior.
-• 𝐴𝑇1_3 es el capital adicional nivel 1 obtenido del paso anterior.
+• CET1_3 es el capital ordinario nivel 1 obtenido del paso anterior.
+• AT1_3 es el capital adicional nivel 1 obtenido del paso anterior.
 Circular N°2.274 / 08.10.2020 por Resolución N°4620
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-1 Hoja 9
-• 𝑇2_3 es el capital nivel 2 obtenido del paso anterior.
-• 𝐶𝐸𝑇1_𝐼𝑁𝑆 es la suma de la exposición a instrumentos del tipo CET1 de
+• T2_3 es el capital nivel 2 obtenido del paso anterior.
+• CET1_INS es la suma de la exposición a instrumentos del tipo CET1 de
 entidades clasificadas como no significativas.
-• 𝐴𝑇1_𝐼𝑁𝑆 es la suma de la exposición a instrumentos del tipo AT1 de
+• AT1_INS es la suma de la exposición a instrumentos del tipo AT1 de
 entidades clasificadas como no significativas.
-• 𝑇2_𝐼𝑁𝑆 es la suma de la exposición a instrumentos del tipo T2 de
+• T2_INS es la suma de la exposición a instrumentos del tipo T2 de
 entidades clasificadas como no significativas.
-• 𝐶𝑅_𝐼𝑁𝑆 es la suma de las exposiciones en instrumentos de capital CET1,
+• CR_INS es la suma de las exposiciones en instrumentos de capital CET1,
 AT1 y T2 de entidades identificadas como no significativas.
 Los montos no deducidos en este punto se seguirán ponderando en función de su riesgo. Al momento de realizar la ponderación, se deberá realizar una distribución proporcional entre los elementos que superan el umbral (que son deducidos) y aquellos que no.
 Adicionalmente, los bancos deberán considerar en este ajuste, las inversiones realizadas en instrumentos de absorción de pérdidas (TLAC, por sus siglas en inglés), emitidos por los bancos globalmente sistémicos (G-SIB, por sus siglas en inglés). Este tratamiento se detalla en el Anexo N°2.
@@ -198,18 +202,19 @@ entidad emisora, se computará íntegramente por el banco inversor al determinar
 • En el caso de que los instrumentos de capital adicional nivel 1 ó nivel 2 no
 sean parte del capital regulatorio de la entidad financiera, entonces no se aplicará el descuento de estos instrumentos. Por el contrario, cuando sean parte del capital regulatorio de la entidad financiera, deberá verificarse el cumplimiento de los requisitos sobre capital regulatorio indicados en los numerales 2 ó 4 del Título II, según corresponda el tipo de capital. En caso de que los instrumentos cumplan los requisitos, entonces el descuento debe realizarse en el respectivo nivel de capital. En caso contrario, se descontarán de capital ordinario nivel 1.
 Cumpliéndose los parámetros anteriores, el banco deberá descontar completamente los montos de AT1 y T2 de las inversiones significativas. En el caso que el banco no disponga de suficiente capital para realizar la deducción a un determinado nivel (AT1_4 y T2_4), entonces, la deducción se llevará a cabo en el nivel de capital inmediatamente superior. La deducción de CET1 por las inversiones significativas se trata en el siguiente paso de deducciones por umbrales. Luego de aplicar este ajuste, se obtiene el capital adicional nivel 1 ajustado AT1_5 y capital nivel 2 ajustado T2_5. En el caso de no aplicarse los descuentos en el capital ordinario nivel 1 por existir suficiente capital para absorber la deducción en los niveles superiores respectivos, el CET1_5 corresponderá al valor que viene del paso anterior (CET1_4). Estos valores se pueden expresar matemáticamente como sigue:
-𝑇2_5=𝑇2_4−min{𝑇2_4; 𝑇2_𝐼𝑆} 𝐴𝑇1_5=𝐴𝑇1_4−min{𝐴𝑇1_4;𝐴𝑇1_𝐼𝑆+max{0;𝑇2_𝐼𝑆−𝑇2_4}} 𝐶𝐸𝑇1_5= 𝐶𝐸𝑇1_4−max{0;𝐴𝑇1_𝐼𝑆−𝐴𝑇1_4} − max{0;𝑇2_𝐼𝑆−𝑇2_4}
+T2_5=T2_4−min{T2_4; T2_IS} AT1_5=AT1_4−min{AT1_4;AT1_IS+max{0;T2_IS−T2_4}}
+CET1_5= CET1_4−max{0;AT1_IS−AT1_4} − max{0;T2_IS−T2_4}
 donde:
-• 𝐶𝐸𝑇1_5 es el capital ordinario nivel 1 luego de restar el ajuste por
+• CET1_5 es el capital ordinario nivel 1 luego de restar el ajuste por
 inversiones significativas de otros componentes de capital.
-• 𝐴𝑇1_5 es el capital adicional nivel 1 luego de restar el ajuste por
+• AT1_5 es el capital adicional nivel 1 luego de restar el ajuste por
 inversiones significativas.
-• 𝑇2_5 es el capital nivel 2 luego de restar el ajuste por inversiones
+• T2_5 es el capital nivel 2 luego de restar el ajuste por inversiones
 significativas.
-• 𝐶𝐸𝑇1_4 es el capital ordinario nivel 1 obtenido del paso anterior.
-• 𝐴𝑇1_4 es el capital adicional nivel 1 obtenido del paso anterior.
-• 𝑇2_4 es el capital nivel 2 obtenido del paso anterior.
-• 𝐴𝑇1_𝐼𝑆 es la suma de la exposición a instrumentos del tipo AT1 de
+• CET1_4 es el capital ordinario nivel 1 obtenido del paso anterior.
+• AT1_4 es el capital adicional nivel 1 obtenido del paso anterior.
+• T2_4 es el capital nivel 2 obtenido del paso anterior.
+• AT1_IS es la suma de la exposición a instrumentos del tipo AT1 de
 entidades clasificadas como significativas.
 • T2_IS es la suma de la exposición a instrumentos del tipo T2 de entidades
 clasificadas como significativas.
@@ -222,32 +227,32 @@ Capítulo 21-1 Hoja 11
 En este apartado se aplican los ajustes regulatorios finales a los componentes de capital. En un primer paso, se deberá deducir, sobre el capital ordinario nivel 1 ajustado del paso anterior (CET1_5), y de manera individual, valores que sobrepasen el 10% de CET1_5 en los siguientes tres rubros, que se conocen como partidas específicas: i) activos por impuestos diferidos por diferencias temporales netos de pasivos netos por impuestos diferidos que no hayan sido utilizados para deducir el activo definido en las letras a y g del numeral 2 del Título III, y derechos de servicios de créditos hipotecarios, al que se refiere el punto iii) de este párrafo; ii) inversiones en entidades significativas en CET1; y iii) derechos de servicios de créditos hipotecarios, neto de cualquier pasivo neto por impuestos diferidos que se extinguiría si esta partida sufriera deterioro o fuera dada de baja según la NIC 36.
 Por otro lado, bancos que reciban por parte del Fisco un crédito (activo) contingente, total o parcial, por el monto de activos netos por impuestos diferidos por diferencias temporales que superan el 10% del CET1_5, quedarán eximidos de esta deducción. Los montos por activos netos de impuestos diferidos por diferencias temporales que no se deduzcan, a causa de este tratamiento, tendrán un ponderador del 100% en el cálculo de los APRC.
 Considerando este ajuste inicial al capital ordinario nivel 1, se obtiene el CET1_6(INT) tal como sigue:
-𝐸𝑋𝐶_𝐼𝐷𝑁 =max{0;𝐼𝐷𝑁_𝐷𝑇−𝐶𝐸𝑇1_5⋅10%} 𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐼𝑆 =max{0;𝐶𝐸𝑇1_𝐼𝑆−𝐶𝐸𝑇1_5⋅10%} 𝐸𝑋𝐶_𝐷𝑆𝐶𝐻 =max{0;𝐷𝑆𝐶𝐻−𝐶𝐸𝑇1_5⋅10%}
-𝐶𝐸𝑇1_6(𝐼𝑁𝑇)= 𝐶𝐸𝑇1_5−(𝐸𝑋𝐶_𝐼𝐷𝑁+𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐼𝑆+𝐸𝑋𝐶_𝐷𝑆𝐶𝐻)
+EXC_IDN =max{0;IDN_DT−CET1_5⋅10%} EXC_CET1_IS =max{0;CET1_IS−CET1_5⋅10%} EXC_DSCH =max{0;DSCH−CET1_5⋅10%}
+CET1_6(INT)= CET1_5−(EXC_IDN+EXC_CET1_IS+EXC_DSCH)
 donde:
-• 𝐶𝐸𝑇1_5 es el CET1 resultante del paso anterior.
-• 𝐶𝐸𝑇1_6(𝐼𝑁𝑇) es el CET1 resultante de la deducción de las partidas específicas,
+• CET1_5 es el CET1 resultante del paso anterior.
+• CET1_6(INT) es el CET1 resultante de la deducción de las partidas específicas,
 evaluadas en forma individual.
-• 𝐼𝐷𝑁_𝐷𝑇 son los activos netos por impuestos diferidos por diferencias
+• IDN_DT son los activos netos por impuestos diferidos por diferencias
 temporales.
-• 𝐷𝑆𝐶𝐻 son los derechos de servicios de créditos hipotecarios, neto del pasivo
+• DSCH son los derechos de servicios de créditos hipotecarios, neto del pasivo
 neto por impuestos diferidos.
-• 𝐶𝐸𝑇1_𝐼𝑆 es la suma de exposición a instrumentos del tipo CET1 de inversiones
+• CET1_IS es la suma de exposición a instrumentos del tipo CET1 de inversiones
 significativas.
-• 𝐸𝑋𝐶_𝐼𝐷𝑁 es el excedente asociado a los activos netos por impuestos diferidos
+• EXC_IDN es el excedente asociado a los activos netos por impuestos diferidos
 por diferencias temporales que debe ser deducido al realizar análisis individual.
-• 𝐸𝑋𝐶_𝐶𝐸𝑇1_IS es el excedente asociado a las inversiones significativas en CET1
+• EXC_CET1_IS es el excedente asociado a las inversiones significativas en CET1
 que debe ser deducido al realizar análisis individual.
-• 𝐸𝑋𝐶_𝐷𝑆𝐶𝐻 es el excedente asociado a los derechos de servicios de créditos
+• EXC_DSCH es el excedente asociado a los derechos de servicios de créditos
 hipotecarios que debe ser deducido al realizar análisis individual.
 Circular N°2.274 / 08.10.2020 por Resolución N°4620
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-1 Hoja 12 Además del descuento individual, se requiere que la suma de los montos no descontados por las partidas específicas no sea superior al 15% del capital básico o capital ordinario nivel 1 una vez realizados todos los ajustes regulatorios, incluyendo las deducciones realizadas de las partidas específicas de forma individual, y considerando en el capital el monto no deducido. Este ajuste se realiza
 como sigue:
-𝐶𝐸𝑇1_6= 𝐶𝐸𝑇1_6(𝐼𝑁𝑇)
-−max{0;[(𝐼𝐷𝑁_𝐷𝑇+𝐶𝐸𝑇1_𝐼𝑆+𝐷𝑆𝐶𝐻)
-−(𝐸𝑋𝐶_𝐼𝐷𝑁+𝐸𝑋𝐶_𝐶𝐸𝑇1_𝐼𝑆+𝐸𝑋𝐶_𝐷𝑆𝐶𝐻)]−𝐶𝐸𝑇1_6(𝐼𝑁𝑇)⋅(15/85)} Los montos no descontados de las partidas específicas estarán sujetos a un ponderador de riesgo de crédito de 250%, salvo en los casos donde exista un crédito del Estado asociado al excedente en activos netos por impuestos diferidos por diferencias temporales, en cuyo caso, aplicará un ponderador de 100% para el cómputo de los APRC.
+CET1_6= CET1_6(INT)
+−max{0;[(IDN_DT+CET1_IS+DSCH)
+−(EXC_IDN+EXC_CET1_IS+EXC_DSCH)]−CET1_6(INT)⋅(15/85)} Los montos no descontados de las partidas específicas estarán sujetos a un ponderador de riesgo de crédito de 250%, salvo en los casos donde exista un crédito del Estado asociado al excedente en activos netos por impuestos diferidos por diferencias temporales, en cuyo caso, aplicará un ponderador de 100% para el cómputo de los APRC.
 Considerando el ajuste regulatorio por umbral, se obtiene el monto CET1_6, que se considera como capital ordinario nivel 1 del banco. Para el caso del capital adicional nivel 1, dado que no existen ajustes regulatorios en este paso, su valor corresponderá al que viene dado por AT1_5. Similar situación ocurre para el capital nivel 2, cuyo monto quedará determinado por T2_5.
 ## IV. SOBRE LA MEDICIÓN DE LOS LÍMITES LEGALES Y APLICACIÓN DE ESTA NORMA
 ## 1. Aplicación de esta norma

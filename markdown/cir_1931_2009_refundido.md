@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1931 — COMPLEMENTA CIRCULAR N° 1
+# CIRCULAR N° 1931 — COMPLEMENTA CIRCULAR N° 1.924 DE 24 DE ABRIL DE 2009 QUE IMPARTE NORMAS SOBRE PRESENTACIÓN DE INFORMACIÓN FINANCIERA PREPARADA BAJO IFRS DE LAS SOCIEDADES INSCRITAS EN EL REGISTRO DE VALORES.
 
 
 Para todas las sociedades inscritas en el Registro de Valores con excepción de las compañías de seguros.
@@ -19,11 +19,9 @@ En relación al envío del archivo XBRL a esta Superintendencia, para los perío
 financieros completos o pro forma, según corresponda, se informa lo siguiente:
 a) Las sociedades que generaron en el período marzo 2009 su archivo XBRL usando el
 Formulario Interactivo dispuesto por este Servicio en su página web, deberán enviar los estados financieros básicos, sin notas explicativas, en una archivo XBRL generado internamente, a través de la adquisición o desarrollo de un sofware para tal efecto, o en caso que no sea factible, utilizando el Formulario Interactivo en mención. El archivo XBRL deberá ser enviado a esta Superintendencia en la misma oportunidad en que se remitan los archivos en formato PDF y ECXEL. Cabe reiterar, que los estados financieros básicos se deberán preparar de acuerdo al Modelo de Información publicado en la citada página web. Respecto de la información correspondiente a las notas explicativas en XBRL, este Organismo podrá requerir en el futuro el envío de dichas notas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 b) Para las sociedades que hayan adquirido o desarrollado un sofware y generaron sus
 propios archivos XBRL para el período de marzo de 2009, incluyendo sus notas explicativas, deberán seguir manteniendo el envío de éste en los plazos máximos de entrega, establecidos en el Oficio Circular N° 473 de 25 de septiembre de 2008.
 La información bajo el formato XBRL deberá presentarse en pesos o dólares, según la moneda que corresponda Además, se informa que en Preguntas frecuentes de la página de XBRL, en Adopción IFRS del sitio web de esta Superintendencia, se encuentra la definición de los contextos para la generación de los archivos XBRL, tanto si dichos archivos son generados a través del citado Formulario Interactivo, o bien directamente por la sociedad.
 Se recuerda que en caso de dudas o problemas en el proceso de ingreso de información, generación, envío, validación y carga del archivo XBRL a esta Superintendencia, se deberá contactar con este Organismo al correo electrónico soporte_ifrs@svs.cl. Por otra parte, la atención a este correo se efectúa en días hábiles, de Lunes a Viernes, de 8:30 a 19:00 horas.
 Por último, cabe señalar que en todo aquello que no se haya instruido en esta Circular, se mantiene vigente lo dispuesto en la Circular N° 1.924 de 24 de abril de 2009.
 SUPERINTEDENTE
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

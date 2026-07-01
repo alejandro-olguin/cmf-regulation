@@ -20,4 +20,3 @@ Una vez que la sociedad administradora haya proporcionado los antecedentes reque
 Las sociedades administradoras no podrán iniciar la administración de un fondo, sin que previamente la Superintendencia haya inscrito, el o los contratos de administración correspondientes.
 Toda modificación a los contratos de administración deberá previamente ser inscrita en el mencionado registro.
 VIGENCIA La presente circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

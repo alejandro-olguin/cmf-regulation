@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 219 — FECHA : 12.8.2008
+# NCG N° 219 — IMPARTE INSTRUCCIONES RELATIVAS A FILIALES ADMINISTRADORAS DE FONDOS DE PENSIONES
 
 
 Esta Superintendencia, en uso de sus facultades legales, ha resuelto impartir instrucciones respecto a la constitución de filiales como sociedades Administradoras de Fondos de Pensiones, en adelante AFP.

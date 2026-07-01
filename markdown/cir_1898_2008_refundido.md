@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# AUTORIZA PLANES DE AHORRO PREVISIONAL VOLUNTARIO Y PLANES DE AHORRO PREVISIONAL VOLUNTARIO COLECTIVO, QUE OFREZCAN INSTITUCIONES QUE SEÑALA E IMPARTE INSTRUCCIONES SOBRE LA MATERIA. DEROGA CIRCULARES N°s. 1.567, 1589 y 1.597 Y OFICIO CIRCULAR N° 217 DE 2004. A todas las administradoras generales de fondos. de fondos mutuos, de fondos de inversión, de fondos para la vivienda e intermediarios de valores. I. INTRODUCCIÓN
+# CIRCULAR N° 1898 — AUTORIZA PLANES DE AHORRO PREVISIONAL VOLUNTARIO Y PLANES DE AHORRO PREVISIONAL VOLUNTARIO COLECTIVO, QUE OFREZCAN INSTITUCIONES QUE SEÑALA E IMPARTE INSTRUCCIONES SOBRE LA MATERIA
 
-### CIRCULAR N° 1.898
-FECHA: 03.10.2008
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en los artículos
 4° letras a) y v) del D.L. N° 3.538; 20 a 20 O y 98 letras m) y ñ) del D.L. N° 3.500; 27 y 30 de la Ley N° 18.045 y lo establecido en las Normas Conjuntas N°s. 226 y 227, ambas del 2008, ha resuelto autorizar como actividad complementaria para los corredores de bolsa y agentes de valores la oferta de planes de ahorro previsional voluntario y de ahorro previsional voluntario colectivo, en adelante APV y APVC, respectivamente, autorizar a las administradoras generales de fondos para ofrecer planes de APV y APVC en las condiciones establecidas en la presente Circular, e impartir las siguientes instrucciones respecto de los que ofrezcan tanto los intermediarios de valores como las administradoras de fondos mutuos, administradoras de fondos de inversión, administradoras de fondos para la vivienda y administradoras generales de fondos, en adelante indistintamente, las Entidades o Instituciones Autorizadas.
@@ -18,9 +16,7 @@ a) Aquellos fondos mutuos o fondos de inversión, o la serie de cuotas en su cas
 ofrecidas como objeto de inversión para los planes de APV o APVC, deberán tener el carácter de exclusivo para este tipo de ahorro previsional, pudiendo una misma serie de cuotas ser destinada a ambos tipos de planes.
 b) Se deberá incorporar en el contrato de suscripción de cuotas respectivo, un cuadro o
 cláusula en la que se haga constar la expresión de voluntad inequívoca del partícipe o aportante, en el sentido que sus recursos sean invertidos para efectos de constituir un plan de APV o APVC, en conformidad a lo dispuesto en el D.L. N° 3.500, indicando con precisión el monto invertido con dicho objeto, la serie de cuotas en que invertirán los recursos, de proceder, y el régimen tributario aplicable establecido en la letras a) y b) del artículo 20 L del D.L. N° 3.500.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
+
 Tratándose de planes de APVC, además la administradora deberá entregar a los trabajadores al momento de adhesión al plan, copia del contrato firmado con el empleador.
 Para estos efectos, la administradora podrá poner dicho documento a disposición de los trabajadores que adhirieron al contrato en su sitio Web, en la medida que este hecho sea debidamente informado al trabajador en el contrato de suscripción de cuotas, y que le sea proporcionada una copia sin costo alguno, en caso de solicitarla.
 c) Asimismo, se deberá anexar al contrato de suscripción de cuotas, el denominado
@@ -43,10 +39,7 @@ III.1 De los planes ofrecidos a través de las instituciones establecidas en el 
 ### N° 19.281.
 a) Deberán ser ofrecidos a través de las instituciones establecidas en el artículo1° de la Ley
 N° 19.281, pudiendo éstas sólo ofrecer planes de APV. Dichos planes deberán
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
-corresponder a contratos de ahorro voluntario, conforme disponen los artículos 7 y 8 del
+2 corresponder a contratos de ahorro voluntario, conforme disponen los artículos 7 y 8 del
 ### D.S. N° 1.334.
 Adicionalmente, los fondos para la vivienda objeto de inversión para los planes de ahorro en comento, deberán contener en el contrato correspondiente, un cuadro o cláusula en la que se haga constar la expresión de la voluntad inequívoca del titular de la cuenta de ahorro, en el sentido que sus recursos sean invertidos para efectos de construir un plan de APV, en conformidad a lo dispuesto en el D.L. N° 3.500, indicando con precisión el monto invertido con dicho objeto y el régimen tributario aplicable establecido en la letras a) y b) del artículo 20 L del D.L. N° 3.500.
 b) Las administradoras previo a iniciar este tipo de planes deberá informar a esta
@@ -67,10 +60,8 @@ Adicionalmente, los fondos para la vivienda objeto de inversión para los planes
 a) y b) del artículo 20 L del D.L. N° 3.500.
 Tratándose de planes de APVC, además, la administradora deberá entregar a los trabajadores al momento de adhesión al plan, copia del contrato firmado con el empleador.
 Para estos efectos, la administradora podrá poner dicho documento a disposición de los trabajadores que adhirieron al contrato en su sitio Web, en la medida que este hecho sea
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
-debidamente informado al trabajador en el contrato de suscripción de cuotas, y que le sea proporcionada una copia sin costo alguno, en caso de solicitarla.
+3 debidamente informado al trabajador en el contrato de suscripción de cuotas, y que le sea
+proporcionada una copia sin costo alguno, en caso de solicitarla.
 b) En caso de planes APVC, y en tanto no se cumplan los requisitos establecidos para que
 los aportes del empleador pasen a ser del trabajador, la Administradora deberá mantener aquella parte correspondiente al empleador separada de la del trabajador respectivo. Una vez que los aportes enterados por el empleador al plan APVC pasen a ser propiedad del trabajador, por cumplirse los requisitos dispuesto para ello, la Administradora deberá cursar la correspondiente transferencia de cuotas por parte del empleador al trabajador, en los mismos términos y de acuerdo a las formalidades señaladas en la letra d) de la sección II anterior.
 c) El contrato de APV o APVC, según corresponda, deberá contener al menos las siguientes
@@ -95,9 +86,7 @@ de garantía estatal e imposibilidad de asegurar una rentabilidad real positiva.
 empleador el descuento por planilla del aporte.
 - Derecho del inversionista de solicitar información sobre el saldo de sus inversiones,
 en cualquier oficina de la administradora y/o de sus recaudadores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
+
 - Derecho del inversionista de efectuar retiros y traspasos de sus recursos y las
 formalidades y plazos para dar curso a dicha solicitud.
 d) Se entenderá por precio de mercado de las cuotas de los fondos para la vivienda al valor
@@ -120,10 +109,7 @@ a) Los planes APV y APVC que se pretendan ofrecer y sus modificaciones, deberán
 remitidos a la Superintendencia junto a los documentos que acrediten la constitución de la garantía correspondiente, no pudiendo iniciar su oferta sino una vez aprobados por ésta.
 b) La actividad de administración de ahorro previsional y los contratos a través de los cuales
 se perfeccionen los planes APV y APVC deberán cumplir con los requisitos dispuestos en la Circular N° 1.862 de 2008, sobre administración de cartera de terceros, en aquellas
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
-materias que no sean contrarias a lo dispuesto en las Normas de Carácter General N°s.
+5 materias que no sean contrarias a lo dispuesto en las Normas de Carácter General N°s.
 226 y 227 de 2008 y en la presente Circular.
 En el caso de planes de APVC, además, el intermediario deberá entregar a los trabajadores al momento de adhesión al plan, copia del contrato firmado con el empleador.
 Para estos efectos, el intermediario podrá poner dicho documento a disposición de los trabajadores que adhirieron a contrato en su sitio Web, en la medida que este hecho sea debidamente informado al trabajador en el contrato de administración, y que le sea proporcionada una copia sin costo alguno, en caso de solicitarla.
@@ -139,10 +125,8 @@ g) El plazo para pagar los retiros y efectuar los traspasos a las Instituciones 
 las Administradoras de Fondos de Pensiones será el establecido en el respetivo contrato, el cual en ningún caso podrá ser superior al máximo establecido para tales efectos en las Normas 226 y 227, ambas de 2008.
 h) Los intermediarios de valores deberán informar permanentemente al público mediante un
 aviso en sus oficinas y en sus páginas web, las comisiones mínimas y máximas aplicables a los planes de APV y APVC. Las modificaciones a las comisiones que serán cobradas por los intermediarios de valores, deberán ser comunicadas mediante carta certificada u otro medio que permita comprobar fehacientemente dicho despacho, a cada uno de los clientes a los que se aplique esa modificación o por medio de un aviso destacado en el diario o periódico establecido en el contrato de administración, con 15 días de anticipación
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
-a su entrada en vigencia. No podrán ser de cargo del cliente, los derechos de bolsa cobrados por las Bolsas de Valores ni las comisiones de intermediación, por las operaciones que realice el intermediario con los recursos en virtud de la presente Circular.
+6 a su entrada en vigencia. No podrán ser de cargo del cliente, los derechos de bolsa
+cobrados por las Bolsas de Valores ni las comisiones de intermediación, por las operaciones que realice el intermediario con los recursos en virtud de la presente Circular.
 Con todo, para poder ofrecer planes de APV y APVC, el patrimonio libre de riesgo del intermediario, deberá ser permanentemente igual o superior a las 14.000 unidades de fomento.
 Se entenderá por patrimonio libre de riesgo, al patrimonio líquido del intermediario descontado el monto de cobertura patrimonial y aquellas potenciales pérdidas que en su proceso de gestión de riesgos la entidad estime se puedan producir por la materialización de riesgos operacionales u otros no incluidos en el cálculo de las variables anteriores. La metodología que será utilizada por la entidad para la determinación de dichas pérdidas potenciales, deberá ser remitida a la Superintendencia antes del inicio de la oferta de planes APV y APVC, y constar por escrito en sus políticas y manuales de procedimientos.
 En caso de producirse un incumplimiento a esos requisitos, el intermediario dispondrá de 30 días para regularizar esta situación. De no regularizarla, deberá poner término a los planes ofrecidos y proceder a traspasar los recursos administrados a aquella entidad que le especifique cada cliente o proceder a pagar los retiros correspondientes, ambos en plazo señalado en la letra g) anterior.
@@ -160,9 +144,7 @@ administradoras de fondos de inversión y las administradoras de fondos para la 
 Deberán complementar el Registro Histórico de Información por Trabajador a que se refiere la sección VI y V de las Normas N°s. 226 y 227 de 2008, respectivamente, señalando el número de cuotas que el trabajador mantiene en cada una de los fondos, o de la serie de cuotas en su caso.
 e) No podrá establecerse cobro de ningún tipo o clase de comisiones por parte de las
 sociedades administradoras de fondos e intermediarios de valores que ofrezcan planes de APV y APVC, asociado al traspaso de una parte o la totalidad de los recursos originados en dichos planes, desde dichas entidades hacia una Administradora de Fondos de Pensiones o una Institución Autorizada. Lo anterior, por cuanto el citado cobro es contrario a lo dispuesto en el inciso tercero el artículo 20 C y el inciso cuarto del artículo 20 I, ambos del D.L. N° 3.500.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
+
 Sin perjuicio de lo señalado precedentemente, en sucesos distintos al traspaso de recursos indicado, podrán ser cobradas comisiones, en las condiciones que la regulación propia establezca.
 Las sociedades administradoras e intermediarios de valores deberán adoptar las medidas tendientes a la correcta aplicación de la ley y normativa referida a incorporar en sus reglamentos internos, contratos de suscripción de cuotas, contratos de ahorro voluntario o contrato de administración, según sea el caso, una mención a lo indicado en esta letra, con el objeto de entregar mayor información a los inversionistas.
 f) Para efectos de la información entregada al público sobre rentabilidad, de acuerdo a la
@@ -177,9 +159,7 @@ i) Tratándose de modificaciones en los planes de APVC a las condiciones asociad
 empleador, esto es, la permanencia del trabajador exigida para que los aportes del empleador pasen a ser de su propiedad, y el aporte de este último, éstas regirán a contar del mes siguiente en que se hayan producido tales cambios y sólo si el trabajador adhiere a las mismas, en caso de su aumento o disminución, respectivamente.
 j) Las entidades deberán poner a disposición de sus clientes, al momento de adhesión de los
 planes correspondientes, información respecto del régimen tributario aplicable al ahorro destinado a planes de APV y APVC y a los retiros de recursos efectuados por los mismos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
+
 ## VI. DEROGACIÓN
 Derógase las Circulares N°s. 1.567 de 7 de noviembre de 2001, 1.589 de 6 de febrero de 2002 y
 1.597 de 15 de abril de 2002 y el Oficio Circular N° 217 de 2004.
@@ -192,7 +172,3 @@ De no adecuarlos, deberán poner término a los planes de APV ofrecidos y proced
 b) Por otra parte, las administradoras podrán ofrecer como planes de APVC, aquellas series
 de cuotas destinadas a planes de APV, de fondos mutuos cuyos reglamentos internos han sido aprobados por esta Superintendencia, en las condiciones establecidas para las mencionadas series.
 En este caso, las administradoras deberán informar previamente a este Servicio los fondos y series que ofrecerán planes de APVC de los señalados en el párrafo anterior, y la incorporación a los contratos de suscripción de la cláusula señalada en la letra b) de la sección II de esta Circular. No obstante lo anterior, estas entidades deberán adecuar los reglamentos internos y contratos de suscripción de cuotas correspondientes, dentro de los próximos seis meses o en la próxima modificación que de éstos realicen si ésta se realiza en forma anterior a dicho plazo Sin embargo, las administradoras que en sus fondos quieran ofrecer planes con condiciones distintas a las establecidas en los reglamentos indicados, tales como, comisiones, plazo de retiro, plazo de traspasos, entre otras, deberán previamente solicitar la aprobación de las modificaciones a los reglamentos internos y contratos, según las formalidades establecidas en la regulación vigente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.898
-FECHA: 03.10.2008
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

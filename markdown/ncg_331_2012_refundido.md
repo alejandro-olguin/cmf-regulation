@@ -27,7 +27,6 @@ contratos de arrendamiento de vivienda con promesa de compraventa de la Ley 19.2
 para efectuar cualquier declaración o comunicación por parte del deudor asegurado. Estas sólo podrán referirse a circunstancias por él conocidas y solicitadas por la aseguradora.
 5. Deberán señalar que el plazo máximo en que la aseguradora pagará la indemnización al acreedor
 beneficiario y al deudor asegurado cuando corresponda, no podrá exceder de 6 días hábiles contados desde la notificación de la aceptación de la compañía de la procedencia del pago de la indemnización.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER GENERAL SVS N° 331
 FECHA: 21.03.2012
@@ -60,7 +59,6 @@ siniestro.
 7. Deberán señalar claramente qué bienes y tipos de inmuebles no serán asegurables.
 8. Deberán establecer que el monto asegurado corresponderá al valor de tasación del inmueble, descontado el
 valor del terreno, debiendo aplicarse el concepto de “primera pérdida” y por lo tanto, que la indemnización no estará afecta a la regla proporcional que señala el Artículo 553 del Código de Comercio. Este será el límite máximo de responsabilidad del asegurador.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER GENERAL SVS N° 331
 FECHA: 21.03.2012
@@ -93,7 +91,6 @@ pérdida irreversible y definitiva de la capacidad de trabajo del asegurado, a c
 el plazo allí señalado considerará la permanencia continua e ininterrumpida en uno o más seguros licitados sucesivos, aunque sean de distintas aseguradoras.
 ## V. Vigencia.
 La presente circular entra en vigencia a contar de esta fecha y se aplicará a todos los contratos de seguros asociados a créditos hipotecarios de acuerdo a lo establecido en el artículo 40 del D.F.L. N° 251, que deban iniciar su vigencia desde el 1 de julio de 2012 en adelante, ya sean nuevos contratos de seguros que se suscriban o cualquier contrato vigente que se renueve, renegocie o sea objeto de novación, como lo establece el artículo segundo transitorio de la ley N° 20.552.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA DE CARÁCTER GENERAL SVS N° 331
 FECHA: 21.03.2012
@@ -102,4 +99,3 @@ A más tardar el 5 de abril de 2012, deberá estar depositado al menos un modelo
 Transitorio N.C.G. N° 350 Para aquellos contratos que comiencen a regir a contar del 1° de diciembre de 2013 y exclusivamente para licitaciones del artículo 40 del D.F.L. N° 251 iniciadas antes de dicha fecha, en el evento que no se hayan depositado modelos de condiciones generales ajustadas a las nuevas normas sobre contrato de seguro, contenidas en el Título VIII del Libro II del Código de Comercio, se podrán utilizar los modelos actualmente depositados en tanto no estén prohibidos, efectuando en el condicionado particular los ajustes a las nuevas normas imperativas, en la forma prevista en el número 2 del Título II de la Norma de Carácter General N° 349.
 Los ajustes requeridos deberán ser informados en las correspondientes bases de licitación.
 Las compañías deberán considerar las modificaciones introducidas en la presente norma, para las ofertas que presenten en las licitaciones de contratos que deban comenzar a regir a contar del 1° de diciembre de 2013.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

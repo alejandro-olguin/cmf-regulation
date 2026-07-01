@@ -3,11 +3,10 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1713 — FECHA: 8.4.2004
+# CIRCULAR N° 1713 — INSTRUYE EL ENVÍO DE INFORMACIÓN MENSUAL DE MUTUOS HIPOTECARIOS ENDOSABLES
 
-REF: INSTRUYE EL ENVÍO DE INFORMACIÓN MENSUAL DE MUTUOS HIPOTECARIOS ENDOSABLES.
-### DEROGA CIRCULARES QUE INDICA. 1
-A los Agentes Administradores de Mutuos Hipotecarios Endosables Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en los artículos 3º letra b) y Título V del D.F.L. Nº 251, de 1931, ha resuelto impartir las siguientes instrucciones, relativas a la información que deben enviar los Agentes Administradores de Mutuos Hipotecarios Endosables a este Organismo.
+
+Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en los artículos 3º letra b) y Título V del D.F.L. Nº 251, de 1931, ha resuelto impartir las siguientes instrucciones, relativas a la información que deben enviar los Agentes Administradores de Mutuos Hipotecarios Endosables a este Organismo.
 ## I. INFORMACIÓN A PRESENTAR, PERIODICIDAD Y FORMA DE ENVÍO
 Los Agentes Administradores deberán enviar a esta Comisión la siguiente información:
 ## 1. Mutuos hipotecarios otorgados (Anexo Nº 1)

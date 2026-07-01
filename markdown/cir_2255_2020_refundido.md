@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2255
+
 Texto actualizado: Circular N° 126 Cooperativas Hoja 1
 ### TEXTO ACTUALIZADO
 Disposición: CIRCULAR N° 126 (de 21.01.2008) Para: COOPERATIVAS Materia: Encaje de las cooperativas de ahorro y crédito

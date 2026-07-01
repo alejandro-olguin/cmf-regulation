@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE PRESENTACIÓN DE INFORMACIÓN MENSUAL RELATIVA A FONDOS MUTUOS A todas las sociedades que administran fondos mutuos. I. INTRODUCCION
+# CIRCULAR N° 1333 — IMPARTE INSTRUCCIONES SOBRE PRESENTACIÓN DE INFORMACIÓN MENSUAL RELATIVA A FONDOS MUTUOS A todas las sociedades que administran fondos mutuos
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 
 Esta Superintendencia, en uso de sus facultades legales y de acuerdo a lo dispuesto en el artículo 9º del D.L. Nº 1.328 de 1976, sobre administración de Fondos Mutuos, ha estimado necesario requerir información mensual a los fondos mutuos, referida al último día de cada mes.
 La presente circular establece un modelo para la presentación de información mensual a esta Superintendencia, el que deberá ser enviado por las sociedades administradoras, para cada uno de los fondos que administren. Esta presentación se hará a través del Módulo SEIL (
@@ -25,18 +23,13 @@ la siguiente información:
 ### 6.02 Inversiones en instrumentos emitidos por emisores extranjeros
 ### 6.03 Inversiones en contratos de opciones
 ### 6.04 Inversiones en contratos de futuro y forward(1)
-## 7. Contratos de opciones en que el fondo actúa como lanzador SUPERINTENDENCIA DE VALORES Y SEGUROS
+## 7. Contratos de opciones en que el fondo actúa como lanzador
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 Las instrucciones específicas de los datos que se deben informar en cada caso, se encuentran contenidas en el Anexo N° 1. La información relativa a los formatos de los archivos que se debe enviar a esta Superintendencia, se encuentra actualizada para consulta en la Ficha Técnica, disponible en el Módulo SEIL del sitio Web, “www.svs.cl“.
 Las instrucciones específicas de los datos que se deben informar en cada caso, se encuentran contenidas en el Anexo N° 1. La información relativa a los formatos de los archivos que se deben enviar a esta Superintendencia, se encuentra actualizada para consulta en la Ficha Técnica, disponible en el Módulo SEIL del sitio Web, www.svs.cl,
 ## III. VIGENCIA
 Las normas establecidas en la presente Circular, rigen a contar del 1º de septiembre de 1997.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 ## ANEXO Nº 1 INFORMACIÓN MENSUAL DE FONDOS MUTUOS
 ## 1. IDENTIFICACION
 1.00.01.10 Fecha de inicio: indicar el día, mes y año del inicio del mes que se informa. En
@@ -60,10 +53,7 @@ inscripción que los auditores externos tienen asignado en el Registro que lleva
 tributario de la sociedad administradora, incluyendo el dígito verificador.
 2.03.02.00 Razón social de la sociedad administradora: señalar la razón social completa
 de la sociedad administradora que administra el fondo mutuo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 ## 3. INFORMACION DEL FONDO TIPO DE FONDO
 3.03.01.10 Tipo de Fondo: indicar el tipo de fondo mutuo que se está informando , según
 lo establecido por la sección II de la Circular Nº 1.578 del 17 de enero de 2002 de esta Superintendencia, o la que la modifique o reemplace.
@@ -95,10 +85,7 @@ fondo sin decimales, cobrado por la sociedad administradora por concepto de comi
 de colocación.
 3.03.04.13.X Monto mínimo: indicar el monto mínimo expresado en la moneda funcional del
 fondo, sin decimales, cobrado por la sociedad administradora por concepto de comisión de colocación.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 3.03.04.14.X Porcentaje mínimo: indicar el porcentaje mínimo deducido de los aportes, con 3
 decimales, cobrado por la sociedad administradora por concepto de comisión de colocación.
 3.03.04.15.X Monto único: indicar el monto único expresado en la moneda funcional del
@@ -122,10 +109,7 @@ Porcentaje de gasto de operación anual:
 3.03.04.30.X Porcentaje de gasto de operación anual: indicar, con 3 decimales, el
 porcentaje de gasto anual de cargo del fondo mutuo o de la serie, incluyendo el Impuesto al Valor Agregado (I.V.A.), que se encuentre establecido en su reglamento interno.
 El código que asuma la variable “X”, corresponderá a la nomenclatura propia de la serie, establecida en el reglamento interno del fondo en caso que corresponda. De no haber series de cuotas, o de ser las comisiones de colocación, remuneraciones y/o gastos idénticas independientemente de la serie, se deberá digitar un guión “-“.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 ### PLAZO DE PAGO DE RESCATES
 3.03.05.11.X Plazo de pago de rescates: indicar el plazo máximo de pago de rescates del
 fondo o de la serie, según corresponda, establecido en el respectivo reglamento interno, señalando si se trata de horas o días y si éstos son corridos, hábiles y/o bancarios.
@@ -147,10 +131,7 @@ financieras.
 4.32.03.XX Letras de créditos emitidas o garantizadas por bancos o instituciones financieras.
 4.32.04.XX Pagarés de empresas.
 4.32.05.XX Bonos de empresas y de sociedades securitizadoras.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 4.32.06.XX Pagarés emitidos por Estados y bancos centrales.
 4.32.07.XX Bonos emitidos por Estados y bancos centrales.
 4.32.09.XX Otros títulos de deuda.
@@ -177,10 +158,7 @@ siguientes estados:
 ### 6.01 INVERSIONES EN INSTRUMENTOS EMITIDOS POR EMISORES NACIONALES
 La información respecto de las inversiones del fondo, deberá estar referida al último día del mes que se informa.
 Los instrumentos financieros pueden ser agrupados o sumados siempre y cuando tengan las mismas características.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 A continuación se detalla el contenido y forma en que deben completarse las variables que muestran las características de los instrumentos financieros que conforman la cartera de inversiones.
 6.01.01.00 Nemotécnico del instrumento: se deberá informar el código nemotécnico
 establecido por esta Superintendencia, en la Circular Nº 1.085 de 1982 y en la Circular Nº 1.064 de 1992, Título I, Nº 1.2, sección 1.2.1, o las que las modifiquen o reemplacen. Si se tratara de inversiones en cuotas de fondos mutuos se deberá digitar el código NA (no aplicable).
@@ -206,10 +184,7 @@ derivados y venta corta.
 6.01.07.00 Clasificación de riesgo: indicar, cuando corresponda, la categoría de riesgo
 de los instrumentos, considerando para ello la menor categoría de riesgo de las clasificaciones efectuadas por las entidades clasificadoras de riesgo.
 Para estos efectos, se debe utilizar la denominación indicada en el artículo 88 de la Ley Nº 18.045, esto es, las letras AAA, AA, A, BBB,BB, B, C, D y E, si se tratare de títulos de deuda de largo plazo y N-1, N-2, N-3, N-4 y N-5, si se tratare de títulos de deuda de corto plazo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 En el caso que una inversión no esté obligada a ser clasificada, esta situación se informará con el código NA (no aplicable).
 6.01.08.00 Código del grupo empresarial: indicar el grupo empresarial al cual pertenece
 la sociedad emisora, de acuerdo a la Circular Nº 1.664 de esta Superintendencia, de fecha 10 de abril de 2003, o la que la modifique o reemplace y de acuerdo a la codificación disponible en el sitio Web www.svs.cl.
@@ -234,10 +209,7 @@ valorización establecida en la variable 6.01.11.11, mediante los números: 30,
 6.01.11.14 Tipo de interés: señalar el tipo de interés de los instrumentos, de acuerdo a la
 siguiente codificación:
 NL : Nominal lineal NC : Nominal compuesto RL : Real lineal RC : Real compuesto NA : No aplicable En caso que no corresponda, se deberá informar el código NA (no aplicable).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 6.01.12.00 Valorización al cierre: indicar el monto total correspondiente a la valorización
 de los instrumentos, al último día del mes que se informa.
 Esta cifra deberá expresarse en miles de la moneda funcional del fondo y sin decimales.
@@ -257,10 +229,7 @@ Los porcentajes deberán expresarse con tres decimales. En el caso de inversione
 inversiones, el porcentaje con tres decimales que representa el monto total invertido señalado en la variable 6.01.12.00, respecto del total de activos de la sociedad emisora.
 6.01.15.13 Porcentaje del total de activos del fondo: indicar, para cada una de las
 inversiones, el porcentaje con tres decimales que representa el monto total invertido señalado en la variable 6.01.12.00, respecto del total de activos del fondo, indicado en la variable 4.10.00.00 del Balance General.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 ### 6.02 INVERSIONES EN INSTRUMENTOS EMITIDOS POR EMISORES EXTRANJEROS
 La información respecto de las inversiones del fondo, deberá estar referida al último día del mes que se informa.
 Los instrumentos financieros pueden ser agrupados o sumados siempre y cuando tengan las mismas características.
@@ -283,10 +252,7 @@ sujeta a restricciones, de acuerdo a la siguiente codificación:
 2 : Instrumento sujeto a compromiso.
 3 : Instrumento entregado como margen o garantía por operaciones en
 derivados y venta corta.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 4 : Instrumento sujeto a otra restricción.
 5 : Instrumento entregado en préstamo para operaciones de venta corta.
 6.02.07.00 Clasificación de riesgo: indicar, cuando corresponda, la categoría de riesgo
@@ -307,10 +273,7 @@ utilizada en la valorización del instrumento de deuda, ó el porcentaje del val
 Los porcentajes y valores se deben expresar con dos decimales.
 6.02.11.12 Código de valorización: indicar el código de valorización a que hace mención
 la variable 6.02.11.11, de acuerdo a la siguiente codificación:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 1 : TIR
 2 : Porcentaje del valor par
 3 : Valor relevante
@@ -333,11 +296,8 @@ En el caso de las acciones seriadas dicho porcentaje se calculará multiplicando
 Indicar, para el caso de las cuotas de fondos de inversión extranjeros, y de los fondos mutuos extranjeros, el porcentaje que representa el número de cuotas que posee el fondo sobre el total de cuotas pagadas, de acuerdo a los últimos Estados Financieros presentados a un organismo extranjero competente, similar a este Servicio.
 Cuando se trate de derechos preferentes de suscripción de acciones (cuotas), se deberá indicar el porcentaje que representa el número de acciones (cuotas) de que trata el derecho, sobre el total de acciones (cuotas) de la misma entidad considerando que el fondo ejerciera los derechos preferentes antes señalados.
 Cabe señalar que, para estos efectos, deberá ser considerada la nueva emisión, razón por la cual el porcentaje en cuestión, deberá ser calculado sobre
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
-número original de acciones (cuotas) emitidas y pagadas, más la nueva emisión de acciones (cuotas), suponiendo que se suscribe la totalidad de éstas.
+13 número original de acciones (cuotas) emitidas y pagadas, más la nueva
+emisión de acciones (cuotas), suponiendo que se suscribe la totalidad de éstas.
 En caso de existir derechos preferentes sobre acciones seriadas, se procederá de igual forma como se señaló anteriormente, considerando para cada serie, el número de acciones que se tendría al ejercer los derechos preferentes de suscripción que el fondo mantiene en su cartera de inversiones.
 Los porcentajes deberán expresarse con tres decimales. En el caso de inversiones en instrumentos de deuda, deberá informar 0 (cero).
 6.02.15.12 Porcentaje del total de activos del emisor: indicar, para cada una de las
@@ -357,10 +317,7 @@ los siguientes códigos:
 A : Americana E : Europea
 6.03.01.14 Fecha de expiración: indicar la fecha correspondiente al último día, en que
 una opción puede ser ejercida por el titular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 6.03.01.15 Código moneda de liquidación: indicar la moneda en que se liquidará el
 contrato, de acuerdo a la codificación disponible en el Módulo SEIL del sitio Web www.svs.cl.
 6.03.01.16 Código país: indicar el país donde se suscribió el contrato, de acuerdo a la
@@ -386,10 +343,7 @@ número de unidades del activo objeto, sobre las cuales el fondo mutuo tiene el 
 moneda funcional del fondo sin decimales, que representa el número de unidades del activo objeto, sobre las cuales el fondo tiene el derecho a comprar o vender, valorizadas al valor de mercado del activo objeto, al último día del mes que se informa.
 6.03.11.00 Porcentaje invertido en primas respecto al activo total del fondo: señalar
 el porcentaje que representa el monto invertido en primas de opciones, señalado en la variable 6.03.08.00, sobre el total de activos del fondo, al último día del mes que se informa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 ### 6.04 INVERSIONES EN CONTRATOS DE FUTURO Y FORWARD
 Esta cartera deberá exponer cada uno de los contratos de futuro bursátiles (contratos de futuro) y extrabursátiles (contrato de forward), vigentes al último día del mes que se i nforma.
 Cuando el fondo posea varios contratos de futuro o de forward suscritos sobre el mismo activo objeto, a un mismo precio y a igual fecha de vencimiento, deberán ser informados en un mismo registro.
@@ -416,10 +370,7 @@ totales comprometidas en los contratos suscritos sobre el mismo activo objeto, a
 el contrato, expresado en la moneda que corresponda con dos decimales.
 6.04.05.00 Monto comprometido: deberá señalarse el valor total de los contratos
 suscritos sobre un mismo activo objeto, a un mismo precio y a igual fecha de vencimiento, expresado en miles de la moneda funcional del fondo, sin decimales, utilizando para estos efectos el precio futuro acordado en el contrato.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 6.04.06.00 Valorización de mercado del contrato: deberá señalarse el valor total de los
 contratos suscritos sobre un mismo activo objeto, a un mismo precio y a igual fecha de vencimiento, expresado en miles de la moneda funcional del fondo, sin decimales, utilizando para estos efectos el precio de mercado del contrato.
 ## 7. CONTRATOS DE OPCIONES EN QUE EL FONDO MUTUO ACTUA COMO
@@ -445,10 +396,7 @@ C : Compra V : Venta
 una misma serie, suscritos por el fondo mutuo.
 7.01.04.00 Precio de ejercicio: corresponde al valor de compra o venta del contrato
 suscrito por el fondo. El precio deberá informarse en la moneda que corresponda con dos decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.333
-FECHA: 09.07.1997
 7.01.05.00 Valor de mercado del activo objeto: corresponde al precio de mercado del
 activo objeto, expresado en la moneda que corresponda con dos decimales.
 7.01.06.00 Número de unidades del activo objeto: corresponde al número de unidades
@@ -461,4 +409,3 @@ moneda funcional del fondo, sin decimales, que representa el número de unidades
 porcentaje que representa la valorización a precio de ejercicio, variable
 7.01.07.00, respecto al activo total del fondo mutuo al último día del mes que se
 informa. Esta cifra debe estar expresada con tres decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

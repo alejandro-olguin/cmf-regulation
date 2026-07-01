@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2351
+
 ### TEXTO ACTUALIZADO
 Disposición: CIRCULAR N° 2.351 (de 03.06.2024) Para: Fondo de Garantías Especiales Materia: Establece requerimientos de información al Fondo de Garantías Especiales administrado por el Banco del Estado de Chile.
 ACTUALIZACIONES:
@@ -14,7 +16,7 @@ ACTUALIZACIONES:
 Notas:
 • OFC: Oficio Circular.
 
-REF: Establece requerimientos de información al Fondo de Garantías Especiales administrado por el Banco del Estado de Chile.
+Garantías Especiales administrado por el Banco del Estado de Chile.
 _____________________
 ### CIRCULAR N°2.351
 Fondo de Garantías Especiales Esta Comisión, en uso de las facultades legales, en especial lo dispuesto en los numerales 1 y 18 del artículo 5 y en el numeral 3 del artículo 20 del Decreto Ley N°3.538, de 1980; en los artículos 5, 9, 10 de la Ley N° 21.543 y en el Decreto con Fuerza de Ley N° 82 del Ministerio de Hacienda de 2023; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°391, de 9 de mayo de 2024, ha estimado necesario impartir las siguientes instrucciones:

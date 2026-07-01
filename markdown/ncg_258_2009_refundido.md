@@ -16,8 +16,8 @@ Uno de los aspectos de mayor importancia en la seguridad de los sistemas de comp
 se determinan los saldos acreedores netos y deudores netos respecto de las órdenes de compensación aceptadas por un sistema de compensación y liquidación de instrumentos financieros dentro de un período determinado por éste, y que resulta en la extinción, hasta la concurrencia de los saldos, de las obligaciones emanadas de las transacciones sobre instrumentos financieros que dieron lugar a dichas órdenes.
 - Compresión bilateral de cartera: Es un proceso mediante el cual la entidad de
 contraparte central y cada participante solicitante acuerdan compensar el valor nocional agregado de órdenes de compensación de derivados previamente aceptadas de una cartera, dando lugar a su extinción o su reemplazo por nuevas órdenes de compensación respecto del eventual remanente, las que se entenderán aceptadas para su compensación dentro del sistema de contraparte central. Estas nuevas órdenes de compensación se denominan órdenes de compensación remanentes. El proceso de compresión bilateral debe tener como finalidad facilitar la administración de cartera, sin reducir el riesgo de mercado neto vigente, siendo su resultado irreversible una vez ejecutado y firme según lo dispuesto en los artículos 12 y 24 de la Ley N° 20.345.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 - Derivado: Se entiende por derivado aquellos contratos que tengan el carácter de
 instrumento financiero según lo establecido en el número 9 del artículo 1 de la Ley N°20.345.
@@ -40,8 +40,8 @@ sistema, cuya constitución y operación se rige por la Ley N° 20.345 y sus nor
 ## III. COMUNICACIÓN Y CONFIRMACIÓN DE TRANSACCIONES
 Los sistemas solamente podrán aceptar órdenes de compensación originadas en transacciones que hayan sido confirmadas, o sean resultado de un proceso de compresión bilateral. Se entenderá que una transacción ha sido confirmada, cuando haya sido sometida a un procedimiento de verificación y calce de los parámetros involucrados. Dicha confirmación podrá ser realizada por la sociedad administradora, por el mercado secundario o bolsa de valores donde se efectuó la transacción o por otros sistemas de confirmación que provean el servicio de verificación y calce mencionado.
 Las instrucciones entre los sistemas con las bolsas de valores, los sistemas de pagos y entidades de depósito y custodia de valores, deberán realizarse mediante el uso de estándares de mensajería desarrollados por la Organización Internacional para la Normalización (ISO), en
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 la medida que tales entidades contrapartes de los sistemas hayan implementado el uso de dichos estándares en este ámbito.
 ## IV. ENTREGA CONTRA PAGO
@@ -55,8 +55,8 @@ En caso de obtenerse la referida autorización, la liquidación de los pagos res
 FINANCIEROS Cada sistema deberá contar con mecanismos y procedimientos para el tratamiento de falta de provisión oportuna de los instrumentos financieros o de los fondos en dinero efectivo por parte de los participantes, cuya finalidad sea la de asegurar que la liquidación de las operaciones ingresadas al sistema, se lleve a cabo en forma íntegra y oportuna.
 Las normas de funcionamiento deberán establecer el momento y la forma en que serán utilizados dichos procedimientos y mecanismos, dentro de las distintas etapas que considere el proceso de compensación y liquidación de cada sistema, así como los plazos, ciertos y objetivos, que permitan identificar cuándo un participante no haya provisto los instrumentos financieros o fondos en forma íntegra y oportuna.
 Sin perjuicio de lo dispuesto en los párrafos precedentes, las normas de funcionamiento deberán a lo menos contemplar los procedimientos dispuestos en esta sección.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 VI.1 Falta de provisión oportuna de instrumentos financieros VI.1.1 Préstamo de valores Con la finalidad de proveer valores a los participantes que lo requieran en el contexto de sus obligaciones de liquidación, las sociedades administradoras deberán poner a disposición o garantizar el acceso a un sistema de préstamo de valores. Este sistema podrá ser provisto por la sociedad administradora o bien, contratado por esta última a un tercero. En ambas situaciones, el sistema de préstamo de valores se sujetará a lo dispuesto por el Título VI de la Ley N° 20.345. Los valores objeto del préstamo deberán mantenerse depositados en una entidad de depósito y custodia de valores regida por la Ley N° 18.876.
 Cada vez que un participante no cumpla en forma íntegra y oportuna con la obligación de proveer los valores comprometidos a entregar, conforme a las órdenes de compensación aceptadas que éste hubiere presentado, en la fecha y hora en que el sistema lo requiera, lo cual deberá ser con una prudente anticipación al momento de la liquidación, la sociedad administradora, en forma automática y forzosa, deberá registrar el requerimiento de préstamo de valores mediante este sistema a favor del participante que presenta el retraso.
@@ -66,8 +66,8 @@ Las sociedades administradoras solamente podrán proveer o contratar un sistema 
 Lo dispuesto en esta sección será aplicable para aquellos instrumentos financieros cuyas características intrínsecas les permitan ser susceptibles de ser otorgados en préstamo.
 VI.1.2. Recompra de valores En caso de no existir disponibilidad de valores en el sistema de préstamo de valores antes de las 12:00 horas del día siguiente de la fecha original de liquidación, la sociedad administradora procederá a la recompra de los valores necesarios en el sistema transaccional a nombre del participante que presenta el retraso para su entrega a la parte compradora, sin perjuicio de continuar intentando el procedimiento dispuesto en el numeral VI.1.1.
 Dicha adquisición la instruirá la misma sociedad administradora, a través de un corredor de bolsa de valores y se financiará con cargo a los fondos recibidos de la parte compradora en el proceso de compensación y liquidación de la jornada y, si fuera necesario en forma complementaria, por las garantías aportadas por la parte vendedora incumplidora. Dicha
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 operación deberá ser incluida en el ciclo de liquidación correspondiente. En caso de la imposibilidad de acceder a los valores requeridos, producto de la inexistencia de ofertas de los valores respectivos, las sociedades administradoras podrán hacer uso de las disposiciones alternativas contempladas en sus normas de funcionamiento, con el fin de liquidar dichas órdenes a más tardar al cabo del cuarto día hábil después la fecha original de liquidación.
 VI.2 Falta de provisión oportuna de efectivo Con la finalidad de acceder a fondos en dinero efectivo por parte de los participantes que lo requieran en el contexto de sus obligaciones de liquidación, las normas de funcionamiento de los sistemas deberán requerir la contratación de líneas de crédito bancarias por parte de los participantes. El monto mínimo de cada línea deberá ser determinado por las normas de funcionamiento del sistema.
@@ -77,8 +77,8 @@ En caso de la imposibilidad de acceder al efectivo requerido mediante las línea
 Los contratos tipo para la adhesión de los participantes deberán incluir la facultad de las sociedades administradoras para retener o suspender la transferencia de los instrumentos financieros liquidados a favor del participante que presenta la falta de provisión o dispuestos en garantía por éste, con la finalidad de constituirlos en prenda a favor del banco proveedor de la línea de crédito y de esta manera garantizar préstamos de efectivo con cargo a las líneas de crédito mencionadas.
 VI.3 Multas, sanciones e indemnizaciones Las sociedades administradoras deberán incluir en sus normas de funcionamiento, multas aplicables a los participantes al menos cuando éstos no provean oportunamente los instrumentos financieros y/o el efectivo producto de las órdenes de compensación ingresadas al sistema en las fechas y horas establecidas en dichas normas. Dichas multas se aplicarán cada vez que se presente alguna de las circunstancias previstas en los numerales VI.1 y VI.2 anteriores. Se deberá indicar el monto de las multas o forma de cálculo, especificando su beneficiario y su uso en caso que este último corresponda a la sociedad administradora.
 Las normas de funcionamiento deberán señalar si los participantes serán indemnizados, en el caso que no reciban los instrumentos financieros o efectivo en la fecha de liquidación establecida, producto a una provisión no oportuna de instrumentos financieros o efectivo. En caso que corresponda, se deberá indicar el monto de dicha indemnización o la forma de cálculo de la misma. Se entenderá por indemnización al resarcimiento económico que podrá
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 ser establecido en las normas de funcionamiento a favor de un participante, producto del daño o perjuicio que se le pudiera ocasionar a éste, debido a la entrega de los instrumentos financieros y/o efectivo en una fecha u hora distinta a la estipulada originalmente.
 Lo dispuesto en el párrafo anterior también será aplicable para las operaciones de préstamo de valores, en el caso que el prestatario no devuelva los valores en el plazo y forma convenida. Estas estipulaciones deberán estar contenidas en la reglamentación del sistema de préstamo de valores.
@@ -87,8 +87,8 @@ La sociedad administradora deberá mantener un registro que identifique a los pa
 ## VII. EXCLUSIÓN Y ANULACION DE ORDENES DE COMPENSACION
 VII.1 Exclusiones Tratándose de un sistema en que la sociedad administradora no se constituye como contraparte de las órdenes ingresadas, la exclusión de órdenes del proceso de compensación, solamente podrá ejecutarse una vez que los procedimientos relacionados al tratamiento por falta de provisión oportuna de valores y/o efectivo hayan sido intentados sin éxito. Se entenderá por exclusión al procedimiento consistente en retirar del proceso de compensación y liquidación una orden de compensación y proceder a su liquidación en forma bilateral, fuera de la fecha y hora prevista originalmente. Este procedimiento deberá ser reglamentado por las normas de funcionamiento.
 VII.2 Anulaciones Solamente podrán ser dejadas sin efecto órdenes a causa de errores o fallas operacionales sin posibilidad razonable de ser subsanados y únicamente en caso que las contrapartes de la operación a anular presenten su acuerdo favorable en relación a dicha anulación. Los errores y fallas operacionales que podrán dar paso a una anulación, deberán estar específicamente definidas en las normas de funcionamiento del sistema. En ningún caso se podrá anular una operación por causas originadas en la falta de valores o de efectivo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 ## VIII. COMPRESIÓN BILATERAL
 Las normas de funcionamiento de las entidades de contraparte central deberán detallar las etapas del proceso de compresión mediante el cual las órdenes de compensación de derivados son extinguidas y eventualmente reemplazadas por nuevas órdenes de compensación remanentes. Asimismo, las normas de funcionamiento deberán especificar la información que debe ser comunicada a los participantes sobre el proceso de compresión bilateral, en consideración a las secciones VIII.1. y VIII.2 de la presente normativa.
@@ -119,8 +119,8 @@ b) La información en a) deberá ser desagregada por tipo de orden de compensaci
 montos, fechas y otras variables económico-financieras asociadas a las órdenes de compensación.
 c) Asimismo, la información del proceso de compresión deberá considerar el día y hora
 en que ejecuta el proceso, y el visto bueno de los participantes sobre el acuerdo de la propuesta de compresión de carteras.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 Las entidades de contraparte central deberán comunicar a sus participantes la información mencionada en el literal precedente a más tardar el mismo día antes del cierre del ciclo de operación. Esta información deberá estar disponible a requerimiento de los participantes.
 ## IX. DETERMINACIÓN DE GARANTÍAS INDIVIDUALES
@@ -131,8 +131,8 @@ En forma adicional al recálculo realizado producto del ingreso de nuevas órden
 60 minutos en caso en que se presenten condiciones de mayor volatilidad o de volumen de
 órdenes de compensación anormales, de acuerdo a lo que deberán disponer las normas de funcionamiento, debiendo, en estos casos, requerirse el inmediato entero de garantías adicionales en caso en que los nuevos cálculos den cuenta de un déficit.
 IX.1.3 Pruebas retrospectivas La metodología de cálculo deberá ser evaluada, al menos en forma trimestral, en relación a la suficiencia de las garantías respecto de incumplimientos hipotéticos pasados mediante ejercicios de pruebas retrospectivas (backtesting).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 IX.1.4 Consideraciones adicionales Las garantías corrientes podrán ser calculadas agregando el total de las posiciones pendientes de liquidar a nivel del participante o bien, agregando las posiciones pendientes de liquidar a nivel de un determinado instrumento o familia de instrumentos financieros pendientes de liquidar por el participante.
 En caso en que las normas de funcionamiento consideren el bloqueo o retención, en forma irrevocable e incondicional, de determinados instrumentos financieros comprometidos para dar cumplimiento a obligaciones específicas de entrega de estos mismos instrumentos financieros, entonces dichas obligaciones podrán ser excluidas para efectos de cálculo de las garantías individuales.
@@ -143,8 +143,8 @@ De acuerdo lo dispuesto en el artículo 14° N° 3 de la Ley N° 20.345, las ent
 A fin de determinar el monto del fondo de garantía del sistema, las sociedades administradoras deberán utilizar modelos de prueba de tensión (stress testing), o modelos similares, suponiendo condiciones de mercado extremas pero plausibles.
 Se deberá entender como condiciones de mercado extremas pero plausibles, a aquellas en que los cambios de los precios de los instrumentos financieros cuyas órdenes de compensación sean procesadas por el sistema, presenten variaciones significativamente superiores a lo habitual. Las sociedades administradoras deberán determinar las condiciones de mercados extremas, identificando y analizando a lo menos lo siguiente: (i) los períodos de mayor volatilidad enfrentados por los mercados en los que proveen servicios de compensación;
 (ii) la volatilidad experimentada por instrumentos financieros a liquidar; y (iii) las correlaciones existentes entre los precios de los instrumentos financieros. Adicionalmente, las sociedades administradoras deberán validar, con una periodicidad mínima anual, los parámetros y supuestos que sustentan las pruebas de tensión utilizadas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 El fondo de garantía deberá ser igual a lo menos a la suma de las dos mayores pérdidas potenciales producto del riesgo de reemplazo no cubiertas por las garantías individualmente requeridas. Las normas de funcionamiento deberán indicar la forma en que los participantes o la sociedad administradora aportarán a dicho fondo.
 El monto mínimo del fondo de garantía, así como los aportes respectivos al mismo, deberán ser calculados con una periodicidad mínima de 30 días. No obstante lo anterior, la sociedad administradora deberá contar con la capacidad operativa necesaria para realizar dicho cálculo con una frecuencia al menos diaria en caso en que se presenten condiciones de mayor volatilidad o de volumen de órdenes de compensación anormales, de acuerdo a lo que deberán disponer las normas de funcionamiento, debiendo en estos casos, requerirse las aportaciones correspondientes en forma inmediata.
@@ -157,8 +157,8 @@ En el caso que el fondo de reserva se redujere por debajo del nivel requerido de
 2.2 del Capítulo II del Título II de la Ley N° 20.345.
 ## XII. ASPECTOS RELACIONADOS A LOS BIENES SUSCEPTIBLES PARA LA CONSTITUCIÓN DE GARANTÍAS
 Los bienes que podrán ser requeridos por las sociedades administradoras para la constitución de las garantías individuales, los fondos de garantía y los fondos de reserva de que tratan las
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 secciones VIII, IX y X, se deberán sujetar a las disposiciones contenidas en la presente sección.
 XII.1 Bienes susceptibles para la constitución de garantías
@@ -179,8 +179,8 @@ XII.3 Valorización de las garantías Las garantías serán valoradas por los si
 60 minutos, en caso en que se presenten condiciones de mayor volatilidad o de volumen de
 órdenes de compensación anormales, de acuerdo a lo que deberán disponer las normas de funcionamiento.
 Adicionalmente, se deberán aplicar descuentos a los valores actualizados de los bienes entregados en garantías que correspondan a instrumentos financieros, los cuales deberán
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 258
+
+### N.C.G. N° 258
 FECHA: 14.08.2009
 reflejar las posibles pérdidas de valor de dichos activos en el intervalo que media desde la actualización de su valor hasta la posible ejecución de la respectiva garantía. Los descuentos a aplicar a los valores actualizados de las garantías, deberán considerar, a lo menos, los riesgos de solvencia del emisor del instrumento financiero, mercado (precio, tipo de cambio, tasa de interés, etc.) y de liquidez de los activos constituidos en garantía, en un contexto de condiciones normales de volatilidad de mercado.
 XII.4 Diversificación de las Garantías Los bienes entregados en garantía por los participantes del sistema deberán encontrarse adecuadamente diversificados. Para tal fin, las normas de funcionamiento deberán establecer límites a lo menos referidos al tipo de instrumento, así como por emisor o grupo empresarial.
@@ -194,4 +194,3 @@ Las Entidades de Contraparte Central y las Cámaras de Compensación deberán co
 Por otro lado y para ambos tipos de entidades, su endeudamiento no podrá superar en ningún momento el doble de su patrimonio. Se entenderá por endeudamiento el monto total de los pasivos de la sociedad administradora.
 ## XIV. VIGENCIA
 Las instrucciones impartidas a través de esta norma de carácter general empezarán a regir a partir de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

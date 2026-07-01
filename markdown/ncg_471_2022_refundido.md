@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA LA INSCRIPCIÓN EN EL
-### REGISTRO DE AGENTES DE VENTAS DE SEGUROS
-_________________________________
-NORMA DE CARÁCTER GENERAL N°471
-13 de abril de 2022
+# REGULA LA INSCRIPCIÓN EN EL REGISTRO DE AGENTES DE VENTAS DE SEGUROS 1 _________________________________ NORMA DE CARÁCTER GENERAL N°471 13 de abril de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren los numerales 1, 15 y 19 del artículo 5°, el numeral 3 del artículo 20 y el artículo 33, todos del Decreto Ley N°3.538;
 en los artículos 44 bis, 57, 58 y 59 del Decreto con Fuerza de Ley N°251; y lo acordado por el Consejo de la Comisión en sesión ordinaria N°281 de 31 de marzo de 2022, ha estimado pertinente impartir las siguientes instrucciones:2
 ## I. De la inscripción de agentes de ventas3

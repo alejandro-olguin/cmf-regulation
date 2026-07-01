@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2273
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-30 Hoja 1
 ### CAPITULO 21-30 RELACIÓN ENTRE EL CAPITAL BÁSICO Y LOS ACTIVOS TOTALES

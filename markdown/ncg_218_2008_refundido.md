@@ -1360,66 +1360,15 @@ Rut: ………………………………… Tipo: AFP Compañía de Seguros Ase
 | Renta Temporal con Renta Vitalicia Diferida12 - Relación entre Renta Vitalicia Diferida (RVD) y Renta Temporal (RT) : RVD = 100% RT (iguales) RVD = 50% RT (RVD igual a la mitad de la RT) RVD = % RT - Meses de diferimiento - Sin condiciones especiales de cobertura (Simple) - Con condiciones especiales de cobertura - Meses Garantizados - Cláusula Aumento % Sobrevivencia |
 | Renta Vitalicia Inmediata con Retiro Programado13 - Saldo destinado a la Renta Vitalicia UF -Destino Bono de Reconocimiento R. Programado Renta Vitalicia Sin BR Sin condiciones especiales de cobertura (Simple) Con condiciones especiales de cobertura - Meses Garantizados - Cláusula aumento temporal pensión Meses aumento temporal % aumento temporal - Cláusula Aumento % Sobrevivencia |
 
-|  |
-| --- |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-
 Renta Temporal con Renta Vitalicia Diferida12
 - Relación entre Renta Vitalicia Diferida (RVD) y Renta Temporal (RT) :
 RVD = 100% RT (iguales) RVD = 50% RT (RVD igual a la mitad de la RT) RVD = % RT
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
 
 Renta Vitalicia Inmediata con Retiro Programado13
 - Saldo destinado a la Renta Vitalicia UF
 -Destino Bono de Reconocimiento R. Programado Renta Vitalicia Sin BR Sin condiciones especiales de cobertura (Simple) Con condiciones especiales de cobertura
 - Meses Garantizados
 - Cláusula aumento temporal pensión
-
-|  |
-| --- |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
 
 ### CONDICIONES ESPECIALES DE COBERTURA14
 Cláusula periodo garantizado de pago: Cláusula aumento de porcentaje de pensión de sobrevivencia:
@@ -1467,13 +1416,7 @@ d
 80 81 82 83
 Renta Temporal Retiro Programado Renta Vitalicia Renta Vitalicia
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-n n
+Renta Vitalicia n n
 65 66566667667866896970707171727273737474757576767777787879798080818182828383 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83
 EdEaddad Edad Nota: En este gráfico se supone que la renta vitalicia se difiere por un año y es el 50% de la primera renta temporal.
 
@@ -3971,9 +3914,6 @@ Compañía de Seguros
 | --- |
 | …………….UF |
 | …………….UF |
-
-|  |  |
-| --- | --- |
 
 U.F. hasta el Oferta Renta Vitalicia Renta Vitalicia de referencia garantizada (art. 62)
 142

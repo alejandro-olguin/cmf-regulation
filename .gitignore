@@ -3,3 +3,7 @@
 
 # Input PDFs (large binary files)
 pdf/
+
+# Local secrets / machine-specific settings
+.env
+config.local.json

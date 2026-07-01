@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2263
+
 Texto actualizado: Circular N° 2 Empresas emisoras de tarjetas de pago no bancarias Empresas operadoras de tarjetas de pago
 ### TEXTO ACTUALIZADO
 Disposición: CIRCULAR N° 2 (de 28.11.2017) Para: EMPRESAS EMISORAS DE TARJETAS DE PAGO NO BANCARIAS

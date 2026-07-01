@@ -1588,28 +1588,6 @@ cada ejercicio, a valores neto y bruto en el siguiente cuadro:
 | Mejoras de Bienes Arrendados, Neto |
 | Otras Propiedades, Planta y Equipo, Neto |
 
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
 | Total Propiedades, Planta y Equipo, Neto |  | 0 |  | 0 |
 | --- | --- | --- | --- | --- |
 
@@ -1627,28 +1605,6 @@ cada ejercicio, a valores neto y bruto en el siguiente cuadro:
 | Vehículos de Motor, Bruto |
 | Mejoras de Bienes Arrendados, Bruto |
 | Otras Propiedades, Planta y Equipo, Bruto |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
 
 | Total Propiedades, Planta y Equipo, Bruto |  | 0 |  | 0 |
 | --- | --- | --- | --- | --- |

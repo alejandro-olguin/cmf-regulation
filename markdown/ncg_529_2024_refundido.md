@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: FIJA TEXTO REFUNDIDO DE LA NCG N°
-### 529 Y NUEVA VIGENCIA NORMATIVA
-________________________________
-NORMA DE CARÁCTER GENERAL N° 529
-15 de enero de 2025
+# FIJA TEXTO REFUNDIDO DE LA NCG N° 529 Y NUEVA VIGENCIA NORMATIVA ________________________________ NORMA DE CARÁCTER GENERAL N° 529 15 de enero de 2025
+
+
 Esta Comisión en uso de las atribuciones conferidas en el Decreto Ley N°3.538, la Ley N°18.045, la Ley N°19.220 y Ley N°21.521; y teniendo en consideración que su mandato legal es velar por el correcto funcionamiento, desarrollo y estabilidad del mercado financiero, ha resuelto modificar la Norma de Carácter General N°510, que imparte instrucciones sobre gestión de riesgo operacional, en los siguientes términos.
 1. Reemplácese el encabezado de la norma por el siguiente párrafo “Esta Comisión en uso de
 las atribuciones conferidas en el Decreto Ley N°3.538, la Ley N°18.045, la Ley N°18.876, la Ley N°19.220, la Ley N°20.345, el artículo 1° de la Ley N°20.712 y Ley N°21.521; y teniendo en consideración que su mandato legal es velar por el correcto funcionamiento, desarrollo y estabilidad del mercado financiero, ha estimado pertinente impartir las siguientes instrucciones respecto de la gestión de riesgo operacional para Administradoras Generales de Fondos, Bolsas de Valores, Bolsas de Productos, Intermediarios de Valores, Corredores de Bolsas de Productos, Sociedades Administradoras de Sistemas de Compensación y Liquidación de Instrumentos Financieros y Entidades de Depósito y Custodia de Valores.”

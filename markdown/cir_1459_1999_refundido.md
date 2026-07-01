@@ -94,39 +94,42 @@ Se entenderá por lugar destacado a aquel visible y de fácil acceso con, a lo m
 En el lugar del sitio o página web de la compañía destinado al SOAP deberá existir un módulo o sección específica que contenga una sección con “Información sobre este seguro”, cuyo contenido corresponderá al menos al que se establece en el formato de certificado del Anexo N° 2 de esta Circular y, junto con ello, acceso al texto completo de las condiciones generales de la póliza (o disponer de un link a éste). Además, en esta sección deberá señalarse un número de teléfono donde los interesados puedan llamar para consultar sobre la vigencia de la cobertura de un certificado en particular.
 a) Este módulo deberá contar con una aplicación que permita consultar sólo con el ingreso de la placa patente
 del vehículo, si el SOAP se encuentra contratado en esa compañía. La información a entregar deberá mostrarse en una sola pantalla y será estrictamente la siguiente:
- Identificación de la compañía.
- Fecha de inicio y término de la vigencia del seguro.
- Número de inscripción en el Registro de Vehículos Motorizados.
- Tipo de Vehículo.
- Marca.
- Modelo.
+• Identificación de la compañía.
+• Fecha de inicio y término de la vigencia del seguro.
+• Número de inscripción en el Registro de Vehículos Motorizados.
+• Tipo de Vehículo.
+• Marca.
+• Modelo.
 
- Año de fabricación.
- Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en letra del mismo tamaño que la utilizada en los datos del SOAP.
+• Año de fabricación.
+• Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en letra del
+mismo tamaño que la utilizada en los datos del SOAP.
 b) Además, deberá existir otra aplicación que permita consultar la información de un certificado SOAP,
 ingresando la placa patente del vehículo y otro dato del certificado. La información a entregar deberá mostrarse en una sola pantalla y será al menos la siguiente:
- Identificación de la compañía
- Número de póliza
- Nombre y RUT del propietario del vehículo asegurado
- Fechas de inicio y término de la vigencia del seguro
- Monto de la prima
- Firma de un apoderado de la Compañía
- Número de inscripción en el Registro de Vehículos Motorizados
- Tipo de Vehículo
- Marca
- Modelo
- Año de fabricación
- Número de motor
- Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en letra del mismo tamaño que la utilizada en los datos del SOAP.
+• Identificación de la compañía
+• Número de póliza
+• Nombre y RUT del propietario del vehículo asegurado
+• Fechas de inicio y término de la vigencia del seguro
+• Monto de la prima
+• Firma de un apoderado de la Compañía
+• Número de inscripción en el Registro de Vehículos Motorizados
+• Tipo de Vehículo
+• Marca
+• Modelo
+• Año de fabricación
+• Número de motor
+• Fecha de actualización de la información proporcionada, desplegada al pie de la pantalla, en letra del
+mismo tamaño que la utilizada en los datos del SOAP.
 La información a entregar en cualquiera de las dos aplicaciones deberá ser proporcionada mientras las obligaciones de la compañía de seguros estén vigentes, independientemente de la fecha de término de la vigencia de la póliza.
 ## 2. Precio del SOAP
 Las compañías de seguros que comercializan SOAP, deberán publicar el precio de referencia al público del seguro, por tipo de vehículo, de acuerdo a las siguientes categorías:
- Automóviles
- Camionetas
- Station wagon y todo terreno
- Furgones
- Motocicletas
- Carros de arrastre La información señalada se deberá presentar desagregada según el tipo de canal de venta, ya sea tradicional
+• Automóviles
+• Camionetas
+• Station wagon y todo terreno
+• Furgones
+• Motocicletas
+• Carros de arrastre
+La información señalada se deberá presentar desagregada según el tipo de canal de venta, ya sea tradicional
 (certificado preimpreso) o Internet, POS u otros dispositivos (3 columnas), si la compañía tiene esta opción de comercialización. De estimarse necesario, podrá incorporar notas que expliquen la información publicada, tales como la existencia de promociones o regalos asociadas a la compra del seguro, las que en todo caso no deben alterar la naturaleza de la información que se proporciona.
 Los datos antes señalados deberán estar disponibles en esta sección del sitio a más tardar el 1 de febrero de cada año, debiendo actualizarse cada vez que se produzcan cambios en ellos.
 Adicionalmente, en la misma fecha señalada anteriormente, se deberá informar a esta Superintendencia si la compañía ha iniciado la venta del SOAP y el link directo a la publicación de los precios en su sitio web. Del mismo modo, a más tardar en la misma fecha la compañía deberá comunicar si aún no ha iniciado la venta del SOAP o ha decidido no participar en ello, debiendo enviar la comunicación en cuanto decida iniciar la venta del SOAP.

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N°538 — FECHA: 17.06.2025
+# NCG N° 538 — NORMA SOBRE MEDIDAS SEGURIDAD Y AUTENTICACIÓN DE OPERACIONES SOMETIDAS A LA LEY
 
 
 Esta Comisión, en uso de las facultades que le confieren los artículos 1, 3, 5 en sus numerales 1, 8 y 18, y 20 en su numeral 3 del Decreto Ley N°3.538, lo dispuesto en los nuevos incisos noveno y décimo el artículo 4 de la Ley N°20.009, lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°448 de 12 de junio de 2025, y lo acordado por el Consejo de la Comisión en Sesión extraordinaria N°151 de 6 de agosto de 2025, ha estimado pertinente impartir las siguientes instrucciones relativas a estándares mínimos de seguridad y de autenticación a los bancos, sociedades de apoyo al giro, empresas emisoras de tarjetas de pago y cooperativas de ahorro y crédito fiscalizadas por esta Comisión.

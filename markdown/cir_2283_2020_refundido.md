@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2283
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-20 Hoja 1
 ### CAPÍTULO 21-20 DISCIPLINA DE MERCADO Y TRANSPARENCIA
@@ -1540,11 +1542,11 @@ Capítulo 21-20 Anexo-Hoja 35 El LCR (fila (23) columna (b)) debe ser calculado 
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝑇
+> T
 > 1
-> 𝐿𝐶𝑅 = 𝑥∑𝐿𝐶𝑅
+> LCR = x∑LCR
 > $$
-𝑄𝑖 𝑇 𝑡 𝑡=1 No todas las cifras reportadas sumarán exactamente, particularmente en el denominador del LCR. De manera similar, el LCR divulgado puede no ser igual a un LCR calculado sobre la base de los valores promedio del conjunto de elementos divulgados en el formulario.
+Qi T t t=1 No todas las cifras reportadas sumarán exactamente, particularmente en el denominador del LCR. De manera similar, el LCR divulgado puede no ser igual a un LCR calculado sobre la base de los valores promedio del conjunto de elementos divulgados en el formulario.
 Definiciones e instrucciones Valor total no ponderado: monto de los flujos de efectivo pendientes de vencimiento o exigibles dentro de los 30 días (para ingresos y egresos).
 Valor total ponderado: deben calcularse después de la aplicación de los haircuts respectivos (para ALAC) o los ponderadores de ingresos y egresos.
 Total ajustado: deben calcularse después de la aplicación de (i) haircuts y ponderadores de ingresos y egresos y (ii) cualquier límite aplicable (es decir, límite en activos de Nivel 2 para ALAC y límite de ingresos).

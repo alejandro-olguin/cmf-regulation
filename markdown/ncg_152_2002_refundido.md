@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 152 — FECHA:26.12.2002
+# NCG N° 152 — IMPARTE NORMAS SOBRE ACTIVOS REPRESENTATIVOS DE RESERVAS TECNICAS Y PATRIMONIO DE RIESGO
 
 
 Esta Comisión , en uso de sus facultades legales, en especial lo dispuesto en los artículos 21, 22, 23 y

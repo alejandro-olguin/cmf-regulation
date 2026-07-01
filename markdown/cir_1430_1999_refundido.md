@@ -17,7 +17,6 @@ Si el cliente para el cual el intermediario adquirió las acciones, cuyo traspas
 Por otra parte, el corredor que venda acciones de un cliente que no tenga los valores en su custodia y cuyo traspaso para inscribir los valores a nombre del intermediario sea devuelto, por concepto de saldo insuficiente de acciones del cliente, deberá cubrir y provisionar los títulos involucrados en el traspaso devuelto, a más tardar al día hábil siguiente de recibida la devolución.
 2.- Devolución de traspasos por motivos formales
 El corredor comprador que reciba traspasos devueltos de una compañía emisora, por motivos formales, entendiéndose por tales, aquellos que dicen relación con devoluciones por problemas de firma, errores contenidos en los datos informados en los traspasos u otros aspectos de similar naturaleza, que correspondan a adquisiciones de acciones para sus clientes, deberá comunicar dentro del mismo día esta situación al corredor vendedor y a la bolsa de valores en la cual efectuó la adquisición. En caso de no hacerlo, el corredor comprador deberá cubrir los títulos involucrados en el traspaso devuelto, a más tardar al día hábil siguiente de recibida la devolución.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Por su parte, el corredor vendedor una vez informado deberá dar solución al problema del traspaso devuelto, en un plazo no superior a diez días hábiles bursátiles. Este proceso deberá ser supervisado por la bolsa respectiva, quien velará para que el problema sea resuelto en el plazo antes señalado.
 Asimismo, cumplido el plazo antes señalado, sin que se haya dado solución al problema, el corredor comprador deberá cubrir el traspaso devuelto.
@@ -31,4 +30,3 @@ Si en las circularizaciones de los saldos de los clientes, se detectaren diferen
 5.- Información a las bolsas
 Las provisiones que de acuerdo a la presente Circular, efectúen los corredores de bolsa, deberán ser informados a los centros bursátiles de los cuales sean miembros al día hábil siguiente de realizadas.
 La presente Circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

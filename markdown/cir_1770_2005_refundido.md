@@ -66,13 +66,7 @@ R.U.T. de la persona autorizada :
 ### 1.2 R.U.T.
 1.3.1 Fecha de inicio día Mes Año
 
-|  |  |  |
-| --- | --- | --- |
-
 1.3.2 Fecha de cierre día Mes Año
-
-|  |  |  |
-| --- | --- | --- |
 
 ### 1.4 Tipo de Moneda
 ### 1.5 Tipo de Estados Financieros
@@ -80,10 +74,6 @@ R.U.T. de la persona autorizada :
 
 ## 2. ESTADOS FINANCIEROS
 ### 2.1 BALANCE GENERAL
-
-|  |
-| --- |
-|  |
 
 |  |  |  | día mes año desde hasta |  |  | día mes año desde hasta |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -119,10 +109,6 @@ R.U.T. de la persona autorizada :
 
 6
 
-|  |
-| --- |
-|  |
-
 |  |  |  | día mes año desde hasta |  |  | día mes año desde hasta |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | ACTUAL |  |  | ANTERIOR |  |  |
@@ -157,10 +143,6 @@ R.U.T. de la persona autorizada :
 
 ### 2.2 ESTADO DE ACTIVIDADES
 
-|  |
-| --- |
-|  |
-
 |  |  |  | día mes año desde hasta |  |  | d í a mes año desde hasta |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | ACTUAL |  |  | ANTERIOR |  |  |
@@ -185,10 +167,6 @@ R.U.T. de la persona autorizada :
 8
 
 ### 2.3 ESTADO DE FLUJO DE EFECTIVO - METODO DIRECTO
-
-|  |
-| --- |
-|  |
 
 |  |  | día mes año desde hasta | día mes año desde hasta |
 | --- | --- | --- | --- |
@@ -230,10 +208,6 @@ R.U.T. de la persona autorizada :
 9
 
 ### 2.4 CONCILIACION ENTRE EL FLUJO NETO ORIGINADO POR ACTIVIDADES DE LA OPERACIÓN Y EL SUPERAVIT (DEFICIT) DEL EJERCICIO
-
-|  |
-| --- |
-|  |
 
 |  |  | día mes año desde hasta | día mes año desde hasta |
 | --- | --- | --- | --- |

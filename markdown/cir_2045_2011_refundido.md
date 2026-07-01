@@ -3,15 +3,16 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# Establece regulaciones comunes relativas a las obligaciones de las Administradoras de Fondos de Pensiones, Compañías de Seguros de Vida, Mutualidades de Empleadores de la Ley N° 16.744, Instituto de Seguridad Laboral e Instituto de Previsión Social, respecto de la determinación y pago de los beneficios relativos a la excención de la cotización de salud para pensionados con beneficio solidario. Agréguese el siguiente nuevo Título XVI al Libro III del Compendio de
+
 NORMA DE CARÁCTER GENERAL SP N° 24
 ### CIRCULAR SUP. SEG. SOCIAL N° 2775 CIRCULAR SVS N° 2045
 FECHA : 7.10.2011
 SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N(cid:176) 2 4
 ### SUPERINTENDENCIA DE SEGURIDAD SOCIAL CIRCULAR N° 2 7 7 5 SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 2 0 4 5 07 OCT 2011
 VISTOS: Lo dispuesto en el inciso final del artículo 3 de la ley N° 20.531 y las facultades que las Leyes confieren a la Superintendencia de Pensiones, a la Superintendencia de Valores y Seguros y a la Superintendencia de Seguridad Social, se imparten las siguientes instrucciones de cumplimiento obligatorio para el Instituto de Previsión Social (en adelante IPS), las Administradoras de Fondos de Pensiones, las Compañías de Seguros de Vida, las Mutualidades de Empleadores de la Ley N° 16.744 y el Instituto de Seguridad Laboral.
-REF: Establece regulaciones comunes relativas a las obligaciones de las Administradoras de Fondos de Pensiones, Compañías de Seguros de Vida, Mutualidades de Empleadores de la Ley N°
-16.744, Instituto de Seguridad Laboral e Instituto de Previsión Social, respecto de la determinación
-y pago de los beneficios relativos a la excención de la cotización de salud para pensionados con beneficio solidario. Agréguese el siguiente nuevo Título XVI al Libro III del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones.1
+
+Normas del Sistema de Pensiones de la Superintendencia de Pensiones.1
 1 Modificada por NCG SPensiones N°168, Circular Suceso N°3197 y Circular SVS N°2196, de
 20.01.2016, esta modificación entre en vigencia a contar del 1 de marzo de 2016.
 Modificada por NCG Spensiones N°182, Circular Suceso N°3258 y Circular SVS N°2213, de

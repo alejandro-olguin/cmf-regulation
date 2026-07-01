@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 2151 — IMPARTE INSTRUCCIONES PARA ENVÍO DE INFORMACIÓN DE PRODUCTOSCOMERCIALIZADOS Y DE RESERVAS TÉCNICAS BAJO NORMA DE CARÁCTER GENERAL N°306
+# CIRCULAR N° 2151 — IMPARTE INSTRUCCIONES PARA ENVÍO DE INFORMACIÓN DE PRODUCTOSCOMERCIALIZADOS Y DE RESERVAS TÉCNICAS BAJO NORMA DE CARÁCTER GENERAL
 
 
 Esta Superintendencia, en uso de sus facultades legales, ha estimado oportuno solicitar a las entidades aseguradoras, información de los productos que comercializa y de sus reservas técnicas, de acuerdo a la NCG N°306 del 14 de abril de 2011, cuando no se trate de seguros previsionales.

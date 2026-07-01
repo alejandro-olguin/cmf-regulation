@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE CONDICIONES QUE DEBERAN CUMPLIRSE EN LAS VENTAS DE VIVIENDAS ARRENDADAS CON PROMESA DE COMPRAVENTA Y EN LAS CESIONES DE SUS CONTRATOS DE ARRENDAMIENTO CON PROMESA DE COMPRAVENTA.
+# CIRCULAR N° 1351 — ESTABLECE CONDICIONES QUE DEBERAN CUMPLIRSE EN LAS VENTAS DE VIVIENDAS ARRENDADAS CON PROMESA DE COMPRAVENTA Y EN LAS CESIONES DE SUS CONTRATOS DE ARRENDAMIENTO CON PROMESA DE COMPRAVENTA.
 
-CIRCULAR Nº: 1351
-FECHA: 17.10.1997
 
 Para todas las sociedades securitizadoras, fondos de inversión inmobiliaria, fondos de inversión de créditos securitizados y sociedades inmobiliarias regidas por la Ley Nº 19,281.
 Esta Superintendencia, en cumplimiento de lo dispuesto en el inciso segundo del artículo 30 de la Ley Nº 19.281, establece las condiciones que deberán cumplirse en las ventas de viviendas arrendadas con promesa de compraventa y en las cesiones de sus contratos de arrendamiento con promesa de compraventa.

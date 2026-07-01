@@ -22,7 +22,6 @@ Los contratos de opciones y futuros deberán celebrarse o transarse en mercados 
 Los fondos mutuos que conforme a la Circular N° 1.578 de 2002, correspondan al tipo Fondos Mutuos Estructurados, que en su definición hayan adoptado las expresiones “garantizados”,
 “afianzado”, “asegurado” u otras de similar naturaleza, como también la expresión “derivado”, podrán celebrar o transar contratos de opciones fuera de dichos mercados bursátiles y con contrapartes distintas a las ya señaladas, debiendo especificar en el reglamento interno correspondiente, el tipo de entidad de que se trate y la clasificación de riesgo de su deuda de corto y largo plazo, en caso que corresponda. Ahora bien, en relación a las transacciones de opciones realizadas fuera de mercados bursátiles (OTC), se deberá referenciar la forma de determinación diaria de los precios para dichos contratos.
 Asimismo, los contratos de forward que se realicen en el extranjero deberán tener como contraparte a bancos que presenten una clasificación de riesgo internacional equivalente a las categorías Nivel 1 y Nivel 2 para su deuda de corto plazo y AAA, AA, A para su deuda de largo
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -42,7 +41,6 @@ principal el ser la contraparte de las operaciones de opciones y futuros, que se
 Los activos objeto de los contratos de opciones, futuros y forwards a que se refiere el numeral 1 de esta norma, para la inversión de los fondos mutuos, serán los que a continuación se señalan:
 a) Monedas: Los recursos de los fondos mutuos podrán ser invertidos en contratos de
 opciones, futuros y forwards que tengan como activo objeto a alguna de las monedas en los que están autorizados a invertir. En todo caso, las monedas que estén involucradas en los respectivos contratos y que den origen al precio de ejercicio, futuro y forward de los contratos de opciones, futuros y forwards, respectivamente, deberán corresponder a monedas que cumplan el requerimiento antes señalado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -63,7 +61,6 @@ ser invertidos en contratos de opciones, futuros y forwards que tengan como acti
 f) Productos, commodities y títulos representativos de estos activos: Los recursos de
 los fondos mutuos podrán ser invertidos en contratos de opciones, futuros y forwards que tengan como activo objeto a productos, commodities o títulos representativos de tales activos negociados en bolsas de productos nacionales o de commodities extranjeras, en los que están autorizados a invertir.
 Se entenderá como commodities a aquellos productos que provengan directa o indirectamente de la agricultura, ganadería, silvicultura, actividades hidrobiológicas, extracción de hidrocarburos y minerales metálicos y no metálicos, o cualquier otra actividad que pueda ser entendida como agropecuaria o de extracción mineral, de acuerdo a normas nacionales o extranjeras.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -85,7 +82,6 @@ c) El valor de los activos comprometidos en el lanzamiento de opciones de venta 
 exceder el 5% del valor del activo del fondo mutuo.
 Para estos efectos, se entenderá por valor de los activos comprometidos en el lanzamiento de opciones de venta, a la sumatoria del valor de los precios de ejercicio de esas opciones lanzadas por el fondo.
 (1) Letra agregada por Norma de carácter General N° 237, de 2009.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -102,7 +98,6 @@ futuro y forward, más la cantidad que se está obligado a comprar por la emisi�
 Los excesos sobre estos límites que se produzcan por fluctuaciones de mercado o por otra causa justificada, deberán regularizarse en un plazo máximo de 30 días, contado desde la fecha en que se produjo el exceso. No obstante, en el caso de fondos mutuos que conforme a la Circular N° 1.578 de 2002, correspondan al tipo de Fondos Mutuos Estructurados, que en su definición hayan adoptado las expresiones “garantizado”, “afianzado”,
 “asegurado” u otras de similar naturaleza, como también la expresión “derivados”, los excesos sobre la limitación referida en la letra b) producidos por fluctuaciones de mercado o por otra causa justificada podrán ser mantenidos en forma indefinida.
 En el caso de que se mantengan simultáneamente posiciones titulares y lanzadoras sobre opciones del mismo tipo (compra o venta), sobre el mismo activo objeto y con el mismo plazo de vencimiento y precio de ejercicio, dichas posiciones deberán ser eliminadas del cálculo de los límites a) y b) anteriores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -121,7 +116,6 @@ este número, a través de contratos de futuro y forward, más la cantidad que s
 c) Para los fondos mutuos definidos como de inversión de renta fija de corto plazo, de acuerdo
 a la Circular Nº 781 de 1988, la cantidad neta comprometida a comprar a través de contratos de futuro y de forward, más la cantidad que se está obligado a comprar por el lanzamiento de opciones de venta, que permitan aumentar la inversión en activos con vencimiento mayor o igual a 120 días, valorizadas considerando el valor del activo objeto, más la inversión en la cartera contado en instrumentos con ese vencimiento, no podrá exceder el monto autorizado a invertir por ese tipo de fondo, en dichos instrumentos financieros. Para estos efectos, deberá considerarse el plazo al vencimiento del instrumento de renta fija en la cartera contado y el plazo al vencimiento del activo objeto de los contratos, según corresponda.
 Los excesos sobre estos límites que se produzcan por fluctuaciones de mercado o por otra causa justificada, deberán regularizarse en un plazo máximo de 30 días, contado desde la fecha en que se produjo el exceso. No obstante, en el caso de fondos mutuos que conforme a la Circular N° 1.578 de 2002, correspondan al tipo de Fondos Mutuos Estructurados, que
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -140,7 +134,6 @@ futuro y forward, más la cantidad que se está obligado a vender por el lanzami
 b) La cantidad neta comprometida a comprar de un determinado índice a través de contratos de
 futuro y forward, más la cantidad que se está obligado a comprar por la emisión de opciones de venta, valorizadas considerando el valor del índice, no podrá exceder el 15% del activo del fondo. No obstante, cuando alguno de los componentes del índice represente por sí mismo más del 50% de la ponderación del respectivo índice, dicho límite no podrá exceder el 10% del activo del fondo.
 b.1) En el caso que se produzcan excesos por fluctuaciones de mercado o por otra causa justificada, este exceso podrá mantenerse hasta por un plazo de 30 días, contado desde la fecha en que se produjo. No obstante lo anterior, si la cantidad comprometida de comprar de un determinado índice, supera el 20% del valor del activo del fondo mutuo, el exceso sobre este porcentaje deberá regularizarse a más tardar el día siguiente de producido.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -160,7 +153,6 @@ de futuro y de forward, más la cantidad que se está obligado a vender por el l
 b) La cantidad neta comprometida a comprar de una determinada acción, a través de
 contratos de futuro y de forward, más la cantidad que se está obligado a comprar por el lanzamiento de opciones de venta, más la cantidad de esa acción mantenida en la cartera contado, no podrá exceder el límite máximo de acciones por emisor, establecido en el artículo
 13, numeral 4 del D.L. Nº 1.328 de 1976, Ley de Fondos Mutuos. Asimismo, el número de
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -178,7 +170,6 @@ representativo de commodity a través de contratos de futuro y de forward, más 
 b) La cantidad neta comprometida a comprar de un determinado commodity o título
 representativo de commodity, a través de contratos de futuro y de forward, más la cantidad que se está obligado a comprar por el lanzamiento de opciones de venta, valorizadas considerando el valor de los commodities y de los títulos representativos de commodities, no podrá ser superior al 10% del valor del activo del fondo.
 Los excesos sobre este último límite producidos por fluctuaciones de mercado o por otra causa justificada, deberán regularizarse en un plazo máximo de 30 días, contado desde la fecha en que se produjo el exceso.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -197,7 +188,6 @@ de contratos de futuro y forward, más la cantidad que se está obligado a compr
 número 5, letra d) de la Circular N° 1.217 de 1995.
 Los excesos sobre este último límite producidos por fluctuaciones de mercado o por otra causa justificada deberán regularizarse en un plazo máximo de 30 días, contado desde la fecha en que se produjo el exceso.
 En el caso de que se mantengan simultáneamente posiciones titulares y lanzadoras sobre opciones del mismo tipo (compra o venta), sobre el mismo activo objeto y con el mismo plazo de vencimiento y precio de ejercicio, dichas posiciones deberán ser eliminadas del cálculo de los límites anteriores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -216,7 +206,6 @@ En el caso de que se mantengan simultáneamente posiciones titulares y lanzadora
 Para efectos de los límites indicados precedentemente se entenderá por:
 - Cantidad neta comprometida a vender de un determinado título representativo de un índice a
 través de contratos de futuro o forward, la diferencia positiva que resulta de restar a la cantidad de dicho título vendido en futuros y forwards, la cantidad del mismo comprado en futuros y forwards. El neto anterior será realizado para los contratos cuyas fechas de vencimiento se encuentren dentro del mismo mes y año calendario y posean el mismo título objeto.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 204
 FECHA: 28.12.2006
@@ -231,4 +220,3 @@ Las sociedades administradoras de fondos mutuos deberán comunicar los excesos a
 La presente norma deroga Norma de Carácter General N° 71, de 17 de Diciembre de 1996, Norma de Carácter General N° 161, de 29 de Marzo de 2004, Norma de Carácter General N° 184, de 8 de Julio de 2005 y circular 1.822 de 11 de Diciembre de 2006.
 ### 16.- VIGENCIA Y DEROGACIÓN
 La presente norma rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

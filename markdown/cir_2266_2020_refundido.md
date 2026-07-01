@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2266
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 20-6 Hoja 1
 2.2. Nómina de documentos protestados por el propio banco

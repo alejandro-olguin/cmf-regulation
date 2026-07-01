@@ -3,8 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: Envío de información periódica de acuerdo con el artículo 11° de la Ley N°20.009.
-NORMA DE CARÁCTER GENERAL N°487
+# Envío de información periódica de acuerdo con el artículo 11° de la Ley N°20.009. NORMA DE CARÁCTER GENERAL N°487
+
+
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo 5° y el numeral 3 del artículo 20, todos del Decreto Ley N°3.538; el artículo 11° de la Ley N°20.009;
 y, lo acordado por el Consejo de la Comisión en sesión ordinaria N°307 de 29 de septiembre de 2022, ha estimado pertinente impartir las siguientes instrucciones a los bancos, sociedades de apoyo al giro, empresas emisoras de tarjetas de pago y cooperativas de ahorro y crédito fiscalizadas por esta Comisión:
 Dichas entidades deberán enviar trimestralmente información con datos mensuales relativos al número de usuarios afectados por casos cubiertos en la Ley N°20.009, los montos involucrados y fechas de respuesta o de cumplimiento de sus obligaciones según el Archivo E 24, utilizando la aplicación Gestión de Archivos Normativos (GAN) que se encuentra en el sistema de CMF Supervisa1.

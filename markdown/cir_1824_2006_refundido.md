@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE REQUISITOS DE INFORMACIÓN RELATIVA A LAS INVERSIONES DEL FONDO PARA LA BONIFICACIÓN POR RETIRO. A la sociedad administradora del fondo para la bonificación por retiro I. INTRODUCCION
+# CIRCULAR N° 1824 — ESTABLECE REQUISITOS DE INFORMACIÓN RELATIVA A LAS INVERSIONES DEL FONDO PARA LA BONIFICACIÓN POR RETIRO
 
-### CIRCULAR N° 1.824
-FECHA: 29.12.2006
 
 Esta Superintendencia, en uso de sus facultades legales, ha estimado necesario establecer requisitos de información que deberá proporcionar la referida sociedad, relativa a las inversiones del denominado fondo para la bonificación por retiro.
 Para esos efectos, la presente circular establece el formato y contenido para la entrega mensual de la citada información a este Servicio, el que deberá ser enviado por la sociedad administradora dentro del plazo de los 5 días siguientes al último día del mes que se está informando.
@@ -24,9 +22,7 @@ D) Inversiones en emisores que sean personas relacionadas a la administradora
 Los formatos y las instrucciones específicas de los datos que se deben informar en cada caso, se encuentran contenidos en el Anexo Nº 1 de esta circular, el cual expone los modelos de cuadros que deberán utilizarse para proporcionar la información requerida.
 ## III. VIGENCIA
 Las instrucciones impartidas por la presente circular, rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.824
-FECHA: 29.12.2006
+
 ## ANEXO N° 1
 ## 1. INVERSIONES DEL FONDO AGRUPADAS
 En estos cuadros se deberá indicar en la columna “Mantenido”, los porcentajes con cuatro decimales o los montos en miles de pesos, según corresponda, que mantiene invertido el fondo al último día del mes que se está informando, en cada tipo de instrumento detallado; en los instrumentos específicos, grupos y sectores que se indican; y/o en los emisores correspondientes, de acuerdo a lo indicado en los cuadros respectivos:
@@ -47,10 +43,6 @@ A) Inversiones por tipo de instrumento al DD/MM/AAAA (en función del valor del 
 | 9.- Depósitos de corto plazo (overnight y time deposit) | 2% |  |  |  |
 | 10.- Operaciones o contratos que tengan como objeto el préstamo o mutuo de inst. financieros de emisores extranjeros, calculado en función de los instrumentos entregados en préstamo | 1/3 inversión extranjera del fondo |  |  |  |
 |  |  |  |  |  |
-
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.824
-FECHA: 29.12.2006
 
 | 11.- Otros instrumentos de oferta pública cuyos emisores sean fiscalizados por la SVS y SBIF, según corresponda, que autorice el Banco Central de Chile: Efectos de Comercio de la letra l) del artículo 45 del D.L. 3.500 (no considerados en el número 7.- anterior) | 5% |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -77,10 +69,6 @@ C) Inversiones por emisor al DD/MM/AAAA
 | 1.1.- Depósitos en cuentas corrientes y a plazo, títulos de deuda, emitidos por bancos, instituciones financieras y sus filiales, o garantizados por ellos |  | 10% * VF * fij | MU1 * Pat. |  |  |  |  |
 | 1.2.- Depósitos en cuentas corrientes y a plazo, más los títulos de deuda emitidos por bancos o instituciones financieras, o garantizados por ellos |  | 7%* VF |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
-
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.824
-FECHA: 29.12.2006
 
 | 2. SECTOR EXTRANJERO |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -109,10 +97,6 @@ DD/MM/AAAA
 | 1.- Títulos de deuda |  | Detallados anteriormente | 1.1.- Sólo categoría AAA o AA con nivel N-1 de riesgo y rigen límites detallados anteriormente 1.2.- 3% Valor activo del emisor 1.3.- 3% Valor activo contable neto consolidado emisor | 5% de la emisión y 20% de la colocación diaria |  |  |  |
 | 2.- Límite para la inversión en instrumentos emitidos o garantizados por cada emisor relacionado a la administradora |  |  | 1% * VF |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.824
-FECHA: 29.12.2006
-
 | 3.- Límite para la inversión en forma directa e indirecta en instrumentos emitidos o garantizados por todas las sociedades relacionadas a la administradora |  |  | 5% * VF |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -135,9 +119,7 @@ En la columna “Porcentaje del exceso sobre el valor del fondo”, se deberá m
 3.70.00.00 del Informe Financiero del fondo.
 En la columna “Causa del exceso”, deberá indicarse si éstos corresponden a fluctuación de valores, disminución patrimonial, adquisición de valores u otros motivos.
 En la columna “Observaciones”, se deberá señalar cualquier otro antecedente que sea considerado relevante por parte de la sociedad administradora.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.824
-FECHA: 29.12.2006
+
 Excesos de inversión por emisor (Cuadro C) y por emisores relacionados (Cuadro D) al DD/MM/AAAA
 
 | FECHA ORIGEN DEL EXCESO | CODIGO EXCESO | EMISOR | RUT EMISOR NACIONAL | MONTO DEL EXCESO M$ | % DEL EXCESO | LIMITE EXCEDIDO | CAUSA DEL EXCESO | OBSERVACIONES |
@@ -151,4 +133,3 @@ Las columnas “Código exceso”, “Causa del exceso” y “Observaciones”,
 En la columna “Porcentaje del exceso”, se deberá mostrar el porcentaje con cuatro decimales del exceso incurrido por sobre el límite excedido (fondo, empresa y/o serie, en cuanto al cuadro C y normal, relacionado y/o emisión, en lo referente al cuadro D).
 En la columna “Límite excedido”, se deberá indicar aquél incurrido por el fondo, señalando si se trata de un exceso sobre el valor del fondo, por empresa y/o por serie, en cuanto al cuadro C y normal, relacionado y/o emisión, en lo referente al cuadro D.
 Las cifras de los cuadros deberán presentarse en miles de pesos y los porcentajes con 4 decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

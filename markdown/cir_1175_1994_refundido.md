@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE PROCEDIMIENTO PARA REGULARIZAR EXCESOS DE INVERSION EN CUOTAS DE FONDOS DE INVERSION DE PERSONAS SEÑALADAS EN LOS ARTICULOS 14º Y 19º DE LA LEY Nº 18.815.
+# CIRCULAR N° 1175 — ESTABLECE PROCEDIMIENTO PARA REGULARIZAR EXCESOS DE INVERSION EN CUOTAS DE FONDOS DE INVERSION DE PERSONAS SEÑALADAS EN LOS ARTICULOS 14º Y 19º DE LA LEY
 
-CIRCULAR Nº: 1175
-FECHA: 08.09.94
 
 Para todas las sociedades administradoras de fondos de inversión.
 Esta Superintendencia en uso de sus facultades legales ha estimado conveniente emitir las siguientes instrucciones, en relación a las disposiciones contenidas en los artículos 14 y 19 de Ley Nº 18.815, de
@@ -22,4 +20,3 @@ Producido el exceso de inversión en cuotas, las personas indicadas dispondrán 
 En todo caso, la sociedad administradora no podrá aceptar solicitudes de traspasos que den lugar a excesos sobre el 25% de las cuotas en circulación del fondo o que aumenten o mantengan dichos excesos.
 En relación a lo anterior, la sociedad administradora deberá implementar los controles internos que permitan mantener información oportuna, respecto de los porcentajes de inversión mantenidos por las personas antes indicadas, en cuotas de cada uno de los fondos bajo su administración.
 VIGENCIA La presente circular rige a contar del 3 de octubre de 1994.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

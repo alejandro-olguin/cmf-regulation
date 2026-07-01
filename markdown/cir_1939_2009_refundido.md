@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1939 — INSTRUYE SOBRE LA IMPLEMENTACIÓN DE LA GESTIÓN DE RIESGO OPERACIONAL EN LAS ENTIDADES DE DEPÓSITO Y CUSTODIA DE VALORES Y EN LAS SOCIEDADES ADMINISTRADORAS DE SISTEMAS DE COMPENSACIÓN Y LIQUIDACIÓN DE INSTRUMENTOS FINANCIEROS
+# CIRCULAR N° 1939 — INSTRUYE SOBRE LA IMPLEMENTACIÓN DE LA GESTIÓN DE RIESGO OPERACIONAL EN LAS ENTIDADES DE DEPÓSITO Y CUSTODIA DE VALORES Y EN LAS SOCIEDADES ADMINISTRADORAS DE SISTEMAS DE COMPENSACIÓN Y LIQUIDACIÓN DE INSTRUMENTOS FINANCIEROS.
 
 
 Para las entidades de depósito y custodia de valores, reguladas por la Ley N° 18.876, y las sociedades administradoras de sistemas de compensación y liquidación de instrumentos financieros, reguladas por la Ley N° 20.345 Esta Superintendencia, en uso de sus facultades legales, y en atención a lo dispuesto en el inciso tercero del artículo 1°, artículos 27° y 28° de la Ley N° 18.876 y en los artículos 7°, 9° y 11°, de la Ley N° 20.345, ha estimado necesario dictar las instrucciones contenidas en la presente circular, referentes a la gestión del riesgo operacional que las entidades de depósito y custodia de valores y las sociedades administradoras de sistemas de compensación y liquidación de instrumentos financieros deberán poner en práctica, con la finalidad de asegurar el cumplimiento de estándares adecuados en el desarrollo de sus actividades.
@@ -14,7 +14,6 @@ La actividad de gestión de riesgo operacional, incluyendo el necesario desarrol
 o a la falla de los procesos, del personal y de los sistemas internos y/o de los controles internos aplicables o bien a causa de acontecimientos externos.
 - Gestión de riesgo operacional: Corresponde al proceso de identificación,
 medición, control y monitoreo del riesgo operacional de la entidad que pueda afectar de forma adversa la consecución de sus obligaciones establecidas en el marco legal. Este proceso es aprobado, implementado y controlado por la gerencia general de la entidad, teniendo presente las responsabilidades del directorio, la administración, las unidades internas de supervisión y todo el
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 1 personal de la misma. Este proceso forma parte integral de la política de gestión
 de riesgo operacional aprobada por el directorio.
 - Dueño del proceso: Corresponde a aquella persona designada para hacerse
@@ -34,7 +33,6 @@ Las entidades deberán establecer procedimientos documentados y debidamente apro
 ## 1. Directrices del proceso de gestión de riesgo operacional
 ### 1.1 Política de gestión de riesgo operacional
 El directorio de la entidad deberá aprobar y ordenar la implementación de una política de gestión de riesgo operacional, destinada a establecer las medidas que deberá adoptar la administración de la entidad en dicho ámbito. Dicha política será parte integral de la política de gestión de riesgos contemplada por el artículo 9° de la Ley N° 20.345, la cual debe ser establecida por el directorio de la entidad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 La política de gestión de riesgo operacional deberá abordar a lo menos los
 siguientes aspectos:
@@ -50,7 +48,6 @@ e) Criterios de evaluación y tratamiento de riesgos
 La entidad deberá definir el criterio de evaluación de riesgo que mejor se adecue a su contexto organizacional y estratégico. Además, debe especificar los criterios de tratamiento de los riesgos, junto con las variables a considerar en cada una de ellas.
 ### 1.2 Manual de gestión de riesgo operacional
 Basándose en la política, las entidades deberán establecer procedimientos formales para la gestión de los riesgos que surjan de los procesos asociados a las actividades efectuadas por dichas entidades. Tales procedimientos deberán estar debidamente documentados en un manual de gestión de riesgo operacional, el cual debe describir las etapas del proceso de gestión de riesgo operacional, junto a los requerimientos de documentación y de informes resultantes, teniendo en consideración lo que se establece en la presente circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 En dicho manual, debe estar identificada la unidad responsable de desarrollar, implementar e impulsar la gestión de riesgo operacional en la entidad.
 ## 2. Análisis y evaluación de riesgos
@@ -72,7 +69,6 @@ evaluación de riesgos establecido en la política de gestión de riesgo operaci
 documentación asociada a las actividades mencionadas en este numeral.
 ## 3. Tratamiento de riesgos
 De acuerdo a las prioridades establecidas en la etapa de análisis y evaluación de riesgos, la unidad responsable de la gestión de riesgo operacional, en conjunto con el dueño de cada proceso, debe analizar las distintas opciones para el tratamiento de los riesgos, definidas en la política de gestión de riesgo operacional, preparar planes de acción para su tratamiento y definir la forma en que estos últimos se implementarán. Esta decisión se deberá documentar en la
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 4 matriz de riesgos y controles, la cual, en este ámbito, debe indicar para cada
 proceso o subproceso revisado, a lo menos lo siguiente:
 a) Descripción del riesgo.
@@ -92,7 +88,6 @@ Adicionalmente dicha unidad debe mantener la documentación y el registro de al 
 ## 5. Información y Comunicación
 La unidad responsable de la gestión de riesgo operacional debe mantenerse en constante comunicación con el resto de las unidades de la entidad. Para ello debe diseñar y emitir reportes periódicos a los diferentes interesados (internos o externos a la entidad). Corresponderá considerar a lo menos los siguientes
 aspectos:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 a) La gerencia general deberá informar a lo menos una vez al año al
 directorio sobre los principales riesgos de la entidad y los planes de tratamiento adoptados; en este aspecto, se incluyen los planes de tratamiento que se implementarán. De la presentación que se efectúe, su discusión y aprobación, quedará constancia en las actas de sesión de directorio correspondientes.
 b) Igual obligación de información de la letra a) será aplicable a la gerencia
@@ -110,7 +105,6 @@ Las entidades deberán mantener una estructura organizacional apta para la defin
 La estructura organizacional de las entidades deberá considerar, al menos, que:
 a) El directorio de la entidad, en el ámbito de la presente circular, sea responsable
 de revisar y aprobar la política de gestión de riesgo operacional de la entidad, dejando evidencia de ello. Además, tenga la responsabilidad de estar informado
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 6 de la gestión de riesgo operacional de la organización, para lo cual podrá
 delegar esta responsabilidad en un comité constituido por al menos tres integrantes, siendo al menos uno de ellos miembro del directorio.
 b) La gerencia general de la entidad, en el ámbito de la presente circular, sea
@@ -125,11 +119,9 @@ política de gestión de riesgo operacional. Además deba existir evidencia de l
 ## V. ACTUALIZACIÓN DE POLÍTICAS Y PROCEDIMIENTOS
 Las políticas y procedimientos de gestión de riesgo operacional deberán ser constantemente revisados, monitoreados, y de ser el caso actualizado, de forma tal que se asegure una efectiva identificación de los riesgos y se cuente con los controles adecuados para su mitigación. Estas revisiones deberán ser realizadas con una periodicidad de a lo menos de una vez al año.
 En tal sentido, toda modificación efectuada a los procedimientos de gestión de riesgo operacional deberá ser incorporada al Manual del que trata la sección II de la presente circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## VI. OTRAS DISPOSICIONES
 La información, los registros y antecedentes que den cuenta del cumplimiento de la presente circular, deberán estar en todo momento a disposición de la Superintendencia.
 ## VII. VIGENCIA
 Tratándose de las entidades de depósito y custodia, las disposiciones contenidas en la presente circular deberán ser implementadas antes del 31 de diciembre de 2009.
 En el caso de las sociedades administradoras de sistemas de compensación y liquidación de instrumentos financieros, las disposiciones contenidas en la presente circular deberán ser implementadas antes de cumplidos 180 días después del inicio de actividades.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

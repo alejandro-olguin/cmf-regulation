@@ -3,53 +3,15 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# NCG N° 221
+
 NORMA DE CARÁCTER GENERAL CMF N° 221
 ### CIRCULAR SP N° 1526
 FECHA: 20.08.2008
 ### SUPERINTENDENCIA DE PENSIONES CIRCULAR N° 1.526 DE 20/08/2008 COMISIÓN PARA EL MERCADO FINANCIERO NCG N° 221 DE 20/08/2008
 VISTOS: Las facultades que confiere la ley a estos Supervisores, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Entidades de Asesoría Previsional, los Asesores Previsionales y los corredores de seguros de rentas vitalicias.
-REF.: IMPARTE INSTRUCCIONES SOBRE LA ASESORÍA PREVISIONAL, EL CONTRATO DE ASESORIA PREVISIONAL Y LA INSCRIPCIÓN EN EL REGISTRO DE ASESORES PREVISIONALES ESTABLECIDO
-### POR EL TÍTULO XVII DEL D.L. N° 3.500, DE 1980.1
-1 Modificada por Norma de Carácter General (NCG) CMF N° 252 Y Circular SP N° 1623, de 24 de junio de 2009; NCG CMF N° 388
-y NCG SP N° 148, de 3 de julio de 2015; y NCG CMF N°477 Y NCG SP N°274, de 3 de septiembre de 2020.
 
-NORMA DE CARÁCTER GENERAL CMF N° 221
-### CIRCULAR SP N° 1526
-FECHA: 20.08.2008
-INDICE INTRODUCCIÓN ....................................................................................................................................................... 3
-1. ENTIDADES DE ASESORÍA PREVISIONAL Y DE LOS ASESORES PREVISIONALES. .................. 3
-1.1. OBLIGACIONES DE LAS ENTIDADES DE ASESORÍA PREVISIONAL Y DE LOS ASESORES PREVISIONALES ....... 3
-1.2. PROHIBICIONES ........................................................................................................................................... 5
-1.3. CONTRATO DE ASESORÍA PREVISIONAL ...................................................................................................... 6
-1.4. ASESORÍA EN DEPENDENCIAS DE TERCEROS. .............................................................................................. 6
-1.5. PROMOCIÓN, PUBLICIDAD Y OFERTA DE SERVICIOS DE ASESORÍA ................................................................ 6
-1.6. ASESORÍA PREVISIONAL A TRAVÉS DE UN SITIO WEB ................................................................................. 7
-### 2. REGISTRO DE LOS ASESORES Y DE LAS ENTIDADES DE ASESORIA PREVISIONAL DEL
-TITULO XVII DEL D.L. 3.500. ................................................................................................................................. 9
-2.1. SOLICITUD ................................................................................................................................................... 9
-2.2. REQUISITOS ................................................................................................................................................. 9
-2.3. ACEPTACIÓN O RECHAZO DE LA SOLICITUD DE INSCRIPCIÓN ..................................................................... 11
-2.4. OBLIGACIONES .......................................................................................................................................... 11
-2.5. INSCRIPCIÓN .............................................................................................................................................. 11
-3. PÓLIZAS DE SEGUROS................................................................................................................................ 12
-3.1. ASESORES EN PROCESO DE INSCRIPCIÓN: .................................................................................................. 13
-3.2. ASESORES CON INSCRIPCIÓN VIGENTE: ..................................................................................................... 13
-4. OBLIGACIONES DE INFORMACIÓN A LOS SUPERVISORES ........................................................... 13
-5. FISCALIZACIÓN Y SANCIONES. .............................................................................................................. 14
-6. ASESORÍA PREVISIONAL DURANTE LA VIDA ACTIVA .................................................................... 15
-7. VIGENCIA ....................................................................................................................................................... 16
-8. NORMAS TRANSITORIAS ........................................................................................................................... 16
-### ANEXO 1 CONTENIDO MÍNIMO DEL CONTRATO DE PRESTACIÓN DE SERVICIOS DE
-ASESORIA DURANTE LA VIDA ACTIVA DEL AFILIADO ................................................................... 18
-### ANEXO 2 CONTENIDO MÍNIMO DEL CONTRATO DE PRESTACIÓN DE SERVICIOS DE
-ASESORIA PARA PENSIONARSE O CAMBIAR MODALIDAD DE PENSION..................................... 21 APENDICE II: TÓPICOS PARA LA PRUEBA .................................................................................................... 25 APENDICE III: ......................................................................................................................................................... 27
-### ANEXO 1 DOCUMENTOS, ANTECEDENTES, CERTIFICADOS Y REQUISITOS A PRESENTAR
-POR PARTE DE LOS ASESORES PREVISIONALES O ENTIDAD DE ASESORIA PREVISIONAL .... 27 ANEXO 2 DECLARACION JURADA ......................................................................................................... 28 APENDICE N° IV: FECU ........................................................................................................................................ 29 ANEXO N° 1 CORRECCION MONETARIA ..................................................................................................... 32 ANEXO Nº 2 INFORMACIÓN A REMITIR POR ASESORES PREVISIONALES O ENTIDADES DE ASESORIA PREVISIONAL ................................................................................................................................ 33 ANEXO Nº 3 ANEXO Nº 3.1 FECU (Ficha Estadística Codificada Uniforme) ................................................ 35 APÉNDICE Nº V DECLARACION JURADA ESPECIAL .................................................................................. 61
-
-NORMA DE CARÁCTER GENERAL CMF N° 221
-### CIRCULAR SP N° 1526
-FECHA: 20.08.2008
-INTRODUCCIÓN La Superintendencia de Pensiones y la Comisión para el Mercado Financiero, en adelante los Supervisores, en uso de sus facultades legales y de conformidad a lo dispuesto en el título XVII “De la Asesoría Previsional” del D.L. N° 3.500, de 1980, imparten la presente normativa de cumplimiento obligatorio para las personas o entidades que ejerzan las actividades de asesoría que define el título antes señalado.
+La Superintendencia de Pensiones y la Comisión para el Mercado Financiero, en adelante los Supervisores, en uso de sus facultades legales y de conformidad a lo dispuesto en el título XVII “De la Asesoría Previsional” del D.L. N° 3.500, de 1980, imparten la presente normativa de cumplimiento obligatorio para las personas o entidades que ejerzan las actividades de asesoría que define el título antes señalado.
 Asimismo, se crea el Registro de Asesores Previsionales, que mantendrán en forma conjunta la Superintendencia de Pensiones y la Comisión para el Mercado Financiero, en el cual deberán inscribirse las personas o entidades que deseen desarrollar las actividades de asesoría previsional y que acrediten el cumplimiento de los requisitos que establece la Ley.
 ## 1. ENTIDADES DE ASESORÍA PREVISIONAL Y DE LOS ASESORES PREVISIONALES.
 Se entenderá que son Entidades de Asesoría Previsional, y Asesores Previsionales, las personas jurídicas y naturales, cuyo objeto es el otorgar servicios de asesoría previsional a los afiliados y beneficiarios del sistema de pensiones regulado por el D.L. 3.500, de 1980, considerando de manera integral todos los aspectos que dicen relación con su situación particular y que fueren necesarios para adoptar decisiones informadas de acuerdo a sus necesidades e intereses, en relación con las prestaciones y beneficios de dicho sistema, comprendiendo además la intermediación de seguros previsionales, debiendo para ello estar registrados como tales en el Registro de Asesores Previsionales, establecido en el artículo 172, del D.L. 3.500, de 1980. Para efectos de esta norma, se entenderá por seguros previsionales las pólizas de seguros de rentas vitalicias previsionales.

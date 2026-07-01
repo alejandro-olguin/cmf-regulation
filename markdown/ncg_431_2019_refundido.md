@@ -3,10 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: MODIFICA NORMATIVAS QUE INDICA.
-### IMPARTE INSTRUCCIONES SOBRE PLAZOS DE PRESENTACIÓN DE INFORMACIÓN FINANCIERA A ENTIDADES QUE SEÑALA.
-NORMA DE CARÁCTER GENERAL N° 431
-12 de febrero de 2019
+# MODIFICA NORMATIVAS QUE INDICA. IMPARTE INSTRUCCIONES SOBRE PLAZOS DE PRESENTACIÓN DE INFORMACIÓN FINANCIERA A ENTIDADES QUE SEÑALA. NORMA DE CARÁCTER GENERAL N° 431 12 de febrero de 2019
+
+
 Esta Comisión, en uso de las facultades que le confieren los numerales 1 y 18 del artículo 5 y el numeral 3 del artículo 20 todos del D.L. N° 3.538 de 1980; los artículos 1, 8, 10, 40,
 132 y 133 de la Ley N° 18.045; el artículo 18 de la Ley N° 18.876; el artículo 38 del Decreto Supremo
 N° 734, del Ministerio de Hacienda, de 1991; los artículos 1 y 2 de la Ley N°19.220; los artículos 2, 5 y 11 número 2 de la Ley N° 20.345; los artículos 2, 3, 18, 29 y 47 del artículo primero de la Ley N°

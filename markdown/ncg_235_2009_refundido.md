@@ -16,7 +16,6 @@ No le serán aplicables las disposiciones contenidas en la presente normativa, a
 De acuerdo a lo establecido en los artículos precedentemente mencionados, las sociedades administradoras de: fondos mutuos, fondos de inversión, fondos de inversión de capital extranjero, fondos de inversión de capital extranjero de riesgo y fondos para la vivienda deberán encargar a una empresa de depósitos de valores regulada por la ley N°18.876, el depósito de aquellos instrumentos que sean valores de oferta pública susceptibles de ser custodiados. Respecto a estos valores las sociedades administradoras deberán consultar el listado de instrumentos custodiables por las empresas de depósito de valores, y que deberán estar a disposición de las sociedades por parte de aquéllas de acuerdo a las instrucciones dispuestas por esta Superintendencia.
 Para estos efectos, las sociedades administradoras podrán proceder de alguna de las siguientes formas.
 1) Celebrar contratos de depósito con las referidas empresas, cuidando que estos contengan las estipulaciones necesarias que garanticen la seguridad y fluidez del servicio de custodia. A su vez será responsabilidad de las administradoras analizar la legalidad y consecuencia de las cláusulas contenidas en el contrato, de modo que permita asegurar el dominio sobre los valores adquiridos a nombre de los respectivos fondos y el adecuado ejercicio de las facultades de los mismos. Una copia de los referidos contratos deberá ser mantenida en el domicilio de la sociedad a disposición de esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -32,7 +31,6 @@ independientes entre si.
 ii. Contar con un patrimonio de al menos 5.000.000 de Unidades de Fomento.
 iii. El contrato de custodia que celebre la sociedad administradora con la entidad bancaria correspondiente, deberá contemplar, al menos la obligatoriedad de que la entidad bancaria deba verificar que cada uno de los movimientos sobre los valores custodiados que le indique la sociedad administradora, tenga efectivamente su origen en operaciones efectuadas por el fondo correspondiente. Lo anterior no libera, en ningún caso, a la sociedad administradora de la responsabilidad legal que le confieren los cuerpos legales pertinentes.
 La custodia de los títulos en las citadas empresas de depósito por parte de las entidades bancarias deberá realizarse mediante la apertura y mantención de cuentas de posición, a nombre de cada uno de los fondos gestionados por la sociedad administradora, debiendo los valores ser mantenidos en cuentas de mandantes para cada uno de éstos y segregados de aquéllas que eventualmente mantenga la entidad bancaria.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -51,7 +49,6 @@ En caso de ser incluido un nuevo instrumento a la categoría de custodiable, las
 ### III.- DE LA CUSTODIA DE TÍTULOS NO SUSCEPTIBLES DE SER CUSTODIADOS EN UNA EMPRESA DE DEPÓSITO DE VALORES.
 #### A. De la custodia física
 Se entenderá por custodia física aquella actividad realizada por la administradora, respecto de los títulos pertenecientes a cada uno de los fondos bajo su administración, que siendo o no valores de oferta pública, no resulten ser susceptibles de ser custodiados por una empresa de depósito. Lo propio, para el caso de los contratos de instrumentos financieros derivados que la sociedad celebre por cuenta del fondo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -69,7 +66,6 @@ Las inversiones realizadas en valores extranjeros, con lo recursos de los fondos
 Superintendencia o algún organismo de similar competencia a ésta;
 ## 3. Tener permanentemente un patrimonio neto de, al menos, el equivalente a 30.000 U.F.
 (treinta mil unidades de fomento); y
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -82,7 +78,6 @@ A su vez, será responsabilidad de la sociedad administradora analizar el marco 
 Una copia de los contratos que celebren las administradoras con las entidades de custodia y depósito, deberá ser mantenida en su domicilio social a disposición de esta Superintendencia.
 La circunstancia que el depósito y custodia de las inversiones sea realizada por entidades distintas a la propia sociedad administradora, no liberará a ésta de sus responsabilidades legales como administrador de los fondos de sus partícipes. Por su parte, la administradora deberá contar con políticas, procedimientos y controles formales para la elección de las entidades que custodiarán los activos de los fondos. Tales políticas deberán considerar la solvencia, mecanismos de control y gestión de riesgos, reputación, infraestructura, prácticas, registros y demás elementos tendientes a garantizar que esas entidades estarán en condiciones de ejercer de forma adecuada y efectiva sus funciones y que los activos de los fondos estarán debidamente resguardados.
 En caso que la entidad a cargo del depósito y custodia de los activos del fondo dejara de cumplir con los requisitos mencionados precedentemente o se encontrare imposibilitada de prestar el servicio de custodia, la sociedad administradora deberá informar esa situación a la Superintendencia en el plazo de 1 día hábil contado desde que la administradora tomo conocimiento de tal situación. Adicionalmente, a más tardar a los 30 días de haber tomado conocimiento de la situación antes referida, deberá traspasar el depósito y custodia de las inversiones a una nueva entidad que cumpla las condiciones señaladas en la presente normativa e informar a esta Superintendencia las medidas que finalmente adoptó para regularizar la situación antes descrita.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -102,13 +97,11 @@ Las sociedades administradoras, para cada uno de los fondos bajo su gestión, de
 Las sociedades administradoras deberán implementar los controles internos que les permitan en todo momento verificar el cumplimiento de la regulación en comento, así como, mantener información acerca de la situación de custodia de cada uno de los activos mantenidos en las carteras de inversiones de los fondos bajo su gestión.
 ## VIII. DEROGACIÓN
 Derógase los literales d), e) y f), número 3 de la Circular N° 1.797 de 2006.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
 ## IX. VIGENCIA
 Las instrucciones impartidas en la presente norma de carácter general rigen a contar de esta fecha
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -126,7 +119,6 @@ Las sociedades que administran fondos de mutuos, fondos de inversión y fondos p
 
 Notas :
 (1) Monto expresado en miles de pesos o de la moneda que corresponda, relativo a la custodia de inversiones realizadas sobre títulos emitidos por emisores nacionales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -138,7 +130,6 @@ para fondos de inversión y numeral 6.01, número 6 de la Circular N° 1.256 de 
 (5) Porcentaje que representa el monto indicado en la columna N° 4 sobre el total de inversiones en títulos emitidos por emisores extranjeros. El monto total de las inversiones en títulos emitidos por emisores extranjeros corresponderá, al monto informado en la cartera de inversiones, numeral 6.02, número 6 del Anexo 1, de la Circular N° 1.333 de 1997 para fondos mutuos; numeral 6.02, número 6 del Anexo 1, Circular N° 1.756 de 2005 para fondos de inversión y numeral 6.01, número 6 de la Circular N° 1.256 de 1996 para fondos para la vivienda.
 (6) Porcentaje que representa el monto indicado en la columna N° 4 sobre el total de los activos del fondo.
 (7) Las cifras del cuadro deberán presentarse en miles de pesos o en la moneda que corresponda sin decimales y los porcentajes con 4 decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 235
 FECHA: 12.01.2009
@@ -157,4 +148,3 @@ Notas:
 (1) Monto expresado en miles de pesos o de la moneda que corresponda, relativo a la custodia de inversiones realizadas.
 (2) Porcentaje que representa el monto indicado en la columna N° 1 sobre el total de los activos del fondo.
 (3) Las cifras del cuadro deberán presentarse en miles de pesos o en la moneda que corresponda sin decimales y los porcentajes con 4 decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

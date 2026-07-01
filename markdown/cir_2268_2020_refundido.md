@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2268
+
 ### SISTEMA CONTABLE
 (Instrucciones generales)
 ## 1. ARCHIVOS DEL SISTEMA CONTABLE

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 322 — FECHA : 23.11.2011
+# NCG N° 322 — IMPARTE NORMAS SOBRE PRESENTACIÓN Y TRATAMIENTO DE LA INFORMACIÓN FINANCIERA BAJO IFRS
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo establecido en el artículo 3º letra b) del D.F.L. Nº 251, de 1931, ha resuelto impartir las siguientes instrucciones generales relativas a la presentación y tratamiento contable de la información de las compañías de seguros en el marco del proceso de implementación de las Normas Internacionales de Información Financiera, IFRS, emitidas por el International Accounting Standard Board, IASB.

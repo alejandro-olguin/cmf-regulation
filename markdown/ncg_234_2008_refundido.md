@@ -700,9 +700,10 @@ Según la siguiente descripción de archivo:
 b) Solicitudes mensuales de pensión de invalidez
 Por tipo de invalidez y condición de cobertura:
 o Número de solicitudes presentadas o Número de solicitudes en proceso o Número de solicitudes aprobadas o Tiempo promedio en dictaminar aprobaciones (días) o Número de solicitudes rechazadas o Tiempo promedio en dictaminar rechazos (días) o Número de solicitudes reclamadas
- Por la compañía de seguros
- Por el afiliado
- Por Compañía y afiliado o Número de recursos de reposición Según la siguiente descripción de archivo:
+• Por la compañía de seguros
+• Por el afiliado
+• Por Compañía y afiliado
+o Número de recursos de reposición Según la siguiente descripción de archivo:
 
 | Archivo:soliaaaamm.ext |  |  |  |
 | --- | --- | --- | --- |

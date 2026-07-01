@@ -34,6 +34,9 @@ Convert all PDFs:
 python3 convert_pdfs.py --all
 ```
 
+`--llm-audit` and related flags are currently deprecated and ignored.
+The converter runs in deterministic mode only.
+
 Skip files that already have markdown output:
 
 ```bash

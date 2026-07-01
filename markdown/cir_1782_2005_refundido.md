@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1782 — IMPARTE INSTRUCCIONES SOBRE PRESENTACION Y DIFUSION DE INFORMACIÓN ESTADÍSTICA DE LOS COSTOS ASOCIADOS A LA INVERSIÓN EN FONDOS MUTUOS
+# CIRCULAR N° 1782 — IMPARTE INSTRUCCIONES SOBRE PRESENTACION Y DIFUSION DE INFORMACIÓN ESTADÍSTICA DE LOS COSTOS ASOCIADOS A LA INVERSIÓN EN FONDOS MUTUOS.
 
 
 Para todas las sociedades que administran fondos mutuos Esta Superintendencia, en uso de sus facultades legales, imparte instrucciones sobre la forma y contenido en que deberá presentarse la información estadística de los costos asociados a la inversión en fondos mutuos, así como, acerca de la difusión de dicha información.

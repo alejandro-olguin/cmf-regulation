@@ -3,37 +3,15 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# NCG N° 227
+
 NORMA N° 227
 FECHA: 08.09.2008
 ### SUPERINTENDENCIA DE PENSIONES CIRCULAR N° 1534 SUPERINTENDENCIA DE BANCOS CIRCULAR N° 3446 E INSTITUCIONES FINANCIERAS SUPERINTENDENCIA DE VALORES Y SEGUROS NORMA DE CARÁCTER GENERAL N° 227
 VISTOS: Las facultades que confiere el artículo 20 G del Decreto Ley N° 3.500, de 1980, a estas Superintendencias y lo dispuesto en los artículos 48 y vigésimo transitorio de la Ley N°
 20.255, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las
 Administradoras de Fondos de Pensiones, Instituciones Autorizadas e Instituto de Previsión Social.
-REF: Establece regulaciones comunes en relación al ahorro previsional voluntario colectivo.
-(1) Incluye modificaciones hechas por las Normas de Carácter General N° 305 de 2011 y N° 378 de 2015.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-NORMA N° 227
-FECHA: 08.09.2008
-ÍNDICE
-## I. INTRODUCCIÓN…………………………………………………………………………………….. 3
-## II. DEFINICIONES………………………………………………………………………………………. 3
-## III. CONTRATO DE AHORRO PREVISIONAL………………………………………………………. 5
-## IV. OFERTA Y SELECCIÓN DE PLANES DE AHORRO PREVISIONAL VOLUNTARIO COLECTIVO………………………………………………………………………………………….. 11
-## V. REGISTRO HISTÓRICO DE APVC POR TRABAJADOR……………………………………… 15
-## VI. RECAUDACIÓN Y TRANSFERENCIAS DE APORTES DE AHORRO PREVISIONAL VOLUNTARIO COLECTIVO………………………………………………………………………… 16
-## VII. TRASPASOS DE SALDOS DE AHORRO PREVISIONAL VOLUNTARIO COLECTIVO…… 19
-## VIII. COMISIONES…………………………………………………………………………………………. 22
-## IX. RETIRO DE FONDOS……..…………………………………………………………………………. 23
-## X. COBRANZA…………………………………………………………………………………………… 25
-## XI. TRIBUTACIÓN Y BONIIFICACIÓN………………………………………………………………… 27
-## XII. PU BLICIDAD, PROMOCIÓN E INFORMACIÓN………………………………………………… 31
-## XIII. NORMAS TRANSITORIAS…………………………………………………………………………. 33
-## XIV. VIGENCIA…………………………………………………………………………………………….. 33 SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-NORMA N° 227
-FECHA: 08.09.2008
-## I. INTRODUCCIÓN
 Con el objeto de ampliar, fomentar y profundizar los mecanismos de ahorro previsional voluntario dispuestos en el artículo 20 del D.L. N° 3.500, de 1980, la Ley N° 20.255, de fecha
 17.03.2008, crea el ahorro previsional voluntario colectivo (APVC), que permite a los
 trabajadores complementar su ahorro obligatorio, con aportes de naturaleza voluntaria que contemplan beneficios tributarios.
@@ -45,7 +23,6 @@ En este contexto y con el objeto de cumplir con el mandato legal, las tres Super
 ## II. DEFINICIONES
 Para los efectos de la presente Circular y de acuerdo con lo dispuesto en el número 3 del Título III, del Decreto Ley N° 3.500, de 1980, se entenderá por:
 ## 1. Administradora o AFP: Son las Administradoras de Fondos de Pensiones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -65,7 +42,6 @@ en que las Administradoras de Fondos de Pensiones e Instituciones Autorizadas de
 Autorizadas, según corresponda, con las cuales se celebra el contrato de APVC.
 9. Instituciones Autorizadas: Son aquellas distintas de las Administradoras de Fondos de
 Pensiones a que se refiere el inciso primero del artículo 20 del D.L. N° 3.500, de 1980, esto es, bancos e instituciones financieras, administradoras de fondos mutuos, compañías de seguros de vida, administradoras de fondos de inversión y administradoras de fondos para la vivienda y otras autorizadas al efecto, que cuenten con planes de ahorro previsional voluntario colectivo autorizados por las Superintendencias de Bancos e Instituciones Financieras o de Valores y Seguros, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -88,7 +64,6 @@ previsional voluntario colectivo efectuados por los trabajadores, entre Instituc
 empleador, por sí y en representación de sus trabajadores, y una Administradora o Institución Autorizada, con la finalidad de incrementar los recursos previsionales de los trabajadores.
 2. Los empleadores podrán ofrecer a todos y a cada uno de sus trabajadores la adhesión a
 uno o más contratos de ahorro previsional voluntario colectivo. Los términos y condiciones de cada contrato serán convenidos entre el empleador y la Administradora o
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -109,7 +84,6 @@ c) Identificación o nombre del plan de ahorro previsional voluntario colectivo.
 d) Número o porcentaje mínimo de trabajadores que deben adherir a alguno de los
 contratos en relación al número total de trabajadores del empleador. Este número no podrá ser inferior al menor valor entre el 15% del total de trabajadores de la empresa y 100. De existir más de un contrato de APVC para su cálculo se considerará la sumatoria de adhesiones a todos ellos. El porcentaje mínimo deberá mantenerse durante toda la vigencia del o los contratos que mantenga el empleador y en el evento que pase a ser menor, el empleador tendrá un plazo de
 12 meses, contado desde el mes siguiente a aquél en que se produjo este hecho,
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -126,7 +100,6 @@ para que éstos puedan adquirir la propiedad de los recursos originados en los a
 i. Veinticuatro meses para contratos suscritos con anterioridad al 1 de junio de
 ## 2011. Este número máximo se debe comenzar a medir desde el mes
 siguiente en que el trabajador se adhirió a un contrato de ahorro previsional voluntario colectivo que cumple con el requisito señalado en la letra d) anterior. En caso que el empleador no establezca el período de permanencia del trabajador en la empresa, deberá dejarlo expresamente
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -143,7 +116,6 @@ trabajador no se obligue a ello, si es que el empleador opta por este beneficio.
 j) Entidad o entidades que realizará(n) el proceso de recaudación. Los cambios de
 entidad recaudadora obligará a actualizar este punto del contrato.
 k) Comisiones cobradas por la Entidad respectiva.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -161,7 +133,6 @@ q) En caso de contratos que contemplen aportes diferenciados del empleador a
 mayor antigüedad del trabajador de la empresa, se deberá especificar la forma en que el empleador comunicará a la Entidad la antigüedad de los trabajadores que adhieran a ese plan.
 r) Declaración del empleador que se cumplen las exigencias establecidas por la Ley
 y por las normas impartidas por las Superintendencias de Pensiones, de Valores y Seguros, de Bancos e Instituciones Financieras y el Servicio de Impuestos Internos para la aplicación del régimen de ahorro previsional voluntario colectivo a que se refiere este contrato y se hace responsable de los impuestos, intereses y multas que pudiera adeudarse si el Servicio de Impuestos Internos, en uso de sus facultades, detecta el incumplimiento de cualquiera de los requisitos que permiten invocar los beneficios tributarios y bonificaciones fiscales que dicho régimen contempla.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -185,7 +156,6 @@ voluntario colectivo serán inembargables.
 efectuados por el empleador, éste último deberá retirar dichos recursos, de acuerdo a los procedimientos definidos en capítulo IX de la presente Circular, los cuales se complementarán con las instrucciones que cada Superintendencia impartirá al respecto.
 14. Las controversias suscitadas entre el trabajador y su empleador con motivo de la
 suscripción de los contratos de ahorro previsional voluntario colectivo, serán resueltas por los Juzgados de Letras del Trabajo; sin perjuicio de lo dispuesto en el artículo 19 del D.L. 3.500 de 1980, sobre cobranza.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -206,7 +176,6 @@ en los cuales los trabajadores adscritos a ellos puedan asignar sus saldos y/o a
 Autorizadas y por las AFP deberán cumplir, al menos, con lo siguiente:
 a) Los planes de ahorro previsional voluntario que se encuentren autorizados por la
 Superintendencia correspondiente, podrán consistir en depósitos y otros instrumentos de captación bancarios, instrumentos de oferta pública o pólizas de seguros y otros instrumentos que autoricen las respectivas Superintendencias y no
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -224,7 +193,6 @@ Autorizadas o a las AFP, según corresponda, dentro de los plazos máximos estab
 f). Los mencionados retiros de recursos que realicen los trabajadores deberán ser pagados directamente por la Institución Autorizada o por la AFP, mediante transferencia electrónica, dinero efectivo, vale vista nominativo o cheque nominativo a favor del trabajador, depósito en cuenta bancaria u otros medios autorizados por la respectiva Superintendencia.
 5. Los trabajadores que opten por adherir a planes de ahorro previsional voluntario
 colectivo deberán manifestar su voluntad mediante la suscripción del formulario denominado Adhesión o Traspaso de Ahorro Previsional Voluntario Colectivo y podrán suscribirlo en la AFP, en la Institución Autorizada, ante un representante de las Entidades o directamente con sus empleadores. Todos los participantes deberán recibir copia del respectivo formulario suscrito. La suscripción del formulario de adhesión podrá efectuarse mediante el uso de formularios físicos o bien por Internet, según lo autorice la Superintendencia correspondiente. En este último caso, las Entidades serán responsables de adoptar todas las medidas que correspondan para garantizar la seguridad y confidencialidad del proceso de adhesión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -255,7 +223,6 @@ k) Régimen tributario al cual acoge el trabajador sus aportes de ahorro previsi
 voluntario colectivo.
 l) Firma del trabajador.
 m) Firma autorizada y timbre de la Entidad destinataria.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -276,7 +243,6 @@ f) Firma del trabajador.
 9. El trabajador que haya hecho uso de la facultad señalada en el número precedente,
 podrá manifestar su voluntad de reanudar sus aportes de acuerdo al contrato de ahorro, siempre y cuando éste se encontrare vigente, para lo cual deberá comunicarlo al empleador y a la Administradora o Institución Autorizada correspondiente, de la misma forma señalada en el número 8 anterior, generando la respectiva obligación del empleador de reanudar sus aportes en conformidad a lo estipulado en dicho contrato.
 Esta comunicación deberá contener como mínimo la siguiente información:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -302,7 +268,6 @@ b) El ahorro deberá registrarse separando los aportes del trabajador, de acuerd
 régimen tributario por el que ha optado, los aportes del empleador y la bonificación de cargo fiscal, según corresponda.
 c) Los aportes del trabajador acogidos al régimen tributario señalado en la letra a) del
 artículo 20 L del D.L. N° 3500, deberán registrar las fechas, los montos y la naturaleza de cada operación (cargo, abono, etc.).. Adicionalmente, dichos aportes deberán registrarse separando el capital de la rentabilidad, para lo cual el valor de estos aportes y de los retiros netos deberán expresarse en unidades tributarias mensuales, según el valor que tenga dicha unidad en el mes en que se efectúan las correspondientes operaciones. Asimismo, los aportes podrán registrarse consolidando todas las transacciones efectuadas en un mes calendario en un solo registro mensual.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -323,7 +288,6 @@ forma centralizada.
 previsional voluntario colectivo y bajo las condiciones del mismo, desde el mes señalado en el formulario de adhesión suscrito por el trabajador. Dicha obligación cesará si el trabajador manifiesta su voluntad de no continuar realizando su aporte. También cesará esta obligación para el empleador y el trabajador, en cada uno de los meses en que proceda un pago de cotizaciones a través de una entidad pagadora de subsidios, cualquiera sea el número de días de reposo total o parcial establecidos en la licencia médica. Las entidades pagadoras de subsidios se abstendrán de descontar suma alguna destinada a la cuenta de ahorro voluntario colectivo del trabajador.
 2. El empleador deducirá los aportes de los trabajadores de su remuneración,
 mensualmente o con la periodicidad que las partes acuerden. Los aportes de ahorro previsional voluntario colectivo del empleador y del trabajador, deberán ser declarados y pagados por el empleador en la Administradora de Fondos de Pensiones o Institución Autorizada señalada en el respectivo contrato de ahorro, dentro de los diez primeros días del mes siguiente a aquél en que dichos aportes fueron deducidos de la remuneración del trabajador, término que se prorrogará hasta el primer día hábil siguiente si dicho plazo expirare en día sábado, domingo o festivo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -344,7 +308,6 @@ información que permitan identificar aquellos trabajadores para los cuales tien
 10. Para realizar la transferencia de los recursos, las entidades recaudadoras deberán
 utilizar un archivo electrónico denominado Transferencias de Ahorro Previsional Voluntario Colectivo, el que contendrá como mínimo la siguiente información:
 a) Razón social y RUT de la Entidad recaudadora.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -371,7 +334,6 @@ Las Entidades de origen y destino deberán mantener una copia del archivo descri
 necesarios para verificar la conformidad de los fondos recibidos y la información entregada. En caso de discrepancia, el proceso deberá volver a realizarse el día hábil siguiente. Una vez aceptado el proceso de pago, las respectivas Entidades deberán formalizar su debida aprobación.
 14. Los aportes que efectúen el empleador y el trabajador, se depositarán en una cuenta
 individual de ahorro previsional voluntario colectivo, que se abrirá en una Administradora de Fondos de Pensiones o en alguna de las Instituciones Autorizadas, según lo especificado en el contrato. Dichas Entidades deberán registrar separadamente en la cuenta del trabajador los aportes efectuados por éste, por su empleador y la bonificación de cargo fiscal.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -388,7 +350,6 @@ no podrán traspasar sus fondos desde el ahorro previsional voluntario al ahorro
 Superintendencia, el que en ningún caso podrá ser superior a 30 días corridos desde la recepción del formulario.
 6. La notificación de la decisión de traspaso a la Entidad de origen será mediante el envío
 de la copia del formulario Adhesión o Traspaso de Ahorro Previsional Voluntario Colectivo, o del formulario Selección de Alternativas de Ahorro Previsional Voluntario, cuando corresponda dejando constancia de la fecha y hora de recepción. En caso que el formulario haya sido suscrito a través de Internet, las Entidades podrán convenir la utilización de medios electrónicos para notificar la decisión del traspaso. Si existe más de una notificación de traspaso total para un mismo contrato de APVC, primará aquélla que la Entidad de origen haya recibido en primer término.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -416,7 +377,6 @@ Entidad de destino. Alternativamente, las entidades podrán girar y entregar a l
 necesarios para verificar la conformidad de los fondos e información recibida de la Entidad de origen. En caso de discrepancia, el proceso deberá volver a realizarse a más tardar el día hábil siguiente. Una vez aceptado el proceso de pago las respectivas Entidades deberán formalizar su debida aprobación.
 12. La Entidad de origen podrá convenir con la de destino la posibilidad de efectuar procesos
 de canje entre ellas, para realizar el traspaso de la información y el pago de los recursos, cuidando que se ajusten a las disposiciones establecidas en los números anteriores del presente Capítulo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -433,7 +393,6 @@ o parte de los fondos que sirvieron de base para su cálculo deberán traspasars
 ## VIII. COMISIONES
 1. Las comisiones por administración podrán ser acordadas libremente entre el empleador
 y las Administradoras de Fondos de Pensiones o Instituciones Autorizadas, pudiendo establecerse comisiones diferenciadas entre distintos contratos. A su vez, en un mismo contrato, podrán establecerse comisiones diferenciadas según el número de trabajadores adscritos al plan.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -454,7 +413,6 @@ Autorizadas serán reguladas por la Superintendencia respectiva.
 ## IX. RETIRO DE FONDOS
 1. Los trabajadores o pensionados cuando corresponda, podrán retirar todo o parte de los
 recursos originados en ahorro previsional voluntario colectivo, en las condiciones que
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -471,7 +429,6 @@ los formularios para la presentación de esta solicitud poniéndolos a disposici
 Institución Autorizada deberá entregar al trabajador un instructivo relacionado con la tributación a que se verá afecto el retiro.
 7. Si la Solicitud de Retiro el trabajador la realiza mediante un tercero deberá otorgar un
 mandato especial mediante escritura pública.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -492,7 +449,6 @@ previsional voluntario colectivo, respecto de los cuales se solicite su devoluci
 ## 12. Si a la fecha de fallecimiento de un trabajador afiliado al Sistema de Pensiones del D.L.
 N° 3.500, de 1980, no existieren beneficiarios de pensión de sobrevivencia, los recursos que quedaren en los planes de ahorro previsional voluntario colectivo, incluido el saldo de la cuenta de capitalización individual y de la cuenta de ahorro voluntario, incrementarán la masa de bienes del difunto. Dichas sumas estarán exentas del Impuesto que establece la Ley de Impuesto a las Herencias, Asignaciones y Donaciones, hasta un valor total de 4.000 unidades de fomento, de acuerdo con el valor que dicha unidad tenga a la fecha de fallecimiento del afiliado.
 Si la suma de los saldos registrados en las cuentas de capitalización individual de cotizaciones obligatorias, de cotizaciones voluntarias, de depósitos convenidos, de afiliado voluntario, en la cuenta de ahorro voluntario, en la cuenta de ahorro de indemnización, en la cuenta de ahorro previsional voluntario y en la cuenta de ahorro previsional voluntario colectivo, fuere superior a cinco unidades tributarias anuales, según el valor que dicha unidad tenga a la fecha de fallecimiento del afiliado, dichas sumas se pagarán a sus herederos y la calidad de tales se deberá acreditar mediante el decreto judicial o la resolución administrativa que otorgue la posesión efectiva debidamente inscrita ante el Registro de Propiedad del Conservador de Bienes Raíces respectivo o en el Registro Nacional de Posesiones Efectivas, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -512,7 +468,6 @@ trabajador, la entidad dentro de los 30 días siguientes de aquél que tomó con
 1. En caso de incumplimiento del empleador de su obligación de enterar los aportes de
 ahorro previsional voluntario colectivo se aplicará lo dispuesto en el artículo 19 del D.L.
 N° 3.500 de 1980. Ante esta situación la Entidad deberá, en representación de los trabajadores comprendidos en el contrato de ahorro, seguir las acciones tendientes al
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -525,7 +480,6 @@ su voluntad de no continuar realizando aportes y no se haya recibido la declarac
 voluntario colectivo, no podrán percibir recursos provenientes de instituciones públicas o privadas, financiados con cargo a recursos fiscales de fomento productivo, sin acreditar previamente ante las instituciones que administren los instrumentos referidos, estar al día en el pago de dichos aportes. Sin embargo, podrán solicitar su acceso a tales recursos, los que sólo se cursarán una vez que se ha acreditado el pago respectivo.
 5. Los empleadores que durante los 24 meses inmediatamente anteriores a la respectiva
 solicitud de recursos provenientes de instituciones públicas o privadas, financiados con cargo a recursos fiscales de fomento productivo, hayan pagado dentro del plazo que corresponda los aportes de ahorro previsional voluntario colectivo, tendrán prioridad en el otorgamiento de estos recursos. Para efectos de lo anterior, deberán acreditar previamente, ante las instituciones que administren los instrumentos referidos, el cumplimiento del señalado requisito.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -544,7 +498,6 @@ establecido en el número 1 del artículo 42 bis de la Ley sobre Impuesto a la R
 voluntad a través de la suscripción de un formulario físico o electrónico, denominado Cambio de Régimen Tributario en la Entidad respectiva. Dicha opción afectará a las remuneraciones devengadas a contar del mes siguiente de suscrito el formulario. La Entidad deberá comunicar al empleador la opción de cambio del trabajador, dentro de los diez días hábiles del mes siguiente a la suscripción, a través de carta por correo certificado, pudiendo convenirse la utilización de medios electrónicos que permitan acreditar fehacientemente la comunicación de la información entre el empleador y la Entidad.
 4. El trabajador que hubiere acogido todo o parte de su ahorro previsional voluntario
 colectivo al régimen tributario señalado en la letra a) del número 2 anterior, que destine
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -563,7 +516,6 @@ La forma, plazo y Entidad que enviará dicha información al SII se establecerá
 deberá ser ingresada en la cuenta individual de ahorro previsional voluntario colectivo del trabajador que mantiene la Administradora de Fondos de Pensiones o Institución Autorizada. En esta cuenta individual se identificarán separadamente los aportes del trabajador, del empleador y la bonificación. El monto depositado por concepto de bonificación estará sujeto a las mismas condiciones de rentabilidad y comisiones que la cotización o depósito en virtud del cual se originó.
 10. Dicha bonificación se depositará en la Entidad que envió la información para su cálculo
 al Servicio de Impuestos Internos. En caso que el trabajador haya retirado todo o parte de sus aportes con anterioridad a la recepción de la bonificación, la Entidad deberá devolver toda la bonificación o una proporción de ella, en caso de retiros parciales, cuando corresponda, a la Tesorería.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -581,7 +533,6 @@ separadamente en sus sistemas de información el capital invertido por ahorro pr
 siguiente forma:
 FI = R * C
 FC = R - FI
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
@@ -614,7 +565,6 @@ diferencia entre los depósitos y los retiros deduciendo de estos últimos la pa
 voluntario colectivo acogidos al régimen tributario de la letra b) del número 2 anterior, que no se destinen a incrementar o anticipar pensiones, estarán afectos a un impuesto único que se declarará y pagará en la misma forma y oportunidad que el impuesto global complementario. No obstante lo anterior, las AFP y las Instituciones Autorizadas deberán efectuar una retención del 15% a dichos retiros, la cual se tratará según lo dispuesto en el artículo 75 de la Ley de Impuesto a la Renta y servirá de abono al impuesto único a que están afectos.
 21. Las Administradoras de Fondos de Pensiones y las Instituciones Autorizadas deberán
 informar anualmente respecto de los montos de ahorro y de los retiros efectuados, acogidos a cualquier régimen tributario, tanto al trabajador, al empleador como al Servicio de Impuestos Internos, en la oportunidad y forma que determine ese Organismo Fiscalizador.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -635,7 +585,6 @@ previsional voluntario colectivo, deberá utilizarse el mismo período y agregar
 “La diferencia en rentabilidad entre alternativas de ahorro previsional voluntario colectivo no necesariamente refleja la diferencia en el riesgo de las inversiones.”.
 7. No se podrá informar rentabilidades de períodos inferiores a 12 meses. Sin embargo, las
 Entidades que ofrezcan nuevas alternativas de ahorro previsional voluntario colectivo,
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -672,7 +621,6 @@ por las Superintendencias respectivas o por el Banco Central de Chile, cuando co
 refiere. Asimismo, no podrán publicitarse rentabilidades con un desfase superior a dos meses calendario respecto del mes en curso.
 11. Las Administradoras de Fondos de Pensiones y las Instituciones Autorizadas deberán
 mantener en los lugares destinados a la atención de público, informativos sobre las características, funcionamiento y beneficios de índole previsional y tributario del ahorro previsional voluntario colectivo. Dichos informativos deberán contener además, información referida a la rentabilidad obtenida, las condiciones para los retiros y traspaso
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 227
 FECHA: 08.09.2008
@@ -691,4 +639,3 @@ La presente norma entrará en vigencia a contar del 01 de Octubre de 2008, excep
 Superintendente Subrogante de Pensiones Superintendente de Valores y Seguros
 ### GUSTAVO ARRIAGADA MORALES
 Superintendente de Bancos e Instituciones Financieras
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

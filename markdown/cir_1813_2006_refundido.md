@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE NOTAS ESPECÍFICAS ADICIONALES PARA ESTADOS FINANCIEROS DE ORGANIZACIONES DEPORTIVAS PROFESIONALES A todas las organizaciones deportivas profesionales fiscalizadas por esta Superintendencia
+# CIRCULAR N° 1813 — IMPARTE INSTRUCCIONES SOBRE NOTAS ESPECÍFICAS ADICIONALES PARA ESTADOS FINANCIEROS DE ORGANIZACIONES DEPORTIVAS PROFESIONALES A todas las organizaciones deportivas profesionales fiscalizadas por esta Superintendencia
 
-### CIRCULAR N° 1.813
-FECHA: 13.09.2006
 
 Esta Superintendencia, en uso de sus facultades legales y en virtud de lo establecido en el Artículo 37° de la Ley N° 20.019, imparte las siguientes instrucciones a las organizaciones deportivas profesionales fiscalizadas, referidas a la confección de los estados financieros.
 Las referidas organizaciones deberán atenerse a las instrucciones impartidas en la Circular N° 1501 de este Servicio y sus modificaciones posteriores. No obstante, a objeto de entregar información más completa y atingente a su actividad, estas organizaciones deberán agregar al Anexo N° 4 “Notas Explicativas a los Estados Financieros”, de la referida Circular, la siguiente información como notas específicas adicionales o como complemento de alguna de ellas.
@@ -31,9 +29,6 @@ Obligaciones laborales, previsionales y fiscales
 | Fiscal |  |  |  |  |  |
 | Totales |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.813
-FECHA: 13.09.2006
 En el caso de las deudas vencidas, se deberá informar lo siguiente:
 a. En aquellos casos que existan convenios de pago con los respectivos acreedores, se
 deberá indicar las condiciones para cada uno de ellos, señalando al menos, la forma, plazos y montos convenidos.
@@ -54,9 +49,6 @@ a. Cuotas ordinarias de cargo de los miembros de la Corporación.
 b. Cuotas extraordinarias de cargo de los miembros de la Corporación
 c. Aportes y donaciones destinadas a financiar las actividades deportivas profesionales que el
 Fondo lleve a cabo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.813
-FECHA: 13.09.2006
 d. Cualquier ingreso que se destine al Fondo para financiar actividades deportivas
 profesionales.
 Las cifras anteriores, deberán incluirse como “aumentos de capital” en el cuadro “Cambios en el patrimonio”.
@@ -69,4 +61,3 @@ En relación a las transacciones con entidades relacionadas, se deberá consider
 ### OTRA INFORMACIÓN A CONSIDERAR
 El análisis razonado anual, se deberá presentar de acuerdo a las instrucciones impartidas en Norma de Carácter General N° 201 de esta Superintendencia, sobre obligaciones de información continua a las organizaciones deportivas profesionales.
 VIGENCIA Las instrucciones emitidas en esta circular regirán a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE CONTABILIZACION DE CREDITOS REPROGRAMADOS SEGÚN LEY N° 19.848, DE 2002, MODIFICADA POR LA LEY N° 19.899, DE 2003 Y SUS RESPECTIVAS PROVISIONES
+# CIRCULAR N° 1694 — IMPARTE INSTRUCCIONES SOBRE CONTABILIZACION DE CREDITOS REPROGRAMADOS SEGÚN LEY N° 19.848, DE 2002, MODIFICADA POR LA LEY N° 19.899, DE 2003 Y SUS RESPECTIVAS PROVISIONES
 
-CIRCULAR Nº 1.694
-FECHA: 24.12.2003
 
 Para todos los Fondos Solidarios de Crédito Universitario Esta Superintendencia en cumplimiento de lo dispuesto en el artículo 80 bis de la ley N° 18.591, imparte las instrucciones que a continuación se indican:
 ## 1. Créditos no reprogramados
@@ -21,8 +19,6 @@ En el caso que los intereses a pagar por la deuda acumulada al 30.06.2002, utili
 Si los intereses a pagar por la deuda acumulada al 30.06.2002, utilizando las condiciones actuales de la reprogramación, fuesen menores al monto obtenido con las cláusulas originales del crédito, la diferencia se reconocerá en la cuenta "Pérdida por Créditos Reprogramados", con abono a la cuenta “Créditos Reprogramados ley N°
 19.848”.
 
-CIRCULAR Nº 1.694
-FECHA: 24.12.2003
 b) Una vez consolidadas al 30 de junio de 2002 las deudas reprogramadas, se procederá a
 establecer un nuevo saldo deudor expresado en unidades tributarias mensuales (UTM), de acuerdo al valor que dicha unidad tenga en el mes en que se efectúe el cálculo.
 c) Los intereses moratorios sólo serán condonados en aquellos casos señalados en el
@@ -38,8 +34,6 @@ a) Determinación de las cuotas teóricas
 a1) Cuota Anual Teórica (CAT):
 La cuota anual teórica (CAT), se determina dividiendo el total de los créditos reprogramados ley N° 19.848 al 30 de junio de 2002, fecha de consolidación de las deudas, expresadas en UTM, una vez deducido el pago a que hace mención el inciso tercero del artículo 4° de la ley N° 19.848, por el total de años en que se reprogramó la deuda en cada caso. En los años siguientes, la CAT será la misma que se determinó al inicio, más los intereses devengados al 31 de diciembre de cada año.
 
-CIRCULAR Nº 1.694
-FECHA: 24.12.2003
 a2) Cuota Teórica según Ingresos (CTY):
 Se debe establecer el monto de los ingresos declarados por el deudor al Fondo, en el período que se informa, expresados en UTM al 31 de diciembre del año respectivo. De ese valor se debe determinar la cuota teórica anual en función de los ingresos (CTY), según sea la situación del deudor conforme lo señalan los artículos 8º, 10 y 11 de la ley Nº 19.287.
 b) Cálculo de la provisión
@@ -63,8 +57,6 @@ En caso que el monto de CTY sea mayor a las CAT no se debe constituir la provisi
 *
 CAT
 
-CIRCULAR Nº 1.694
-FECHA: 24.12.2003
 Lo anterior rige para los créditos reprogramados según la ley N° 19.848 de corto y largo plazo.
 ### 3.2 Créditos Base Fija:
 Se entenderá para efectos de constituir provisiones, que son “Créditos base fija” aquellos créditos pactados conforme al inciso cuarto del artículo 4° de la ley N° 19.848, que no se encuentren en las situaciones descritas en los artículos 8°, 10 y 11 de la ley Nº 19.287.
@@ -84,9 +76,6 @@ La nota a los estados financieros deberá incluir la información sobre la cual 
 | Crédito Solidario LP (ctas. 12.131 y 12.132) |  |  |  |  |  |
 | Montos Totales |  |  |  |  |  |
 |  |  |  |  |  | % |
-
-CIRCULAR Nº 1.694
-FECHA: 24.12.2003
 
 | Tasa de Provisión Mínima (corresponde al promedio simple de las Tasas Promedio Ponderadas, determinadas para los ejercicios terminados al 31.12.00, 31.12.01 y 31.12.02). | % |
 | --- | --- |

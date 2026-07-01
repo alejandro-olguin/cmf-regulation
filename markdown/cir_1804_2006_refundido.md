@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE PARTICIPACIÓN EN FONDOS MUTUOS DE LAS PERSONAS QUE SE INDICA Y DEROGA CIRCULAR N° 1.172, DE 1994.
+# CIRCULAR N° 1804 — IMPARTE INSTRUCCIONES SOBRE PARTICIPACIÓN EN FONDOS MUTUOS DE LAS PERSONAS QUE SE INDICA
 
-### CIRCULAR N° 1.804
-FECHA: 25.05.2006
 
 Para todas las sociedades que administran fondos mutuos.
 Esta Superintendencia en uso de sus facultades legales, ha estimado necesario impartir las
@@ -21,9 +19,6 @@ CIRCULAR.
 ## 1. Instrucciones generales:
 a) El formulario deberá ser preparado para cada fondo mutuo administrado por la
 sociedad informante.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.804
-FECHA: 25.05.2006
 b) Se deberá informar en una misma línea, el monto en la moneda de contabilización
 del fondo, de las operaciones de ingreso y/o egreso de cuotas realizadas en un mismo día, para cada una y todas las personas objeto de esta circular. Para la determinación del monto total se estará al que corresponda de acuerdo al valor de cuota efectivamente usado ya sea en la conversión del aporte o la liquidación del rescate o transferencia.
 c) Las transacciones deberán registrarse en orden cronológico de ocurrencia, es
@@ -43,9 +38,6 @@ e) RUN del fondo.
 Indicar el rol único numérico asignado por esta Superintendencia a los fondos mutuos.
 f) Moneda
 Se deberá indicar la moneda en la que se lleva la contabilidad del fondo y en la que está expresada la información que se envía.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.804
-FECHA: 25.05.2006
 g) Saldo inicial
 Se deberá registrar el monto total en la moneda de contabilización del fondo equivalente al saldo inicial en cuotas que poseían los partícipes en el fondo, al último día del mes anterior al que se informa.
 h) Fecha de transacción
@@ -64,9 +56,6 @@ l) Porcentaje del saldo inicial.
 Se deberá indicar el porcentaje, con dos decimales, que representa el monto en la moneda de contabilización del fondo, equivalente al saldo inicial de cuotas, respecto del toral del patrimonio del fondo, al último día del mes anterior al que se informa.
 m) Patrimonio neto
 Indicar en la moneda que corresponda, sin decimales, el valor neto del fondo, según lo definido en los artículos 25 y 26 del reglamento de Fondos Mutuos, al día que se informa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.804
-FECHA: 25.05.2006
 n) Montos transados
 Entrada: Se deberá indicar el monto total en la moneda de contabilización del fondo equivalente al número de cuotas que ingresas a la cuenta individual del partícipe, en el fondo mutuo, bajo cualquier modalidad de las descritas en los artículos 13 y 14 del D.S. N° 249, de 1982, sobre Reglamento de la Ley de Fondos Mutuos.
 Salida: Se deberá indicar el monto en la moneda de contabilización del fondo equivalente al número de cuotas que egresan de la cuenta individual del partícipe, en el fondo mutuo, ya sea, mediante rescate o transferencia.
@@ -80,18 +69,13 @@ q) Saldo total
 Se deberá indicar el monto en la moneda de contabilización del fondo, correspondiente al saldo en cuotas que mantienen en conjunto las personas objeto de esta Circular en el fondo, incluyendo la operación que se informa.
 Si la transacción corresponde a la primera informada, el saldo se determinará, agregando al saldo inicial, los montos ingresados y deduciendo el que corresponda a los egresos.
 Para determinar el saldo en las transacciones siguientes, deberá agregarse o deducirse, los ingresos o egresos según corresponda, al saldo determinado en la transacción inmediatamente anterior.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.804
-FECHA: 25.05.2006
 r) Porcentaje del saldo total
 Se deberá indicar el porcentaje que representa el monto en la moneda de contabilización del fondo, representativo del saldo total en cuotas, respecto del total del patrimonio del fondo, a la fecha que corresponda. Lo anterior, con dos decimales.
 ## III. DEROGACIÓN
 Derógase a contar de esta fecha la Circular N° 1.172 de 8 de septiembre de 1994.
 ## IV. VIGENCIA
 La presente circular rige a contar del 1 de mayo de 2006, debiendo inicialmente aplicarse respecto de la información correspondiente a dicho mes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.804
-FECHA: 25.05.2006
+
 ANEXO Formulario de Transacciones de Fondos Mutuos
 Período informado :
 Razón Social Sociedad Administradora :
@@ -114,4 +98,3 @@ Moneda :
 
 “Declaro que la información contenida en este formulario es expresión fiel de la verdad, por lo que asumo la responsabilidad legal correspondiente”:
 Nombre y firma del Gerente General o Representante Legal
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

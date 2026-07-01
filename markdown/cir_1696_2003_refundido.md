@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# INFORMES FINANCIEROS PARA LA INVERSION DE LOS FONDOS DE PENSIONES EN VALORES DE OFERTA PÚBLICA DE SOCIEDADES ANONIMAS. DEROGA CIRCULAR N° 1.632, DE 2002. A todas las sociedades anónimas emisoras de valores de oferta pública que puedan ser adquiridos con los recursos de los fondos de pensiones.
+# CIRCULAR N° 1696 — INFORMES FINANCIEROS PARA LA INVERSION DE LOS FONDOS DE PENSIONES EN VALORES DE OFERTA PÚBLICA DE SOCIEDADES ANONIMAS
 
-CIRCULAR Nº 1.696
-FECHA: 29.12.2003
 
 Esta Superintendencia, en uso de sus facultades legales, ha estimado conveniente que las sociedades anónimas emisoras de valores de oferta pública, que puedan ser adquiridos por los fondos de pensiones, remitan a ésta la siguiente información.
 ## I Información solicitada.
@@ -24,8 +22,6 @@ Título XII del Decreto Ley 3.500, las cuales son:
 (1)
 (1) Modificado por Circular N°2362 de 2025
 
-CIRCULAR Nº 1.696
-FECHA: 29.12.2003
 2 Activo Contable Neto Consolidado
 Es la diferencia entre el activo de una sociedad matriz y sus filiales, y la pérdida potencial calculada sobre la base del balance consolidado. Este cálculo será aplicable a aquellas sociedades matrices que mantengan o garanticen títulos de deuda vigentes a la fecha de la información, y que al mismo tiempo, alguna filial mantenga o garantice otros títulos de deuda vigentes, ya sea en el mercado nacional o en mercados internacionales, y que tales sociedades se encuentren inscritas en el Registro de Valores que lleva esta Superintendencia.(1) De acuerdo a lo anterior, la sociedad matriz deberá informar el cálculo del Activo Contable Neto Consolidado en los siguientes casos:
 i) Cuando la sociedad matriz y alguna de sus filiales, inscrita en el Registro de Valores que
@@ -42,8 +38,6 @@ Los términos "sociedad matriz" y "filial" tienen el alcance señalado en el art
 La letra b) del artículo 98 del D.L. N° 3.500 define como pérdida potencial estimada aquella que resulta de considerar los montos invertidos por la empresa en instrumentos cuya clasificación de riesgo sea categoría BB, B, C, D o E o niveles N-4 ó N-5 de riesgo, en acciones de sociedades y en instrumentos no clasificados. En caso de inversiones en instrumentos clasificados en categoría A o nivel N-2 de riesgo y BBB o nivel N-3 de riesgo, se deberá considerar dentro de la pérdida potencial estimada un veinte por ciento y un sesenta por ciento de la inversión, respectivamente. De igual forma, deberá considerarse dentro de la pérdida potencial estimada, independientemente de su clasificación de riesgo, toda inversión realizada en instrumentos distintos de acciones emitidos por una sociedad para la cual la empresa inversionista o la emisora posean directamente o a través de otra persona natural o jurídica, el cinco por ciento o más del capital con derecho a voto de la empresa emisora o inversionista, respectivamente.
 (1) Párrafo modificado por Circular N°2362 de 2025
 
-CIRCULAR Nº 1.696
-FECHA: 29.12.2003
 ## II Plazo de envío de la información.
 Las sociedades deberán enviar a esta Superintendencia la información antes mencionada, en los mismos plazos con que deben remitir los estados financieros y siguiendo las instrucciones contenidas en la ficha técnica disponible en el sitio web de esta Comisión (www.cmfchile.cl). No obstante lo anterior, en caso de ser necesario, esta Superintendencia podrá requerir esta información fuera del plazo de envío de esta Circular.(1) III Vigencia.
 La presente Circular rige a partir de esta fecha.

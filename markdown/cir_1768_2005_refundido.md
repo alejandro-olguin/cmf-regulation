@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1768 — ESTABLECE INFORMACION A ENTREGAR RESPECTO DE LAS CUOTAS DE FONDOS MUTUOS O ABIERTOS INSCRITOS EN EL REGISTRO DE VALORES EXTRANJEROS
+# CIRCULAR N° 1768 — ESTABLECE INFORMACION A ENTREGAR RESPECTO DE LAS CUOTAS DE FONDOS MUTUOS O ABIERTOS INSCRITOS EN EL REGISTRO DE VALORES EXTRANJEROS.
 
 
 Para todos los representantes de fondos mutuos o abiertos en Chile inscritos en el Registro de Valores Extranjeros

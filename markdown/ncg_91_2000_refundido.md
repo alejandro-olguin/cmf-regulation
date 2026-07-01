@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARACTER GENERAL N° 91 — FECHA: 21.01.2000
+# NCG N° 91 — ESTABLECE NORMAS PARA AGENTES DE VENTAS DE SEGUROS DE RENTAS VITALICIAS DEL D.L
 
 
 Para todas las entidades aseguradoras del segundo grupo Esta Superintendencia, en uso de sus facultades legales, especialmente en virtud de lo dispuesto en los artículos 3º letra m) y 57º del D.F.L. Nº 251, de 1931, ha resuelto dictar la presente Norma de Carácter General, que establece normas para agentes de ventas de seguros de rentas vitalicias del D.L. Nº 3.500, de

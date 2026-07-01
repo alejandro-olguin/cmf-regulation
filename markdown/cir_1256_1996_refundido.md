@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1256 — REQUIERE PRESENTACION DE INFORMACIÓN MENSUAL RELATIVA A FONDOS PARA LA VIVIENDA
+# CIRCULAR N° 1256 — REQUIERE PRESENTACION DE INFORMACIÓN MENSUAL RELATIVA A FONDOS PARA LA VIVIENDA.
 
 
 Para todas las sociedades que administran fondos para la vivienda
@@ -24,7 +24,7 @@ La información mensual que se deberá presentar por cada fondo es la siguiente:
 ### 6.03 Inversiones en contratos de opciones
 ## 7. Información complementaria de la Cartera de Inversiones
 ### 7.01 Inversiones extranjeras por país de origen del emisor
-### 7.02 Inversiones por grupo empresarial SUPERINTENDENCIA DE VALORES Y SEGUROS
+### 7.02 Inversiones por grupo empresarial
 
 ## 1. IDENTIFICACION
 Las tres primeras variables deberán incorporarse en todos los campos establecidos para este efecto.
@@ -54,7 +54,6 @@ un "0" (cero).
 que esta Superintendencia inscribió en el Registro Público respectivo, el contrato de administración del Fondo, en el formato DD/MM/AAAA.
 1.01.18.00 Fecha inicio de operaciones del fondo: señalar el día, mes y año en que el fondo dio
 inicio a sus actividades, bajo el formato DD/MM/AAAA.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 2. INFORMACION DE LA SOCIEDAD ADMINISTRADORA
 Desde las variables 2.02.01.00 a 2.02.04.00 se deberán completar los datos de los administradores, conforme a los cargos desempeñados, indicando apellido paterno, materno, nombres y rol único tributario, con su correspondiente dígito verificador. Para el caso del presidente, la identificación está señalada en el código 2.02.03.00, por lo que no es necesario repetirla en el código 2.02.04.00.
@@ -80,7 +79,6 @@ ACTIVOS
 4.11.00.00 Disponible: corresponde a los recursos de disponibilidad inmediata y sin restricciones
 de ninguna naturaleza, en moneda nacional, y está representada por la variable
 4.11.10.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 4.12.00.00 Instrumentos e inversiones financieras: están representados por la suma de las
 variables 4.12.10.00 a 4.12.90.00.
@@ -112,7 +110,6 @@ variable "Rescates por pagar", tales como los gastos operacionales adeudados y n
 4.10.00.00) y los pasivos exigibles (código 4.21.00.00).
 4.20.00.00 TOTAL PASIVOS: Representa la suma total de los rubros del pasivo del fondo,
 expuestos en las variables 4.21.00.00 y 4.22.00.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ### 4.02 RESUMEN CARTERA DE INVERSIONES
 En este cuadro resumen se expondrán, en miles de pesos, sin decimales, los montos invertidos por el fondo, en valores e instrumentos clasificados según sea su procedencia, ya sea nacional o extranjera. Así también se deberá registrar el porcentaje, con dos decimales, que representa cada inversión del total de activos del fondo. La clasificación
@@ -147,7 +144,6 @@ total invertido en instrumentos emitidos por emisores nacionales, que correspond
 total invertido en instrumentos emitidos por emisores extranjeros, que corresponde a la suma de las variables 4.31.01.02 a la 4.33.01.02.
 4.30.00.03 Porcentaje invertido sobre total de activos: en esta celda deberá señalarse la suma
 de los porcentajes individuales de las inversiones, respecto del total de activos al último día del mes que se informa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 5. RESPONSABILIDAD
 En este recuadro deberá estamparse una declaración jurada de responsabilidad, respecto a la veracidad de la información remitida a esta Superintendencia, en virtud de la presente circular, mediante el registro del nombre y firma del Representante Legal de la sociedad administradora del fondo para la vivienda.
@@ -166,7 +162,6 @@ consultadas las instrucciones establecidas por esta Superintendencia, en el Tít
 1992, o las que las modifiquen o sustituyan. Para instrumentos emitidos por emisores extranjeros, deberá señalarse el nemotécnico utilizado por las bolsas de valores extranjeras para su identificación. Si un instrumento se transa en más de una bolsa de valores con distintos nemotécnicos, la sociedad administradora deberá utilizar sólo uno de ellos para informar la tenencia del instrumento en la cartera del fondo que administra.
 6.01.02.00 Nombre o RUT del emisor: para el caso de las inversiones nacionales deberá
 señalarse el Rol Unico Tributario del emisor del instrumento financiero de propiedad del fondo. Tratándose de inversiones en cuotas de fondos mutuos o cuotas de fondos de inversión, el código a registrar será el Rol Unico Numérico (RUN) asignado por esta Superintendencia y que se encuentra disponible en la página Web www.svs.cl. Para el caso de los instrumentos emitidos en el extranjero, deberá señalarse el nombre con el que se conoce el emisor en las bolsas extranjeras en que se transa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 6.01.03.00 Código país emisor: deberá señalarse el código del país donde se emitió el
 instrumento de acuerdo a la codificación definida por esta Superintendencia, la cual se encuentra disponible para consulta en el Módulo SEIL del sitio Web www.svs.cl.
@@ -203,7 +198,6 @@ LHE : Letras de crédito hipotecarias emitidos o garantizadas por entidades banc
 BEE : Bonos emitidos por empresas extranjeras.
 PEBCE : Pagarés emitidos o garantizados por Estados o bancos centrales extranjeros.
 BEBCE : Bonos emitidos o garantizados por Estados o bancos centrales extranjeros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 6.01.05.00 Fecha de vencimiento: en los casos que proceda, deberá indicarse la fecha de
 vencimiento del instrumento mantenido en cartera por el fondo. Esta corresponde a la fecha del pago final o el último flujo del título, bajo el formato DD/MM/AAAA. Cuando no proceda deberá indicarse "0" (cero).
@@ -229,7 +223,6 @@ expresada la cantidad de unidades, variable 6.01.09.00. Para este efecto, deber�
 $$ : Peso chileno
 UF : Unidad de fomento IVP : Indice de valor promedio IPC : Indice de precios al consumidor DO : Dólar de Estados Unidos de Norteamérica.
 DA : Dólar australiano CD : Corona danesa CN : Corona noruega CS : Corona sueca
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 FB : Franco belga FF : Franco francés FS : Franco suizo DM : Marco alemán FH : Florín holandés LI : Lira italiana PE : Peseta YY : Yen MO : Otras monedas distintas a las definidas NA : No aplicable
 6.01.11.11 Valor relevante, TIR o porcentaje del valor par: indicar la unidad de valorización que
@@ -252,7 +245,6 @@ el instrumento, para estos efectos deberá utilizarse la codificación definida 
 decimales, el monto total correspondiente a la valorización de los instrumentos, al último día del mes que se informa.
 6.01.12.01 Total: corresponde a la suma de todas las inversiones, en miles de la moneda funcional
 de fondo y sin decimales, al último día del mes que se informa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Cuando la cartera de inversiones contenga más de una hoja, cada una de ellas deberá registrar sumas parciales, y en la última, además de la suma parcial, indicar la sumatoria total.
 6.01.13.11 Porcentaje del capital del emisor: indicar, para el caso de acciones de sociedades
@@ -269,7 +261,6 @@ valor registrado en la columna denominada "Valorización al cierre" (6.01.12.00)
 ### 6.02 INVERSIONES EN CONTRATOS A FUTURO
 Esta cartera deberá exponer los contratos a futuro vigentes, al último día del mes que se informa.
 A continuación se detalla el contenido y forma en que deben presentarse las columnas que muestran las características de cada contrato a futuro.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 6.02.01.11 Activo objeto: en esta variable deberá identificarse el activo objeto sobre el cual se
 realizó el contrato a futuro.
@@ -298,7 +289,6 @@ sobre el activo total del fondo: deberá indicarse el porcentaje que representa 
 6.02.08.00 Total: Corresponde a la suma de todos los valores registrados en las columnas
 6.02.05.00, 6.02.06.00 y 6.02.07.00 respectivamente, expresada en miles de la moneda
 funcional del fondo, sin decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Cuando el cuadro "Inversiones en contratos a futuro" contenga más de una hoja, cada una de ellas deberá registrar sumas parciales, y en la última, además de la suma parcial, indicar la sumatoria total.
 ### 6.03 INVERSIONES EN CONTRATOS DE OPCIONES
@@ -324,7 +314,6 @@ fondo. El precio deberá informarse en la moneda funcional del fondo, con dos de
 se informa ("C" o "V").
 6.03.03.00 Valor de mercado de la prima: indicar el valor de mercado de la inversión que el fondo
 mantiene en primas de opciones de una misma serie, al último día del mes que se informa, expresado en miles de la moneda funcional del fondo, sin decimales. Se entenderá por serie a las opciones de un mismo tipo, relativas a un mismo activo objeto, teniendo la misma fecha de vencimiento y el mismo precio de ejercicio.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 6.03.04.00 Valorización a precio de ejercicio: indicar el valor total que representa el número de
 unidades del activo objeto, sobre las cuales el fondo tiene el derecho a comprar o vender, valorizadas a precio de ejercicio, expresado en miles de la moneda funcional del fondo, sin decimales. Para estos efectos, deberán considerarse las opciones de una misma serie.
@@ -346,7 +335,6 @@ Para estos efectos, deberá sumarse el monto indicado para cada inversión extra
 La información así ordenada, se presentará de la siguiente forma:
 7.01.01.00 Nombre del país: registrar el nombre del país de origen del emisor, de acuerdo al
 código que se indique en la variable 7.01.02.00.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 7.01.02.00 Código del país: se obtiene de la variable 6.01.03.00 del cuadro "Cartera de
 Inversiones".
@@ -371,4 +359,3 @@ invertido" (variable 7.02.02.00), expresada en miles de la moneda funcional del 
 Cuando el cuadro "Inversiones por grupo empresarial " contenga más de una hoja, cada una de ellas deberá registrar sumas parciales, y en la última, además de la suma parcial, indicar la sumatoria total.
 7.02.03.00 Porcentaje del activo del fondo: en esta columna debe exponerse el porcentaje que
 representan las inversiones por grupo empresarial en los activos del fondo, con 3 decimales, al último día del mes que se informa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -27,12 +27,11 @@ financieros reembolsables, regulados por el D.F.L. Nº 70, de 1988, del Minister
 valorada por la Casa de Moneda de Chile, correspondientes a aquellos afiliados que por haber cumplido con los requisitos establecidos en el artículo 68 del D.L. Nº 3.500, de 1980, para obtener una pensión de vejez anticipada en el Nuevo Sistema de Pensiones, han cedido sus documentos.
 10. Bonos destinados al mercado de los Estados Unidos de Norteamérica, expresados y
 pagaderos en moneda extranjera, emitidos por empresas chilenas distintas de bancos e instituciones financieras.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 57
+
+### N.C.G. N° 57
 FECHA: 02.02.1995
 11. Bonos destinados al mercado de los Estados Unidos de Norteamérica, expresados y
 pagaderos en moneda extranjera, emitidos por bancos e instituciones financieras en virtud del artículo 69 de la Ley General de Bancos.
 En el caso que las empresas securitizadoras tuvieran el carácter de filiales de una Institución fiscalizada por la Superintendencia de Bancos e Instituciones Financieras los bonos expresados en los números 10 y 11 deberán estar libres de condiciones especiales para su emisión, como asimismo, no podrán ser convertibles en acciones.
 Asimismo se prohíbe la adquisición de los bonos expresados en los números 10 y 11, por parte de sociedades securitizadoras que sean personas relacionadas con el emisor, o tengan directores o gerentes comunes, o que el cargo de gerente o director en una sea detentado por un gerente o director de la otra.
 La presente norma de carácter general rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

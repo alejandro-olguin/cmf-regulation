@@ -18,8 +18,8 @@ deberá presentar una solicitud de inscripción a esta Superintendencia que cons
 La presentación de la solicitud deberá hacerse en duplicado y sujetarse al orden que se establece al respecto en esta norma, confeccionada en papel de buena calidad y por métodos que aseguren reproducciones legibles y durables para su archivo.
 ### 1.2 Correcciones
 En el caso de ser necesario corregir partes de la información, bastará que se presenten las páginas corregidas. Estas últimas deberán incluir en el margen superior derecho la frase “Corrección pág. N° …..”, y acompañarse de una nota en la que se indique los cambios efectuados, además de una declaración de responsabilidad, en que se haga expresa referencia a la corrección, ambas firmadas por el gerente general o quien haga sus veces.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 206
+
+### N.C.G. N° 206
 FECHA: 13.07.2007
 ### 1.3 Actualización de información durante el proceso de inscripción
 Mientras dure el proceso de inscripción, la bolsa deberá remitir a este Servicio cualquier modificación en la información proporcionada, acompañando los antecedentes respectivos.
@@ -41,8 +41,8 @@ corresponda.
 2.2.5 Domicilio Social.
 2.2.6 Descripción de actividad Comercial y Negocios.
 2.2.7 Número de inscripción en el Registro de Valores, si corresponde.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 206
+
+### N.C.G. N° 206
 FECHA: 13.07.2007
 ### 2.3 Tipo o clase de garantía y características de la misma, si corresponde.
 ### 2.4 Tipo de factura aceptada a negociación. Esto es, si será física, electrónica o
@@ -60,8 +60,8 @@ La Bolsa deberá mantener un registro detallado de cada una de las facturas acep
 ## 5. DISPOSICIONES GENERALES
 Las instrucciones contenidas en la presente norma son necesariamente de carácter general.
 Por tal razón, ante situaciones particulares que se planteen en relación a estas materias, deberá consultarse oportunamente a esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 206
+
+### N.C.G. N° 206
 FECHA: 13.07.2007
 ## 6. DISPOSICIONES TRANSITORIAS
 ### 6.1 Derógase a contar de la fecha de vigencia de la presente Norma, la Norma de Carácter
@@ -70,4 +70,3 @@ General N° 189 de fecha 02.12.2005.
 encuentran inscritos en el Registro que para estos efectos lleva esta Superintendencia, se entenderán inscritos bajo el número 49 del artículo 5° de la Ley 19.220 modificada por la Ley 20.176, y por ende, les serán aplicables las disposiciones contenidas en la presente Norma de Carácter General.
 Vigencia:
 La presente Norma de Carácter General rige a partir de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

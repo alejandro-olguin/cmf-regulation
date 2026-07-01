@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 2064 — DEROGA CIRCULAR N° 1127, DE 1993
+# CIRCULAR N° 2064 — DEROGA CIRCULAR N° 1127
 
 
 Esta Superintendencia, en uso de sus facultades legales, ha resuelto derogar la Circular N° 1127, de 11 de junio de

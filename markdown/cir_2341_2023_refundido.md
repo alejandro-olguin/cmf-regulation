@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2341
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 1-19 Hoja 1
 ### CAPÍTULO 1-19 INSTRUCCIONES COMPLEMENTARIAS PARA LA APLICACIÓN DE LOS TÍTULOS XIV Y XV DE LA LEY GENERAL DE BANCOS

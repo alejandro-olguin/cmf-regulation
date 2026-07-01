@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE NORMAS SOBRE INFORMACIÓN ADICIONAL QUE DEBERÁ CONTENER LA INFORMACIÓN FINANCIERA DE ACUERDO A IFRS.
+# CIRCULAR N° 1901 — IMPARTE NORMAS SOBRE INFORMACIÓN ADICIONAL QUE DEBERÁ CONTENER LA INFORMACIÓN FINANCIERA DE ACUERDO A IFRS.
 
-### CIRCULAR N° 1.901
-FECHA: 30.10.2008
 
 Para todas las entidades inscritas en el Registro de Valores, con excepción de las compañías de seguros La información financiera que será presentada por las entidades, de acuerdo al modelo de información publicado por esta Superintendencia en su sitio web www.svs.cl, deberá contener información adicional a la exigida de acuerdo a IFR, para lo cual se ha contemplado incluir las
 siguientes notas:
@@ -23,4 +21,3 @@ g) Fecha cierta o estimada en que los desembolsos a futuro serán efectuados.
 Adicionalmente, deberán incluir una descripción de cada proyecto, indicando si éstos se encuentran en proceso o terminados, o bien señalar explícitamente si la sociedad no se ve afectada sobre desembolsos relacionados con el medio ambiente.
 Otras notas adicionales:
 En la nota “Otras Notas Adicionales”, la entidad podrá incluir otras notas a los estados financieros que a juicio de la administración, proporcione mayor información para comprenderlos e interpretarlos, las cuales deberán identificarse por su nombre y detallar la información correspondiente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

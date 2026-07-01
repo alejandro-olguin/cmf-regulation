@@ -3,12 +3,11 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# ESTABLECE PROCEDIMIENTO DE INSCRIPCION DE EMISORES EXTRANJEROS Y DE SUS RESPECTIVOS BONOS EN EL REGISTRO DE VALORES, LA OFERTA PUBLICA DE LOS MISMOS EN CHILE, SU DIFUSION, COLOCACION Y OBLIGACIONES DE INFORMACION. 1.- INTRODUCCION
+
 ### N.C.G. N°193
 FECHA: 23.01.2006
-REF: ESTABLECE PROCEDIMIENTO DE INSCRIPCION DE EMISORES EXTRANJEROS Y DE
-### SUS RESPECTIVOS BONOS EN EL REGISTRO DE VALORES, LA OFERTA PUBLICA DE LOS MISMOS EN CHILE, SU DIFUSION, COLOCACION Y OBLIGACIONES DE
-INFORMACION.
-### 1.- INTRODUCCION
+
 Esta Superintendencia, en virtud de lo dispuesto en el artículo 8° inciso 2 de la ley N° 18.045, en el Título XVI de la Ley N° 18.045, Ley de Mercado de Valores, y en uso de sus facultades legales ha estimado conveniente dictar la presente norma de carácter general, con el fin de establecer los requisitos de información para que emisores extranjeros efectúen oferta pública de bonos en Chile.
 La oferta pública de bonos estará dirigida exclusivamente al mercado para inversionistas calificados definidos mediante la Norma de Carácter General N° 216 de 2008 o la que la modifique o reemplace y se regirá por las disposiciones establecidas en el Título XVI de la Ley
 18.045.

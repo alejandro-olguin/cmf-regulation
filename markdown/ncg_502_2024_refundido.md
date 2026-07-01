@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA EL REGISTRO,
-### AUTORIZACIÓN Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS FINANCIEROS DE LA LEY FINTEC
-____________________________
-NORMA DE CARÁCTER GENERAL N°502
-12 de enero de 2024
+# REGULA EL REGISTRO, AUTORIZACIÓN Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS FINANCIEROS DE LA LEY FINTEC ____________________________ NORMA DE CARÁCTER GENERAL N°502 12 de enero de 2024
+
+
 Esta Comisión, en uso de las facultades que le confieren los artículos 1, 3, 5 en sus numerales 1, 8 y 18, y 20 en su numeral 3 del Decreto Ley N°3.538; los artículos 4,
 5, 6, 7, 8, 9, 10, 11, 12 y 13 de la Ley N° 21.521; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°374 de 11 de enero de 2024, ha estimado pertinente impartir las siguientes instrucciones respecto de la prestación de servicios financieros basados en tecnología a los que se refiere el título II de la Ley N°21.521, Ley Fintec:
 ÍNDICE
@@ -2563,11 +2561,11 @@ convertida a moneda local mediante las tasas spot, se calcula la posición neta 
 126
 
 ## V. CAPITAL Y GARANTÍAS
-c) Lo anterior se expresa en la siguiente fórmula. Donde 𝐴𝑖 corresponde al valor de las
-posiciones activas en la materia prima “i”, 𝑃𝑖 corresponde al valor de las posiciones pasivas en la materia prima “i” y “N” corresponde al número de materias primas en las que el prestador de servicios de intermediación mantiene posiciones.
-𝐍 𝐍
-### ∑ (|𝐀 −𝐏|)∗𝟏𝟓%+∑ (𝐀 +|𝐏|)∗𝟑%
-𝐢 𝐢 𝐢 𝐢 𝐢=𝟏 𝐢=𝟏
+c) Lo anterior se expresa en la siguiente fórmula. Donde Ai corresponde al valor de las
+posiciones activas en la materia prima “i”, Pi corresponde al valor de las posiciones pasivas en la materia prima “i” y “N” corresponde al número de materias primas en las que el prestador de servicios de intermediación mantiene posiciones.
+N N
+### ∑ (|A −P|)∗15%+∑ (A +|P|)∗3%
+i i i i i=1 i=1
 ### D.2.3. MONEDA EXTRANJERA.
 a) Para el cálculo del requisito de patrimonio por riesgo de mercado, se deben
 considerar las posiciones netas en monedas en todo el balance. La posición neta en cada moneda debe calcularse sumando:
@@ -2577,9 +2575,9 @@ considerar las posiciones netas en monedas en todo el balance. La posición neta
 4) Cualquier otra posición del balance que pueda generar ganancias o pérdidas en monedas extranjeras.
 b) Para el cálculo del requisito de patrimonio por riesgo de mercado, se debe ponderar
 la posición neta en cada moneda por el ponderador de riesgo de mercado (PRM) que le corresponda, mediante la siguiente fórmula.
-𝐍 𝐍 𝐦𝐚𝐱(∑ (𝐏𝐍𝐀 ∗𝐏𝐑𝐌),∑ (|𝐏𝐍𝐏 ∗𝐏𝐑𝐌|)) 𝐢 𝐢 𝐢 𝐢 𝐢=𝟏 𝐢=𝟏
-c) Donde 𝑃𝑁𝐴𝑖 y 𝑃𝑁𝑃𝑖 corresponden a la posición neta activa y pasiva, respectivamente
-para cada moneda “i”; 𝑃𝑅𝑀𝑖 corresponde al ponderador de riesgo de mercado, asociado a la moneda “i”, que se determina de acuerdo con la Tabla 10.
+N N max(∑ (PNA ∗PRM),∑ (|PNP ∗PRM|)) i i i i i=1 i=1
+c) Donde PNAi y PNPi corresponden a la posición neta activa y pasiva, respectivamente
+para cada moneda “i”; PRMi corresponde al ponderador de riesgo de mercado, asociado a la moneda “i”, que se determina de acuerdo con la Tabla 10.
 Tabla 10. Ponderadores de riesgo de tipo de cambio
 
 | Riesgos | Monedas | Ponderador |
@@ -2591,23 +2589,23 @@ Tabla 10. Ponderadores de riesgo de tipo de cambio
 
 ## V. CAPITAL Y GARANTÍAS D.2.4. ACCIONES E ÍNDICES ACCIONARIOS
 El requisito de patrimonio por riesgo de mercado de cotizaciones bursátiles se aplica a todos los derivados y contratos por diferencias que tengan como subyacentes posiciones en acciones e índices sobre acciones, los que deben ser separados en los subyacentes respectivos. Se deberán calcular de acuerdo con cada mercado del respectivo subyacente y considerar el riesgo específico y riesgo general señalado a continuación.
-a) Riesgo específico. Donde “𝐴𝑖” corresponde al valor de las posiciones activas en el
-mercado bursátil “i”, “𝑃𝑖” corresponde al valor de las posiciones pasivas en el mercado bursátil “i” y “N” corresponde al número de mercados bursátiles en los que el prestador de servicios de intermediación mantiene posiciones.
+a) Riesgo específico. Donde “Ai” corresponde al valor de las posiciones activas en el
+mercado bursátil “i”, “Pi” corresponde al valor de las posiciones pasivas en el mercado bursátil “i” y “N” corresponde al número de mercados bursátiles en los que el prestador de servicios de intermediación mantiene posiciones.
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝐍
-> ∑ (𝐀 +|𝐏|)∗𝟏𝟏%
-> 𝐢 𝐢
-> 𝐢=𝟏
+> N
+> ∑ (A +|P|)∗11%
+> i i
+> i=1
 > $$
 b) Riesgo general. El requisito de patrimonio por riesgo general se calcula como la
 exposición neta de instrumentos derivados o contratos por diferencia, es decir, la suma de las posiciones activas menos las posiciones pasivas, multiplicado por un ponderador de riesgo de mercado (PRM) único de 11%. Además de lo anterior, se agrega un cargo adicional de 2% a las posiciones netas en índices sobre acciones.
-Donde “𝐴𝑖” corresponde al valor de las posiciones activas en el mercado bursátil “i”
-(excluye índices y estrategias de arbitraje), “𝑃𝑖” corresponde al valor de las posiciones pasivas en el mercado bursátil “i” (excluye índices y estrategias de arbitraje), “𝐴𝐼𝑖” corresponde al valor de las posiciones activas en índices y estrategias de arbitraje en el mercado bursátil “i”, “𝑃𝐼𝑖” corresponde al valor de las posiciones pasivas en índices y estrategias de arbitraje en el mercado bursátil “i” y “N” corresponde al número de mercados bursátiles en los que el prestador de servicios de intermediación mantiene posiciones.
-𝐍 𝐍
-### ∑ (|𝐀 −𝐏|)∗𝟏𝟏%+∑ (|𝐀𝐈 −𝐏𝐈|)∗𝟏𝟑%
-𝐢 𝐢 𝐢 𝐢 𝐢=𝟏 𝐢=𝟏
+Donde “Ai” corresponde al valor de las posiciones activas en el mercado bursátil “i”
+(excluye índices y estrategias de arbitraje), “Pi” corresponde al valor de las posiciones pasivas en el mercado bursátil “i” (excluye índices y estrategias de arbitraje), “AIi” corresponde al valor de las posiciones activas en índices y estrategias de arbitraje en el mercado bursátil “i”, “PIi” corresponde al valor de las posiciones pasivas en índices y estrategias de arbitraje en el mercado bursátil “i” y “N” corresponde al número de mercados bursátiles en los que el prestador de servicios de intermediación mantiene posiciones.
+N N
+### ∑ (|A −P|)∗11%+∑ (|AI −PI|)∗13%
+i i i i i=1 i=1
 c) Riesgo por acciones sin presencia bursátil. Las acciones que no tengan
 presencia bursátil conforme a la definición de la Norma de Carácter General N°327, o la que la modifique o reemplace, tendrán un ponderador de patrimonio por riesgo de 40%.
 ### D.3. REQUISITO DE PATRIMONIO POR RIESGO DE CRÉDITO
@@ -2646,7 +2644,7 @@ considera:
 2) monto adicional, que considera la variación potencial futura (PFE) del precio del derivado o contrato por diferencias. Para ello, se deberá multiplicar el valor nocional del derivado o contrato por diferencias según el tipo de activo subyacente y plazo al vencimiento de acuerdo con la Tabla 12. Para el “plazo residual” de la Tabla 12, los contratos por diferencia deberán ser considerados en la categoría “hasta un año”.
 3) Se deberán descontar las garantías constituidas en favor del prestador de servicios de intermediación por parte de sus clientes.
 4) El “equivalente de crédito” será igual a el máximo valor entre 0 y la suma de los montos mencionados anteriormente, de acuerdo con la fórmula:
-𝐄𝐪𝐮𝐢𝐯𝐚𝐥𝐞𝐧𝐭𝐞 𝐝𝐞 𝐜𝐫é𝐝𝐢𝐭𝐨=𝐌𝐚𝐱(𝐕𝐚𝐥𝐨𝐫 𝐫𝐚𝐳𝐨𝐧𝐚𝐛𝐥𝐞+𝐏𝐅𝐄−𝐆𝐚𝐫𝐚𝐧𝐭í𝐚𝐬,𝟎)
+Equivalente de crédito=Max(Valor razonable+PFE−Garantías,0)
 c) A efectos de calcular el requisito de patrimonio por riesgo de contraparte, se deberá
 aplicar al “equivalente de crédito" los ponderadores de crédito según el tipo y clasificación crediticia de la contraparte de acuerdo con la Tabla 11 de la sección anterior.
 d) La metodología de cálculo se ejemplifica en la Tabla 13.
@@ -2689,11 +2687,11 @@ calcular sus requisitos de patrimonio por riesgo de crédito y mercado. A los ac
 “Tipo B” no les será aplicada dicha compensación.
 d) El cálculo del criterio de compensación parcial aplicable a los activos “Tipo A”
 considera la posición neta de cada criptoactivo (subíndice “k”) de acuerdo con la siguiente fórmula. Se aplica un ponderador por riesgo de 100% sobre la posición neta de cada activo “Tipo A”.
-𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐧𝐞𝐭𝐚 =𝐌𝐚𝐱(𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐥𝐚𝐫𝐠𝐚 ,|𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐜𝐨𝐫𝐭𝐚 |)−𝟎.𝟔𝟓 𝐤 𝐤 𝐤
-∗𝐌𝐢𝐧(𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐥𝐚𝐫𝐠𝐚 ,|𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐜𝐨𝐫𝐭𝐚 |) 𝐤 𝐤
+Posición neta =Max(Posición larga ,|Posición corta |)−0.65 k k k
+∗Min(Posición larga ,|Posición corta |) k k
 e) Para los activos “Tipo B”, se aplica un ponderador por riesgo de 100% sobre la
 posición bruta de cada criptoactivo (subíndice “k”), de acuerdo con siguiente fórmula.
-𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 =𝐌𝐚𝐱(𝐚𝐛𝐬(𝐩𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐥𝐚𝐫𝐠𝐚 ),𝐚𝐛𝐬(𝐏𝐨𝐬𝐢𝐜𝐢ó𝐧 𝐜𝐨𝐫𝐭𝐚 )) 𝐤 𝐤 𝐤
+Posición =Max(abs(posición larga ),abs(Posición corta )) k k k
 f) El requisito de patrimonio por riesgo de mercado y crédito para activos criptográficos
 se ejemplifica en la Tabla 14.
 Tabla 14. Cálculo del requisito de patrimonio por riesgo de mercado y crédito de criptoactivos

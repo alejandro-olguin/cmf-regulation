@@ -25,7 +25,6 @@ g) Emisor : Deberá indicarse el nombre o nemotécnico del emisor en el cual
 se produjo el exceso.
 h) Porcentaje : Deberá indicarse el porcentaje que exceda al margen de exceso
 establecido.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 i) Causa del exceso : Se deberá señalar la causa que motivó el exceso, de acuerdo a
 las indicaciones que mas adelante se entregan.
 j) Observaciones : En esta columna podrá señalarse cualquier otro antecedente que
@@ -37,7 +36,6 @@ MODIFICACION : Sustitúyese en el numeral 1. del Título V de la circular Nº 78
 1.254 de 08 de enero de 1996".
 DEROGACIONES : Derógase a contar de la fecha de vigencia de la presente circular, la circular Nº 162, de 1982.
 VIGENCIA : La presente circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ANEXO CIRCULAR Nº
 ### HOJA DE
@@ -74,4 +72,3 @@ Run del Fodo :
 
 " Declaro que la información contenida en este formulario es expresión fiel de la verdad, por lo que asumo la responsabilidad legal correspondiente".
 Nombre y firma del gerente general o representante legal
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

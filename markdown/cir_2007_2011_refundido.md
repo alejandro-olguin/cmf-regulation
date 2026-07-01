@@ -3,8 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-### CIRCULAR N° 2.007
-FECHA: 04.02.2011
+# CIRCULAR N° 2007
+
 MAT.: REGISTRO PÚBLICO DE PRESIDENTES, DIRECTORES, GERENTES, EJECUTIVOS
 ### PRINCIPALES, ADMINISTRADORES Y LIQUIDADORES Y SU ACTUALIZACION CONTINUA.
 ### MODIFICA OFICIO CIRCULAR N°3.572 DE 9 DE JUNIO DE 2000. 1
@@ -22,11 +22,8 @@ La presente normativa modifica los sujetos obligados del Oficio Circular N°3572
 “A todas las personas jurídicas fiscalizadas por esta Comisión incluidas las sociedades acogidas a la Norma de Carácter General N°268 de fecha 29 de diciembre de 2009, con excepción de las entidades inscritas en el Registro de Valores, entidades inscritas en el Registro Especial para Entidades Informantes, Intermediarios de Valores, Bolsas de Valores, Bolsas de Productos, Corredoras de Bolsas de Productos, entidades de Depósito y Custodia de Valores, reguladas por la Ley N° 18.876, Sociedades Administradoras de Sistemas de Compensación y Liquidación de Instrumentos Financieros reguladas por la Ley N° 20.345, Sociedades que administran fondos mutuos, fondos de inversión de capital extranjero,
 1 Modificada por Circular N° 2037, de 19 de agosto de 2011.
 2 Modificada por NCG N°515, de 2024.
-1
-
-### CIRCULAR N° 2.007
-FECHA: 04.02.2011
-fondos de inversión de capital extranjero de riesgo, fondos de inversión y fondos para la vivienda, Compañías de Seguros y Reaseguros, Corredores y Liquidadores de Seguros”
+1 fondos de inversión de capital extranjero de riesgo, fondos de inversión y fondos para la vivienda,
+Compañías de Seguros y Reaseguros, Corredores y Liquidadores de Seguros”
 ## IV. DISPOSICION TRANSITORIA
 Las personas jurídicas fiscalizadas a las cuales le es aplicable la presente Circular, deberán remitir a este Servicio, a través del sitio web de esta Comisión, la información actual de la nómina completa de sus Presidentes, Directores, Gerentes, Ejecutivos Principales, Administradores y Liquidadores en los formularios electrónicos dispuestos para tales efectos en la página Web de esta Comisión, de acuerdo a lo indicado en los puntos anteriores, a más tardar el 31 de marzo de 2011.
 Asimismo, las entidades de Depósito y Custodia de Valores, reguladas por la Ley N° 18.876 y las Sociedades Administradoras de Sistemas de Compensación y Liquidación de Instrumentos Financieros reguladas por la Ley N° 20.345 deberán remitir a este Servicio la información solicitada en el párrafo precedente, a más tardar el 16 de septiembre de 2011.
@@ -36,8 +33,6 @@ La presente Circular rige a contar de esta fecha.
 ### SUPERINTENDENTE (S)
 2
 
-### CIRCULAR N° 2.007
-FECHA: 04.02.2011
 ## ANEXO N°1 REGISTRO DE DIRECTORES, ADMINISTRADORES Y LIQUIDADORES
 (Artículo N°68 de la Ley N°18.045) El ingreso de la información de sus directores en el caso de las Sociedades Anónimas, de sus administradores para otros tipos de sociedades o entidades y de la Comisión Liquidadora, para aquellas sociedades en proceso de liquidación, deberán ser ingresadas de acuerdo a las instrucciones impartidas en el presente Anexo:
 ## I. Creación Registro de Directores, Administradores y Liquidadores
@@ -59,8 +54,6 @@ Presidente : Presidente del Directorio Vicepresidente : Vicepresidente del Direc
 (d) Ap. Materno : Indicar el apellido materno del director.
 3
 
-### CIRCULAR N° 2.007
-FECHA: 04.02.2011
 ## II. Modificación Registro de Directores, Administradores y Liquidadores
 ## 1. Término de funciones
 Fecha de término : Indicar fecha (día/mes/año) de término del Directorio actual, del administrador, Comisión Liquidadora y/o liquidador, según corresponda. Cabe señalar, que la presente opción considera el término de funciones de la totalidad de los miembros del Directorio o su equivalente.
@@ -81,8 +74,6 @@ Además, se deberá ingresar la información requerida en el ítem I para el car
 ## 6. Modifica datos del Directorio, Administradores y Liquidadores
 4
 
-### CIRCULAR N° 2.007
-FECHA: 04.02.2011
 Se podrá efectuar la modificación de cualquiera de los datos relacionados con el Director Titular o Suplente (si correspondiere) solicitados en el ítem I. (RUT, Nombres, Ap. Paterno, Ap. Materno, Cargo). Del mismo modo que en el caso de los Administradores y Liquidadores (si correspondiere).
 La información debe remitirse de acuerdo al formato y especificaciones establecidos en los formularios que se encuentran disponibles en el sitio web de esta Comisión referido en la Circular.
 ## ANEXO N°2 REGISTRO DE GERENTES Y EJECUTIVOS PRINCIPALES
@@ -106,8 +97,6 @@ siguientes opciones:
 Renuncia
 5
 
-### CIRCULAR N° 2.007
-FECHA: 04.02.2011
 Fallecimiento Sanción Despido Expiración de contrato Las siguientes opciones sólo en caso de corresponder, deberán ser completadas.
 ## 4. Informar Subrogancia del Gerente General
 (a) RUT : Señalar el Rol Unico Tributario del Subrogante del Gerente General, con su dígito verificador. En caso de ser extranjero colocar 0-E (cero guión E).

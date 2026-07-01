@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: SIMPLIFICA PROCESO DE
-### INSCRIPCIÓN EN EL REGISTRO DE INSPECTORES DE CUENTAS Y AUDITORES EXTERNOS.
-_________________________________
-NORMA DE CARÁCTER GENERAL N°477
-20 de mayo de 2022
+# SIMPLIFICA PROCESO DE INSCRIPCIÓN EN EL REGISTRO DE INSPECTORES DE CUENTAS Y AUDITORES EXTERNOS. _________________________________ NORMA DE CARÁCTER GENERAL N°477 20 de mayo de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo
 5° y el numeral 3 del artículo 20, del Decreto Ley N°3.538; el artículo 53 de la Ley N°18.046; los artículos 92, 95, 96, 97 y 98 del Decreto N°702; y, lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°285 de 28 de abril de 2022, ha estimado pertinente impartir las siguientes instrucciones:
 ## I. Del Registro de Inspectores de Cuentas y Auditores Externos
@@ -54,4 +52,3 @@ Lo anterior, sin perjuicio que esta Comisión podrá cancelar la inscripción de
 Las presentes instrucciones también serán aplicables a las solicitudes de inscripción ingresadas con anterioridad a la presente fecha y cuyo proceso no se encuentre finalizado, salvo que el solicitante manifieste lo contrario de manera expresa y por escrito.
 ### SOLANGE BERSTEIN JÁUREGUI
 PRESIDENTA
-### COMISIÓN PARA EL MERCADO FINANCIERO

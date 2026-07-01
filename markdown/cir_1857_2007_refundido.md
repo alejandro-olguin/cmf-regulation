@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1857 — IMPARTE INSTRUCCIONES SOBRE APLICACIÓN DE TABLAS DE MORTALIDAD B-2006 Y MI-2006, FIJADAS POR NORMA DE CARÁCTER GENERAL N° 207, DE 31
+# CIRCULAR N° 1857 — IMPARTE INSTRUCCIONES SOBRE APLICACIÓN DE TABLAS DE MORTALIDAD B-2006 Y MI-2006, FIJADAS POR NORMA DE CARÁCTER GENERAL N° 207, DE 31.08.2007
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo señalado en los artículos 3° letra b) y 20 del DFL N° 251 de 1931, ha resuelto impartir las siguientes instrucciones relativas a la aplicación de las tablas de mortalidad B_2006 y MI -2006, fijadas por Norma de Carácter General N° 207, de 31.08.2007.

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE INSTRUCCIONES RESPECTO A LA FORMA DE DETERMINAR EL PATRIMONIO MINIMO QUE DEBEN MANTENER LAS SOCIEDADES ADMINISTRADORAS DE FONDOS PARA LA VIVIENDA, E ACUERDO A LO ESTABLECIDO EN EL ARTICULO 55, LETRA C)DE LA LEY Nº 19.281.
+# CIRCULAR N° 1249 — ESTABLECE INSTRUCCIONES RESPECTO A LA FORMA DE DETERMINAR EL PATRIMONIO MINIMO QUE DEBEN MANTENER LAS SOCIEDADES ADMINISTRADORAS DE FONDOS PARA LA VIVIENDA, E ACUERDO A LO ESTABLECIDO EN EL ARTICULO 55, LETRA C)DE LA LEY
 
-CIRCULAR Nº 1249
-FECHA: 05.12.95
 
 Para todas las sociedades administradoras de fondos para la vivienda.
 Esta Superintendencia, en uso de sus facultades legales, y de acuerdo a lo establecido en el artículo
@@ -19,4 +17,3 @@ Asimismo, para efectos de lo establecido en la presente circular, se entenderá 
 Si la sociedad administradora deja de cumplir con los requerimientos patrimoniales exigidos, deberá comunicar este hecho por escrito a la Superintendencia de Valores y Seguros, dentro de las 48 horas siguientes de producido el mismo, indicando además las razones que lo motivaron.
 Las administradoras de fondos para la vivienda deberán incluir en las notas a los estados financieros trimestrales enviados a esta Superintendencia, el monto, expresado en unidades de fomento, equivalente al 1% del patrimonio promedio, señalado anteriormente.
 VIGENCIA La presente circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

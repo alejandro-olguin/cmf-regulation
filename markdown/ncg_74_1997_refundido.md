@@ -22,7 +22,6 @@ En el caso de que la sociedad administradora haya celebrado contratos con bancos
 Las disposiciones establecidas en este numeral no serán aplicables a la inversión que las sociedades administradoras efectúen por cuenta de sus fondos, en cuotas de fondos mutuos constituidos en el extranjero.
 3.- Adquisición y retorno de divisas
 La adquisición de las divisas necesarias para realizar las inversiones de los fondos, y su remesa al exterior, así como el retorno y liquidación de los capitales y ganancias y su conversión a moneda nacional o extranjera, se sujetarán a las normas que al efecto establezca el Banco Central de Chile.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 74
 FECHA: 16.05.1997
@@ -38,4 +37,3 @@ La conversión a la moneda en que el fondo lleva su contabilidad, se hará emple
 En el evento que el banco Central de Chile no proporcione durante el día de la conversión, la información referida en el párrafo anterior, ésta se efectuará utilizando el valor del tipo de cambio publicado ese día por el Organismo Emisor, de conformidad a lo establecido en el artículo 44 de la Ley N° 18.840 de 1989.
 ### 7.- VIGENCIA
 La presente Norma de Carácter General rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

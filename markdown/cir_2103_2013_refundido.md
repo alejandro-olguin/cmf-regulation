@@ -3,11 +3,10 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 2103 — FECHA : 3.05.2013
+# CIRCULAR N° 2103 — IMPARTE INSTRUCCIONES QUE INDICA RELATIVAS AL NUEVO REGLAMENTO DE AUXILIARES DEL COMERCIO DE SEGUROS Y PROCEDIMIENTO DE LIQUIDACIÓN DE SINIESTROS
 
-REF: IMPARTE INSTRUCCIONES QUE INDICA RELATIVAS AL NUEVO REGLAMENTO DE AUXILIARES
-### DEL COMERCIO DE SEGUROS Y PROCEDIMIENTO DE LIQUIDACIÓN DE SINIESTROS.
-A las compañías de seguros y liquidadores de siniestros Esta Superintendencia, en uso de sus facultades legales, y lo dispuesto en el D.S. de Hacienda N° 1055, de 29 de diciembre de 2012, nuevo Reglamento de Auxiliares del Comercio de Seguros y Procedimiento de Liquidación de Siniestros, vigente a partir del 1 de junio de 2013, ha estimado conveniente impartir las siguientes
+
+Esta Superintendencia, en uso de sus facultades legales, y lo dispuesto en el D.S. de Hacienda N° 1055, de 29 de diciembre de 2012, nuevo Reglamento de Auxiliares del Comercio de Seguros y Procedimiento de Liquidación de Siniestros, vigente a partir del 1 de junio de 2013, ha estimado conveniente impartir las siguientes
 instrucciones:
 1.- Denuncia de siniestros.
 El inciso segundo del artículo 18 dispone que las compañías de seguros deberán facilitar mecanismos para realizar denuncias de siniestros, particularmente a través de medios electrónicos, sitios web, centros de atención telefónica u otros análogos, debiendo siempre otorgar al asegurado o denunciante comprobante de recepción al momento de efectuarse la denuncia, mediante timbrado de copia, código de verificación u otros.

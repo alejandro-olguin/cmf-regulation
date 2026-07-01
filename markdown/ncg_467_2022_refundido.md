@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA EL PROCESO DE
-### AUTORIZACIÓN DE EXISTENCIA DE SOCIEDADES ANÓNIMAS ESPECIALES QUE SEÑALA.
-_________________________________
-NORMA DE CARÁCTER GENERAL N°467
-31 de marzo de 2022
+# REGULA EL PROCESO DE AUTORIZACIÓN DE EXISTENCIA DE SOCIEDADES ANÓNIMAS ESPECIALES QUE SEÑALA. _________________________________ NORMA DE CARÁCTER GENERAL N°467 31 de marzo de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren los numerales 1,
 18 y 19 del artículo 5, el numeral 3 del artículo 20, el numeral 5 del artículo 33 y el artículo
 34, todos del Decreto Ley N°3.538; en el artículo 126 de la Ley N°18.046; y, lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°278 de 10 de marzo de 2022, ha estimado pertinente impartir las siguientes instrucciones:
@@ -63,4 +61,4 @@ A su vez, con el objeto de acreditar el cumplimiento de lo establecido en el inc
 2 Incluido por la Norma de Carácter General N°515, de 2024.
 
 No serán aplicables las presentes instrucciones a las solicitudes de autorización de existencia ingresadas con anterioridad a la presente fecha, salvo que el solicitante así lo manifieste de manera expresa y por escrito.
-### KEVIN COWAN LOGAN PRESIDENTE (S) COMISIÓN PARA EL MERCADO FINANCIERO
+### KEVIN COWAN LOGAN PRESIDENTE (S)

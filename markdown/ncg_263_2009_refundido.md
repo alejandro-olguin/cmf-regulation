@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 263 — FECHA : 24.11.2009
+# NCG N° 263 — AUTORIZA COMO ACTIVIDAD AFIN O COMPLEMENTARIA DE LAS ENTIDADES ASEGURADORAS DEL SEGUNDO GRUPO, LA ACTUACION COMO AGENTE COLOCADOR DE PLANES DE APV DE LAS AFP
 
 
 Esta Superintendencia,en uso de sus facultades legales, en especial lo dispuesto en el artículo 4° del D.F.L. N° 251, de

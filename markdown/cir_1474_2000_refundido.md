@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1474 — ESTABLECE NORMAS PARA LA VALORIZACIÓN Y CONTABILIZACIÓN DE OPERACIONES DE VENTA CORTA Y PRÉSTAMO DE ACCIONES
+# CIRCULAR N° 1474 — ESTABLECE NORMAS PARA LA VALORIZACIÓN Y CONTABILIZACIÓN DE OPERACIONES DE VENTA CORTA Y PRÉSTAMO DE ACCIONES.
 
 
 Para todos los corredores de bolsa y agentes de valores.
@@ -19,7 +19,6 @@ a.1) Registro inicial.
 Cuando un corredor actúe como corredor prestatario y corredor prestamista a la vez, reflejará las operaciones de venta corta efectuadas como operaciones de intermediación habituales. En relación al préstamo de acciones, se deberá exponer en una nota explicativa a los estados financieros, la información clasificada por emisor y plazos al vencimiento de las operaciones, el número de operaciones vigentes y los montos involucrados. Dicha nota debe seguir el formato establecido en la letra a) del Anexo Nº 1 de esta Circular.
 a.2) Ajustes periódicos.
 El derecho que genera la prima a cobrar al prestatario deberá registrarse diariamente y en forma lineal con cargo a la cuenta de activo “Prima y premio por cobrar por venta corta y préstamo de acciones” y abono a la cuenta de resultados “Ingresos por operaciones de venta corta y préstamo de acciones”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Por su parte, la obligación contable que genera el premio a pagar al prestamista se registrará diaria y linealmente con cargo a la cuenta de resultados “Perdidas o gastos por operaciones de venta corta y préstamo de acciones” y abono a la cuenta de pasivo
 “Prima y premio por pagar por venta corta y préstamo de acciones”.
@@ -41,7 +40,6 @@ De igual modo, procederá a devolver las acciones al corredor prestamista junto 
 c) El intermediario actúa como corredor prestamista.
 c.1) Registro inicial.
 El préstamo de acciones que el corredor hace por cuenta del cliente prestamista tendrá el mismo tratamiento indicado para los dos casos anteriores, es decir, la exposición en notas explicativas a los estados financieros, según el modelo establecido en la letra a) del Anexo Nº 1 de esta Circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 2 c.2) Ajustes periódicos.
 El tratamiento contable de la prima a cobrar al corredor prestatario y el premio a pagar al prestamista consistirá en un devengamiento diario y lineal.
 Para estos efectos se cargará la cuenta “Prima y premio por cobrar por venta corta y préstamo de acciones” por el monto de la prima y se abonará la cuenta “Prima y premio por pagar por venta corta y préstamo de acciones” por el monto del premio. De existir un diferencial, éste será abonado en la cuenta “Ingresos por operaciones de venta corta y préstamo de acciones”.
@@ -59,7 +57,6 @@ El corredor devengará a diario y linealmente el derecho por el premio a cobrar 
 c) Liquidación de la operación.
 A la fecha de liquidación de la operación, o ante una liquidación anticipada, el corredor recibirá las acciones prestadas y el premio convenido. Por las acciones recibidas deberá registrarse un cargo a la cuenta “Acciones” (de libre disposición) y un abono a la cuenta
 “Acciones otorgadas en préstamo”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Por el premio percibido se registrará un cargo a la cuenta “Disponible” y un abono a la cuenta “Prima y premio por cobrar por venta corta y préstamo de acciones”.
 3) Operaciones de venta corta por cuenta propia del corredor.
@@ -74,7 +71,6 @@ b) Ajustes periódicos.
 A partir de la fecha en que se efectúa la venta corta, la obligación que genera la operación se valorizará al mayor valor entre el inicial corregido monetariamente y el precio promedio ponderado definido en la letra anterior.
 Si la valorización de mercado determinada según el párrafo primero de la letra a) anterior excede el valor inicial de la obligación corregida, la diferencia será provisionada con cargo a la cuenta “Pérdidas o gastos por operaciones de venta corta y préstamo de acciones” y abono a la cuenta “Obligaciones por operaciones de venta corta”. En caso contrario la diferencia será expuesta en notas explicativas a los estados financieros.
 No obstante lo anterior, cuando el corredor tenga vigente una obligación por una operación de venta corta y a la vez mantenga en cartera igual número de acciones, emisor y serie, no procederá efectuar el ajuste a mercado señalado en el párrafo precedente ni los ajustes a mercado aplicables a las acciones en cartera establecidos en la Circular Nº 514 de 1985, ítem I, número 1, literal a.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Diariamente, el corredor devengará en forma lineal la obligación contraída con el prestamista por la prima convenida. Para ello, registrará un cargo a la cuenta “Pérdidas o gastos por operaciones de venta corta y préstamo de acciones” y un abono a la cuenta
 “Prima y premio por pagar por venta corta y préstamo de acciones”.
@@ -93,7 +89,6 @@ Deberá registrar y valorizar estas operaciones de la manera dispuesta en la sec
 Esta figura comprende las operaciones de venta corta que realice el agente por cuenta propia, a través de un corredor de bolsa.
 a) Registro inicial.
 Al efectuar la venta corta, el agente deberá cargar la cuenta “Documentos y cuentas por cobrar”, por el monto de la venta y abonar la cuenta “Obligaciones por operaciones de venta corta”, por el producto entre el número de acciones y el precio promedio ponderado del último día hábil en que se haya efectuado una transacción bursátil de la
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 5 acción correspondiente. La cuenta de pasivo representará la obligación asociada a la
 devolución de los valores. La diferencia inicial producida entre el valor de la obligación y el valor al cual se efectúe la venta corta en rueda, se abonará o cargará a resultados en las cuentas “Ingresos por operaciones de venta corta y préstamo de acciones” o
 “Pérdidas o gastos por operaciones de venta corta y préstamo de acciones”, según corresponda.
@@ -105,7 +100,6 @@ c) Liquidación de la operación.
 Deberá registrar y valorizar estas operaciones de la manera dispuesta en la sección II., número 3), letra c) de esta circular.
 ## IV. VIGENCIA
 Las disposiciones contenidas en la presente circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## ANEXO Nº 1 MODELO DE NOTA EXPLICATIVA A LOS ESTADOS FINANCIEROS SOBRE OPERACIONES DE VENTA CORTA Y PRESTAMO DE ACCIONES
 a) Operaciones de venta corta y préstamo de acciones por cuenta de terceros:
@@ -123,13 +117,11 @@ Para los préstamos de acciones que el intermediario efectúe con el fin de que 
 Nº de Emisor Cantidad Montos (miles de $) Premio por operac. de cobrar acciones (miles de $) Vencimient Vencimiento Total o hasta 7 mayor a 7 días días TOTALES
 ### TOTALES PERIODO ANTERIOR
 Los montos se presentan a valores de mercado y los premios por cobrar se presentan devengados, ambos a la fecha de cierre de los estados financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 c) Venta corta por cuenta propia del intermediario:
 Por las operaciones de venta corta que el intermediario ejecute con acciones conseguidas en préstamo, se deberá seguir el siguiente modelo de nota explicativa:
 Nº de Emisor Cantidad Montos comprometidos (miles de $) Prima por Montos operac. de Vencimiento Vencimiento Total pagar enterados en acciones hasta 7 días mayor a 7 (miles de garantía (miles días $) de $) TOTALES
 ### TOTALES PERIODO ANTERIOR
 Los montos comprometidos se presentan a valores de mercado y las primas por pagar se presentan devengados, ambos a la fecha de cierre de los estados financieros. Los títulos entregados en garantía, en tanto, se presentan al valor contable registrado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## ANEXO Nº 2
 
@@ -146,5 +138,3 @@ Los montos comprometidos se presentan a valores de mercado y las primas por paga
 | Obligaciones por operaciones de venta corta. | 21.19.20 | 21.19.00 |
 | Documentos y cuentas por cobrar. | 11.07.10 | 11.07.00 |
 | Títulos entregados en garantía. | 11.11.10 ó 11.11.20 | 11.11.00 |
-
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

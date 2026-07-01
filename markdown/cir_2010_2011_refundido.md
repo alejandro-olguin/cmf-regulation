@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 2010 — FECHA : 18.2.2011
+# CIRCULAR N° 2010
 
 MAT.: INSTRUYE SOBRE EL ENVÍO DE INFORMACIÓN REQUERIDA MEDIANTE N.C.G. N° 306,
 CIRCULARES N° 979, 991, 1122, 1439, 1441 y OFICIO CIRCULAR N° 1368 de 1993. 1 A todas las entidades Aseguradoras y Reaseguradoras.

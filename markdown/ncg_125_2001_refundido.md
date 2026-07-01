@@ -20,7 +20,6 @@ Por cada fondo, la garantía deberá ser entregada al banco designado por la adm
 En el caso de que se constituya en dinero efectivo, éste debe ser entregado al banco representante de los beneficiarios. Se considera dinero efectivo, para los efectos de la garantía, los depósitos a plazo emitidos por bancos que operan en el país.
 En caso que sea constituida mediante boleta de garantía bancaria, ésta debe ser tomada en un banco autorizado para operar en el mercado nacional entregándose al banco representante de los beneficiarios, que tendrá el carácter de tenedor. El documento debe señalar que es tomado a favor de los beneficiarios de la garantía y con el objeto exclusivo de ser usada en los términos de los artículos 226 y 227 de la Ley 18.045.
 En el caso de que se constituya mediante póliza de seguro, ésta debe ser contratada con una compañía de seguros autorizada para operar en el país, utilizando el modelo de condiciones generales de póliza que determine la Superintendencia de Valores y Seguros, y en la cual el banco actúe por cuenta de los beneficiarios. La póliza deberá garantizar, en favor de los beneficiarios, el cumplimiento de las obligaciones de la administradora por la administración de fondos de terceros y la indemnización de los perjuicios que de su inobservancia resulten, de acuerdo a lo previsto en el artículo 226 de la ley Nº 18.045. La póliza deberá tener vigencia anual y cubrirá los actos u omisiones de la administradora durante ese periodo, no obstante sean denunciados con posterioridad a su vencimiento.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 125
 FECHA: 26.11.2001
@@ -36,7 +35,6 @@ A objeto de dar cumplimiento a la disposición anterior, el 1% del patrimonio pr
 En el evento que un fondo haya iniciado sus operaciones con posterioridad al 1 de enero de un año determinado, el cálculo de su patrimonio promedio se hará considerando los días operados.
 3.- Certificación de la constitución de la garantía
 El banco designado como representante de los beneficiarios de la garantía, deberá certificar la constitución de la garantía, la fecha en que le fue entregada y el tipo y monto de la misma, identificando al fondo que corresponde. Dicho certificado debe ser remitido a la Superintendencia Valores y Seguros, dentro de los dos días hábiles siguientes de la fecha en que fue entregada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 125
 FECHA: 26.11.2001
@@ -58,9 +56,7 @@ El cumplimiento de dichos requisitos es permanente, por lo que el interesado que
 Los requisitos mencionados, según corresponda, son adicionales a las exigencias requeridas para ser director de una sociedad anónima.
 Vigencia La presente norma entra en vigencia a contar del 1ºde diciembre de 2001.
 Disposición Transitoria En el caso de los fondos que se encuentren operando, las garantías a que se refiere el punto I de esta norma, deberán ser constituidas a mas tardar el 10 de enero de 2002. Sin embargo, la garantía deberá ser actualizada en el monto, la forma y la fecha que determina el numeral 2.- de la sección I de la presente norma, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 125
 FECHA: 26.11.2001
 Los directores y ejecutivos principales de las sociedades administradoras de fondos que se encuentren en operaciones, tendrán un plazo de 45 contado de la fecha de la presente Norma de Carácter General, para remitir el certificado a que se refiere la sección II.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

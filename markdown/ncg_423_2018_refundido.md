@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# DETERMINA FORMA Y PLAZO PARA MANIFESTAR VOLUNTAD DE PARTICIPAR EN COMITÉ DE AUTORREGULACIÓN FINANCIERA. _______________________________________ NORMA DE CARÁCTER GENERAL N° 423 de 02 de marzo de
+# DETERMINA FORMA Y PLAZO PARA MANIFESTAR VOLUNTAD DE PARTICIPAR EN COMITÉ DE AUTORREGULACIÓN FINANCIERA. _______________________________________ NORMA DE CARÁCTER GENERAL N° 423 de 02 de marzo de 2018
 
 
 Para todo el mercado financiero Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo 5, el numeral 3 del artículo 20, los artículos 72, 74°, y 76° todos del Decreto Ley N°
@@ -20,4 +20,3 @@ La Comisión publicará en su sitio web la información de contacto de todos qui
 Para efectos de depositar su reglamento interno y normas en la Comisión, el Comité de Autorregulación Financiera, dentro del plazo establecido en la ley, deberá emplear el módulo SEIL dispuesto por la Comisión para esos efectos, de acuerdo a las especificaciones contenidas en la Ficha Técnica.
 ## III. VIGENCIA
 La presente normativa rige a contar de esta fecha.
-### COMISIÓN PARA EL MERCADO FINANCIERO

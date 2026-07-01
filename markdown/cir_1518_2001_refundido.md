@@ -15,7 +15,6 @@ Prestamista: es aquel inversionista que posee un cierto número de acciones, que
 El prestamista mantiene el derecho a recibir los beneficios y variaciones de capital que otorguen las acciones prestadas, pero pierde el derecho a voto y a retiro durante el lapso del préstamo.
 Prestatario o vendedor en corto: es el inversionista que, a cambio del pago de una prima, obtiene acciones en préstamo para ser vendidas, las que posteriormente deberán ser restituidas al prestamista.
 Posición corta: es el monto correspondiente a la suma del valor de los títulos obtenidos en préstamo, que se encuentran vigentes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## II. PRÉSTAMO DE ACCIONES Y VENTA CORTA
 Los fondos mutuos podrán realizar operaciones de venta corta y otorgar préstamos de acciones en las cuales estén autorizados a invertir.
@@ -30,10 +29,8 @@ La sociedad administradora, por cuenta del fondo, no podrá solicitar en présta
 La posición corta que el fondo mantenga respecto de las acciones de un mismo emisor, no podrá ser superior al 10% del valor del patrimonio del fondo. Asimismo, la posición corta que el fondo mantenga en acciones emitidas por entidades pertenecientes a un mismo grupo empresarial, no podrá exceder del 25% del valor de su patrimonio. No obstante, tratándose de fondos mutuos de menor diversificación, éstos podrán establecer en su reglamento interno, porcentajes superiores a los señalados.
 Si se produjeren excesos de inversión por efectos de fluctuaciones del mercado o por otra causa justificada, deberán ser informados a la Superintendencia en la misma oportunidad y forma en que lo establece la Circular Nº 1.254, para los excesos que se produjeren respecto de los límites establecidos en los artículos 13 y 14 del decreto ley Nº 1.328. La Superintendencia determinará, en cada caso, las condiciones y plazos en que deberá procederse a la regularización del exceso, sin que el plazo que fije pueda exceder de seis meses, contados desde la fecha en que éste se produjo.
 Los fondos mutuos, al actuar como vendedores cortos y en conformidad con lo establecido en el artículo 20 del Reglamento de Fondos Mutuos, podrán constituir garantías a favor del prestamista.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Asimismo, esta Superintendencia, en virtud de la facultad que le confiere la letra d) del inciso primero del artículo 26 del Reglamento de Fondos Mutuos, autoriza a los fondos a mantener pasivos que tengan su origen en obligaciones generadas por la realización de operaciones de venta corta.
 El reglamento interno del respectivo fondo deberá establecer cual es la política de ventas cortas, el monto máximo de posiciones cortas a realizar, y el porcentaje máximo del total de activos que podrá ser utilizado en operaciones de venta corta.
 ## III. VIGENCIA
 Las instrucciones de esta Circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2350
+
 ### TEXTO ACTUALIZADO
 Disposición: CIRCULAR N° 2.350 (de 03.06.2024) Para: FOGAPE Materia: Establece requerimientos de información Fondo de Garantías para Pequeños y Medianos Empresarios
 (FOGAPE) administrado por el Banco del Estado de Chile.
@@ -15,7 +17,7 @@ ACTUALIZACIONES:
 Notas:
 • OFC: Oficio Circular.
 
-REF: Establece requerimientos de información Fondo de Garantías para Pequeños y Medianos Empresarios
+Garantías para Pequeños y Medianos Empresarios
 (FOGAPE) administrado por el Banco del Estado de Chile.
 _____________________
 ### CIRCULAR N°2.350

@@ -20,7 +20,6 @@ c) Aquel evento que implica la solicitud de una extensión horaria, se haga o no
 efectiva, al Banco Central de Chile en su calidad de administrador del Sistema de Liquidación Bruta en Tiempo Real.
 ## 2. Gestión del incidente
 La entidad debe implementar procesos adecuados siguiendo las buenas prácticas establecidas por ITIL (Information Technology Infrastructure Library) en su versión más reciente, para gestionar todas las fases de un incidente, que incluya la identificación, detección, contención, investigación, resolución y recuperación de la operación normal.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 3. Comunicación a la Superintendencia
 La ocurrencia del incidente crítico deberá ser informada a esta Superintendencia tan pronto éste sea identificado, a través de correo electrónico a la casilla dclv3@svs.cl. Asimismo, esta Superintendencia deberá ser informada de toda solicitud de extensión horaria tan pronto ésta ocurra y ser incluida como destinatario en el caso de boletines electrónicos u otras comunicaciones a sus depositantes u otras entidades que tengan por objetivo informar acerca de esta materia.
@@ -36,7 +35,6 @@ Si el incidente se prolongara por sobre el tiempo previsto para resolverlo, se d
 A más tardar a las 10:00 A.M. del día siguiente de ocurrido el incidente, se deberá informar a la Superintendencia, a través de correo electrónico a la casilla antes señalada, los siguientes antecedentes: descripción del incidente, sus causas, hora de inicio, usuarios y servicios afectados, componentes tecnológicos afectados y si éste fue resuelto, la hora de término y la solución empleada, junto a las medidas adoptadas para resolver el incidente.
 ## 4. Gestión del problema
 La entidad deberá implementar y ejecutar procedimientos para identificar el problema que originó el incidente y prevenir su ocurrencia futura. Estos procedimientos deberán estar documentados y diseñados siguiendo las buenas prácticas establecidas por ITIL en su versión más reciente. Para la fase de identificación del problema deberá documentarse con precisión la metodología a emplear, la cual deberá ser una de amplia utilización en el ámbito de tecnologías de la información, validada por estándares internacionales en la materia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## 5. Informe de cierre
 A más tardar, transcurridos 20 días hábiles desde la fecha de la comunicación a esta Superintendencia mencionada en el tercer párrafo del numeral 3., deberá presentarse un informe suscrito por el gerente general, que documente:
@@ -54,4 +52,3 @@ Deróganse las instrucciones impartidas a través de los oficios N°15.135 y N°
 17 abril de 2009, a contar de la vigencia de la presente Circular.
 ## 8. Vigencia
 Las disposiciones contenidas en la presente Circular entrarán en vigencia transcurridos 90 días desde la fecha de su emisión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

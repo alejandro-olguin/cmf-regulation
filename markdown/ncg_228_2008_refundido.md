@@ -3,21 +3,14 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# NCG N° 228
+
 NORMA N° 228
 FECHA: 29.09.2008
 ### SUPERINTENDENCIA DE PENSIONES CIRCULAR N° 1.551 SUPERINTENDENCIA DE BANCOS CIRCULAR N° 3.449 E INSTITUCIONES FINANCIERAS SUPERINTENDENCIA DE VALORES Y SEGUROS NORMA DE CARÁCTER GENERAL N° 22 8 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN N° 116
 VISTOS: Lo dispuesto en los artículos 6° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del DFL N°. 7, de 1980, del Ministerio de Hacienda; las facultades que establece el artículo 6°, inciso primero, del Código Tributario, contenido en el artículo 1 del DL N°. 830, de
 1974; el artículo 42 bis de la Ley sobre Impuesto a la Renta, y los artículos 20 L y 20 O del Decreto Ley N° 3.500, agregados por el artículo 91 N° 13 de la Ley N° 20.255, publicada en el Diario Oficial de 17 de marzo de 2008, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras de Fondos de Pensiones, Instituciones Autorizadas e Instituto de Previsión Social.
-REF: FORMA Y PLAZO EN QUE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES E
-### INSTITUCIONES AUTORIZADAS DEBEN REMITIR AL SERVICIO DE IMPUESTOS INTERNOS, LA INFORMACIÓN PARA LA DETERMINACIÓN DEL MONTO DE LA BONIFICACIÓN QUE ESTABLECE EL ARTÍCULO 20 O DEL DECRETO LEY N° 3.500 DE
-1980.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-NORMA N° 228
-FECHA: 29.09.2008
-## I. ANTECEDENTES LEGALES Y DE NORMATIVA ADMINISTRATIVA
-1. El artículo 20 O, del Decreto Ley N° 3.500, de 1980, agregado por el artículo 91 N° 13 de
-la Ley N° 20.255, establece que los trabajadores dependientes o independientes que hubieren acogido todo o parte de su ahorro previsional al régimen tributario señalado en la letra a) del inciso primero del artículo 20 L, del D.L. 3.500, que destinen todo o parte del saldo de cotizaciones voluntarias o depósitos de ahorro previsional voluntario o de ahorro previsional voluntario colectivo, a adelantar o incrementar su pensión, tendrán derecho, al momento de pensionarse, a la bonificación de cargo fiscal que se indica en este artículo.
 El inciso segundo de dicha disposición legal señala que el monto de la bonificación será el equivalente al quince por ciento de lo ahorrado por el trabajador por concepto de cotizaciones voluntarias, ahorro previsional voluntario o ahorro previsional voluntario colectivo, efectuado conforme a lo establecido en la letra a) del inciso primero del artículo
 20 L, que aquél destine a adelantar o incrementar su pensión. Agrega que, en todo
 caso, en cada año calendario, la bonificación no podrá ser superior a seis unidades tributarias mensuales correspondientes al valor de la unidad tributaria mensual vigente al
@@ -46,7 +39,6 @@ remitir anualmente al Servicio de Impuestos Internos, una nómina de los trabaja
 Por Instituciones Autorizadas, se entenderán aquellas Entidades distintas de las Administradoras de Fondos de Pensiones, a que se refiere el inciso primero del artículo
 20 del D.L. N° 3.500, de 1980, esto es, bancos e instituciones financieras,
 administradoras de fondos mutuos, compañías de seguros de vida, administradoras de fondos de inversión, administradoras de fondos para la vivienda y otras autorizadas que cuenten con planes de ahorro previsional de aquellos a los que se refiere el párrafo anterior, autorizados por las Superintendencias de Bancos e Instituciones Financieras o de Valores y Seguros, según corresponda.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 228
 FECHA: 29.09.2008
@@ -64,7 +56,6 @@ Administradoras de Fondos de Pensiones y el Instituto de Previsión Social (IPS)
 17 del Decreto Ley N° 3.500, de 1980, en el año calendario, por los trabajadores que
 dicho Servicio les indique. La información deberá remitirse en el plazo de 10 días hábiles contado desde su solicitud, mediante transmisión electrónica de datos haciendo uso de la aplicación que para el efecto se encuentra disponible en la página de Internet del Servicio de Impuestos Internos (www.sii.cl), o en la forma que dicho organismo determine.
 El Servicio de Impuestos Internos comunicará a la Superintendencia de Pensiones el incumplimiento por parte de dichos organismos de la obligación de informar dentro de plazo, para que adopte las medidas que estime pertinentes.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 228
 FECHA: 29.09.2008
@@ -85,7 +76,6 @@ En la situación regulada en el N° 3 de esta norma conjunta, la bonificación o
 efectúen en cumplimiento a esta norma conjunta, comprenderán las cotizaciones, depósitos, aportes y retiros, indicados, que se realicen desde el 1 de octubre de 2008, fecha de entrada en vigencia de la disposición que establece la bonificación. En consecuencia, el primer informe, que deberá presentarse hasta el 15 de marzo de 2009, contendrá las operaciones referidas que se efectúen desde el 1 de octubre hasta el 31 de diciembre de
 2008. En los años posteriores, se deberá proporcionar la información correspondiente al
 año calendario inmediatamente anterior.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 228
 FECHA: 29.09.2008
@@ -95,7 +85,6 @@ La presente norma entrará en vigencia a contar del 1 de Octubre de 2008.
 Superintendente Subrogante de Pensiones Superintendente de Valores y Seguros
 ### JULIO ACEVEDO ACUÑA RENÉ GARCÍA GALLARDO
 Superintendente de Bancos e Director del Servicio de Impuestos Instituciones Financieras (S) Internos (S) Santiago, 29 de Septiembre de 2008
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 228
 FECHA: 29.09.2008
@@ -137,4 +126,4 @@ Sección B: DATOS DE LOS INFORMADOS
 |  |  |  |
 
 DECLARO BAJO JURAMENTO QUE LOS DATOS CONTENIDOS EN EL PRESENTE DOCUMENTO SON LA EXPRESION FIEL DE LA VERDAD, POR LO QUE ASUMO LA RESPONSABILIDAD CORRESPONDIENTE
-### RUT REPRESENTANTE LEGAL NOMBRE Y FIRMA DEL REPRESENTANTE LEGAL SUPERINTENDENCIA DE VALORES Y SEGUROS
+### RUT REPRESENTANTE LEGAL NOMBRE Y FIRMA DEL REPRESENTANTE LEGAL

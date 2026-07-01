@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 251 — FECHA: 19.06.2009
+# NCG N° 251 — IMPARTE INSTRUCCIONES RELATIVAS A LA CONSTITUCIÓN, CAMBIOS DE PROPIEDAD ACCIONARIA EN ENTIDADES ASEGURADORAS Y REASEGURADORAS EN CHILE Y ESTABLECIMIENTO DE SUCURSALES POR COMPAÑÍAS CONSTITUIDAS EN EL EXTRANJERO
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en el artículo 4° letra a) y g) del DL 3.538 y en los artículos 3° letra a), 4° bis, 9° bis, 37, 37 bis, 38, 39 y 39 bis del DFL N° 251, de 1931, ha resuelto impartir instrucciones respecto a la autorización de existencia de una entidad aseguradora y reaseguradora y a los requisitos que deben reunir quienes pasen a poseer una participación igual o superior al 10% del capital de una aseguradora o reaseguradora. Asimismo, se imparten instrucciones relativas al establecimiento de sucursales por compañías constituidas en el extranjero. Para efectos de esta norma, cada vez que se emplee la denominación “aseguradoras” se entenderá que incluye también a las “reaseguradoras”.
@@ -59,7 +59,6 @@ siempre que los plazos de reclamación hubieren vencido o los recursos interpues
 La Comisión verificará el cumplimiento de estos requisitos, y en caso de rechazo, deberá justificarlo por resolución fundada.
 Se considerarán accionistas fundadores de una compañía de seguros del segundo grupo a aquéllos que tengan una participación igual o superior al 10% del capital.
 Si el accionista fundador es una persona jurídica, los requisitos de este número se considerarán respecto de sus controladores, socios o accionistas mayoritarios, directores, administradores, gerentes y ejecutivos principales.
-|
 ### 3.3 Acreditación de antecedentes.
 i) La ausencia de las inhabilidades a que se refiere la letra b) del artículo 37 del DFL 251 de 1931, se
 acreditará por los accionistas y controladores mediante los siguientes antecedentes:

@@ -3,12 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: ESTABLECE CARACTERÍSTICAS O
-### CONDICIONES QUE SE DEBERÁN CUMPLIR, A EFECTOS DE INSCRIBIR TÍTULOS DE DEUDA BAJO LA MODALIDAD DE REGISTRO
-AUTOMÁTICO.
-________________________________________
-NORMA DE CARÁCTER GENERAL N° 451
-25 de enero de 2021
+# ESTABLECE CARACTERÍSTICAS O CONDICIONES QUE SE DEBERÁN CUMPLIR, A EFECTOS DE INSCRIBIR TÍTULOS DE DEUDA BAJO LA MODALIDAD DE REGISTRO AUTOMÁTICO. ________________________________________ NORMA DE CARÁCTER GENERAL N° 451 25 de enero de 2021
+
+
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo 5° y el numeral 3 del artículo 20, todos del Decreto Ley N°3.538; en el artículo 8° ter de la Ley N°18.045; y, lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°218 de 13 de enero de 2021, ha estimado pertinente impartir las siguientes instrucciones:
 ## I. De las condiciones necesarias para inscribir títulos de deuda bajo la modalidad
 de Registro Automático.
@@ -43,4 +40,3 @@ III. Vigencia Las instrucciones impartidas por la presente Norma de Carácter Ge
 Para efectos que las solicitudes de inscripción que a la presente fecha estén pendientes de resolución por parte de la Comisión, puedan acogerse a la modalidad a que se refiere la presente normativa, el emisor deberá solicitar formalmente a esta Comisión sean dejadas sin efecto. Luego de emitido el Oficio por la Comisión acogiendo la solicitud correspondiente, podrá reingresarse ésta de conformidad a las instrucciones impartidas por esta normativa.
 ### JOAQUÍN CORTEZ HUERTA
 PRESIDENTE
-### COMISIÓN PARA EL MERCADO FINANCIERO

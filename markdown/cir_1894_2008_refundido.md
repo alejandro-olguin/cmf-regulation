@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# AUTORIZA LA ADMINISTRACIÓN DE CARTERA DE TERCEROS COMO ACTIVIDAD COMPLEMENTARIA A LAS ADMINISTRADORAS DE FONDOS FISCALIZADAS QUE INDICA Y ESTABLECE REQUISITOS PARA SU EJERCICIO.
+# CIRCULAR N° 1894 — AUTORIZA LA ADMINISTRACIÓN DE CARTERA DE TERCEROS COMO ACTIVIDAD COMPLEMENTARIA A LAS ADMINISTRADORAS DE FONDOS FISCALIZADAS QUE INDICA Y ESTABLECE REQUISITOS PARA SU EJERCICIO.
 
-### CIRCULAR N° 1.894
-FECHA: 14.09.2008
 
 Para todas las sociedades administradoras generales de fondos, administradoras de fondos mutuos y administradoras de fondos de inversión
 ## I. INTRODUCCIÓN
@@ -19,9 +17,7 @@ a) La administradora en todo momento deberá atender exclusivamente a la mejor
 conveniencia de cada cliente y realizar las gestiones necesarias para cautelar la obtención de una adecuada combinación de rentabilidad y seguridad de las inversiones de éste, conforme a la política de inversiones determinada en el contrato, y para que ésta, sus dependientes y quienes presten servicios a la misma, no obtengan directa o indirectamente benéficos indebidos mediante operaciones con recursos del cliente ni ocasionen perjuicios al mismo. Lo anterior, sin perjuicio de las obligaciones y responsabilidades establecidas en el artículo 161 de la Ley N° 18.045, respecto de los fondos bajo su administración.
 b) Se deberá incorporar al reglamento general de fondos, información respecto del hecho
 que la administradora gestionará carteras individuales, los conflictos de interés que puedan surgir o verse potenciados al realizar esta actividad y la forma en que éstos serán resueltos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
+
 Adicionalmente, se deberá indicar la política de asignación y distribución de operaciones para las carteras individuales y los fondos administrados.
 Para realizar la actividad autorizada por la presente Circular, las administradoras de fondos mutuos y de fondos de inversión deberán tener aprobado por la Superintendencia, un reglamento general de fondos en los términos establecidos en el artículo 230 de la Ley 18.045 y en esta Circular.
 c) Los recursos de terceros administrados en el marco de esta actividad, podrán ser
@@ -34,9 +30,7 @@ aplicable al conjunto de las inversiones de los fondos administrados por la admi
 Aquellos producidos por la inversión de los recursos gestionados para un cliente en particular, deberían eliminarse según lo establezca el contrato de administración.
 En caso que el cliente hubiera otorgado la facultad a que se refiere la letra c) anterior, en lo que respecta al control de un emisor o de un fondo, y la forma de ejercicio de los derechos societarios correspondientes fuere instruidas caso a caso por dicho cliente, las administradora podrá considerar las inversiones de ese cliente como parte de la limitación previamente indicada, siempre y cuando los recursos del cliente permitan por si solos controlar un emisor o fondo o que dicho control se obtenga en conjunto con otros clientes que consientan en ello. En caso que el cliente no le de instrucción específica, la administradora deberá abstenerse de ejercer tales derechos.
 Con todo, el ejercicio de los derechos correspondientes a la inversión de los fondos fiscalizados por la Superintendencia, que sean administrados por la sociedad, deberán ajustarse a los términos y condiciones establecidas en las respectivas legislaciones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
+
 Será responsabilidad de la administradora, determinar el nivel de concentración máxima, respecto de la totalidad de los recursos gestionados de fondos y de clientes, mantenido en instrumentos emitidos por una misma sociedad o de entidades pertenecientes a un mismo grupo empresarial que le permita resguardar debidamente los intereses de éstos, en lo que se refiere al grado de exposición al riesgo de crédito que se estará asumiendo a nivel consolidado, a cómo esa concentración afectará la adecuada formación de precios y de liquidez de los instrumentos objeto de inversión.
 e) El contrato de custodia que deberá celebrar las administradora con el cliente, deberá
 especificar si éste requerirá de una apertura de cuenta individual a su nombre en una empresa de depósito de valores nacional o extranjera, según corresponda, en el caso de instrumentos susceptibles de ser depositados en tales entidades, y si permitirá que la administradora mantenga recursos en efectivo o moneda extranjera, caso en el que deberá indicar el porcentaje o monto máximo del total de recursos del cliente que sean gestionados en virtud de esa actividad, que podrá ser mantenido en efectivo y moneda extranjera. En caso que no se otorgue dicha facultad, la administradora podrá mantener invertido un porcentaje de esos recursos, el que deberá estar previamente establecido en el contrato, en valores de oferta pública de fácil liquidación, tales como, cuotas de fondos mutuos.
@@ -48,10 +42,8 @@ Sin perjuicio de lo anterior, los instrumentos representativos de las inversione
 No será necesario cumplir lo dispuesto en esta letra, en aquellos casos en que la administradora, en virtud del contrato suscrito con un inversionista institucional o intermediario de valores, nacional o extranjero, no esté facultada para mantener efectivo, moneda extranjera o activos a nombre propio por cuenta del cliente. Esta situación, deberá quedar expresamente señalada en dicho contrato.
 f) Las administradoras además de las garantías que le son requeridas por ley para la
 administración de fondos, deberán constituir garantías en beneficio de los inversionistas,
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
-previo al ejercicio de esta actividad y hasta su total extinción, de al menos 10.000 unidades de fomento o el 1% del total de recursos gestionados en virtud de esta actividad, en caso de que este último monto resultare mayor.
+3 previo al ejercicio de esta actividad y hasta su total extinción, de al menos 10.000
+unidades de fomento o el 1% del total de recursos gestionados en virtud de esta actividad, en caso de que este último monto resultare mayor.
 Dichas garantías deberán constituirse en la forma y condiciones establecidas en los artículos 226 y 227 de la Ley N° 18.045 y actualizarse anualmente de acuerdo a lo dispuesto en estos artículos.
 No obstante lo anterior, tratándose de la gestión de recursos de inversionistas institucionales o intermediarios de valores, nacionales y extranjeros. Las administradoras podrán exceptuarse de la obligación señalada en esta letra, en tanto esta materia se trate específicamente en los contratos de administración suscritos con tales inversionistas y sólo en la medida que las garantías que hubieren sido requeridas por tales inversionistas, hayan sido efectivamente constituidas.
 Con todo, las garantías que protejan a más de un inversionista no podrán contener condiciones que signifiquen privilegios para uno en particular o tipos de inversiones en general.
@@ -62,9 +54,7 @@ Las políticas definidas para estos efectos, deberán ser puestas a disposición
 En caso que tales políticas y procedimientos resuelvan esta materia a través de criterios de asignación de operaciones que consideren un tratamiento objetivo y equitativo entre fondos administrados y clientes de administración de cartera, garantizando de esta forma que no se vulnere lo dispuesto en el Título XXI de la Ley antes señalada, esas políticas además deberán quedar contenidas en el reglamento general de fondos a que se refiere la letra b) anterior.
 h) Los ingresos y egresos a la custodia de la administradora, de activos en administración
 de un cliente, que no sean efectuados electrónicamente, mediante anotaciones en cuenta en empresas de depósito y custodia de valores o a través de transferencias electrónicas, deberán ser acreditados mediante la emisión por parte de la administradora de un comprobante de ingreso o egreso según corresponda, el que deberá ser extendido en original y copia, entregándose ésta última al cliente. La administradora podrá utilizar un mismo tipo de comprobante para ambos casos, siempre y cuando se indique claramente que se trata de un ingreso o un egreso, según corresponda. Las adquisiciones y enajenaciones efectuadas en el marco de la actividad de administración de cartera, no se considerarán ingresos y egresos para efectos de lo antes expuesto.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
+
 Los comprobantes serán firmados y timbrados por un personero responsable de la administradora en el momento de recibir o entregar los activos en administración y contar con una numeración única que permita su identificación. Los comprobantes, incluidos los anulados, se archivarán en original y copia, y deberán mantenerse por un plazo no inferior a los 6 años. Los respaldos de los ingresos y egresos de activos, deberán ser mantenidos por idéntico plazo.
 Los referidos comprobantes deberán contener al menos la siguiente información:
 - Individualización del cliente: nombre o razón social completa, rol único tributario,
@@ -83,9 +73,6 @@ j) La administradora deberá mantener actualizado un registro, que se llevará p
 cliente individualmente, en el que deberán registrarse todos los ingresos de activos a custodia por parte del cliente, todos los movimientos que se produzcan, esto es, compras, ventas, constitución y retiro de garantías, primas, intereses y dividendos recibidos, rescates, gastos realizados por cuenta de la cartera, etc., y todos los retiros de activos de la custodia por parte del cliente con indicación de los respectivos saldos por activo. Este registro, deberá cumplir las mismas condiciones señaladas en la letra i) anterior.
 En el caso de los ingresos y egresos de activos de custodia, deberá registrarse además el número de comprobante de ingreso o egreso respectivamente.
 En el caso de clientes inversionistas institucionales o intermediarios de valores, nacional o extranjero, que no hubieren facultado a la administradora para mantener en custodia a nombre propio los activos de éstos, el registro deberá contener un detalle con todas las operaciones, cobros y pagos efectuados para éste.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
 k) La administradora deberá incorporar una Nota a sus estados financieros, en la que se
 indique el número de clientes cuyas carteras están siendo gestionadas, distinguiéndolos de acuerdo al tipo de persona o entidad, y los montos administrados, detallando la composición totalizada de los activos, por tipo de instrumento. Para esos efectos, se deberá presentar la información de acuerdo a lo indicado en el Anexo N° 1 de esta Circular.
 Por su parte, los directores de las sociedades administradoras que realicen esta actividad, deberán velar por que las operaciones e inversiones se realicen de acuerdo a lo establecido en la presente Circular y el respectivo contrato.
@@ -110,9 +97,7 @@ obligaciones por las operaciones realizadas en virtud de esta Circular.
 - Cualquier otras facultad que, en opinión de la administradora, se le deba otorgar
 con el objeto de resguardar debidamente los intereses del cliente.
 c) Obligaciones y responsabilidades de la administradora:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
+
 - Invertir los recursos gestionados, en los activos que libremente elija, dentro de los
 tipos límites establecidos en el contrato de administración.
 - Transferir a ala cartera todos los beneficios recibidos por las inversiones del
@@ -133,9 +118,7 @@ d) Prohibiciones:
 menos que dicho cobro haya sido expresamente autorizado por el cliente, estando debidamente informado de la calidad de relacionado del prestador de los servicios. Para estos efectos, el contrato deberá contemplar el monto o proporción máxima que podrá ser cargada de los recursos administrados, por servicios prestados por relacionados a la administradora.
 - Efectuar operaciones de compra para sí o para terceros relacionados de activos
 de la cartera administrada, o bien, de enajenar activos propios o de terceros relacionados, para que pasen a formar parte de la cartera administrada, salvo autorización expresa del cliente. En el contrato deberán quedar contenidos los tipos de instrucción que el cliente podrá otorgar a la administradora, esto es: i) Autorización general; ii) Autorización para actuar de acuerdo a las instrucciones que imparte el cliente en cada operación que se requiera; o iii) No se otorga la autorización a la administradora, debiendo quedar claramente establecida la opción elegida por el cliente. Asimismo, se deberá señalar la forma y oportunidad en la que se otorgará la autorización caso a caso.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
+
 Con todo la administradora deberá informar al inversionista, en la forma y periodicidad que acuerden en el contrato, cuando haya realizado operaciones bajo esta modalidad. Adicionalmente, la administradora deberá disponer de los medios necesarios para que sus clientes puedan obtener el detalle de esas operaciones, en los plazos y forma establecida en dicho contrato.
 - Efectuar operaciones, fuera de los sistemas de negociación de bolsas nacionales,
 extranjeras o en otros mercados formales autorizados por la Superintendencia, en las que la contraparte sea un fondo fiscalizado por la Superintendencia, administrado por la sociedad administradora o por una sociedad relacionada a ésta. Tratándose de operaciones entre clientes de administración de cartera, o entre éstos y fondos, administrados por la sociedad administradora o por una sociedad relacionada a ésta, no fiscalizados por la Superintendencia, no podrán transferirse activos a precios distintos de los mercados o sin efectuar la operación en la rueda de una bolsa de valores cuando se trate de acciones.
@@ -149,9 +132,6 @@ tenedores de bonos o aportantes de fondos, para ejercer el derecho a voto por la
 La administradora podrá contemplar en el contrato, la facultad de decidir si asistirá a junta de accionistas, de teneros de bonos de aportantes de fondos, por cuenta de los clientes de administración de cartera, si el conjunto de las inversiones mantenidas por los clientes de administración de cartera, no representan más del 5% de los instrumentos con derecho a voto.
 h) Información al cliente acerca de los riesgos que presentan las operaciones con cada uno
 de los tipos de activos y contratos en que sean invertidos los recursos y su consentimiento expreso a aceptarlos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
 i) Información respecto a que los activos extranjeros en que se podrá invertir y sus
 emisores, de así haberlo establecido, no se encuentran inscritos en Chile y, en consecuencia, no les son aplicables las leyes que rigen el mercado de valores chilenos.
 j) Información respecto a posibles conflictos de interés que puede tener la administradora
@@ -173,9 +153,7 @@ p) Período de vigencia, con disposiciones que permitan al cliente poner términ
 anticipada al contrato.
 El contrato de administración de cartera y de custodia, en caso que las cláusulas de éste último no estén contenidas en el primero, podrá ser redactado en el idioma convenido por las partes y quedar sometido a una jurisdicción extranjera, en los casos en que el cliente que lo suscribe no sea chileno ni tenga residencia en chile.
 Adicionalmente, no será necesaria la obligación de suscribir un contrato en los términos dispuestos en la presente Sección, tratándose de clientes inversionistas institucionales o intermediarios de valores nacionales o extranjeros, y en la medida que los recursos sean administrados en virtud de un contrato suscrito entre las partes especialmente utilizado para tales efectos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
+
 ## IV. DE LA PUBLICIDAD EFECTUADA POR LA ADMINISTRADORA
 La publicidad, propaganda y difusión que por cualquier medio realicen las administradoras acerca de la actividad de administración de cartera, no podrá contener declaraciones, alusiones o representaciones que puedan inducir a error, equívocos o confusión al público sobre la naturaleza, precios, comisiones, gastos, rentabilidad, rescates, liquidez, garantías o cualquier otra característica del producto y deberá ser verás, completa y transparente.
 Asimismo, en caso de publicitarse rentabilidades pasadas o promocionarse el desempeño pasado de la administradora como gestor de recursos, deberá incluirse notas relativas a que las rentabilidades pasadas no garantizan que ellas se repitan en el futuro y, en el evento de realizarse comparaciones entre diferentes productos, se deberán entregar las bases de comparación. Queda prohibido a las administradoras efectuar proyecciones de rentabilidad
@@ -186,9 +164,7 @@ Tales políticas y procedimientos, al menos deberán contemplar aquellos conflic
 Adicionalmente, la administradora deberá definir políticas y procedimientos tendientes a garantizar que sus clientes entiendan el riesgo que están asumiendo en sus inversiones y que esta últimas sean acordes al perfil de riesgo de cada cliente.
 ## VI. VIGENCIA
 La presente circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.894
-FECHA: 14.09.2008
+
 ## ANEXO Nº 1 De acuerdo a las instrucciones impartidas por la presente Circular, las administradoras deberán incorporar los siguientes cuadros en una Nota a sus estados financieros, relativas a la administración de cartera de terceros distintos a los fondos bajo su administración. Lo anterior, según lo que a
 continuación se indica:
 CUADRO Nº 1 GESTION DE CARTERAS DE TERCEROS DISTINTOS A LOS FONDOS BAJO ADMINISTRACION
@@ -228,5 +204,3 @@ CUADRO Nº 2 GESTION DE CARTERAS DE TERCEROS DISTINTOS A LOS FONDOS BAJO ADMINIS
 | Títulos de deuda no registrados |  |  |  |
 | Otras inversiones |  |  |  |
 | TOTALES |  |  |  |
-
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

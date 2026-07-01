@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1905 — IMPARTE INSTRUCCIONES SOBRE EL CALCULO DE LA RESERVA DEL SEGURO DE INVALIDEZ Y SOBREVIVENCIA DEL D
+# CIRCULAR N° 1905 — IMPARTE INSTRUCCIONES SOBRE EL CALCULO DE LA RESERVA DEL SEGURO DE INVALIDEZ Y SOBREVIVENCIA DEL D.L: N° 3.500
 
 
 En relación a la constitución de reservas técnicas derivadas de la contratación del seguro de invalidez y sobrevivencia del D.L. N° 3.500, de 1980, con las Administradoras de Fondos de Pensiones, esta Superintendencia, considerando los cambios observados en relación al número y perfil de las solicitudes de invalidez presentadas a contar de julio de 2008 y lo dispuesto en el artículo 20 del D.F.L. N° 251 de 1931, ha estimado conveniente impartir las siguientes instrucciones:

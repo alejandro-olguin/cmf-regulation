@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2315
+
 Texto actualizado: Circular N° 1 Empresas emisoras de tarjetas de pago no bancarias
 ### TEXTO ACTUALIZADO
 Disposición: CIRCULAR N° 1 (de 28.11.2017) Para: EMPRESAS EMISORAS DE TARJETAS DE PAGO NO BANCARIAS Materia: Normas generales para empresas emisoras de tarjetas de pago no bancarias.
@@ -114,12 +116,12 @@ La estimación de Plazo y Monto se efectuará para el trimestre móvil anterior 
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝑛
-> 𝑀 𝑀𝑇
-> 𝑘
-> 𝑃𝑙𝑎𝑧𝑜 × 𝑀𝑜𝑛𝑡𝑜 = (∑𝐾 × ) ×
+> n
+> M MT
+> k
+> Plazo × Monto = (∑K × ) ×
 > $$
-𝑝 𝑝 𝑀𝑇 90 𝑘=0
+p p MT 90 k=0
 Donde:
 K = Número de días hábiles bancarios convenidos o aplicados, desde la fecha en que se originó la obligación de pago a los afiliados no relacionados, hasta que el establecimiento afiliado o el Operador, según corresponda, recibe los fondos.
 Los pagos o transferencias de fondos que fueren efectuados por el Emisor dentro del día hábil bancario siguiente a la transacción, se computarán como realizados en un plazo de 0,5 días. En caso que corresponda a un día no hábil bancario, se considera el día hábil bancario inmediatamente siguiente.

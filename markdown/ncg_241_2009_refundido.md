@@ -21,7 +21,6 @@ b) Administrador: corresponde a la entidad responsable de la administración del
 de inversión colectiva, entre lo que se considera la gestión de la inversión de los recursos constituyentes del mismo y otras actividades relacionadas, sin perjuicio que ésta haya delegado dichas actividades en un tercero.
 c) Patrocinador: aquellas personas que cumplan con los requisitos y condiciones
 establecidos en la N.C.G. N° 215 de 2008, o la que la reemplace o modifique.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -44,7 +43,6 @@ podrá realizarla:
 a) El emisor extranjero o su administrador
 b) Un patrocinador
 Los referidos títulos deberán ser susceptibles de ser ofrecidos públicamente en “mercados extranjeros reconocidos” o en otros mercados extranjeros. Para estos efectos los mercados extranjeros reconocidos serán aquellos individualizados en la lista contenida en el anexo I que se adjunta.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -59,7 +57,6 @@ La información proporcionada para efectos de la solicitud de inscripción, así
 Si se requiere corregir partes de una solicitud, bastará que se presenten las páginas corregidas adjuntándose una carta firmada por el solicitante, que indique los cambios efectuados. En las páginas corregidas se indicará en el margen superior derecho
 “corrección pág. N°….”.
 En el caso de una solicitud incompleta o presentada en forma tal que requiera gran número de correcciones, esta Superintendencia podrá requerir que se presente una nueva solicitud.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -83,7 +80,6 @@ En caso que la solicitud de inscripción sea efectuada por un patrocinador de lo
 RUT, nombres, apellidos, profesión y cargo que desempeña en la entidad.
 - Dirección, números de teléfono, correo electrónico, fax y/o casilla de correo de la
 oficina principal del patrocinador.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -102,7 +98,6 @@ b) Antecedentes económicos y financieros
 c) Información relevante
 d) Otros antecedentes
 Los antecedentes elaborados con objeto de la solicitud de inscripción, podrán ser presentados en idioma español o inglés, con excepción de la leyenda indicada en el literal a.1 y la declaración señalada en el literal d.4 de esta sección, que deberán presentarse en idioma español, pudiendo dicha información adjuntarse al anexo señalado en el siguiente literal. Tratándose de documentación elaborada exclusivamente para el mercado local, ésta deberá ser redactada en idioma español, salvo en el caso en que la oferta pública sea dirigida a Inversionistas Calificados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -121,7 +116,6 @@ colectiva extranjero, cuyos títulos, series o clases se solicita inscribir en e
 constituyó.
 3. Naturaleza jurídica del vehículo de inversión colectiva extranjero, señalando
 la forma en que se representan sus participaciones e incluyendo una breve descripción de sus estatus legal, al fecha en que se constituyó y su plazo de duración.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -142,7 +136,6 @@ Valores Extranjeros y las monedas en que éstas se expresan. Si el vehículo de 
 inversionistas, tales como participación en asambleas o juntas de aportantes, derecho a voto, derecho a dividendos y repartos de capita, derecho a suscribir preferentemente nuevas emisiones de títulos o series en su caso, derecho a retiro, y de haberlo, requisitos o condiciones para ejercerlo, preferencias de cada una de las series, etc. Del mismo modo, deberá informar el procedimiento para determinar qué titulares tienen estos derechos y la forma y periodicidad en que podrán ejercerlos.
 3. Desempeño de los títulos o series en su caso, de las que se inscribirán en el
 Registro de Valores Extranjeros, medido en términos de rentabilidad, para el último semestre o período menor requerido por el regulador del mercado extranjero, y año anteriores a la solicitud de inscripción, utilizando la metodología exigida en su país de origen, señalando los criterios empleados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -164,7 +157,6 @@ instrumentos del vehículo de inversión colectiva, tales como, la utilización 
 de inversión colectiva, en particular el procedimiento para adquirir o ejercer el rescate de los títulos, indicando cómo se efectúa la fijación de tal precio, si existen restricciones a los rescates, los plazos en que se materializará la operación de compra o el pago del rescate, las modalidades de comercialización y políticas de aumento y disminuciones de capital, de existir. Lo anterior, en el mercado de origen y en el mercado chileno.
 7. En el evento que se solicite la inscripción de valores de primera emisión o
 que el emisor mantenga en cartera, a ser colocados en el mercado nacional, se deberán indicar las características básicas de la referida colocación, tales como, el monto máximo a ser colocado, el número de títulos asociados, el precio y plazo de colocación y los agentes colocadores locales a cargo de dicho proceso.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -184,7 +176,6 @@ iii) En el sitio web del vehículo de inversión colectiva o el de su administra
 en tanto la información proporcionada sea la misma remitida al organismo regulador respectivo o de la bolsa donde se transen los valores.
 Al respecto, deberán presentarse los estados financieros para el último ejercicio anual, de la misma forma en que fueron presentados en su mercado de origen o en el mercado donde transa sus valores. Dichos antecedentes deberán incluir el dictamen de los auditores externos o su equivalente. No será necesario cumplir esta obligación, en caso que el vehículo no cuente con estados financieros anuales auditados y no tenga más de un año de existencia; sin embargo, en caso de haber sido presentado algún estado financiero en su mercado de origen o en el mercado donde transa sus valores, éste deberá ser proporcionado a esta Superintendencia, considerando para ello los medios indicados anteriormente.
 Los estados financieros deberán informar los principios y criterios contables que han sido utilizados para su elaboración, indicando si éstos difieren o no de las Normas Internacionales de Contabilidad y de Información Financiera (IFRS).
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -207,7 +198,6 @@ documento que acredite la inscripción o registro inicial de los valores en dich
 Para estos efectos se podrá indicar el sitio web de la bolsa donde se transen los títulos en donde conste la información referente a la aludida inscripción o registro, cuyo URL deberá encontrarse claramente identificado.
 3. Copia de la documentación en que conste el acuerdo del vehículo o de su
 administrador de solicitar la inscripción de los títulos representativos de inversión colectiva en el Registro de Valores Extranjeros de la Superintendencia, con el objeto de hacer oferta pública en Chile de éstos y en el que acuerde someterse a su fiscalización, debidamente legalizada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -225,7 +215,6 @@ Además, se deberán acompañar los documentos que se detallan a continuación, 
 haga sus veces, en la que solicita la inscripción en el Registro de Valores Extranjeros de esta Superintendencia, de la totalidad o parte de los títulos representativos de inversión colectiva extranjera que transan en la Bolsa Extranjera con la cual ha celebrado el respectivo convenio. En la carta, se deberá señalar expresamente los vehículos de inversión colectiva cuyos títulos, series o clases se inscribirán en el mencionado Registro y el mercado al que se encuentra dirigida la oferta. Además, se deberá señalar si los principios contables utilizados en la preparación de los estados financieros de los vehículos de inversión colectiva difieren o no de las Normas Internacional de Contabilidad y de Información Financiera (IFRS).
 2. El Convenio de Integración firmado con la Bolsa Extranjera en que se transan los
 valores. Tal convenio deberá comprender los resguardos necesarios para garantizar que se proporcionará al mercado local similar información a la que las entidades están obligadas a presentar en su mercado de origen o en el mercado
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -238,7 +227,6 @@ a. Antecedentes generales, económicos y financieros
 ## 1. Prospecto
 Toda actualización referida a la información contenida en el documento remitido en virtud de la letra a., sección F.1 anterior, relativa a los vehículos de inversión colectiva cuyos títulos, series o clases se encuentren inscritos en el Registro de Valores Extranjeros, que deba ser comunicada en el mercado de origen o en aquél donde se transan sus valores, deberá remitirse a las entidades precedentemente mencionadas, en el mismo plazo y forma en que fue proporcionada en ese mercado extranjero. Para esos efectos, bastará con indicar la referida modificación y el punto correspondiente del documento, detallando la misma.
 Podrá excluirse de la obligación de remitir el prospecto actualizado, debiendo informarse en todo caso a la Superintendencia y a las bolsas en donde se encuentren inscritos los valores, cuál fue la modificación introducida al documento y en cuál de subsecciones, si éste se encuentra publicado, en al menos, uno de los siguientes sitios web, cuyo URL deberá encontrarse claramente identificado:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -257,7 +245,6 @@ No será necesario remitir tales estados financieros, si éstos se encuentran pu
 b. Información relevante
 Todo hecho o información relevantes, informada como tal en el mercado de origen o en aquél en que se transen sus valores, respecto del vehículo de inversión colectiva; sus inversiones; su administrador, en las materias indicadas en la letra c.
 de la sección F.1 anterior; los títulos; y cualesquiera otra de similar naturaleza, deberá ser remitida a esta Superintendencia y a todas las bolsas nacionales en que se encuentren inscritos los valores al momento en que ésta sea presentada al organismo regulador de dicho mercado. La correspondiente traducción al idioma
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -270,7 +257,6 @@ Finalmente, los documentos informativos que reutilicen para la difusión y propa
 Conforme a lo establecido en el artículo 197 de la Ley N° 18.815, las cuotas de fondos de inversión podrán inscribirse en el Registro de Valores Extranjeros que lleva esta Superintendencia, de acuerdo al procedimiento que más adelante se indica, previa inscripción en el Registro de Valores a que se refiere el artículo 5° de la referida ley, según lo dispuesto en el artículo 15 de la Ley N° 18.815. Lo anterior, sin perjuicio que la sociedad administradora pueda tramitar paralelamente la inscripción en ambos Registros.
 ## 1. Procedimiento para solicitar la inscripción
 Para la inscripción de las cuotas de los fondos de inversión en el Registro de Valores Extranjeros que lleva esta Superintendencia, se requerirá que tal circunstancia sea acordada en sesión de directorio de la respectiva sociedad administradora. La inscripción de las cuotas deberá ser solicitada mediante presentación de carta firmada por el gerente de dicha sociedad, o por la persona que haga sus veces, indicándose en la misma, el número total de cuotas del fondo que se encuentren vigentes, tanto colocadas como por colocar, individualizando para estas últimas, aquella cantidad que se encuentre en proceso de inscripción en el Registro de Valores para su oferta en el mercado nacional. Además, se deberá acompañar copia del acta de la sesión de directorio de la sociedad en que se tomó el acuerdo de su inscripción en el Registro de Valores Extranjeros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -288,12 +274,10 @@ La presente Norma de Carácter General rige a contar de esta fecha.
 ## VII. DISPOSICIONES TRANSITORIAS
 Las entidades cuyos títulos representativos de inversión colectiva se encuentren inscritos en el Registro de Valores Extranjeros a la fecha de emisión de esa Norma, dispondrán de un plazo de 60 días para adaptarse a los requerimientos de i9nformación continua instruidos mediante la presente.
 Por su parte, aquellas entidades que se encuentre en proceso de registro de los referidos valores, deberán indicar a esta Superintendencia en un plazo de 10 días hábiles contado desde
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
 esta fecha, si procederán o no a adaptar los antecedentes presentados a las disposiciones contenidas en esta Norma. En caso de ser así, dispondrán de un plazo de 30 días para efectuar la referida adaptación y remitir los antecedentes respectivos a este Servicio. En caso contrario, deberán continuar con el proceso referido, considerando las instrucciones de la normativa vigente en el momento en que se efectuó la respectiva solicitud.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -338,7 +322,6 @@ continuación se indican:
 9. Luxemburgo (8)
 10. Reino Unido (7)
 11. Suiza (7)
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 #### N. C. G. N° 241
 FECHA: 22.01.2009
@@ -358,4 +341,3 @@ FECHA: 22.01.2009
 (14) Se refiere a las cuotas de fondos de inversión que se encuentran inscritas y puedan ser transadas en el mercado Eurolist de las Bolsas de Valores indicadas.
 (15) Se refiere a las cuotas de fondos de inversión, títulos representativos de índices accionarios, títulos representativos de índices de renta fija y títulos representativos de índices de commodities que puedan ser inscritos y transados en el Main Market del London Stock Exchange Plc.
 (16) Se refiere a las cuotas de fondos de inversión y títulos representativos de índices accionarios que puedan ser inscritos y transados en el segmento Investment Fund Segment de la SWX Swiss Exchange.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

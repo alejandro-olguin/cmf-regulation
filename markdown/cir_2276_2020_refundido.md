@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2276
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 12-14 Hoja 1
 
@@ -300,10 +302,7 @@ Tabla: Cargos de capital básico adicional para bancos calificados en la calidad
 
 Para los bancos establecidos en Chile que sean considerados sistémicamente importantes a nivel local por la presente metodología, y que simultáneamente sean considerados sistémicamente importantes a nivel global, por el Financial Stability Board (FSB), el cargo de capital básico adicional exigido será el máximo entre el cargo sistémico local, determinado por la Comisión de acuerdo a lo establecido en este Capítulo, y el cargo sistémico global determinado anualmente por el FSB, el que en ningún caso podrá sobrepasar el límite de 3,5% contemplado en el artículo 66 quáter de la de la Ley General de Bancos. Los cargos adicionales de capital se calcularán a partir del ratio entre el capital básico y los activos ponderados por riesgo, netos de provisiones exigidas, por sobre el mínimo general de patrimonio efectivo 8% al que se refiere el artículo 66 de la Ley General de Bancos.
 
-|  |
-| --- |
-|  |
-|  |
+e fectivo 8% al que se refiere el artículo 66 de la Ley General de Bancos.
 
 Circular N°2.276 / 02.11.2020 por Resolución N°5111
 

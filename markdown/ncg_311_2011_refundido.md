@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMAS SOBRE VALORIZACIÓN DE INVERSIONES. DEROGA CIRCULARNº1360 DE 5 DE ENERO1998, EN LO QUE CORRESPONDE A INVERSIONES FINANCIERAS. A todas las entidades aseguradoras y reaseguradoras
+# NCG N° 311 — NORMAS SOBRE VALORIZACIÓN DE INVERSIONES
 
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo establecido en el artículo 3º letras b) y f) del D.F.L. Nº 251, de 1931 y en el artículo 4° letra e) del DL 3538, ha resuelto impartir las siguientes instrucciones relativas a la valorización de las inversiones que, de conformidad a laley y a su objeto social, puedan efectuar las compañías de seguros y reaseguros.
 ## I. INTRODUCCION.
@@ -28,11 +26,7 @@ i) Que los instrumentos tengan características de préstamo;
 ii) Que el modelo de negocio de la entidad prevea el recupero de la cartera vía los flujos contractuales
 asociados y no a través de su venta.
 b) Inversiones que respaldan Reserva de Valor del Fondo en Seguros CUI.
-Las inversiones que respaldan la reserva de valor del fondo en seguros CUI, deberán clasificarse como
-
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
-instrumentos valorizados a valor razonable. La excepción la constituirían aquellos casos donde la compañía pueda demostrar que las inversiones que respaldan la reserva de valor del fondo, cumplen con los requisitos de las normas establecidas en IFRS 9 para ser clasificadas y valorizadas como instrumentos a costo amortizado, lo que se deberá informar a esta Superintendencia.
+Las inversiones que respaldan la reserva de valor del fondo en seguros CUI, deberán clasificarse como instrumentos valorizados a valor razonable. La excepción la constituirían aquellos casos donde la compañía pueda demostrar que las inversiones que respaldan la reserva de valor del fondo, cumplen con los requisitos de las normas establecidas en IFRS 9 para ser clasificadas y valorizadas como instrumentos a costo amortizado, lo que se deberá informar a esta Superintendencia.
 Las inversiones que respalden la reserva de valor del fondo, deberán asignarse en cuentas segregadas del resto de las inversiones de la compañía. Dicha asignación se deberá efectuar respecto de cada plan o modalidad de inversión convenida en las pólizas.
 Las inversiones asignadas a un plan o modalidad de inversión, no se podrán asignar a otro plan o modalidad de inversión, otras reservas técnicas o al patrimonio de riesgo.
 c) Otras inversiones.
@@ -55,11 +49,7 @@ de valoración.
 Las compañías deberán determinar el valor razonable de los instrumentos y reconocer los cambios de valor en resultados o patrimonio, siguiendo las normas establecidas en elIFRS 9.
 Al determinar el valor razonable de un instrumento se deberá considerar lo siguiente:
 2.2.1 Las compañías deberán presentar a la Superintendencia los criterios y metodologías específicas para la
-determinación del valor razonable de su cartera de inversiones clasificada de esta forma. En aquellos casos señalados en las letras ii) y iii) anteriores, se deberán presentar modelos de valorización que, sobre la base de información de mercado, permitan determinar con un suficiente grado de confianza, el valor
-
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
-razonable de los instrumentos. Dichos modelos deberán ser previamente aprobados por la Superintendencia, la que podrá observar y solicitar ajustes a aquellos modelos que a su juicio no cumplan con requerimientos mínimos de robustez técnica . Losmodelos deberán estar previamente aprobados por el directorio de la compañía y deberán presentarse junto a un informe de los auditores externos de la compañía que se pronuncie sobre la concordancia de los criterios y modelos definidos con las normas IFRSy a la solidez técnica de éstos.
+determinación del valor razonable de su cartera de inversiones clasificada de esta forma. En aquellos casos señalados en las letras ii) y iii) anteriores, se deberán presentar modelos de valorización que, sobre la base de información de mercado, permitan determinar con un suficiente grado de confianza, el valor razonable de los instrumentos. Dichos modelos deberán ser previamente aprobados por la Superintendencia, la que podrá observar y solicitar ajustes a aquellos modelos que a su juicio no cumplan con requerimientos mínimos de robustez técnica . Losmodelos deberán estar previamente aprobados por el directorio de la compañía y deberán presentarse junto a un informe de los auditores externos de la compañía que se pronuncie sobre la concordancia de los criterios y modelos definidos con las normas IFRSy a la solidez técnica de éstos.
 También se tendrá como un modelo de valorización propio, el que obtenga la información necesaria para determinar el valor razonable de los instrumentos señalados en las letras ii) y iii) anteriores, de uno o más proveedores de precios especializados de reconocido prestigio, el cual no estará sujeto a aprobación previa por parte de este Servicio, ni al informe de los auditores externos. En el caso de presentar dos o más proveedores de reconocido prestigio, se deberá utilizar el promedio simple de sus precios o tasas.
 Una vez que una compañía implemente un modelo propio para la determinación del valor razonable de sus inversiones, y éste no sea objetado por la Superintendencia, no podrá volver al modelo actual establecidoen el punto 2.2.2 siguiente, a menos que envíe los fundamentos de tal decisión para que esta Superintendencia lo apruebe.
 2.2.2 Aquellas compañías que no presenten modelos de valorización de sus inversiones, deberán sujetarse a
@@ -75,11 +65,7 @@ Las acciones que no cumplan las condiciones de presencia establecidas en el núm
 Las inversiones en cuotas de fondos mutuos deberán ser valorizadas al valor de rescate que tenga la cuota a la fecha de cierre de los estados financieros de la entidad inversionista. La diferencia que se produzca entre este valor y el valor de inversión,contabilizado en los estados financieros anteriores, deberá cargarse o abonarse, según corresponda, a los resultados del período que comprende los estados financieros.
 ## 4. Cuotas de fondos de inversión.
 Las inversiones en cuotas de fondos de inversión a que se refiere el número 2, letra c) del artículo 21 del D.F.L 251, de 1931, que tengan, a la fecha de cierre de los estados financieros, una presencia ajustada anual igual o superior al 20%, calculada de la misma forma que la presencia para acciones nacionales, definido en el N° 1 anterior, se valorizarán al precio promedio ponderado, por el número de cuotas transadas, de las transacciones del último día de transacción bursátil correspondiente a la fecha de cierre de los estados financieros. Las transacciones consideradas en este cálculo serán aquellas en que se hubiere transado un monto total igual o superior a 150 unidades de fomento.
-No obstante lo anterior, las inversiones en cuotas de fondos de inversión que no cumplan el requisito de presencia establecido en el párrafo precedente, deberán ser valorizadas a su valor
-
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
-económico, presentado a este Servicio por aquellos fondos que hayan optado por efectuar valorizaciones económicas de sus inversiones. El valor económico de la cuota corresponderá al definido en Circular Nº 1.258 de 1996, de esta Superintendencia, o la que la reemplace.
+No obstante lo anterior, las inversiones en cuotas de fondos de inversión que no cumplan el requisito de presencia establecido en el párrafo precedente, deberán ser valorizadas a su valor económico, presentado a este Servicio por aquellos fondos que hayan optado por efectuar valorizaciones económicas de sus inversiones. El valor económico de la cuota corresponderá al definido en Circular Nº 1.258 de 1996, de esta Superintendencia, o la que la reemplace.
 En el caso de no presentar el fondo de inversión valor económico de sus cuotas, las compañías deberán valorizar dichas inversiones al valor libro de la cuota, determinado enbase a los últimos estados financieros del fondo presentados a este Servicio. El valor libro de la cuota corresponderá al definido en Circular Nº 1998 de 2010, de esta Superintendencia, o la que la reemplace.
 b) Renta Variable Extranjera.
 ## 1. Acciones contransacción bursátil.
@@ -96,11 +82,7 @@ En el caso de no presentar el instrumento valor de mercado, la compañía deber�
 No obstante lo anterior, la compañía sólo podrá utilizar esta alternativa de valorización, durante el tiempo que transcurra entre la presentación de su modelo propio a la Superintendencia , y la aprobación de éste por parte de la SVS. El plazo para presentar el modelo propio a la SVS no podrá exceder de 6 meses desde que la compañía se encuentre usando esta alternativa de valorización.
 d) Renta Fija Extranjera.
 En el caso de las inversiones en instrumentos de renta fija en el extranjero se deberá considerar como valor de mercado, a la fecha de los estados financieros, la cotización de cierre del título observada en los mercados internacionales, el último día de transacción del instrumento, anterior al cierre de los estados financieros.
-En caso que no existan transacciones del instrumento en el último mes, se deberá considerar como valor de mercado, el valor presente del instrumento descontado a la TIR de otro
-
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
-instrumento de similares características, en términos de plazo, perfil de pagos, y categoría de riesgo, que a juicio de la compañía sea representativo de la tasa de mercado del instrumento mantenido por ésta.
+En caso que no existan transacciones del instrumento en el último mes, se deberá considerar como valor de mercado, el valor presente del instrumento descontado a la TIR de otro instrumento de similares características, en términos de plazo, perfil de pagos, y categoría de riesgo, que a juicio de la compañía sea representativo de la tasa de mercado del instrumento mantenido por ésta.
 ### 2.3 Precios de los instrumentos y paridades cambiarias.
 Los precios y valores de mercado de los instrumentos extranjeros a que se hace referencia en este número, deberán obtenerse de fuentes oficiales de información de las bolsas de valores extranjeras donde se hayan adquirido dichos instrumentos, o de sistemas de información internacionales de reconocido prestigio, tales como Bloomberg o Reuter.
 Para efectos de valorizar las inversiones en el extranjero en moneda nacional se utilizarán las paridades cambiarias entregadas por el Banco Central de Chile en el Informativo Diario, y el valor del dólar observado para el sistema financiero correspondiente al díade la valorización.
@@ -117,11 +99,7 @@ Los instrumentos financieros que incorporen en un mismo contrato de emisión der
 ## 5. Deterioro.
 ### 5.1 Criterios generales.
 Las compañías deberán aplicar los criterios generales establecidos en las normas IFRS sobre deterioro en el valor de las inversiones financieras. Para instrumentos financieros se considera que hay deterioro cuando existe evidencia objetiva que indica que uno o más sucesos ocurridos después del reconocimiento inicial, tienen efecto en los flujos estimados de dicho activo. Una entidad debe tomar en cuenta, al evaluar la evidencia de deterioro, la información contable relativa a la liquidez del deudor o emisor, las tendencias de los activos financieros similares y las condiciones y tendencias de la economía local. Lo anterior, sin perjuicio de lo señalado en el número 3 de esta norma.
-Será responsabilidad de las compañías evaluar si existe evidencia objetiva de que un activo o un grupo de estos se
-
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
-han deteriorado y determinar los criterios sobre los cuales se aplicarán los ajustes correspondientes. Las compañías deberán informar en Revelaciones los criterios, modelos o políticas definidas para la aplicación del deterioro, poniendo particular énfasis en el tratamiento de aquellos instrumentos de renta fija valorizados a costo amortizado1. La Superintendencia podrá observar y requerir ajustes, cuando a su juicio, los criterios establecidos no cumplan con requerimientos mínimos de robustez técnica o se basen en información insuficiente del mercado o cuando los valores de las inversiones informados en los estados financieros no correspondan a los reales. Los métodos o modelos de evaluación del riesgo de crédito deberán ser explícitos y debidamente documentados de modo que su lógica de funcionamiento y sus resultados puedan ser auditados.
+Será responsabilidad de las compañías evaluar si existe evidencia objetiva de que un activo o un grupo de estos se han deteriorado y determinar los criterios sobre los cuales se aplicarán los ajustes correspondientes. Las compañías deberán informar en Revelaciones los criterios, modelos o políticas definidas para la aplicación del deterioro, poniendo particular énfasis en el tratamiento de aquellos instrumentos de renta fija valorizados a costo amortizado1. La Superintendencia podrá observar y requerir ajustes, cuando a su juicio, los criterios establecidos no cumplan con requerimientos mínimos de robustez técnica o se basen en información insuficiente del mercado o cuando los valores de las inversiones informados en los estados financieros no correspondan a los reales. Los métodos o modelos de evaluación del riesgo de crédito deberán ser explícitos y debidamente documentados de modo que su lógica de funcionamiento y sus resultados puedan ser auditados.
 ### 5.2 Deterioro en mutuos hipotecarios endosables.
 Tratándose de mutuos hipotecarios endosables (MHE), las compañías podrán utilizar modelos propios para la determinación del deterioro. La aplicación de estos modelos se sujetaráa la aprobación de esta Superintendencia y a la demostración por parte de la compañía, que el respectivo modelo arroja resultados que representan adecuadamente el nivel de riesgo de la cartera de mutuos. Las compañías que presenten modelos propios para la determinación del deterioro asociado a los MHE que mantengan en cartera, se someterán al procedimiento de evaluación y aprobación establecido en Anexo a esta norma, donde se especifican los requisitos mínimos que estos modelos deben cumplir.
 De no presentar modelos propios, las compañías deberán utilizar el modelo que seindica a continuación.
@@ -142,13 +120,9 @@ inversiones a la entrada en vigencia de esta circular, deberán presentarlos a e
 2011.
 1Sin perjuicio de la obligación de informar sufair value, según la Circular N° 2.022 de 2011 que establece normas relativas a los Estados Financieros, o la norma que la modifique o reemplace.
 
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
 2. La inversiones de renta fija adquiridas con anterioridad a la aplicación de la presente norma y clasificadas a
 costo amortizado, que no incorporan los costos de adquisición en el cálculo de la TIR de compra deberán seguir manteniendo dicha tasa para efectos de lo que se comprende como tasa interna de retorno implícita en su adquisición, según lo establecido en el número II.2.1 de esta norma, no siendo procedente su recálculo a efecto de incorporar los costos de adquisición en forma retroactiva.
 
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
 Anexo Modelos Internos de Deterioro (Provisiones) en Mutuos Hipotecarios Endosables En aquellos casos en que las compañías consideren que el método estándar no se ajusta a la experiencia de sus carteras, podrán proponer una metodología alternativa, la cual deberáser presentada a esta Superintendencia en un informe detallado, junto con los antecedentes técnicos que la sustenten, para su análisis y eventual aprobación. Cualquier modificacióndel modelo deberáser presentado a la Superintendencia para su aprobación.
 ## I. Requisitos de Aprobación de Modelos Internos
 ## 1. Aspectos generales
@@ -179,8 +153,6 @@ confección yaplicación de la metodología, incluyendo lasáreas que interviene
 b) Informes o documentos que den cuenta de los resultados obtenidos en la letra anterior y las acciones
 realizadas a raíz de lo detectado.
 
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
 ### 2.3 Respecto al diseño demetodologías
 2.3.1 Documentación
 Documento técnico que describa en forma detallada todo el proceso de confección de las metodologías, sea este mediante modelamiento estadístico, matrices, tasas u otro tipo, el que se requiere contenga al menos la información descrita a continuación según sea aplicable:
@@ -217,11 +189,7 @@ i) Elección del tipo(s) de modelo(s) y/o metodología(s) a trabajar, especifica
 modelo(s) y/o metodología(s) utilizados y el sustento de su elección.
 ii) Algoritmo de selección o eliminación de variables del modelo y/o metodología.
 -Mencionar todas las variables analizadas para la construcción del modelo y/o metodología, presentando su definición, codificación, escala de medición, nomenclatura, análisis descriptivo y tipo de distribución.
--Especificar y describir los criterios de selección de variables utilizados en el modelo y/o metodología, mostrando todos los resultados relevantes obtenidos en los distintos pasos. En caso de forzar variables
-
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
-para ingresar o salir del modelo, se debe justificar el motivo de tal decisión.
+-Especificar y describir los criterios de selección de variables utilizados en el modelo y/o metodología, mostrando todos los resultados relevantes obtenidos en los distintos pasos. En caso de forzar variables para ingresar o salir del modelo, se debe justificar el motivo de tal decisión.
 -Mencionar las variables y categorías resultantes, con sus respectivos parámetros (ponderaciones).
 -Para los parámetros mostrados en el punto anterior, presentar test de hipótesis o método para evaluar su significancia e intervalos de confianza respecto a ellos.
 -En caso de existir transformaciones a los parámetros, especificar el método empleado para obtener el score.
@@ -252,8 +220,6 @@ estadísticos, back-test empíricos yotros de gestión empleados por la entidad.
 d) Bases de datos, que contenga información en pesos ($), la que debe contar con todos los campos que
 permitan efectuaríntegramente la réplica del funcionamiento de la metodología de admisión, comportamiento y provisiones.
 
-NORMA DE CARÁCTER GENERALN° 311
-FECHA :28.6.2011
 i) Base de datos para metodologías de provisiones:
 -Nombre o razón social
 -Nemotécnico de Operación

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# INSTRUYE SOBRE EL ENVIO POR MEDIO ELECTRÓNICO DE INFORMACIÓN ESENCIAL, DISPUESTO EN LOS ARTÍCULOS 9 Y 10 DE LA LEY N° 18.045.
+# CIRCULAR N° 1737 — INSTRUYE SOBRE EL ENVIO POR MEDIO ELECTRÓNICO DE INFORMACIÓN ESENCIAL, DISPUESTO EN LOS ARTÍCULOS 9 Y 10 DE LA LEY
 
-CIRCULAR Nº 1.737
-FECHA: 13.01.2005
 
 Para todas las entidades fiscalizadas por esta Superintendencia.
 ## I. INTRODUCCION.
@@ -21,8 +19,6 @@ deberá completar, firmar y enviar a esta Superintendencia el documento de autor
 c) Las entidades podrán solicitar la incorporación de la opción “Envío de Hecho Esencial” a
 usuarios ya activados, agregando una nueva habilitación, si es que éstas no desean activar nuevos usuarios al efecto. Para ello deberá remitir a la Superintendencia el documento de autorización de habilitación de usuarios correspondiente señalado en la letra b) precedente.”
 
-CIRCULAR Nº 1.737
-FECHA: 13.01.2005
 Cabe precisar que cuando el tipo de información a remitir corresponda a hechos reservados (“HERES”), sólo se podrá autorizar como usuarios habilitados a las personas que se señalan a continuación.
 c.i) Tratándose de sociedades anónimas:
 - Gerente General o quien haga sus veces, incluyendo a aquellas personas
@@ -40,8 +36,6 @@ Ante situaciones de imposibilidad absoluta para acceder al Módulo SEIL de la Su
 Las disposiciones contenidas en la presente Circular regirán a contar del día 14 de marzo de
 2005.
 
-CIRCULAR Nº 1.737
-FECHA: 13.01.2005
 ANEXO
 ### INSTRUCCIONES DE LLENADO DEL FORMULARIO Y ENVIO DE ARCHIVO ADJUNTO
 Podrá informar más de una materia en un mismo hecho esencial.- La entidad podrá informar más de una materia en un mismo hecho esencial, para lo cual deberá seleccionar la misma cantidad de “Códigos de Materia” como materias esté informando. Por ejemplo, si la entidad está informando 2 materias tales como, la adquisición de un activo mediante la suscripción de un contrato de compra/venta y a la vez está comunicando el cambio de algún director o ejecutivo, deberá seleccionar 2 códigos de materia, que en este caso serán i) Activos o paquetes accionarios, adquisición o enajenación y ii) Cambios en la administración”, para el mismo hecho esencial.
@@ -53,8 +47,6 @@ Archivo adjunto.- El hecho esencial se deberá remitir en un archivo adjunto al 
 2 Megabytes, deberá enviarlos comprimidos, en formato zip, sin clave y sin espacios en el nombre.
 Correo confirmando recepción de hecho esencial.- Una vez remitido el formulario con el archivo adjunto que contenga el hecho esencial, y una vez recepcionado conforme en la SVS, recibirá en la casilla electrónica registrada para el usuario con que se conectó, un correo firmado digitalmente que le servirá de prueba de envío de los antecedentes que allí se señale.
 
-CIRCULAR Nº 1.737
-FECHA: 13.01.2005
 ### DESCRIPCION DE MATERIAS.-
 Activos o paquetes accionarios, adquisición o enajenación.- Adquisición, enajenación o intención de adquirir o enajenar activos o paquetes accionarios significativos, El alcance de este ítem está acotado a inversiones de la entidad informante, incluyendo los contratos o promesas de compra/venta.
 Cambios en la administración.- Cambios en el directorio o principales ejecutivos.
@@ -67,8 +59,6 @@ Las reservas técnicas o el patrimonio de riesgo no están totalmente respaldado
 Déficit de patrimonio de riesgo – Cías. de Seguros.- Patrimonio neto de la sociedad es inferior al patrimonio de riesgo definido en la letra f), artículo primero de la Ley de Seguros.
 Déficit de patrimonio mínimo.- Patrimonio neto de la sociedad es menor al patrimonio mínimo definido en los artículos 7 o 16 de la Ley de Seguros. En el caso de las sociedades administradoras de fondos, según lo dispuesto en artículo 225 de Ley N° 18.045, artículo 7 del D.L. N° 1.328, artículo 12 de Ley N° 18.657, artículo 3A de Ley N° 18.815 o en artículo 55 de Ley N° 19.281.
 
-CIRCULAR Nº 1.737
-FECHA: 13.01.2005
 División, fusión o constitución de sociedades.- Acuerdos o proposiciones sobre división, fusión o creación de filiales o coligadas.
 Junta extraordinaria de accionistas, citaciones, acuerdos y proposiciones.- Todas las materias propias de juntas extraordinarias de accionistas, a excepción de aquellas individualizadas en algún otro código de materia, incluyendo tanto los acuerdos como las citaciones y las proposiciones.
 Juntas ordinarias de accionistas, citaciones, acuerdos y proposiciones.- Todas las materias propias de juntas ordinarias de accionistas, a excepción de aquellas individualizadas en algún otro código de materia, incluyendo tanto los acuerdos como las citaciones y las proposiciones.
@@ -78,8 +68,6 @@ Remisión Estados Financieros.- Cambios relevantes en los resultados o situació
 Reparto de utilidades (pago de dividendos).- Acuerdos, proposiciones o pago de dividendos provisorios, definitivos o eventuales establecidos por la entidad informante.
 Siniestro(s) Catastrófico – Cías. de Seguros.- Cuando ocurre un siniestro o un grupo de siniestros, de tipo catastrófico, que afectan en forma significativa a la compañía en, a lo menos, 2 veces su patrimonio neto, aún cuando existan reaseguros comprometidos. Se excluyen los seguros previsionales establecidos en el D.L. N ° 3.500.
 
-CIRCULAR Nº 1.737
-FECHA: 13.01.2005
 Sobreendeudamiento – Cías. de Seguros.- La entidad sobrepasa los límites de endeudamiento financiero o total indicados en el Artículo 15 de la Ley de Seguros.
 Suscripción o renegociación de créditos.- Suscripción, renegociación de créditos o bien la intención de suscribirlos o renegociarlos, en términos de tasas de interés, plazos u otras condiciones relevantes.
 Suscripción o renovación de contratos.- Suscripción, modificación, término o renovación de contratos que revistan importancia para la entidad, o bien la intención de suscribir, modificar, terminar o renovar los mismos, a excepción de aquellos individualizados en algún otro código de materia.

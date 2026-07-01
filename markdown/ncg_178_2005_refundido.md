@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 178 — FECHA: 19.04.2005
+# NCG N° 178 — 1-
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en los artículos 3° letras b) y k), 15 y 20 del D.F.L N°251, de 1931, ha resuelto impartir las siguientes instrucciones.

@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2280
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-8 Hoja 1
 ### CAPÍTULO 21-8 METODOLOGÍA ESTANDARIZADA PARA EL CÓMPUTO DE ACTIVOS PONDERADOS POR RIESGO OPERACIONAL
@@ -12,64 +14,64 @@ Dicha metodología de cálculo, que se describe en el numeral 2 de este Capítul
 Para determinar el cómputo de los APRO señalado en esta norma, no se permitirá la utilización de metodologías propias a las que se refiere el inciso segundo del artículo 67 de la LGB.
 La adhesión a los lineamientos dispuestos en esta norma será parte de la evaluación de gestión que realiza este Organismo a los bancos en el ámbito de los riesgos operacionales, el cual se aborda en la letra c) del numeral 3.2 del Título II del Capítulo 113 de la Recopilación Actualizada de Normas (en adelante RAN).
 ## 2. Metodología para el cómputo de los APRO
-Para determinar los APRO es necesario calcular el indicador de negocio (𝐵𝐼, por sus siglas en inglés), definido como la suma de tres componentes, tal como señala la siguiente
+Para determinar los APRO es necesario calcular el indicador de negocio (BI, por sus siglas en inglés), definido como la suma de tres componentes, tal como señala la siguiente
 fórmula:
-𝐵𝐼 = 𝐼𝐿𝐷𝐶 + 𝐹𝐶 + 𝑆𝐶
+BI = ILDC + FC + SC
 donde:
-𝐼𝐿𝐷𝐶: componente de intereses, leasing y dividendos (ILDC, por sus siglas en inglés) 𝐹𝐶: componente financiero (FC, por sus siglas en inglés) 𝑆𝐶: componente de servicios (SC, por sus siglas en inglés) Para determinar los componentes IDLC, FC y SC se utilizan las siguientes fórmulas:
-𝐼𝐿𝐷𝐶 = min{|𝐼̅𝐼 −𝐼̅̅𝐸̅|,2.25%⋅𝐼̅̅𝐸̅̅𝐴̅ } + 𝐷̅̅̅𝐼
-𝐹𝐶 = |𝑇̅̅̅𝐵̅|+ |𝐵̅̅̅𝐵̅|
-𝑆𝐶 = max{𝑂̅̅̅𝑂̅̅𝐼,𝑂̅̅̅𝑂̅̅𝐸̅} + max{𝐹̅̅̅𝐼,𝐹̅̅̅𝐸̅},
+ILDC: componente de intereses, leasing y dividendos (ILDC, por sus siglas en inglés) FC: componente financiero (FC, por sus siglas en inglés) SC: componente de servicios (SC, por sus siglas en inglés) Para determinar los componentes IDLC, FC y SC se utilizan las siguientes fórmulas:
+ILDC = min{|I̅I −I̅̅E̅|,2.25%⋅I̅̅E̅̅A̅ } + D̅̅̅I
+FC = |T̅̅̅B̅|+ |B̅̅̅B̅|
+SC = max{O̅̅̅O̅̅I,O̅̅̅O̅̅E̅} + max{F̅̅̅I,F̅̅̅E̅},
 donde:
-𝐼𝐼: Ingresos por intereses (II, por sus siglas en inglés).
-𝐼𝐸: Gastos por intereses (IE, por sus siglas en inglés).
+II: Ingresos por intereses (II, por sus siglas en inglés).
+IE: Gastos por intereses (IE, por sus siglas en inglés).
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-8 Hoja 2 𝐼𝐸𝐴: Activos que generan intereses (IEA, por sus siglas en inglés).
-𝐷𝐼: Ingresos por dividendos (DI, por sus siglas en inglés).
-𝑇𝐵: Ingresos netos del libro de negociación (TB, por sus siglas en inglés).
-𝐵𝐵: Ingresos netos del libro de banca (BB, por sus siglas en inglés).
-𝑂𝑂𝐼: Otros ingresos operativos (OOI, por sus siglas en inglés).
-𝑂𝑂𝐸: Otros gastos operativos (OOE, por sus siglas en inglés).
-𝐹𝐼: Ingresos por comisiones (FI, por sus siglas en inglés).
-𝐹𝐸: Gastos por comisiones (FE, por sus siglas en inglés).
+Capítulo 21-8 Hoja 2 IEA: Activos que generan intereses (IEA, por sus siglas en inglés).
+DI: Ingresos por dividendos (DI, por sus siglas en inglés).
+TB: Ingresos netos del libro de negociación (TB, por sus siglas en inglés).
+BB: Ingresos netos del libro de banca (BB, por sus siglas en inglés).
+OOI: Otros ingresos operativos (OOI, por sus siglas en inglés).
+OOE: Otros gastos operativos (OOE, por sus siglas en inglés).
+FI: Ingresos por comisiones (FI, por sus siglas en inglés).
+FE: Gastos por comisiones (FE, por sus siglas en inglés).
 La barra superior representa el promedio móvil de los últimos tres años y las barras laterales el valor absoluto.
-El 𝐼𝐸𝐴 se obtiene directamente de la información del estado de situación financiera del banco. Los otros conceptos se establecen considerando los flujos del estado de resultados de los últimos 12 meses.
+El IEA se obtiene directamente de la información del estado de situación financiera del banco. Los otros conceptos se establecen considerando los flujos del estado de resultados de los últimos 12 meses.
 Las partidas del estado de situación financiera y del estado de resultados del banco consideradas para determinar cada componente, se describen en el Anexo 1 de este Capítulo.
-A partir del BI se calcula la componente del indicador de negocios (𝐵𝐼𝐶, por sus siglas en inglés). El BIC es igual a la suma ponderada de los montos del 𝐵𝐼 en función de dos tramos, considerando como ponderadores distintos coeficientes marginales por tramo
-(𝛼 ), de acuerdo con la siguiente tabla:
-𝑖
+A partir del BI se calcula la componente del indicador de negocios (BIC, por sus siglas en inglés). El BIC es igual a la suma ponderada de los montos del BI en función de dos tramos, considerando como ponderadores distintos coeficientes marginales por tramo
+(α ), de acuerdo con la siguiente tabla:
+i
 
 | Intervalo del BI en millones de UF |
 | --- |
-| 𝐵𝐼 ≤ 25 𝐵𝐼 > 25 |
+| BI ≤ 25 BI > 25 |
 
-A modo de ejemplo, si para un periodo determinado el 𝐵𝐼 de un banco fuese 45 millones de Unidades de Fomento (UF), entonces el 𝐵𝐼𝐶 resultante será 𝐵𝐼𝐶 = 0,12⋅25+
+A modo de ejemplo, si para un periodo determinado el BI de un banco fuese 45 millones de Unidades de Fomento (UF), entonces el BIC resultante será BIC = 0,12⋅25+
 0,15⋅(45− 25) = 6 millones de UF.
 El cargo por riesgo operacional (ORC, por sus siglas en inglés) es el producto que resulta de multiplicar el BIC de cada banco, señalado anteriormente, por el multiplicador interno de pérdidas operacionales de dicha entidad (ILM, por sus siglas en inglés), tal como lo indica la siguiente expresión:
-𝑂𝑅𝐶 = 𝐵𝐼𝐶 ⋅ 𝐼𝐿𝑀
-El 𝐼𝐿𝑀 se calcula mediante la siguiente fórmula:
-𝐼𝐿𝑀 = 𝑙𝑛 (𝑒(1) − 1 + (𝐿𝐶/𝐵𝐼𝐶)^0,8)
+ORC = BIC ⋅ ILM
+El ILM se calcula mediante la siguiente fórmula:
+ILM = ln (e(1) − 1 + (LC/BIC)^0,8)
 donde:
-𝑙𝑛(.): representa la función logaritmo natural 𝑒(.): representa la función exponencial 𝐿𝐶: es la componente de pérdida, que se calcula como 15 veces el promedio de pérdidas operacionales anuales netas históricas de un banco, con información de los 10 años anteriores a la fecha del cálculo.
+ln(.): representa la función logaritmo natural e(.): representa la función exponencial LC: es la componente de pérdida, que se calcula como 15 veces el promedio de pérdidas operacionales anuales netas históricas de un banco, con información de los 10 años anteriores a la fecha del cálculo.
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-8 Hoja 3 Todos los bancos deberán confeccionar la base de registros de pérdidas operacionales a que se refiere el numeral 3 de este Capítulo.
-El cargo por riesgo operacional de los bancos con un 𝐵𝐼 en el tramo 1, será por defecto igual al 𝐵𝐼𝐶 (𝑂𝑅𝐶 = 𝐵𝐼𝐶). No obstante, estos bancos podrán optar por utilizar información de sus pérdidas operacionales para el cómputo de los APRO, en cuyo caso, deberán dar cumplimiento a las condiciones que establece el Anexo 2 de este Capítulo.
-Los bancos con un 𝐵𝐼 en el tramo 2 y aquellos en el tramo 1 que opten por utilizar el 𝐿𝐶, deberán cumplir con los criterios establecidos en el numeral 4 de este Capítulo. Una vez utilizada la información de pérdidas operacionales para el cálculo de los APRO, los bancos no podrán dejar de usarla sin autorización expresa de la Comisión. En caso de que no se cumplan los criterios del numeral 4 de este Capítulo, el cargo por riesgo operacional será igual al 𝐵𝐼𝐶, definido en este numeral. Lo anterior, sin perjuicio de cargos adicionales que pueda determinar la Comisión como resultado del proceso de evaluación supervisora, conforme a lo dispuesto en el artículo 66 quinquies de la LGB y el Capítulo 21-13 de la Recopilación Actualizada de Normas (pilar 2).
-Finalmente, los APRO se computarán como 12,5 veces el 𝑂𝑅𝐶.
+El cargo por riesgo operacional de los bancos con un BI en el tramo 1, será por defecto igual al BIC (ORC = BIC). No obstante, estos bancos podrán optar por utilizar información de sus pérdidas operacionales para el cómputo de los APRO, en cuyo caso, deberán dar cumplimiento a las condiciones que establece el Anexo 2 de este Capítulo.
+Los bancos con un BI en el tramo 2 y aquellos en el tramo 1 que opten por utilizar el LC, deberán cumplir con los criterios establecidos en el numeral 4 de este Capítulo. Una vez utilizada la información de pérdidas operacionales para el cálculo de los APRO, los bancos no podrán dejar de usarla sin autorización expresa de la Comisión. En caso de que no se cumplan los criterios del numeral 4 de este Capítulo, el cargo por riesgo operacional será igual al BIC, definido en este numeral. Lo anterior, sin perjuicio de cargos adicionales que pueda determinar la Comisión como resultado del proceso de evaluación supervisora, conforme a lo dispuesto en el artículo 66 quinquies de la LGB y el Capítulo 21-13 de la Recopilación Actualizada de Normas (pilar 2).
+Finalmente, los APRO se computarán como 12,5 veces el ORC.
 ## 3. Requisitos para la confección de la base de registros de pérdidas
 operacionales La apropiada identificación, recolección y tratamiento de los registros por pérdidas operacionales del banco son requisitos esenciales para la adecuada gestión del riesgo operacional. En caso de que no se cumplan los criterios de este numeral, se podrán establecer cargos adicionales que la Comisión determinará como resultado del proceso de evaluación supervisora, conforme a lo dispuesto en el artículo 66 quinquies de la LGB y el Capítulo 21-13 de la Recopilación Actualizada de Normas (pilar 2).
 ### 3.1 Criterios generales
 Los criterios generales para la confección de base de datos con registros de pérdida operacional son los siguientes:
 a) Los registros de pérdida operacional usados para la determinación del cargo por riesgo
-operacional deben comprender un período de observación de 10 años. Cuando el banco adopte por primera vez el uso de los registros de pérdida operacional para el cómputo de 𝐿𝐶 se aceptará un periodo de observación de al menos 5 años.
+operacional deben comprender un período de observación de 10 años. Cuando el banco adopte por primera vez el uso de los registros de pérdida operacional para el cómputo de LC se aceptará un periodo de observación de al menos 5 años.
 b) Los bancos deberán contar con procedimientos y procesos documentados para la
 identificación, recopilación y tratamiento de los registros de pérdida operacional.
 c) El banco deberá documentar los criterios de asignación entre pérdidas desagregadas,
-para fines del cálculo del 𝐿𝐶 y los registros sobre pérdidas operacionales requeridos para otros fines.
+para fines del cálculo del LC y los registros sobre pérdidas operacionales requeridos para otros fines.
 d) Los registros internos sobre pérdidas de un banco deberán ser integrales e incluir la
 totalidad de las actividades y exposiciones relevantes, en todos los subsistemas y en todas las ubicaciones geográficas pertinentes.
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
@@ -117,7 +119,7 @@ c) Primas de seguro.
 Los bancos deberán utilizar la fecha de contabilización del evento para construir el conjunto de registros sobre pérdidas. En el caso de eventos legales, la fecha de contabilización se refiere a cuando se constituye una provisión para esta contingencia legal en el estado de situación financiera, con su reflejo correspondiente en el estado de resultados.
 Las pérdidas causadas por un evento de riesgo operacional común o por varios eventos de riesgo operacional relacionados a lo largo del tiempo, pero contabilizadas en el transcurso de varios años, deberán asignarse a los años correspondientes en la base de datos sobre pérdidas, en consonancia con su tratamiento contable.
 ## 4. Requisitos para el uso de LC
-Los bancos con un 𝐵𝐼 en el tramo 2 y aquellos en el tramo 1 que opten por utilizar el 𝐿𝐶, deberán cumplir con los siguientes criterios:
+Los bancos con un BI en el tramo 2 y aquellos en el tramo 1 que opten por utilizar el LC, deberán cumplir con los siguientes criterios:
 a) Los procedimientos y procesos señalados en el literal b), del numeral 3.1 de este
 Capítulo, deberán estar sujetos a validación, antes de que los registros sobre pérdidas se utilicen en la metodología de medición del cargo por riesgo operacional, así como a revisiones independientes periódicas de las unidades de auditoría interna o externa, de acuerdo con las normas de atestiguación que le apliquen.
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
@@ -132,42 +134,42 @@ d) En caso de que durante las revisiones de seguimiento efectuadas por la propia
 institución (criterio c) se observe cualquier incumplimiento de los requisitos establecidos en esta norma, la entidad tendrá la obligación de informar oportunamente a este Organismo, mediante carta dirigida a la Comisión, detallando los hechos.
 5. Disposiciones especiales para bancos con menos de 5 años de operación
 Los bancos con menos de 5 años de funcionamiento tendrán un cargo por riesgo operacional igual al BIC, atendiendo a que dichas entidades no cuentan con información de pérdida histórica conforme a los criterios establecidos en el numeral 3.1.
-Tratándose de bancos que lleven operando menos de 1 año, se determinará su 𝐴𝑃𝑅𝑂 cómo un 10.5% del 𝐴𝑃𝑅𝐶, de acuerdo con las reglas de cálculo de los activos ponderados por riesgo de crédito establecidas por esta Comisión.
+Tratándose de bancos que lleven operando menos de 1 año, se determinará su APRO cómo un 10.5% del APRC, de acuerdo con las reglas de cálculo de los activos ponderados por riesgo de crédito establecidas por esta Comisión.
 ## 6. Disposiciones transitorias
 Hasta el 1 de diciembre de 2021 los activos ponderados por riesgo operacional serán iguales a 0. Posterior a esa fecha, los activos ponderados por riesgo operacional deberán ser calculados según los lineamientos establecidos en este cuerpo normativo.
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
-Capítulo 21-8 Anexo 1 - Hoja 1 Anexo 1: Partidas contables para la determinación de 𝑰𝑳𝑫𝑪, 𝑭𝑪 y 𝑺𝑪 para efectos de cálculo del Indicador de Negocios La asignación a las partidas contables de activos, ingresos y gastos a considerar para determinar los componentes de ILDC, FC y SC para el cálculo del indicador de negocios o BI, conforme al numeral 2 de este Capítulo, se muestra en la siguiente tabla:
+Capítulo 21-8 Anexo 1 - Hoja 1 Anexo 1: Partidas contables para la determinación de ILDC, FC y SC para efectos de cálculo del Indicador de Negocios La asignación a las partidas contables de activos, ingresos y gastos a considerar para determinar los componentes de ILDC, FC y SC para el cálculo del indicador de negocios o BI, conforme al numeral 2 de este Capítulo, se muestra en la siguiente tabla:
 
-| Componente del 𝑩𝑰 | Estado de resultados y situación | Descripción | Partidas contables consideradas en cada componente |
+| Componente del BI | Estado de resultados y situación | Descripción | Partidas contables consideradas en cada componente |
 | --- | --- | --- | --- |
-| Interés, Leasing y Dividendo (𝑰𝑳𝑫𝑪) | Ingreso por intereses (𝐼𝐼) | Ingreso por intereses de todos los activos financieros y otros ingresos por intereses (incluye el ingreso por intereses de leasing o arriendos financieros y operativos, y ganancias por activos en arriendo). | • Ingresos por intereses asociados a: contratos de retrocompra, créditos otorgados a bancos, colocaciones comerciales, colocaciones para vivienda, colocaciones de consumo, instrumentos de inversión y otros ingresos por intereses. • Resultados de coberturas contables de intereses. • Ingresos por intereses de instrumentos financieros para negociación. |
-|  | Gasto por intereses (𝐼𝐸) | Gasto por intereses de todos los pasivos financieros y otros gastos por interés (incluye gastos por interés de leasing o arriendos financieros y operativos, pérdidas, depreciación y deterioro del funcionamiento de activos en arriendo). | • Gastos por intereses de depósitos a la vista, contratos de retrocompra, depósitos y captaciones a plazo, obligaciones con bancos, instrumentos de deuda emitidos, otras obligaciones financieras, obligaciones por contratos de arrendamiento y otros gastos por intereses o reajustes. • Resultado de coberturas contables de intereses. • Depreciaciones y amortizaciones: depreciaciones y amortizaciones del activo por derecho a usar bienes en arrendamiento. • Deterioros: activo por derecho a usar bienes en arrendamiento. • Gastos de administración: gastos por arrendamiento a corto plazo o de bajo valor, y otros gastos de obligaciones por contratos de arrendamiento. |
-|  | Activos que ganan intereses (𝐼𝐸𝐴) | Total de préstamos brutos vigentes, anticipos, valores (securities) que devengan intereses (incluyendo bonos del gobierno), y activos en arriendo medidos al término del año financiero. | • Depósitos en el Banco Central de Chile, depósitos en bancos del país, depósitos en el exterior. • Instrumentos para negociación del Estado y Banco Central de Chile, otros instrumentos emitidos en el país y en el exterior. • Contratos de retrocompra con bancos del país o con otras entidades. • Deudas con el Banco Central de Chile, bancos del país o del exterior, excluidas sus provisiones. • Colocaciones comerciales, para vivienda y de consumo. • Instrumentos de inversión disponibles para la venta y hasta el vencimiento. |
-|  | Ingreso por dividendos (𝐷𝐶) | Ingresos por dividendos de inversiones en sociedades no consolidadas en los estados financieros de un banco, incluyendo ingresos por dividendos de empresas no consolidadas tales como sociedades con influencia significativa o asociadas, negocios conjuntos y otras inversiones minoritarias en sociedades. | • Utilidades de dividendos por inversiones en sociedades, percibidas por acciones y derechos en sociedades. |
+| Interés, Leasing y Dividendo (ILDC) | Ingreso por intereses (II) | Ingreso por intereses de todos los activos financieros y otros ingresos por intereses (incluye el ingreso por intereses de leasing o arriendos financieros y operativos, y ganancias por activos en arriendo). | • Ingresos por intereses asociados a: contratos de retrocompra, créditos otorgados a bancos, colocaciones comerciales, colocaciones para vivienda, colocaciones de consumo, instrumentos de inversión y otros ingresos por intereses. • Resultados de coberturas contables de intereses. • Ingresos por intereses de instrumentos financieros para negociación. |
+|  | Gasto por intereses (IE) | Gasto por intereses de todos los pasivos financieros y otros gastos por interés (incluye gastos por interés de leasing o arriendos financieros y operativos, pérdidas, depreciación y deterioro del funcionamiento de activos en arriendo). | • Gastos por intereses de depósitos a la vista, contratos de retrocompra, depósitos y captaciones a plazo, obligaciones con bancos, instrumentos de deuda emitidos, otras obligaciones financieras, obligaciones por contratos de arrendamiento y otros gastos por intereses o reajustes. • Resultado de coberturas contables de intereses. • Depreciaciones y amortizaciones: depreciaciones y amortizaciones del activo por derecho a usar bienes en arrendamiento. • Deterioros: activo por derecho a usar bienes en arrendamiento. • Gastos de administración: gastos por arrendamiento a corto plazo o de bajo valor, y otros gastos de obligaciones por contratos de arrendamiento. |
+|  | Activos que ganan intereses (IEA) | Total de préstamos brutos vigentes, anticipos, valores (securities) que devengan intereses (incluyendo bonos del gobierno), y activos en arriendo medidos al término del año financiero. | • Depósitos en el Banco Central de Chile, depósitos en bancos del país, depósitos en el exterior. • Instrumentos para negociación del Estado y Banco Central de Chile, otros instrumentos emitidos en el país y en el exterior. • Contratos de retrocompra con bancos del país o con otras entidades. • Deudas con el Banco Central de Chile, bancos del país o del exterior, excluidas sus provisiones. • Colocaciones comerciales, para vivienda y de consumo. • Instrumentos de inversión disponibles para la venta y hasta el vencimiento. |
+|  | Ingreso por dividendos (DC) | Ingresos por dividendos de inversiones en sociedades no consolidadas en los estados financieros de un banco, incluyendo ingresos por dividendos de empresas no consolidadas tales como sociedades con influencia significativa o asociadas, negocios conjuntos y otras inversiones minoritarias en sociedades. | • Utilidades de dividendos por inversiones en sociedades, percibidas por acciones y derechos en sociedades. |
 
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-8 Anexo 1 - Hoja 2
 
-| Componente del 𝑩𝑰 | Estado de resultados y situación | Descripción | • Partidas contables consideradas en cada componente |
+| Componente del BI | Estado de resultados y situación | Descripción | • Partidas contables consideradas en cada componente |
 | --- | --- | --- | --- |
-| Servicios (𝑺𝑪) | Ingreso por Comisiones (𝐹𝐼) | Ingresos recibidos por asesoramientos y servicios. Incluye los ingresos recibidos por el banco como subcontratista de servicios financieros. | • Ingresos por comisiones, excluyendo aquellas asociadas a remuneraciones por comercialización de seguros. |
-|  | Gastos por Comisiones (𝐹𝐸) | Gastos por asesoramientos y servicios recibidos. Incluye las tarifas de externalización pagadas por el banco por el suministro de servicios financieros, pero no las tarifas de externalización pagadas por el suministro de servicios no financieros (ej. logística, IT, recursos humanos) | • Gastos por comisiones. |
-|  | Otros ingresos Operativos (𝑂𝑂𝐼) | Ingresos por operaciones ordinarias del banco que no están incluidas en otro ítem del BI pero de similar naturaleza (ingresos por arrendamientos operativos deben ser excluidos). | • Ingresos por comisiones de prepago de créditos comerciales, para vivienda y consumo. • Otros ingresos operacionales: ingresos por bienes recibidos en pago y liberación de provisiones por contingencias no asociadas a riesgo país ni especiales para créditos al exterior. Además, se incluyen otros ingresos: utilidad por venta de activo fijo, ingresos distintos a intereses y comisiones por contratos de arrendamiento y otros ingresos. • Utilidades por venta de inversiones en sociedades. |
-|  | Otros gastos operativos (𝑂𝑂𝐸) | Gastos y pérdidas de operaciones ordinarias del banco no incluidas en otros ítems del BI pero de similar naturaleza y de eventos de pérdidas operacionales (gastos por arrendamientos operacionales deben ser excluidos). | • Otros gastos operacionales: provisiones y gastos por bienes recibidos en pago, provisiones por contingencias no asociadas a riesgo país ni especiales para créditos al exterior. Además, se incluyen otros gastos: pérdida por venta de activo fijo y otros gastos. • Gastos de administración: multas aplicadas por organismos regulatorios. • Pérdidas por venta de inversiones en sociedades. |
+| Servicios (SC) | Ingreso por Comisiones (FI) | Ingresos recibidos por asesoramientos y servicios. Incluye los ingresos recibidos por el banco como subcontratista de servicios financieros. | • Ingresos por comisiones, excluyendo aquellas asociadas a remuneraciones por comercialización de seguros. |
+|  | Gastos por Comisiones (FE) | Gastos por asesoramientos y servicios recibidos. Incluye las tarifas de externalización pagadas por el banco por el suministro de servicios financieros, pero no las tarifas de externalización pagadas por el suministro de servicios no financieros (ej. logística, IT, recursos humanos) | • Gastos por comisiones. |
+|  | Otros ingresos Operativos (OOI) | Ingresos por operaciones ordinarias del banco que no están incluidas en otro ítem del BI pero de similar naturaleza (ingresos por arrendamientos operativos deben ser excluidos). | • Ingresos por comisiones de prepago de créditos comerciales, para vivienda y consumo. • Otros ingresos operacionales: ingresos por bienes recibidos en pago y liberación de provisiones por contingencias no asociadas a riesgo país ni especiales para créditos al exterior. Además, se incluyen otros ingresos: utilidad por venta de activo fijo, ingresos distintos a intereses y comisiones por contratos de arrendamiento y otros ingresos. • Utilidades por venta de inversiones en sociedades. |
+|  | Otros gastos operativos (OOE) | Gastos y pérdidas de operaciones ordinarias del banco no incluidas en otros ítems del BI pero de similar naturaleza y de eventos de pérdidas operacionales (gastos por arrendamientos operacionales deben ser excluidos). | • Otros gastos operacionales: provisiones y gastos por bienes recibidos en pago, provisiones por contingencias no asociadas a riesgo país ni especiales para créditos al exterior. Además, se incluyen otros gastos: pérdida por venta de activo fijo y otros gastos. • Gastos de administración: multas aplicadas por organismos regulatorios. • Pérdidas por venta de inversiones en sociedades. |
 
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
 
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 21-8 Anexo 1 - Hoja 3
 
-| Componente del 𝑩𝑰 | Estado de resultados y situación | Descripción | • Partidas contables consideradas en cada componente |
+| Componente del BI | Estado de resultados y situación | Descripción | • Partidas contables consideradas en cada componente |
 | --- | --- | --- | --- |
-| Financiero (𝑭𝑪) | Ingresos netos (pérdidas) para libro de negociación (𝑇𝐵) | • Ganancias/pérdidas netas en activos y pasivos de negociación (derivados, títulos de deuda, valores de renta variable, préstamos y anticipos, posiciones cortas, otros activos y pasivos). • Ganancias/pérdidas netas asociadas a instrumentos para la cobertura contable de moneda y reajustes. | • Utilidad neta de instrumentos financieros para negociación: reajustes, ajuste a valor razonable, utilidad y pérdida por venta y resultado inversiones en fondos mutuos e instrumentos de deuda para negociación. • Utilidad neta de derivados de negociación. • Utilidad (pérdida) de cambio neta: utilidad (pérdida) de cambio neta, resultado neto por reajustes por tipo de cambio, en instrumentos para la cobertura contable de moneda y reajustes. |
-|  | Ingresos netos (pérdidas) para libro de la banca (𝐵𝐵) | • Ganancias/pérdidas netas en activos financieros y pasivos medidos a valor razonable a través del estado de resultados. • Ganancias/pérdidas realizadas en activos financieros y pasivos no medidos a valor razonable a través del estado de resultados (préstamos y anticipos al costo amortizado, activos disponibles para la venta, activos mantenidos hasta su vencimiento, pasivos financieros medidos al costo amortizado). | • Ingresos por reajustes de colocaciones comerciales, para vivienda y de consumo. • Ingresos por reajustes: contratos de retrocompra, créditos otorgados a bancos, instrumentos de inversión y otros ingresos por reajustes ganados. • Gastos por reajustes: depósitos a la vista, contratos de retrocompra, depósitos y captaciones a plazo, obligaciones con bancos, instrumentos de deuda emitidos y otras obligaciones financieras. • Utilidad neta de instrumentos disponibles para la venta, venta de cartera de créditos y resultado neto de otras operaciones. • Utilidad (pérdida) de cambio neta: resultado neto de cambio monedas extranjeras, resultado neto por reajustes por tipo de cambio, excluyendo a los instrumentos para negociación, y resultado de coberturas contables. |
+| Financiero (FC) | Ingresos netos (pérdidas) para libro de negociación (TB) | • Ganancias/pérdidas netas en activos y pasivos de negociación (derivados, títulos de deuda, valores de renta variable, préstamos y anticipos, posiciones cortas, otros activos y pasivos). • Ganancias/pérdidas netas asociadas a instrumentos para la cobertura contable de moneda y reajustes. | • Utilidad neta de instrumentos financieros para negociación: reajustes, ajuste a valor razonable, utilidad y pérdida por venta y resultado inversiones en fondos mutuos e instrumentos de deuda para negociación. • Utilidad neta de derivados de negociación. • Utilidad (pérdida) de cambio neta: utilidad (pérdida) de cambio neta, resultado neto por reajustes por tipo de cambio, en instrumentos para la cobertura contable de moneda y reajustes. |
+|  | Ingresos netos (pérdidas) para libro de la banca (BB) | • Ganancias/pérdidas netas en activos financieros y pasivos medidos a valor razonable a través del estado de resultados. • Ganancias/pérdidas realizadas en activos financieros y pasivos no medidos a valor razonable a través del estado de resultados (préstamos y anticipos al costo amortizado, activos disponibles para la venta, activos mantenidos hasta su vencimiento, pasivos financieros medidos al costo amortizado). | • Ingresos por reajustes de colocaciones comerciales, para vivienda y de consumo. • Ingresos por reajustes: contratos de retrocompra, créditos otorgados a bancos, instrumentos de inversión y otros ingresos por reajustes ganados. • Gastos por reajustes: depósitos a la vista, contratos de retrocompra, depósitos y captaciones a plazo, obligaciones con bancos, instrumentos de deuda emitidos y otras obligaciones financieras. • Utilidad neta de instrumentos disponibles para la venta, venta de cartera de créditos y resultado neto de otras operaciones. • Utilidad (pérdida) de cambio neta: resultado neto de cambio monedas extranjeras, resultado neto por reajustes por tipo de cambio, excluyendo a los instrumentos para negociación, y resultado de coberturas contables. |
 
 Circular N°2.280 / 30.11.2020 por Resolución N°5818
 

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1493 — AUTORIZA COMO ACTIVIDAD COMPLEMENTARIA LA ACTIVIDAD DE SERVICIOS DE VINCULOS O "LINKS" EN LA COMPRA Y VENTA DE VALORES EN EL EXTRANJERO
+# CIRCULAR N° 1493 — AUTORIZA COMO ACTIVIDAD COMPLEMENTARIA LA ACTIVIDAD DE SERVICIOS DE VINCULOS O "LINKS" EN LA COMPRA Y VENTA DE VALORES EN EL EXTRANJERO.
 
 
 Para todos los corredores de bolsa, agentes de valores y bolsas de valores Esta Superintendencia, en uso de sus facultades legales que le confiere el D.L.3.538, de 1980 y el artículo 27 de la ley Nº 18.045, ha estimado conveniente ampliar las actividades complementarias, en relación con los requisitos mínimos de funcionamiento que los corredores de bolsa y agentes de valores, en adelante también intermediarios nacionales, deben cumplir para prestar a sus clientes, en adelante también inversionistas, los servicios de vínculos o "links" con intermediarios extranjeros, en la compra y venta de valores extranjeros en mercados de valores externos, a través de intermediarios de valores autorizados, en adelante intermediarios extranjeros, bajo las condiciones, circunstancias y
@@ -17,7 +17,6 @@ inversionista ingrese desde el sitio Web de un intermediario nacional al sitio W
 clientes, mediante una leyenda destacada en su sitio Web, que los valores extranjeros no se encuentran inscritos en Chile, y que en consecuencia, no le son aplicables las leyes que rigen el mercado de valores de Chile. Asimismo, advertirá a los inversionistas que deben informarse previamente de los valores de que se trata y de sus circunstancias, antes de tomar cualquier decisión de inversión, ya que ésta se efectúa bajo su exclusiva responsabilidad. El intermediario nacional deberá disponer la existencia de los medios necesarios en su sitio Web que aseguren que su cliente se encuentra debidamente informado al respecto.
 4. Los intermediarios nacionales que inicien actividades de vínculos o "links" con
 intermediarios extranjeros, remitirán previamente a las bolsas de valores de las que sean miembros una copia original del contrato de vínculo y de los contratos celebrados con las entidades que ofrecerán los servicios de custodia. De igual forma, cualquier modificación que se realice a los contratos antes señalados será informada a las bolsas de valores correspondientes, en el plazo de tres días hábiles de ocurrido el hecho.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 5. El contrato de vínculo o "link" entre el intermediario nacional y el intermediario extranjero,
 deberá a lo menos contener lo siguiente:
@@ -45,7 +44,6 @@ alterada durante su transmisión.
 e) No repudio : Aquel que garantice que el emisor de la información no
 podrá negar su autoría y contenido.
 Dentro de estos sistemas es condición esencial, que el sitio Web del intermediario nacional cuente con una certificación vigente de sitio Web seguro, otorgado por una entidad certificadora, y que los documentos que se envíen electrónicamente a sus clientes, vayan con su correspondiente firma digital, la que asimismo deberá contar con el respaldo de una entidad certificadora.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 El intermediario nacional deberá poner, permanentemente, a disposición de sus clientes la información necesaria que les permita tener claridad respecto de las medidas de seguridad que el intermediario nacional haya implementado.
 ## II PROCEDIMIENTO
@@ -71,7 +69,6 @@ f) "El intermediario nacional no es responsable de retornar las divisas si por
 disposiciones de derecho interno del país donde se realice la operación, se restrinja o impida el acceso a la compra o remesa de divisas."
 g) "El intermediario nacional no asume responsabilidades por aquellas transacciones
 que el cliente realice directamente en el sitio Web del intermediario extranjero, sin utilizar el vínculo que el intermediario nacional provee para ello."
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## III RESPONSABILIDAD DEL INTERMEDIARIO NACIONAL
 Los intermediarios nacionales que realicen las actividades de vínculos serán responsables de:
@@ -86,4 +83,3 @@ Los intermediarios nacionales contabilizarán separadamente los valores y dinero
 Los intermediarios nacionales antes de dar inicio a las operaciones de vínculo o "link" deberán comunicar este hecho a la Superintendencia, individualizando al intermediario extranjero, con su nombre o razón social y domicilio. Asimismo, los intermediarios nacionales informarán a esta Superintendencia el término, por cualquier causa, de los respectivos contratos.
 ## VI VIGENCIA
 La presente Circular entra en vigencia a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

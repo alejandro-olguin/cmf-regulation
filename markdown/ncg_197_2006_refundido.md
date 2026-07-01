@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 197 — FECHA: 26.5.2006
+# NCG N° 197 — ESTABLECE NORMAS PARA CORREDORES DE SEGUROS EXTRANJEROS O COMPAÑÍAS DE SEGUROS EXTRANJERAS QUE INTERMEDIEN Y COMERCIALICEN EN CHILE SEGUROS DE TRANSPORTE MARÍTIMO INTERNACIONAL, AVIACIÓN COMERCIAL INTERNACIONAL Y MERCANCÍAS EN TRÁNSITO INTERNACIONAL
 
 
 Esta Superintendencia, en uso de sus facultades legales, y en virtud del Tratado de Libre Comercio que ha suscrito Chile con la Unión Europea y los Estados Unidos de Norteamérica ha resuelto dictar las siguientes normas relativas a los corredores de seguros extranjeros o compañías de seguros extranjeras que intermedien y comercialicen en Chile seguros de transporte marítimo internacional, aviación comercial internacional y mercancías en tránsito internacional.

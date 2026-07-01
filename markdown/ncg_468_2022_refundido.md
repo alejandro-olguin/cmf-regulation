@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA EL PROCESO DE
-### AUTORIZACIÓN DE INICIO DE FUNCIONES DE ADMINISTRADORAS GENERALES DE FONDOS.
-_________________________________
-NORMA DE CARÁCTER GENERAL N°468
-31 de marzo de 2022
+# REGULA EL PROCESO DE AUTORIZACIÓN DE INICIO DE FUNCIONES DE ADMINISTRADORAS GENERALES DE FONDOS. _________________________________ NORMA DE CARÁCTER GENERAL N°468 31 de marzo de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren los numerales 1,
 18 y 19 del artículo 5, el numeral 3 del artículo 20, el numeral 5 del artículo 33, y el
 artículo 34, todos del Decreto Ley N°3.538; en el artículo 4° de la Ley que regula la Administración de Fondos de Terceros y Carteras Individuales, aprobada por el artículo primero de la Ley N°20.712; y, lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°278 de 10 de marzo de 2022, ha estimado pertinente impartir las siguientes
@@ -33,4 +31,4 @@ emplear la plantilla e instrucciones para la elaboración de planes para entidad
 La autorización de inicio de funciones, podrá ser efectuada en conjunto con la de autorización de existencia, o con posterioridad a otorgada la misma.
 Una vez revisados los antecedentes requeridos y subsanadas las eventuales observaciones que esta Comisión haya formulado a los mismos, se procederá sin más trámite a emitir la resolución que autorice el inicio de funciones. A partir de ese momento, la administradora podrá empezar a depositar los reglamentos de los fondos en el Depósito respectivo.
 Vigencia Las instrucciones impartidas por la presente norma de carácter general, rigen a partir de esta fecha.
-### KEVIN COWAN LOGAN PRESIDENTE (S) COMISIÓN PARA EL MERCADO FINANCIERO
+### KEVIN COWAN LOGAN PRESIDENTE (S)

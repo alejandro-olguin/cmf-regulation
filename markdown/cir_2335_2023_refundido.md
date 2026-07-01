@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2335
+
 Texto actualizado: Circular N° 1 Empresas operadoras de tarjetas de pago
 ### TEXTO ACTUALIZADO
 Disposición: CIRCULAR N° 1 (de 28.11.2017) Para: EMPRESAS OPERADORAS DE TARJETAS DE PAGO Materia: Normas generales para empresas operadoras de tarjetas de pago
@@ -97,12 +99,12 @@ La estimación de Plazo y Monto se efectuarán para el trimestre anterior al p p
 > ⚠️ **Fórmula matemática** — extracción automática incompleta; consultar PDF original.
 >
 > $$
-> 𝑛
-> 𝑀 𝑀𝑇
-> 𝑘
-> 𝑃𝑙𝑎𝑧𝑜 × 𝑀𝑜𝑛𝑡𝑜 = (∑𝐾 × ) ×
+> n
+> M MT
+> k
+> Plazo × Monto = (∑K × ) ×
 > $$
-𝑝 𝑝 𝑀𝑇 90 𝑘=0
+p p MT 90 k=0
 Donde:
 K = Número de días hábiles bancarios convenidos o aplicados, desde la fecha en que el Emisor hubiere transferido al Operador los fondos destinados al pago, hasta el día que tales fondos sean efectivamente abonados por el Operador a las entidades afiliadas.
 Para los pagos que fueren efectuados por el Operador a las entidades afiliadas dentro del día hábil bancario siguiente a que el Emisor hubiere transferido los fondos al primero, se computarán como realizados en un plazo de 0,25 días para fines del algoritmo señalado. Los pagos que fueren efectuados por el Operador a las entidades afiliadas dentro del mismo día hábil bancario en que el Emisor hubiere transferido los fondos al primero, se computarán como realizados en un plazo de 0,125 días.

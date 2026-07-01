@@ -3,13 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: IMPARTE INSTRUCCIONES SOBRE
-### GOBIERNO CORPORATIVO Y GESTIÓN INTEGRAL DE RIESGOS PARA BOLSAS DE VALORES Y BOLSAS DE PRODUCTOS.
-### MODIFICA NORMA DE CARÁCTER GENERAL N°480.
-_________________________________
-NORMA DE CARÁCTER GENERAL N° 508
-8 de mayo de 2024
-A todas las bolsas de valores y bolsas de productos.
+# IMPARTE INSTRUCCIONES SOBRE GOBIERNO CORPORATIVO Y GESTIÓN INTEGRAL DE RIESGOS PARA BOLSAS DE VALORES Y BOLSAS DE PRODUCTOS. MODIFICA NORMA DE CARÁCTER GENERAL N°480. _________________________________ NORMA DE CARÁCTER GENERAL N° 508 8 de mayo de 2024 A todas las bolsas de valores y bolsas de productos.
+
+
 Esta Comisión, en uso de las facultades conferidas en el Decreto Ley N°3.538, la Ley N°18.045 y la Ley N°19.220, y teniendo en consideración que su mandato legal es velar por el correcto funcionamiento, desarrollo y estabilidad del mercado financiero, ha estimado pertinente impartir las siguientes instrucciones respecto del gobierno corporativo y gestión de riesgos para las bolsas de valores y bolsas de productos.
 Las bolsas de valores y productos, con el objeto de que puedan gestionar adecuadamente los riesgos que afectan al giro exclusivo que el marco legal les ha encomendado, deberán contar, al menos, con las políticas, procedimientos, controles, estructura organizacional y roles a las que se refiere esta normativa.
 ## I. ROL DEL DIRECTORIO

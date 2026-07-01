@@ -23,8 +23,8 @@ Para fines de orden, este numeral se ha estructurado de la siguiente forma:
 #### A. MEMORIA ANUAL
 A.1 Plazo de presentación Deberá remitirse dentro del cuatrimestre siguiente a la fecha de cierre del ejercicio anual.
 La memoria deberá estar a disposición de los accionistas o miembros de la corporación o administradores de la fundación, según sea el caso, y del público en general, en la sede principal de la entidad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 201
+
+### N.C.G. N° 201
 FECHA: 13.09.2006
 A esta Superintendencia deberán enviarse tres ejemplares de la memoria anual, firmados por los respectivos directores o por los miembros de la comisión de deporte profesional para el caso de los fondos de deporte profesional.
 A.2 Contenido La memoria anual contendrá, a lo menos, la siguiente información:
@@ -47,8 +47,8 @@ informar: i) Número total de accionistas, ii) Identificación de los 12 mayores
 En lo que respecta a fondos de deporte profesional deberá señalar el nombre de la corporación o fundación que lo constituyó.
 e) Informe de los auditores externos sobre los estados financieros anuales que se
 presentan.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 201
+
+### N.C.G. N° 201
 FECHA: 13.09.2006
 f) Estados financieros
 Los estados financieros anuales deberán presentarse en forma comparativa con los estados financieros de igual fecha del ejercicio anterior, de acuerdo a las normas impartidas por esta Superintendencia para la presentación de estados financieros, mediante Circular N° 1.501 y sus modificaciones posteriores y también de acuerdo a otras normas complementarias que puedan emitirse a través de circulares, específicamente para este tipo de entidades.
@@ -61,8 +61,8 @@ g.1) Un análisis comparativo y explicación de las principales tendencias obser
 Resultados Ingresos y costos de explotación, desglosados por ítems. Para el caso de los ingresos deberá considerar aspectos tales como: venta de entradas, publicidad estática, auspiciadores, derechos de comercialización de marcas, derechos de transmisión y retransmisión de partidos, derechos federativos, arriendo de pases de jugadores, participación en competencias oficiales, ya sean nacionales o internacionales y otros que a juicio de la administración sean relevantes. En lo que respecta a los costos de explotación deberá considerar aspectos tales como: sueldos al plantel deportivo, a la planta administrativa, premios, bonificaciones, arriendo de pases de jugadores y otros que a juicio de la administración sean relevantes.
 Por otra parte, deberá efectuar un análisis del resultado fuera de la explotación identificando las principales partidas de ingresos y gastos fuera de la explotación que explican las variaciones en dicho resultado.
 Activos Indicación de las inversiones y enajenaciones de importancia realizadas. Especial énfasis deberá poner en el concepto de pases de jugadores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 201
+
+### N.C.G. N° 201
 FECHA: 13.09.2006
 Pasivos Indicación de las variaciones de importancia ocurridas en el período.
 Liquidez y Endeudamiento 1 Deberá realizar una breve explicación en el comportamiento de los índices de: i) liquidez corriente, ii) razón de endeudamiento, iii) proporción de la deuda a corto y largo plazo en relación a la deuda total, y iv) cobertura de gastos financieros. En todo caso, podrá incluirse adicionalmente otros índices o ítems distintos de los anteriores, con el objeto de reflejar adecuadamente la situación de la entidad.
@@ -77,8 +77,8 @@ Los presupuestos sobre los que opera la organización deportiva profesional, deb
 B.1 Instrucciones generales de preparación Deberán incluir los ingresos y egresos proyectados por la organización deportiva profesional para el año correspondiente con el desglose de las partidas e ítems respectivos, especificando su origen y la oportunidad en que se esperan sus flujos.
 1 Liquidez corriente, definida como la razón de activo circulante a pasivo circulante. Razón de endeudamiento,
 definida como la razón de total pasivo exigible a patrimonio. Cobertura gastos financieros, definida como resultado antes de impuestos e intereses dividido por gastos financieros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 201
+
+### N.C.G. N° 201
 FECHA: 13.09.2006
 Las partidas de ingresos y egresos antes mencionadas deberán encontrarse debidamente respaldadas en documentos fidedignos, los cuales deberán ser presentados a esta Superintendencia, en caso que se soliciten.
 Adicionalmente, se deberá adjuntar una comparación con las partidas equivalentes, contempladas en el presupuesto del ejercicio del año anterior y los ingresos y egresos efectivamente producidos en éste, por cada una de dichas partidas. Dicha comparación deberá incluir un análisis y explicación de las desviaciones presupuestarias encontradas.
@@ -86,8 +86,8 @@ En caso que el presupuesto anual aprobado por la asociación respectiva, no cont
 B.2 Presupuestos con déficit Los presupuestos con déficit, deberán ser garantizados mediante cauciones personales otorgadas por cada uno de los miembros del directorio de la corporación, fundación o sociedad anónima deportiva profesional y de la comisión de deporte profesional. En todo caso, copia de dichas cauciones deberán ser remitidas a esta Superintendencia en la forma señalada en letra E, item 2.3 de esta norma B.3 Plazo de presentación Los presupuestos anuales, deberán ser presentados a esta Superintendencia dentro de los 10 días siguientes a su aprobación por la asociación o liga deportiva profesional respectiva, adjuntando antecedentes fidedignos que acrediten tal aprobación.
 B.4 Declaración de responsabilidad Deberá estamparse una declaración jurada de responsabilidad respecto de la veracidad de toda la información incorporada en los presupuestos anuales. En dicha declaración se deberá registrar el nombre de todos los directores o miembros de la comisión de deporte profesional, en su caso, que aprobaron la información presupuestaria anual que se presenta, debiendo corresponder al menos a la misma mayoría de tales directores o miembros requerida por los estatutos para la adopción de acuerdos, y también el nombre del gerente general o quien haga sus veces, tratándose de sociedades anónimas deportivas profesionales.
 Luego del texto de la declaración deberán registrarse el nombre de los declarantes, sus cargos, sus RUT y las respectivas firmas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 201
+
+### N.C.G. N° 201
 FECHA: 13.09.2006
 #### C. PUBLICACIÓN DE ESTADOS FINANCIEROS
 Todas las organizaciones deportivas profesionales, deberán publicar un extracto de sus estados financieros anuales auditados con sus notas explicativas y el correspondiente informe de los auditores independientes, en los siguientes términos.
@@ -102,8 +102,8 @@ Dicha publicación deberá efectuarse dentro del cuatrimestre siguiente a la fec
 Los informes trimestrales, correspondientes a marzo, junio y septiembre deberán presentarse dentro del plazo de treinta (30) días contado desde la fecha de cierre del respectivo trimestre calendario. Dichos informes deben incluir la siguiente información:
 #### A. CAPITAL DE FUNCIONAMIENTO
 #### B. CERTIFICACIONES DE PAGO DE OBLIGACIONES LABORALES Y PREVISIONALES
-#### C. DECLARACIÓN DE RESPONSABILIDAD SUPERINTENDENCIA DE VALORES Y SEGUROS
-#### C. DECLARACIÓN DE RESPONSABILIDAD SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 201
+#### C. DECLARACIÓN DE RESPONSABILIDAD
+#### C. DECLARACIÓN DE RESPONSABILIDAD N.C.G. N° 201
 FECHA: 13.09.2006
 #### A. CAPITAL DE FUNCIONAMIENTO
 Deberá informar el capital de funcionamiento, entendiendo por tal la diferencia entre activo y pasivo a la fecha de cierre del respectivo trimestre calendario, y su respectivo cálculo.
@@ -123,8 +123,8 @@ tres meses de producido éste, de acuerdo a lo instruido en Artículo 14° de la
 #### C. Citación a junta de accionistas, cuando una sociedad anónima deportiva profesional
 presente riesgo de insolvencia, de acuerdo a lo establecido en Artículo 22° de la Ley N°
 20.019.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 201
+
+### N.C.G. N° 201
 FECHA: 13.09.2006
 #### D. Medidas de corto plazo que adoptará el fondo con el fin de solucionar el riesgo de
 insolvencia prevenido por los auditores externos con motivo de la revisión de estados financieros anuales, de acuerdo a lo instruido en Artículo 35° de la Ley 20.019.
@@ -133,4 +133,3 @@ a) del artículo 6° de la Ley N°20.019, dentro de los 10 días siguientes a qu
 antecedentes hayan sido entregados a la asociación o liga deportiva profesional correspondiente.
 ## 3. VIGENCIA
 Las disposiciones de la presente Norma rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

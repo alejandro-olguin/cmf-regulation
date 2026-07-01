@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1478 — IMPARTE INSTRUCCIONES SOBRE VALIDACION FISICA DEL MEDIO MAGNETICO QUE RESPALDA LA INFORMACION FINANCIERA
+# CIRCULAR N° 1478 — IMPARTE INSTRUCCIONES SOBRE VALIDACION FISICA DEL MEDIO MAGNETICO QUE RESPALDA LA INFORMACION FINANCIERA.
 
 
 Para todas las sociedades inscritas en el Registro de Valores, así como aquellas que por ley deban regirse por las normas de sociedades anónimas abiertas o deban presentar estados financieros de acuerdo a estas últimas. Las instrucciones de la presente Circular no son aplicables a las Compañías de Seguros.

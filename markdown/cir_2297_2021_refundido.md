@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2297
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 12-16 Hoja 1
 ### CAPÍTULO 12-16 LÍMITE DE CRÉDITOS OTORGADOS A GRUPOS EMPRESARIALES
@@ -171,10 +173,10 @@ Catálogo de archivos hoja 3
 | D51 | Créditos para el financiamiento de estudios supe- riores | Trimestral | 15 |
 | D52 | Tasas de interés de operaciones realizadas en líneas de crédito | Vigencia TMC (5) | 5 |
 | D53 | Tasas de interés de créditos | Semanal | 4 |
-| D54 | Garantías y personas con operaciones garanti- zadas (6)\| | Mensual | 10(7) |
-| D55 | Operaciones con personas relacionadas (8)\| | Mensual | 15 |
-| D56 | Operaciones afectas a los límites individuales de crédito (8)\| | Mensual | 15 |
-| D57 | Créditos y otras operaciones con bancos regidos por la LGB (8)\| | Mensual | 15 |
+| D54 | Garantías y personas con operaciones garanti- zadas (6) | Mensual | 10(7) |
+| D55 | Operaciones con personas relacionadas (8) | Mensual | 15 |
+| D56 | Operaciones afectas a los límites individuales de crédito (8) | Mensual | 15 |
+| D57 | Créditos y otras operaciones con bancos regidos por la LGB (8) | Mensual | 15 |
 | D58 | Tasas de interés diarias operaciones FOGAPE- COVID19 | Semanal | 2 |
 | D59 | Tasas de interés diarias operaciones garantizadas por el FOGAPE Reactivación y FOGAPE Postergación | Semanal | 2 |
 | D60 | Operaciones con entidades pertenecientes a un mismo grupo empresarial | Mensual | 15 |

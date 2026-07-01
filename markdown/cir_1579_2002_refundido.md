@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE NORMAS DE VALORIZACIÓN DE INSTRUMENTOS QUE INTEGRAN LA CARTERA DE INVERSIONES DE LOS FONDOS MUTUOS, CONVERSIÓN DE APORTES, LIQUIDACIÓN Y PROGRAMACIÓN DE RESCATES.
+# CIRCULAR N° 1579 — ESTABLECE NORMAS DE VALORIZACIÓN DE INSTRUMENTOS QUE INTEGRAN LA CARTERA DE INVERSIONES DE LOS FONDOS MUTUOS, CONVERSIÓN DE APORTES, LIQUIDACIÓN Y PROGRAMACIÓN DE RESCATES.
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 
 Para todas las sociedades administradoras de fondos mutuos y administradoras generales de fondos.
 Esta Superintendencia en uso de sus facultades legales, ha estimado necesario impartir normas relativas a la valorización de instrumentos que integran la cartera de inversiones de los fondos mutuos y a la forma de conversión de los aportes de partícipes en cuotas del fondo y de liquidación de los rescates.
@@ -19,10 +17,6 @@ En todo caso, cuando a juicio del gerente general de la sociedad administradora,
 sección II de la Circular Nº 1578 del 17 de enero de 2002: los fondos mutuos que, de acuerdo a lo dispuesto en la circular que establece los tipos de fondos, se hayan definido en su Reglamento Interno como de los descritos en los números 2 al 6 de la sección II de la circular referida, deberán valorizar los instrumentos que conforman su cartera de inversiones de acuerdo a los siguientes criterios:
 1.2.1. Instrumentos de Deuda de Corto Plazo y de Mediano y Largo Plazo: estos
 instrumentos deberán ser valorizados conforme a los siguientes criterios:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 a) El valor a utilizar será el resultante de actualizar el o los pagos futuros del
 título, considerando como tasa de descuento, aquella proveniente de la aplicación del modelo o metodología de valorización autorizado por esta Superintendencia mediante Oficio Ordinario N° 02619 de 10.03.06, remitido a todas las sociedades que administran fondos mutuos mediante Oficio Circular N° 337 de 14.03.06. Dicho modelo considera, entre otros, los siguientes
 elementos principales:
@@ -41,11 +35,8 @@ del modelo referido anteriormente.
 Para todos los efectos, “transacciones válidas” son aquéllas que cumplen las condiciones definidas por el modelo.
 b) Sin perjuicio de lo establecido en el literal a), si en determinadas
 circunstancias se estimare que el valor obtenido de aplicar la tasa entregada
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
-por el modelo no representa el valor de mercado de un instrumento, las sociedades administradoras podrán utilizar una tasa de valorización distinta, siempre que la determinación de dicha tasa responda al resultado de un procedimiento acordado por las sociedades que administran fondos mutuos y que haya sido autorizado por esta Superintendencia. La tasa resultante de la aplicación de este procedimiento, será utilizada por todos los fondos mutuos de la industria que tengan el instrumento en cuestión en sus carteras.
+2 por el modelo no representa el valor de mercado de un instrumento, las
+sociedades administradoras podrán utilizar una tasa de valorización distinta, siempre que la determinación de dicha tasa responda al resultado de un procedimiento acordado por las sociedades que administran fondos mutuos y que haya sido autorizado por esta Superintendencia. La tasa resultante de la aplicación de este procedimiento, será utilizada por todos los fondos mutuos de la industria que tengan el instrumento en cuestión en sus carteras.
 c) Asimismo, en forma excepcional, un fondo mutuo respecto de un mismo
 instrumento, podrá utilizar una tasa de valorización distinta a la utilizada por otros fondos mutuos de la industria, en la medida que esto obedezca a la aplicación de criterios previamente definidos, parametrizados y conocidos por todas las sociedades administradoras, y que hayan sido autorizados por esta Superintendencia.
 d) En el evento que se produzcan situaciones, tales como fallas en el
@@ -59,11 +50,8 @@ determinado instrumento presente en la cartera de los fondos mutuos, éste deber
 criterios:
 i. Si en el día de valorización el título se hubiere transado en algún
 mercado respecto de cuyas transacciones se publique estadística diaria de precios y montos, el valor a utilizar será el resultante de actualizar él o los pagos futuros del título considerando como tasa de descuento la tasa interna de retorno promedio ponderada de las transacciones informadas del día, siempre que éstas hayan superado un total de 500 Unidades de Fomento.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
-ii. Si en el día de la valorización no se hubiese superado el monto de 500 Unidades de Fomento referido, o bien, si no se hubiese transado el título, éste se valorizará utilizando como tasa de descuento la última que se hubiere determinado en conformidad a lo dispuesto en la letra i) anterior.
+3 ii. Si en el día de la valorización no se hubiese superado el monto de 500
+Unidades de Fomento referido, o bien, si no se hubiese transado el título, éste se valorizará utilizando como tasa de descuento la última que se hubiere determinado en conformidad a lo dispuesto en la letra i) anterior.
 El gerente general de la sociedad administradora deberá velar para que esta valorización represente el valor de mercado del instrumento en cuestión. Si no lo representare, deberá efectuar ajustes al valor obtenido, con el objeto de que la valorización refleje el monto al que el instrumento se pueda liquidar en el mercado.
 Los ajustes deberán ser fundamentados y sus bases deberán ser puestas a disposición de esta Superintendencia o de cualquier partícipe del fondo, a su sola solicitud.
 1.2.2 Instrumentos de Capitalización: deberán valorizarse de acuerdo a lo establecido en
@@ -80,10 +68,7 @@ la Circular Nº 1578 del 17 de enero de 2002: estos fondos mutuos deberán deter
 consideraciones siguientes:
 En la valorización de la cartera de inversiones estos fondos, deberán contabilizar anticipadamente los intereses y reajustes que cada instrumento devengará al día siguiente al de la valorización.
 Los aportes recibidos se expresarán en cuotas del fondo mutuo, utilizando el valor de la cuota del día anterior al de la recepción, si ésta se efectuare antes del cierre de operaciones del fondo, o al valor de la cuota del mismo día de la recepción si éste se efectuare con posterioridad a dicho cierre.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 Si la solicitud de rescate es presentada antes del cierre de operaciones del fondo, estos fondos mutuos, en la liquidación de las solicitudes de rescate, deberán utilizar el valor de la cuota de la fecha de recepción de dicha solicitud; o de la fecha en que se dé curso al rescate, si se trata de un rescate programado conforme a lo señalado en la sección II de esta circular. Si la solicitud de rescate es presentada con posterioridad al cierre de operaciones del fondo, se deberá utilizar el valor de la cuota del día siguiente al de la fecha de recepción.
 La disminución del número de cuotas en circulación por concepto de operaciones de rescate, es decir, la liquidación de las solicitudes de rescate y su consecuente contabilización como rescates por pagar, deberán ser realizadas en la misma fecha de recepción, salvo en el caso de rescates que hubiesen sido presentados con posterioridad al cierre de operaciones del fondo, en cuyo caso se deberá efectuar esta operación al día siguiente. Diariamente los fondos deberán calcular el monto correspondiente a rescates recepcionados.
 2.2. Fondos Mutuos definidos como de aquellos señalados en los números 2 al 6 de la
@@ -92,11 +77,8 @@ En consecuencia estos fondos mutuos no podrán anticipar la contabilización de 
 Los aportes recibidos se expresarán en cuotas del fondo mutuo utilizando el valor de la cuota del mismo día de la recepción, si éste se efectuare antes del cierre de operaciones del fondo, o el valor de cuota del día siguiente al de la recepción, si ésta se efectuare con posterioridad a dicho cierre. No obstante, tratándose de aportes en valores, éstos podrán expresarse en cuotas del fondo mutuo utilizando el valor cuota del mismos día en que se realizó la solicitud de suscripción de dichas cuotas, siempre que lo valores aportados sean transferidos al fondo dentro de los 3 días bursátiles siguientes de efectuada dicha solicitud y que las cuotas no sean emitidas mientras el fondo no haya adquirido el dominio de los instrumentos aportados. Lo anterior, sin perjuicio que para efectos de resguardar la liquidación de tales solicitudes de suscripción, las cuotas a las que se refieren éstas podrán ser abonadas en la cuenta del fondo respectivo en las entidades reguladas por las leyes N° 20.345 o N° 18.876, entre el día de la suscripción de la solicitud y la adquisición en dominio por parte del fondo de los instrumentos aportados.
 Si la solicitud de rescate fuere presentada antes del cierre de operaciones del fondo, estos fondos mutuos, en la liquidación de la solicitud de rescate deberán utilizar el valor de la cuota de la fecha de recepción de dicha solicitud, o de la fecha en que se dé curso al rescate, si se trata de un rescate programado conforme a lo señalado en la sección II de esta circular. Si la solicitud de rescate fuere presentada con posterioridad al cierre de operaciones del fondo, se deberá utilizar el valor de la cuota del día siguiente al de la fecha de recepción.
 La disminución del número de cuotas en circulación por concepto de operaciones de rescate, es decir, la liquidación de las solicitudes de rescate y su consecuente contabilización como rescates por pagar, deberán ser realizadas en la misma fecha de su recepción, salvo en el caso de solicitudes de rescates que hubiesen sido presentados con
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
-posterioridad al cierre de operaciones del fondo, en cuyo caso se deberá efectuar esta operación al día siguiente. Diariamente los fondos deberán calcular el monto correspondiente a rescates recepcionados.
+5 posterioridad al cierre de operaciones del fondo, en cuyo caso se deberá efectuar esta
+operación al día siguiente. Diariamente los fondos deberán calcular el monto correspondiente a rescates recepcionados.
 2.3. Fondos Mutuos definidos como de aquellos señalados en el número 7 y 8 de la
 sección II de la Circular Nº 1578 del 17 de enero de 2002: estos fondos deberán sujetarse a las instrucciones impartidas en el punto 2.2 precedente. En el caso que el fondo mutuo se defina como de aquél señalado en el número 1 de la sección II de la Circular Nº1.578 del 17 de enero de 2002 y cumpla los requisitos establecidos para ese tipo de fondos, le será aplicable lo dispuesto en el punto 2.1 precedente.
 Finalmente, respecto a la "Determinación del patrimonio neto, conversión de aportes y liquidación de rescates", para los fondos mutuos considerados en los puntos 2.1, 2.2 y
@@ -112,11 +94,8 @@ Asimismo, cualquier modificación de este (pasar del obligatorio al extendido o 
 mencionados en el punto anterior, éste deberá quedar establecido en el Reglamento Interno de los fondos mutuos. En todo caso, bajo ninguna circunstancia el horario definido podrá ser posterior a la hora en que se determine el valor cuota para ese día.
 ## II. PROGRAMACION DE RESCATES
 De conformidad a las prácticas operacionales en materia de rescates, la fecha de presentación de la solicitud de rescate, esto es, la oportunidad en que el partícipe ejerce su derecho a rescate, necesariamente debe coincidir con la fecha de recepción de ella por parte de la sociedad
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
-administradora; fechas que establecen por otra parte, la obligación para la sociedad de dar curso a dicha solicitud y cancelar las sumas de dinero que le corresponden al partícipe, dentro de los plazos pertinentes.
+6 administradora; fechas que establecen por otra parte, la obligación para la sociedad de dar curso
+a dicha solicitud y cancelar las sumas de dinero que le corresponden al partícipe, dentro de los plazos pertinentes.
 Sin perjuicio de lo anterior, en los párrafos siguientes se establecen reglas aplicables a todos los fondos mutuos en actual o futura operación, relativas a la programación de rescates, en virtud de lo definido en el artículo 16 del D.L. Nº 1.328.
 Se entenderá que un rescate es programado, cuando el partícipe ejerce su derecho en una fecha determinada, distinta a la fecha de presentación de la solicitud de rescate, para lo cual deberá suscribir la solicitud correspondiente, dando instrucciones precisas y claras de que dicha solicitud deberá cursarse por la sociedad administradora en una fecha distinta y determinada en ese momento por el partícipe.
 Las sociedades administradoras que contemplen en su operación la programación de rescates en alguno de los fondos mutuos que administren, podrán utilizar un formulario único que contemple, en forma destacada, la facultad del partícipe de optar, ya sea por un rescate normal (no programado) o por uno de carácter programado.
@@ -128,17 +107,11 @@ El formulario especial que contiene las especificaciones mínimas que deberán p
 La presente circular rige a contar de esta fecha.
 ## IV. DEROGACION
 Derógase a contar de la fecha de entrada en vigencia de la presente circular, las secciones II y III de la Circular Nº 781 de 29 de febrero de 1988.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 ## V. DISPOSICION TRANSITORIA
 Para los fondos que a la fecha de dictación de la presente circular se encuentren en operación, las disposiciones aquí establecidas deberán ser incluidas en la próxima modificación a los reglamentos internos, que las sociedades administradoras presenten para su aprobación a esta Superintendencia. No obstante, el plazo máximo para su cumplimiento será el 30 de abril del presente año.
 Las instrucciones impartidas por la Circular Nº 781 de 1988, deberán aplicarse hasta la fecha en que esta Superintendencia apruebe los citados reglamentos internos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 ## ANEXO N° 1 DESCRIPCIÓN MODELO SUP - RA1
 ## 1. INTRODUCCIÓN
 El modelo SUP – RA consiste en una metodología de valorización diaria y asignación de tasas para los instrumentos de deuda del mercado nacional, expresados en pesos y en UF, basado en un modelo matemático desarrollado por el Laboratorio de Investigación Avanzada en Finanzas de la Pontificia Universidad Católica de Chile, con la colaboración de la “Asociación de Administradoras de Fondos Mutuos de Chile, A.G.”.
@@ -153,10 +126,7 @@ En el caso de no existir “transacciones válidas” para un determinado instru
 Si en el día de la valorización existen una o más transacciones en la Bolsa de Comercio de Santiago para un determinado instrumento, se utiliza esta información para valorizar el papel, siempre que las transacciones sean consideradas válidas, lo cual se verifica mediante filtros por monto mínimo de transacción y monitoreo de cambio de tasa.
 1 El texto de este anexo fue elaborado en base a un documento propuesto por la “Asociación de Administradoras de Fondos
 Mutuos de Chile, A.G.”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 Una vez verificada la validez de las transacciones, se obtiene la tasa de valorización, que consiste en la ponderación por monto de la tasa interna de retorno (TIR) de todas las “transacciones válidas” observadas de ese papel para ese día.
 En caso de no existir “transacciones válidas” para un título el día de la valorización, el modelo considera. Para la determinación de la tasa de valorización, las
 “transacciones válidas” de ese mismo día, correspondiente a otros instrumentos que pertenezcan a la misma categoría que el papel en cuestión.
@@ -170,10 +140,7 @@ A esta “TIR base” se le suman un “Spread Modelo” el cual se obtiene a pa
 El “Spread Modelo” se determina a partir de Spreads históricos del mismo papel o de papeles similares, para lo cual el modelo utiliza “Clases de Spread”.
 Estas “Clases de Spread” corresponden a agrupaciones de Spreads históricos que permitan identificar el Spreads disponible más adecuado para valorizar el instrumento, al provechar transversalmente la información de transacciones de papeles similares, para valorizar un instrumento en particular.
 Cada familia de papeles tiene definida una estructura descendente de “Clases de Spread”, en la cual la primera clase es la más restrictiva y busca agrupar Spreads históricos exclusivamente de papel a valorizar con una antigüedad no mayor a un valor definido, mientras que la segunda y siguientes clases van relajando gradualmente sus restricciones de antigüedad, emisor, clasificación de riesgo, plazo al vencimiento, etc., según corresponda, para considerar Spreads de un universo de papeles cada vez más amplio.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 2.2.3 Tasa Modelo
 Finalmente, para valorizar el instrumento se suma a la “TIR base” correspondiente el
 “Spread Modelo”.
@@ -207,10 +174,7 @@ BCU: Bonos del banco Central de Chile en UF BTU: Bonos de la Tesorería General 
 BR: Bono de reconocimiento y complemento de bono.
 BCP: Bonos de Banco Central de Chile en pesos.
 PDBC: Pagarés descontables del Banco Central de Chile.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 ### 3.2 Categorías
 Con el fin de comparar papeles similares y aprovechar la información de sus transacciones, las “Familias de Papeles” se dividen en “Categorías”, de acuerdo a
 los siguientes criterios:
@@ -238,10 +202,7 @@ El MRP se basa en 5 “Estructuras de Referencia”: Cero Real, Cero Normal, Cur
 | Letras Hipotecarias en Pesos | Cero Nominal |
 
 Tabla 3.2: Estructuras de Referencias para las distintas familias de papeles.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 ### 3.4 TIR Base
 Corresponde a la TIR que se obtiene de descontar los flujos futuros de un instrumento usando la “Estructura de Referencia” correspondiente como tasa de descuento.
 ### 3.5 Spread
@@ -256,10 +217,7 @@ continuación:
 - Recepción y envío de archivos en forma física
 Además, éste cuenta con la implementación de una serie de medidas con el fin de establecer la debida confidencialidad y privacidad de los datos.
 VIGENCIA La modificaciones introducidas por la presente Circular regirán a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
-CIRCULAR Nº 1.579
-FECHA: 17.01.2002
 ### A N E X O N° 2
 Nº…………………………
 ### SOLICITUD DE RESCATE PROGRAMADO FONDO MUTUO
@@ -273,4 +231,3 @@ Rescate…………Parcial de $…………………….. o ....................
 .......Total de $.............................. cuotas al cual la Sociedad Administradora dará curso el día ......... utilizando en la liquidación el valor de la cuota de igual fecha.
 ### OTROS ANTECEDENTES
 P.P. Administradora de Firma del Titular Fondos Mutuos S.A.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 275 — FECHA: 19.01.2010
+# NCG N° 275 — ESTABLECE NORMAS DE INSCRIPCIÓN Y FUNCIONAMIENTO DEL REGISTRO DE EMPRESAS DE AUDITORÍA EXTERNA.
 
 
 Para todas las personas y entidades fiscalizadas por esta Comisión En atención a las disposiciones contenidas en el Título XXVIII de la Ley de Mercado de Valores, incorporado por el artículo 1° Nº 42 de la Ley Nº 20.382, y en uso de sus facultades legales, esta Comisión ha estimado necesario impartir las siguientes instrucciones referentes a la inscripción y al funcionamiento del Registro de Empresas de Auditoría Externa.

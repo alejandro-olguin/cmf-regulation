@@ -26,7 +26,6 @@ ser la contraparte de las operaciones de opciones y futuros, que se realicen en 
 ## II. OPERACIONES DE PRODUCTOS DERIVADOS ELEGIBLES E INSTRUCCIONES GENERALES
 Los fondos de inversión podrán celebrar las siguientes operaciones:
 • Contratos de opciones
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 113
 FECHA: 09.03.2001
@@ -53,7 +52,6 @@ f) Especificación de los gastos asociados con la celebración de estos contrato
 cargo del fondo.
 ## III. ACTIVO OBJETO DE LOS CONTRATOS DE OPCIONES, FUTUROS, FORWARDS Y SWAPS
 Para efectos de esta norma, los contratos de opciones, futuros y forwards podrán tener como activo objeto a monedas, índices, acciones, tasas de interés e instrumentos de renta fija. Por su parte, los contratos swaps podrán tener como activo objeto a monedas, tasas de interés, índices de tasas de interés e instrumentos de renta fija.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 113
 FECHA: 09.03.2001
@@ -75,7 +73,6 @@ contratos de futuro, forward y swap, más la cantidad que se tiene derecho a ven
 ### 2.- PARA DERIVADOS DE INSTRUMENTOS DE RENTA FIJA Y TASA DE INTERES
 a) La cantidad neta comprometida a comprar de un determinado instrumento de renta
 fija, a través de contratos de futuro, forward y swap, más la cantidad que se tiene derecho a comprar de ese activo por la titularidad de opciones de compra, más la cantidad que se está obligado a comprar por el lanzamiento de opciones de venta,
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 113
 FECHA: 09.03.2001
@@ -91,7 +88,6 @@ contratos de futuro, forward y swap más la cantidad que se tiene derecho a vend
 ### 4.- PARA DERIVADOS SOBRE ACCIONES
 a) La cantidad neta comprometida a comprar de una determinada acción, a través de
 contratos de futuro, forward y swap, más la cantidad de esa acción que se tiene derecho a adquirir por la titularidad de opciones de compra, más la cantidad que se está obligado a comprar por el lanzamiento de opciones de venta, más la cantidad de esa acción mantenida en la cartera contado, valorizadas dichas cantidades al
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 113
 FECHA: 09.03.2001
@@ -113,4 +109,3 @@ las inversiones en su cartera contado del respectivo activo objeto (moneda, inst
 Cada vez que el fondo exceda alguno de los límites establecidos en su reglamento interno, no podrá efectuar operaciones que impliquen un aumento en los excesos correspondientes.
 ### VII.- VIGENCIA
 La presente norma rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

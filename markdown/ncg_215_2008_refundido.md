@@ -22,4 +22,3 @@ b. El sitio Web del emisor, de la bolsa de valores extranjera donde se negocien 
 valores y del regulador del mercado de origen o de aquel donde se transen los mismos, en que caso de que dichos sitios existiesen.
 ## III. DISPOSICIONES GENERALES
 La presente Norma de Carácter General rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA LA ASESORÍA DE
-INVERSIÓN
-____________________________
-NORMA DE CARÁCTER GENERAL N°472
-13 de abril de 2022
+# REGULA LA ASESORÍA DE INVERSIÓN ____________________________ NORMA DE CARÁCTER GENERAL N°472 13 de abril de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren los artículos 5, numeral
 1, y 20, numeral 3, ambos del Decreto Ley N°3.538; el artículo 3° de la Ley N°21.314;
 el artículo 65 de la Ley N°18.045; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°282 de 7 de abril de 2022, ha estimado pertinente impartir las siguientes
@@ -95,4 +93,3 @@ c) Hayan cometido las conductas sancionadas por los artículos 61 y 65 de la Ley
 N°18.045, o el artículo 3° de la Ley N°21.314, referidas a la difusión de información, declaraciones, alusiones o representaciones que puedan inducir a error, equívoco o confusión a sus clientes o al público general, aun cuando no persigan con ello obtener ventajas para sí o para terceros.
 ## VI. VIGENCIA
 La presente normativa entra en vigencia a contar del 12 de julio del presente año, de acuerdo a lo señalado en el artículo segundo de las disposiciones transitorias de la Ley N°21.314.
-### COMISIÓN PARA EL MERCADO FINANCIERO

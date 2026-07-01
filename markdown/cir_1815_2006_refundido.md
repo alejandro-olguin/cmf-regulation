@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1815 — ESTABLECE NORMAS PARA EL ENVÍO DE INFORMACIÓN SOBRE PÓLIZAS DE RENTA VITALICIA PREVISIONAL DEL D
+# CIRCULAR N° 1815 — ESTABLECE NORMAS PARA EL ENVÍO DE INFORMACIÓN SOBRE PÓLIZAS DE RENTA VITALICIA PREVISIONAL DEL D.L
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo establecido en el artículo 3º, letra b) del D.F.L. 251, de 1931, ha estimado necesario impartir las siguientes instrucciones sobre envío de información de rentas vitalicias previsionales del D.L. Nº 3.500, de 1980.

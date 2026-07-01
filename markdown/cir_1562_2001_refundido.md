@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1562 — IMPARTE INSTRUCCIONES SOBRE NORMAS DE OPERACIÓN A LOS OPERADORES DIRECTOS DE LOS CORREDORES DE BOLSA
+# CIRCULAR N° 1562 — IMPARTE INSTRUCCIONES SOBRE NORMAS DE OPERACIÓN A LOS OPERADORES DIRECTOS DE LOS CORREDORES DE BOLSA.
 
 
 Para todas las bolsas de valores y corredores de bolsa Esta Superintendencia, en uso de sus facultades legales, ha estimado necesario dictar la siguiente
@@ -16,7 +16,6 @@ Para efectos de lo anterior, deberá utilizarse la nómina de países con “Gra
 Los operadores directos nacionales que no sean intermediarios de valores o que no estén facultados para actuar como tales, sólo podrán realizar transacciones por cuenta propia, o para los fondos patrimoniales que gestionen, cuando se trate de administradoras de fondos reguladas por ley.
 III. Normas de Operación de los Operadores Directos Las bolsas de valores deben contemplar en su reglamentación interna las normas de operación que regule la modalidad de operador directo, las que deberán considerar al menos lo siguiente:
 La obligación de celebrar contratos que regulen las relaciones entre los operadores directos y los corredores de bolsa e incorporar un texto tipo del mismo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 La responsabilidad del corredor de bolsa frente a terceros por las ofertas y operaciones que el operador directo efectúe en el sistema, señalando que el corredor de bolsa se obliga a liquidar las mencionadas operaciones dentro de los plazos establecidos, haciendo la entrega de los valores vendidos o pagando el precio de los comprados según corresponda.
 Las facultades de la bolsa para exigir garantías a los corredores y sus operadores directos que aseguren el correcto y cabal cumplimiento de las operaciones que se efectúen y de revocar la autorización conferida a un operador directo por motivos calificados.
@@ -28,4 +27,3 @@ mantengan convenios vigentes con sus corredores miembros. Dicha nómina deberá 
 b) Los corredores de bolsa que mantengan contratos vigentes con operadores directos
 deberán informar de esta circunstancia a todos los clientes que no utilicen esta modalidad, señalando al efecto que la asignación de las operaciones originadas en órdenes por ellos otorgadas, no considerará aquellas que resulten de la ejecución de órdenes efectuadas por operadores directos, las cuales se irán asignando, a medida que sean cerradas en los sistemas transaccionales.
 ## VI Vigencia Las instrucciones contenidas en la presente Circular rigen a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

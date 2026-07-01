@@ -25,7 +25,6 @@ valores extranjeros que el emisor hace en un depositario, para lo cual se celebr
 - "Emisión de CDV's sin patrocinio del emisor": es aquella que se origina por el depósito de valores
 extranjeros, promovido e impulsado por un agente de negocios o un depositario, para lo cual éste último establecerá un reglamento interno de depósito. El responsable es el depositario de valores extranjeros.
 - "Acciones subyacentes": son aquellas que están representadas por los CDV.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -39,7 +38,6 @@ En el caso de una solicitud incompleta o presentada en forma tal que requiera gr
 ### ACTUALIZACION DE INFORMACION
 Mientras dure el proceso de inscripción, deberá remitirse a este Servicio cualquier modificación que haya sufrido la información proporcionada para efectos de inscripción.
 INSCRIPCION Una vez que el solicitante de la inscripción haya proporcionado los antecedentes requeridos y solucionadas las observaciones que la Superintendencia haya formulado, ésta procederá a la inscripción de los CDV's en el Registro de Valores Extranjeros, emitiendo un certificado de inscripción.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -65,7 +63,6 @@ iii. Indicar en forma destacada que se trata de una inscripción de CDV con patr
 A.2 Antecedentes generales del emisor
 i. Nombre o razón social del emisor y si corresponde, nombre de fantasía;
 ii País de origen del emisor, su estado, provincia o división territorial o nacional, según las características del país de origen;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -86,7 +83,6 @@ Al respecto se proporcionará la siguiente información:
 i. Identificación del representante del emisor en Chile, con nombre o razón social,
 completa, RUT, dirección, teléfonos, correo electrónico y fax, en su caso.
 ii. En caso de que el representante realice otras funciones para el emisor, distintas a las aquí detalladas, deberán señalarse.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -111,7 +107,6 @@ A.8 Actividades y negocios
 i. Hacer una breve reseña respecto de la historia de la sociedad desde su fundación
 a la fecha.
 ii. Describir las actividades y negocios que desarrolla actualmente el emisor, señalando si lo hace directamente o a través de sociedades filiales y/o coligadas, para lo cual se confeccionará un mapa de relaciones de propiedad a partir de la sociedad informante, considerando todas las sociedades filiales y coligadas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -126,7 +121,6 @@ iii. Indicar el mecanismo para efectuar el pago de dividendos, repartos de capit
 A.11 Hechos relevantes o esenciales informados por el emisor Deberá hacerse un resumen de los hechos o informaciones esenciales o relevantes ocurridos durante los 12 meses anteriores a la fecha de presentación de la solicitud de inscripción de los CDV’s, que tengan o puedan tener en el futuro influencia o efecto en el desenvolvimiento de los negocios del emisor, en sus estados financieros, en sus valores o en la oferta de ellos. En especial deberá mencionar todos los juicios pendientes que revistan relevancia para la marcha de la empresa y que pudieran afectar los futuros resultados de ésta.
 A.12 Transacciones con relacionados Se indicará todas las transacciones significativas con entidades o personas naturales relacionadas, efectuadas durante los últimos 12 meses.
 A.13 Antecedentes Financieros del emisor Los estados financieros en que base la información solicitada serán aquellos que se adjuntan a la solicitud de inscripción.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -146,7 +140,6 @@ iii. Número total de acciones suscritas y de acciones pagadas, el valor nominal
 iv. Número total de acciones con derecho a voto y si las acciones suscritas y no pagadas tienen derechos en los beneficios sociales y en las devoluciones de capital;
 v. Deberes y derechos que las distintas series de acciones confieren a sus titulares, en
 términos de participación en las asambleas o juntas de accionistas, derecho a voto, derecho a dividendos y repartos de capital, derecho a suscribir preferentemente nuevas emisiones de acciones, si existe o no derecho a retiro, y de haberlo, con qué requisitos y/o condiciones, etc.. Del mismo modo el procedimiento que se emplea para determinar los accionistas que tienen estos derechos;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -170,7 +163,6 @@ iv. Señalar las obligaciones que debe cumplir respecto a los requerimientos en 
 A.19 Derechos de los tenedores de CDV's
 i. Señalar el derecho de transferencia, establecimiento de gravámenes de los CDV's
 y derecho de registro;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -196,7 +188,6 @@ vii Forma de pago, moneda en que debe efectuarse y plazo;
 viii. Indicar cualquier relación significativa entre los colocadores y el emisor, sus accionistas y/o administradores;
 ix. En caso que las acciones depositadas sean de primera emisión, indicar el uso que dará a los fondos obtenidos mediante la colocación;
 x En caso que el sistema de colocación no garantice una colocación total de los valores, deberá señalarse el procedimiento que se seguirá con los CDV’s no suscritos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -216,7 +207,6 @@ B.2 De las acciones depositadas
 i. Número total de acciones extranjeras en depósito mediante esta operación.
 ii. Insertar declaración de responsabilidad del emisor con mención expresa de que las acciones depositadas no se encuentran afectadas por gravamen ni prohibición alguna;
 iii. Mencionar la o las inscripciones que existan de las acciones depositadas en otras entidades reguladoras;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -234,7 +224,6 @@ del CDV, insertándose facsímil de éstos.
 ii. Número de CDV's que van a ser emitidos.
 B.4.2 Cancelación de la inscripción de los CDV en el Registro de Valores Extranjeros Indicar que el solicitante de la inscripción de un CDV no podrá pedir que se cancele la inscripción del mismo en el Registro de Valores Extranjeros mientras no haya rescatado o retirado todos los CDV del mercado o haya procedido a su canje.
 B.4.3 Emisión, cancelación y canje del CDV Indicar el procedimiento de la emisión, cancelación y canje del CDV en la o las acciones que representa y cuyo depósito certifica.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -253,7 +242,6 @@ B.6 Traspasos de los CDV's Indicar que a las partes comparecientes a este instru
 B.7 Del Registro de tenedores de CDV's
 i. Señalar antecedentes que debe presentar un tenedor o requirente para el registro;
 ii. Señalar efectos del cierre del registro respecto fechas de ejercicio de derechos o cumplimiento de obligaciones.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -272,7 +260,6 @@ ii. Señalar procedimiento de modificación, facultad de alterar unilateralmente
 B.12 Sujeción de los comparecientes a la Ley chilena Hacer mención destacada de la sujeción de los comparecientes, a la Ley chilena y a la jurisdicción de sus Tribunales.
 B.13 Del arbitraje
 i. Hacer mención del arbitraje para la solución de conflictos entre las partes o con los
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -292,7 +279,6 @@ Los antecedentes financieros incluirán al menos lo siguiente:
 • Cualquier otro estado financiero establecido mediante normativa del país de origen o
 del mercado donde transe sus valores, como, por ejemplo, el estado de fuentes y usos de fondos, estado de flujo efectivo, estado de activos netos, estado de cambio en los activos netos, etc.
 La elaboración de éstos se efectuará de acuerdo a las normas impartidas por el órgano regulador de los emisores de valores de oferta pública del país de origen del emisor o del
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -307,7 +293,6 @@ información adicional:
 Deberá elaborarse un resumen de los hechos o informaciones esenciales o relevantes ocurridos durante el último ejercicio anual, que tengan o puedan tener en el futuro, influencia o efecto en el desenvolvimiento de los negocios del emisor, en sus estados financieros, en sus valores o en la oferta de ellos.
 En esta materia, se incluirá una clara descripción del hecho o información esencial, indicando al mismo tiempo el efecto o influencia respectiva.
 Por información esencial se entenderá aquélla que un hombre juicioso consideraría importante para sus decisiones sobre inversión y además, aquélla que se tenga por tal, en el país de origen del emisor y en los mercados de valores en los cuales estén inscritos y se transen oficialmente sus valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -320,7 +305,6 @@ D.5 Copia de la documentación en que conste el acuerdo del emisor de solicitar 
 D.6 Lista de accionistas - Grupo controlador Se acompañará una lista de los 12 mayores accionistas, ya sean personas naturales o jurídicas, indicando el número de acciones que posean y su porcentaje de participación en el capital suscrito. En caso que sean sociedades, grupos económicos o grupo controlador, se indicará las personas naturales que lo conforman y su participación en el grupo. En caso que no exista grupo controlador, se señalará expresamente.
 D.7 Facsímil de títulos de CDV’s Acompañar una copia del facsímil de los títulos de CDV’s que van a ser inscritos. En caso de CDV’s inmateriales o escriturales, se indicará los documentos que acrediten la propiedad de los títulos, proporcionados por el emisor de éstos o por quien tenga a cargo el registro de CDV’s.
 Indicar, las normas de seguridad a utilizar en la confección de los títulos de los CDV’s.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -336,7 +320,6 @@ La solicitud de inscripción para aquellos emisores extranjeros que tengan sus a
 Dentro de “los mercados determinados” se incluirán aquellas bolsas de valores extranjeras que hayan sido aprobadas por la Comisión Clasificadora de Riesgo para efecto de las inversiones por parte de los fondos de pensiones.
 #### A. PROSPECTO
 La información a incluir en el prospecto deberá mencionar al menos aspectos tales como:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -362,7 +345,6 @@ Declaración de responsabilidad Estampar una declaración jurada de responsabili
 Adicionalmente, deberá estamparse una declaración jurada especial, en el sentido de que el emisor no se encuentra en cesación de pagos, firmada por las personas antes mencionadas.
 #### B. CONTRATO DE DEPÓSITO
 Deberán considerarse en su instalación a lo menos las mismas menciones indicadas en la letra B, del número 2, de la Sección I.1, de esta Norma.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -378,7 +360,6 @@ D.2 Copia de la documentación en que conste el acuerdo del emisor de solicitar 
 D3. Facsímil de títulos de CDV Acompañar una copia del facsímil de los títulos de CDV que van a ser inscritos. En caso de CDV inmateriales o escriturales, se indicará los documentos que acrediten la propiedad de los títulos, proporcionados por el emisor de éstos o por quién tenga a cargo el registro de los CDV.
 Indicar, las normas de seguridad a utilizar en la confección de los títulos de los CDV.
 D.4 Título inutilizado de las acciones Acompañar título inutilizado de las acciones depositadas. En caso de acciones inmateriales o escriturales, se indicará los documentos que acrediten la propiedad de las mismas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -396,7 +377,6 @@ Al respecto se proporcionará la siguiente información:
 i. Identificación del representante del emisor en Chile, con nombre o razón social,
 completa, RUT, dirección, teléfonos, correo electrónico y fax, en su caso.
 ii. En caso de que el representante realice otras funciones para el emisor, distintas a las aquí detalladas, deberán señalarse.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -418,7 +398,6 @@ contenido:
 #### D. Otros Antecedentes
 ## 2. CONTENIDO DE LA SOLICITUD
 La solicitud de inscripción deberá contener al menos, la información que se detalla a continuación, actualizada a la fecha de presentación.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -446,7 +425,6 @@ A.5 Propiedad del emisor
 i. Número total de accionistas del emisor;
 ii. Nombre completo y participación respecto del capital pagado de los 12 mayores accionistas del emisor;
 iii. Personas naturales y/o jurídicas, que formen parte del grupo controlador del emisor, a la fecha de la solicitud, indicando el número de acciones que cada uno posea y su participación en el capital suscrito. En caso que no exista grupo controlador, se deberá señalar expresamente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -465,7 +443,6 @@ ii. Incluir información estadística sobre dividendos repartidos por acción a 
 A.9 Hechos relevantes o esenciales informados por el emisor Deberá hacerse un resumen de los hechos o informaciones esenciales o relevantes ocurridos durante los 12 meses anteriores a la fecha de presentación de la solicitud de inscripción de los CDV’s, informados públicamente por el emisor al organismo regulador del país de origen o donde transe sus acciones.
 A.10 Transacciones con relacionados Se indicará todas las transacciones significativas con entidades o personas naturales relacionadas, efectuadas durante los últimos 12 meses e informadas públicamente por el emisor al organismo regulador del país de origen o donde transe sus acciones.
 A.11 Antecedentes Financieros del emisor Los estados financieros en que base la información solicitada serán aquellos que se adjuntan a la solicitud de inscripción.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -485,7 +462,6 @@ v. Deberes y derechos que las distintas series de acciones confieren a sus titul
 términos de participación en las asambleas o juntas de accionistas, derecho a voto, derecho a dividendos y repartos de capital, derecho a suscribir preferentemente nuevas emisiones de acciones, si existe o no derecho a retiro, y de haberlo, con qué requisitos y/o condiciones, etc.. Del mismo modo el procedimiento que se emplea para determinar los accionistas que tienen estos derechos;
 vi. Información que se proporciona regularmente a los accionistas, como información financiera y memorias, entre otros, indicando periodicidad y medio de comunicación que se emplea;
 vii. Cualquier otro aspecto que a juicio del depositario sea importante.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -508,7 +484,6 @@ derecho de registro;
 ii. Señalar el derecho de canjear libre y arbitrariamente el CDV por la o las acciones subyacentes que representa y cuyo depósito certifica, haciéndose del dominio de ésta o éstas y cancelándose el CDV correspondiente;
 iii. Señalar que el derecho de canje se deberá ejercer de acuerdo al reglamento de canje y cancelación establecido en el contrato de depósito de los CDV's;
 iv. Señalar los derechos de carácter pecuniario emanados de las acciones subyacentes que el CDV representa y cuyo depósito certifica, haciendo expresa mención del derecho que le asiste al tenedor legítimo de un CDV para percibir y hacerse dueño de todo derecho, utilidad, dividendo o reparto de dinero, valores o especies que emanen de las acciones subyacentes que representa el CDV y cuyo depósito certifica;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -533,7 +508,6 @@ viii Indicar cualquier relación significativa entre los colocadores y el emisor
 ix. En caso que el sistema de colocación no garantice una colocación total de los valores, deberá señalarse el procedimiento que se seguirá con los CDV’s no suscritos.
 A.19 Certificado de Inscripción de la emisión de CDV's Indicar número y fecha de inscripción de los CDV's emitidos en el Registro de Valores Extranjeros de la Superintendencia de Valores y Seguros. Esta información deberá registrarse una vez que la Superintendencia de Valores y Seguros otorgare el certificado de inscripción de los CDV's.
 A.20 Declaración especial de cancelación Estampar una declaración jurada indicando que el solicitante de la inscripción de un CDV no podrá pedir que se cancele la inscripción del mismo en el Registro de Valores
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -554,7 +528,6 @@ i. Indicar las obligaciones de custodia de las acciones;
 ii. Individualización del custodio, indicando procedimientos de cambio, renuncia o remoción del custodio. Además, se deberá señalar la forma de modificación o término del contrato de custodia.
 B.3.2 Percepción y distribución de derechos en favor de los tenedores de CDV's Deberá indicar la responsabilidad del depositario y el procedimiento que empleará para proceder a la percepción y distribución de todo derecho en favor de los tenedores de CDV's, en cuanto a: distribución de acciones y otros valores;
 opciones de suscripción preferente; dinero, por concepto de dividendos, devolución de capital por liquidación del emisor o reducción de capital; y cualquier otra distribución de beneficios o derechos, cualquiera sea su clase;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -574,7 +547,6 @@ ii. Señalar las obligaciones que debe cumplir, respecto a los requerimientos tr
 B.5.2 Derechos de los tenedores de CDV
 i. Señalar el derecho de canjear libre y arbitrariamente el CDV por la o las
 acciones subyacentes que representa y cuyo depósito certifica, haciéndose
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -589,7 +561,6 @@ ii. Señalar efectos del cierre del registro respecto de fechas de ejercicio de 
 iii. Señalar actos que deben ser registrados, mencionando a lo menos los documentos necesarios para el registro de operaciones de traspaso, constitución de prendas, embargos, prohibiciones, interdicciones, etc.
 B.8 De la regulación de obligación de intercambio de información Mencionar la obligación de entrega de información del depositario a los tenedores de CDV's; y señalar expresamente la obligación del depositario de dar cumplimiento a reportes periódicos, comunicaciones, avisos o información que requiera la Superintendencia u otras autoridades u organismos públicos o las bolsas en que se inscriba la emisión de los CDV's;
 B.9 Del mandato para la Administración Señalar expresamente las facultades que tendrá del depositario en representación de los tenedores de CDV.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -609,7 +580,6 @@ B.14 Sujeción de las partes a este reglamento Deberá hacer mención destacada 
 B.15 Firmas de los contratantes y comparecientes B.16 Deberá insertar instrumentos en que consten personerías de los representantes del depositario en este acto y anexo exigido (facsímil de título del CDV).
 #### C. ANTECEDENTES ECONOMICOS Y FINANCIEROS DEL EMISOR
 C.1 Antecedentes económicos y financieros del emisor extranjero Se remitirán los estados financieros del emisor extranjero, individuales y consolidados
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -628,7 +598,6 @@ Cuando los estados financieros anuales del emisor, sean de una antigüedad super
 C.2 Hechos relevantes o esenciales Deberá elaborarse un resumen de los hechos o informaciones esenciales o relevantes ocurridos durante el último ejercicio anual, que hayan sido informados públicamente por el emisor en el país de origen o donde transe sus acciones.
 En esta materia, se incluirá una clara descripción del hecho o información esencial, indicando al mismo tiempo el efecto o influencia respectiva.
 Por información esencial se entenderá aquélla que se tenga por tal, en el país de origen del emisor y en los mercados de valores en los cuales estén inscritos y se transen oficialmente sus valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -644,7 +613,6 @@ D.5 Facsímil de los avisos que el depositario o el agente colocador tenga inten
 D.6 Copia de los contratos con los agentes colocadores de la emisión, si corresponde.
 D.7 Declaración del depositario en la que señale la información que está obligado a proporcionar en su país de origen o en otros mercados, su periodicidad, plazos y publicidad.
 D.8 Se acompañará en caso que se disponga, copia de los certificados de la o las clasificadoras de riesgo respecto de la solvencia del emisor y/o de las acciones depositadas, indicando fecha en que se efectuó dicha clasificación e información financiera en que se basó.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -668,7 +636,6 @@ evaluación de la inversión propuesta.
 - Además en caso que determinada información considerada relevante no haya sido
 incorporada o no esté tratada adecuadamente, esta Superintendencia podrá requerirla como información adicional.
 Además, deberá incluir las siguientes declaraciones:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -684,7 +651,6 @@ Los estados financieros anuales que se presenten deberán ser auditados.
 La solicitud de inscripción deberá incorporar los siguientes documentos e información adicional:
 D.1 Acompañar, certificado de la o las bolsas de valores, donde se encuentren inscritos o registrados los valores del emisor, especificando la fecha de dicha inscripción.
 D2. Facsímil de títulos de CDV Acompañar una copia del facsímil de los títulos de CDV que van a ser inscritos. En caso de CDV inmateriales o escriturales, se indicará los documentos que acrediten la propiedad de los títulos, proporcionados por el emisor de éstos o por quién tenga a cargo el registro de los CDV.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -698,7 +664,6 @@ Los agentes colocadores que ofrezcan al público CDV's o el depositario en caso 
 ## 5. NORMAS DE PUBLICIDAD
 Los prospecto y folletos informativos que se utilicen para la difusión y propaganda de una emisión de CDV's, no podrán difundirse sino hubieren previamente sido remitidos a esta Superintendencia.
 Adicionalmente, dichos prospectos y folletos deberán incluir una leyenda destacada donde señale que toda la información proporcionada por el depositario, en particular el prospecto presentado para efectos de la inscripción de los CDV's en el Registro de Valores Extranjero, está a disposición del público en las oficinas de los agentes colocadores que ofrezcan al público los CDV's o del depositario, según sea el caso, y en esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -718,7 +683,6 @@ Dicha traducción, dependiendo de su naturaleza y volumen, deberá remitirse en 
 #### A. ANTECEDENTES GENERALES, ECONOMICOS Y FINANCIEROS
 Los emisores de acciones que dan origen a los CDV inscritos en el Registro de Valores Extranjeros deberán remitir a esta Superintendencia, a todas las bolsas de valores en que se encuentren inscritos los CDV, los siguientes antecedentes:
 A.1 Informes y estados financieros A.2 Variaciones de capital A.3 Otros antecedentes económicos y financieros
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -737,7 +701,6 @@ Todos los estados financieros, anuales e interinos, se presentarán en forma com
 Sin perjuicio de lo anterior, se presentará dentro de las notas explicativas a los estados financieros, una nota que explique clara y detalladamente cuáles son los criterios contables utilizados para la confección de dichos estados financieros.
 Los estados financieros anuales que se presenten deberán ser auditados por auditores externos que a lo menos sean miembros de una firma auditora de reconocido prestigio internacional.
 Por su parte, la Superintendencia, tomando en consideración aspectos tales como el nivel de información proporcionado en los estados financieros, podrá requerir revisiones limitadas a los estados financieros interinos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -750,7 +713,6 @@ A.2 Variaciones de capital Informar las variaciones ocurridas en el capital del 
 indican a continuación:
 Todo reparto de dividendos, reparto de capital, capitalización de fondos producto de un aumento de capital social, emisión de acciones liberadas de pago y canje de acciones que acuerde el emisor, con la misma anticipación que se les comunica a los accionistas del país de origen del emisor o del mercado donde transe y utilizando a lo menos alguno de los medios usados para informar a los accionistas de dichos mercados.
 A.3 Otros antecedentes económicos y financieros También se remitirá en su caso, cualquier otro antecedente económico y/o financiero, como, por ejemplo, informes periciales, que se pongan en conocimiento de la junta de accionistas o asamblea para efecto de adoptar algún acuerdo, los que se comunicarán a los accionistas nacionales con la misma anticipación que a los accionistas residentes en el país de origen del emisor.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -771,7 +733,6 @@ i. Los traspasos de acciones de los accionistas controladores, que deba presenta
 el país de origen, en el mismo plazo exigido por éste.
 ii. Los traspasos de acciones que terceros distintos de la sociedad tengan la obligación de presentar ante el organismo fiscalizador del país de origen, en el plazo exigido por éste.
 C.7 Cualquier información relacionada con transacciones del emisor con personas o entidades relacionadas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -785,7 +746,6 @@ C.14 Cualquier cambio relacionado con la normativa que le es aplicable al emisor
 C.15 En caso que se disponga, cualquier actualización de la(s) clasificación(es) de riesgo de solvencia del emisor o de sus acciones C.16 Memoria o Informe de la administración En caso que se disponga, se remitirá la última memoria o informe que la administración haya presentado a los accionistas del emisor, en que proporcione información respecto de los negocios, desempeño y situación financiera de la sociedad. Esta será enviada a los accionistas de acuerdo al procedimiento que al efecto deba cumplir el emisor en su país de origen o en los mercados en que transe sus acciones.
 #### D. COLOCACION DE CDV’s
 Cada vez que el emisor extranjero inicie una colocación de CDV representativos de acciones de pago, deberá elaborar un prospecto de acuerdo a lo establecido en la letra A, número 2, de la Sección I.1 de la presente norma. Dicho prospecto en conjunto con la información solicitada en los literales D.7, D.10 y D.11, del número 2, de la sección I.1 de esta norma, deberán ser remitidos a esta Superintendencia para el registro de los citados CDV, con anterioridad a la fecha en que se inicie la colocación.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -800,7 +760,6 @@ Los emisores de acciones extranjeros que tengan sus acciones o certificados repr
 Dentro de “los mercados determinados” se incluirán aquellas bolsas de valores extranjeras que hayan sido aprobadas por la Comisión Clasificadora de Riesgo para efecto de las inversiones por parte de los fondos de pensiones.
 La información del emisor y de sus valores deberá proporcionarse a la Superintendencia y a las bolsas de valores en que tenga inscritos sus CDV, en el idioma en que se presenten al mercado autorizado y en idioma español. Bastará para estos efectos, en su caso, una traducción certificada por el representante del emisor en Chile, la que se tendrá como documentación auténtica desde que la misma sea entregada a la Superintendencia.
 Dicha traducción , dependiendo de su naturaleza y volumen, deberá remitirse en un plazo máximo de 5 días hábiles contados desde la fecha de presentación en el mercado de origen o donde se transan sus valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -817,7 +776,6 @@ Sin perjuicio de lo anterior, proporcionarán a lo menos la siguiente informaci�
 A) Antecedentes generales, económicos y financieros
 B) Hechos relevantes o esenciales
 C) Otros antecedentes
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -829,7 +787,6 @@ A.1 Informes y estados financieros A.2 Variaciones de capital A.3 Otros antecede
 Los informes financieros se elaborarán y presentarán en la misma forma y plazo en que sean presentados a la autoridad reguladora de su país de origen o del mercado en que transe. En caso que el emisor tenga sus valores inscritos en más de un país con normas de contabilización y presentación diferentes, consultará a este Servicio cuáles estados financieros deberá presentar.
 A.1.1 Estados financieros Se remitirán los estados financieros del emisor extranjero, individuales y consolidados cuando corresponda, para el último ejercicio anual, que éste presente al organismo regulador del país de origen o del mercado donde transe sus acciones. Adicionalmente, presentará los estados financieros interinos del emisor, que éste remita al organismo regulador o los mercados donde transa con una periodicidad de a lo menos 6 meses.
 Asimismo, deberá presentar los estados financieros anuales de todas aquellas sociedades de las cuales el emisor posea o controle, directa o indirectamente, al menos un 50% de su propiedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -850,7 +807,6 @@ estados financieros individuales y consolidados en su caso, a una fecha más rec
 A.1.2 Hechos relevantes o esenciales Los estados financieros del emisor deberán incluir un resumen de los hechos o informaciones esenciales o relevantes ocurridos durante el período de que trate el estado financiero.
 En esta materia, se incluirá una clara descripción del hecho o información esencial, indicando al mismo tiempo el efecto o influencia respectiva.
 Por información esencial se entenderá aquélla que se tenga por tal, en el país de origen del emisor y en los mercados de valores en los cuales estén inscritos y se transen oficialmente sus valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -866,7 +822,6 @@ Por información esencial se entenderá aquélla que se tenga por tal, en el pa�
 El depositario de acciones que dan origen a los CDV inscritos en el Registro de Valores Extranjeros, remitirá a esta Superintendencia, a todas las bolsas de valores en que se encuentren inscritos los CDV’s, dentro de los plazos que se indican, los siguientes antecedentes e informaciones:
 C.1 Copia de la documentación legal que dé cuenta de las juntas o asambleas de accionistas, dentro del mismo plazo en que deba ser presentada en el país de origen y, en todo caso, dentro de los 10 días siguientes a la fecha de su celebración, traducida y legalizada.
 C.2 Toda modificación a los estatutos sociales del emisor, a su estructura legal o en la administración del emisor, dentro del mismo plazo en que deba ser presentado en el país de origen, traducida y legalizada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -881,7 +836,6 @@ C.10 Toda sanción que le imponga el Organismo Fiscalizador del país de origen 
 C.11 Cualquier suspensión o cancelación por la autoridad pertinente o por las bolsas de valores en que se encuentren inscritas sus acciones, de la oferta, transacción o cotización de las mismas al momento de ocurrir el hecho.
 C.12 En caso que se disponga, cualquier actualización de la(s) clasificación(es) de riesgo de solvencia del emisor o de sus acciones.
 C.13 Memoria o Informe de la administración En caso que se disponga, se remitirá la última memoria o informe que la administración del emisor haya presentado al organismo regulador del país de origen o al mercado donde transa sus acciones, en que proporcione información respecto de los negocios, desempeño y situación financiera de la sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 88
 FECHA: 19.07.1999
@@ -895,4 +849,3 @@ Dicha traducción, dependiendo de su naturaleza y volumen, deberá remitirse en 
 1.- Las disposiciones contenidas en la presente norma son necesariamente de carácter general.
 Por tal razón, ante situaciones particulares que se planteen en relación a esta materias, deberá consultarse previa y oportunamente a esta Superintendencia.
 2.- La presente Norma de Carácter General rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

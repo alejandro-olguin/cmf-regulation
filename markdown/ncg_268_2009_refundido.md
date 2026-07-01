@@ -18,7 +18,6 @@ artículo 52 de la Ley N° 18.046. En todo caso deberán nombrar anualmente audi
 Sección II de la Norma de Carácter General N° 30, o la que la modifique o reemplace.
 Sin perjuicio de lo anterior, estas sociedades deberán continuar presentando estados financieros anuales referidos al 31 de diciembre de cada año, o a la fecha que determinen sus estatutos sociales, a más tardar el 31 de marzo de cada año o al término del trimestre siguiente a la fecha de cierre del ejercicio anual, según corresponda, en la forma que ha establecido esta Superintendencia.
 Será facultativo para la sociedad, hacer auditar por empresas de auditoría externa estos estados financieros, debiendo dicho acuerdo tomarlo la junta de accionistas.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 268
 FECHA: 29.12.2009
@@ -43,7 +42,6 @@ no bastando una referencia al giro ordinario de la entidad.
 c) Administración: señalar los directores y principales ejecutivos.
 d) Estados financieros: presentar los estados financieros para los dos últimos
 ejercicios anuales, en los que se incluirá balance, estado de resultado y notas explicativas de éste. Las cifras deberán expresarse en moneda de la fecha de cierre del último ejercicio. Además, deberá incluirse informe de los auditores externos o inspectores de cuentas, indicando si los estados financieros han sido preparados de acuerdo a principios contables generalmente aceptados y a las normas dictadas por esta Superintendencia, y que representen razonablemente la situación de la sociedad.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 268
 FECHA: 29.12.2009
@@ -65,4 +63,3 @@ Las sociedades anónimas abiertas que hasta la fecha de entrada en vigencia de l
 ## VI. DEROGACIÓN
 Deróganse a contar del 1° de enero de 2010 las circulares Nos. 198 de 30 de julio de 1982 y
 498 de 6 de mayo de 1985.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

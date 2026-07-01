@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARACTER GENERAL N° 49 — FECHA : 09.09.1994
+# NCG N° 49 — ESTABLECE NORMAS RELATIVAS A LA CONTRATACION DIRECTA DE SEGUROS POR LAS COMPAÑIAS DE SEGUROS O A TRAVES DE AGENTES DE VENTAS.
 
 
 Para las compañías de seguros del primer y segundo grupo.

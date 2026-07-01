@@ -29,7 +29,6 @@ Si la numeración es correlativa, basta dejar constancia del primero y último n
 nominales que representan.
 - Número de identificación de los títulos que se encuentren emitidos físicamente a solicitud
 de la empresa de depósito de valores con la cual se acordó la emisión desmaterializada y número de unidades nominales que representan. Además deberá dejarse constancia de la fecha de emisión física del título, fecha de entrega de los títulos emitidos e identificación de la persona natural o jurídica a nombre de quién se emiten los títulos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 77
 FECHA: 20.01.1998
@@ -52,7 +51,6 @@ interesado desee depositar los valores en otra empresa de depósito y custodia d
 Se entenderá por transferencia de valores para los efectos del párrafo anterior, los movimientos electrónicos de los valores registrados en cuenta de una empresa de depósito y custodia de valores constituida en conformidad a la Ley Nº 18.876 a otra de igual naturaleza.
 3.- La impresión de valores que proceda de acuerdo a lo señalado anteriormente deberá
 efectuarse a la mayor brevedad, dentro de los plazos en que sea técnicamente posible materializarlos. En todo caso, el plazo no podrá exceder de 30 días hábiles contado desde la fecha que se solicite la entrega de los títulos.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 77
 FECHA: 20.01.1998
@@ -61,4 +59,3 @@ Las reglas mínimas obligatorias de estandarización a que deberán sujetarse lo
 ## IV VIGENCIA.
 Las instrucciones contenidas en la presente Norma de Carácter General rigen a contra de esta fecha.
 SUPERINTENDENTE.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

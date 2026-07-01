@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1777 — ESTABLECE FORMULARIO ELECTRÓNICO PARA INFORMAR CAMBIOS DE DATOS PERSONALES POR LOS CORREDORES DE SEGUROS Y LIQUIDADORES DE SINIESTROS
+# CIRCULAR N° 1777 — ESTABLECE FORMULARIO ELECTRÓNICO PARA INFORMAR CAMBIOS DE DATOS PERSONALES POR LOS CORREDORES DE SEGUROS Y LIQUIDADORES DE SINIESTROS.
 
 
 Para los corredores de seguros y liquidadores de siniestros Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en la letra o) del artículo

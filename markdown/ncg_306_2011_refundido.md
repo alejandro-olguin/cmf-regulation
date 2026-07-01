@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 306 — FECHA: 14.04.2011
+# NCG N° 306 — IMPARTE INSTRUCCIONES SOBRE CONSTITUCIÓN DE RESERVAS TÉCNICAS EN SEGUROS DISTINTOS DE LOS SEGUROS PREVISIONALES DEL DL N° 3.500
 
 
 Esta Comisión, en uso de sus facultades legales, en especial lo dispuesto en los artículos 3º letra b) y 20 del D.F.L. Nº 251 de 1931 y el artículo 4º letras a) y e) del Decreto Ley Nº 3.538 de 1980 y en el contexto de la adopción de las normas internacionales de información financiera, conocidas como IFRS o NIIF en español, ha resuelto dictar las siguientes normas relativas a la constitución de reservas técnicas en seguros distintos de los seguros previsionales del DL N° 3.500, de 1980.
@@ -519,7 +519,7 @@ Con el objeto de estimar la Reserva de OYNR se confeccionará la siguiente matri
 | … |  | … | … | … | … |
 | Período k-1 | SI k-1 | P k-1 | FA 1 | UP k-1 | OYNR k-1 |
 | Período k | SI k | P k | FA 0 | UP k | OYNR k |
-| Total | 𝐤 ∑𝐒𝐈 𝐤 𝐫=𝟏 | 𝐤 ∑𝐏 𝐤 𝐫=𝟏 | - | k ∑UP r r=1 | Reserva de OYNR= k ∑OYNR r r=1 |
+| Total | k ∑SI k r=1 | k ∑P k r=1 | - | k ∑UP r r=1 | Reserva de OYNR= k ∑OYNR r r=1 |
 
 TSa corresponde a la tasa de siniestralidad esperada. La TSa se calculará por ventanas de tiempo anuales y corresponderá a la siniestralidad observada en cada ventana anual de tiempo considerada, esto es, a la suma de siniestros incurridos divididos por la prima ganada durante esta ventana. Para el cálculo de los siniestros incurridos se debe considerar los siniestros pagados más la reserva de siniestros pendientes existentes a la fecha de cálculo, en cada ventana de tiempo, según período de ocurrencia.
 La siniestralidad a asignar a cada período, dependerá de la ventana de tiempo (anual) a la que pertenezca, es decir, para un periodo incluido en la ventana de tiempo “a”, se le debe asignar la TSa correspondiente a la ventana de tiempo que lo contiene.

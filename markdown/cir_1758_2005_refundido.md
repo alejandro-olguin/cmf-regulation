@@ -3,13 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1758 — FECHA: 6.7.2005
+# CIRCULAR N° 1758 — NORMAS DE TRANSPARENCIA SOBRE LA CONTRATACIÓN DE SEGUROS COLECTIVOS
 
-REF: NORMAS DE TRANSPARENCIA SOBRE LA CONTRATACIÓN DE SEGUROS COLECTIVOS.
-(CIRCULAR CONJUNTA SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS N° 3321
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N° 1758)
-A los bancos y a todas las entidades aseguradoras y corredores de seguros
-SEÑOR GERENTE GENERAL:
+
 Constituye una práctica generalizada de la banca, la contratación de seguros en favor de sus clientes, especialmente de aquellos seguros colectivos de desgravamen e incendio vinculados a préstamos hipotecarios para la vivienda. Esta contratación exige, en virtud del sano principio de la transparencia, que se informe detalladamente a los clientes acerca de los términos y condiciones del producto ofrecido por las compañías aseguradoras, a fin de que éstos puedan tomar una decisión, completamente informados.
 Con ese propósito, la Superintendencia de Bancos e Instituciones Financieras y la Superintendencia de Valores y Seguros, en uso de sus facultades legales, especialmente en virtud de lo dispuesto en los artículos 12 y 69 N° 26 de la Ley General de Bancos y el artículo 3°, letra m) del D.F.L. N°
 251, de 1931, y sin perjuicio de lo instruido en la Circular N° 1457 del 9 de noviembre de 1999, de la Superintendencia de Valores y Seguros, han resuelto dictar las siguientes normas:

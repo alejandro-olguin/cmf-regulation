@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2267
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 8-38 Hoja 1
 ### CAPÍTULO 8-38 OPERACIONES DE FACTORAJE

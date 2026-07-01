@@ -17,7 +17,6 @@ cifra de ocho números, donde los cuatro primeros corresponderán al año, los d
 19921201.
 (1) Párrafos reemplazados por Circular N°1.972, de 2010.
 (3) Párrafos modificados por la Norma de Carácter General N°515, de 2024.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 1.1.2. Hora: Corresponde a la hora en que se efectúa el cierre de la transacción. Sin perjuicio de lo
 anterior, cuando no se trate de sistemas de transacción electrónicos, el intermediario podrá registrar en este campo, la hora en que el cierre sea ingresado al sistema por la bolsa en la cual se haya efectuado la transacción.
@@ -41,7 +40,6 @@ cual deberá llevar un orden en el tiempo. A continuación se señalan los folio
 - Bolsa de Corredores, Bolsa de Valores: Del 0600000 al 0699999.
 (1) Párrafo agregado por Circular N° 1.089, de 1992.
 (2) Código modificado por Circular N° 1.089, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 - Bolsa Electrónica de Chile, Bolsa de Valores: Del 0700000 al 0799999.
 En caso de tratarse de una operación fuera de rueda, o de una operación donde el intermediario dio una orden a un corredor para que este efectuara dicha operación por él, se deberá anotar en este campo un número compuesto de siete cifras, donde las tres primeras cifras corresponderán al número del intermediario, según el Registro de Corredores de Bolsa y Agentes de Valores que mantiene esta Superintendencia, y las cuatro últimas a un número único por operación, correlativo, de cuatro cifras, asignado diariamente. Por ejemplo, si el número del intermediario es el 25, e informa la primera operación que realizó fuera de rueda, corresponderá el registro 0250001, para el segundo registro que informe, corresponderá el número 0250002, y así sucesivamente.
@@ -60,7 +58,6 @@ de Informaciones de esta Superintendencia se encuentra disponible un listado de 
 comprobante en que consta la operación que se informa. Esta información sólo deberá entregarse cuando se trate de operaciones fuera de rueda. Este campo deberá ser informado con la cifra alineada a la derecha y rellena de ceros a la izquierda. Por ejemplo si el número de comprobante es 18, se debe informar 0018. En caso de que se trate de operaciones distintas a las mencionadas, este campo deberá llenarse con el código XXXX.
 (1) Subnumeral y código modificados por Circular Nº 1.097, de 1992.
 (2) Subnumeral modificado por Circular N° 1.089, de 1992
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 1.2. Identificación y características del instrumento
 1.2.1. Nemotécnico: Corresponde al código que permite identificar al instrumento sobre el cual
@@ -84,7 +81,6 @@ entrega su último pago. Se deberá registrar esta fecha anotando en los cuatro 
 deberá utilizar un código de siete caracteres, el que a continuación se define:
 - Los dos primeros caracteres (1° y 2°) definen la operación y pueden ser:
 CO : Corresponde a la compra simple de un instrumento. Cabe señalar, que tratándose de operaciones en rueda, este código deberá utilizarse independientemente se trate de una operación por cuenta propia o de una operación por cuenta de un tercero; en casode tratarse de operaciones fuera de rueda deberá utilizarse el código IT para las operaciones por cuenta de terceros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 VE : Corresponde a la venta simple de un instrumento. Cabe señalar, que cuando se trate de operaciones en rueda este código deberá utilizarse independientemente se trate de una operación por cuenta propia o de una operación por cuenta de un tercero; en caso de tratarse de operaciones fuera de rueda, deberá utilizarse el código IT para las operaciones por cuenta de terceros.
 CP : Corresponde a la compra a plazo de un instrumento. Deberá utilizarse este código cuando se informe la transacción inicial de una operación de compromiso puro, operación a plazo u operación a futuro, o de cualquiera que en el futuro se transe en el mercado, que reúna las características de las operaciones señaladas.(1) VP : Corresponde a la venta a plazo de un instrumento. Deberá utilizarse este código cuando se informe la transacción inicial de una operación de compromiso puro, operación a plazo u operación a futuro, o de cualquiera que en el futuro se transe en el mercado, que reúna las características de las operaciones señaladas.(1) CI : Corresponde a la compra inicial de una operación que tiene asociada una operación de venta final.
@@ -95,7 +91,6 @@ VS : Corresponde a la venta asociada a una operación simultánea de acciones.
 Deberá utilizarse este código tanto cuando se trate de la operación a contado como a plazo.
 IT : Corresponde a la intermediación de un instrumento. Cabe señalar que este código sólo deberá utilizarse cuando se trate de operaciones por cuenta de terceros, efectuadas fuera de rueda.
 (1) Definiciones de códigos modificadas por Circular N° 1.089 de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 - Los dos caracteres siguientes (3° y 4°) corresponden al tipo de instrumento
 transado, y pueden ser:
@@ -118,7 +113,6 @@ Cabe señalar que, cuando se informe la operación inicial, corresponderá utili
 Cabe señalar que cuando se trate de este tipo de operaciones, se deberá informar esta operación al inicio, anotando los códigos CP o VP, en los caracteres 1° y 2°, según correspondan. En caso que la operación sea liquidada antes de la fecha acordada por las partes en su inicio, deberá informarse esta liquidación, utilizando los códigos CF o VF, en los caracteres
 1° y 2°, según correspondan. Asimismo, tratándose de operaciones simultáneas, sólo deberá utilizarse este código, cuando se informe la operación a plazo de la misma.
 (1) Párrafo agregado por Circular N° 1.089, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 AP : Cuando tratándose de un contrato de futuros, la operación produzca un aumento de sus posiciones abiertas, ya sea que el corredor opere por cuenta propia, o por cuenta de un tercero. Cabe señalar que cuando en una misma operación se efectúe una apertura de posiciones y a la vez un cierre de posiciones, esta operación deberá informarse en registros separados, e identificarse con un mismo número de folio, pero un número de secuencia distinto.
 CI : Cuando tratándose de un contrato de futuros, la operación produzca el cierre de posiciones abiertas, ya sea que el corredor opere por cuenta propia, o por cuenta de un tercero. Cabe señalar que cuando en una misma operación se efectúe una apertura de posiciones y a la vez un cierre de posiciones, esta operación deberá informarse en registros separados, e identificarse con un mismo número de folio, pero un número de secuencia distinto.
@@ -138,7 +132,6 @@ PH : Pagadero hoy.
 PM : Pagadero mañana.
 TP : Transacción a plazo.
 (1) Expresión agregada por Circular N° 1.089, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Este campo sólo deberá ser llenado con los códigos señalados cuando se trate de una operación en rueda; sin embargo, cuando se trate de la materialización anticipada de una operación de compromiso puro, de venta con compromiso de retrocompra o compra con compromiso de retroventa, de operaciones a plazo, o de contratos a futuros, o de cualquiera que se transe en el futuro en el mercado, que reúna las características de las operaciones señaladas, deberá utilizarse el código LA. Cuando la operación no corresponda a ninguna de las señaladas, se deberá llenar este campo con el código XX.(1)
 1.3.4. Sistema de transacción: Corresponde al sistema de transacción bajo el cual se llevó a cabo
@@ -157,7 +150,6 @@ Para estos efectos, se entenderá por "vinculado por propiedad al intermediario"
 Asimismo, se entenderá por "vinculado laboralmente al intermediario" cualquier persona relacionada a éste, de acuerdo a la definición establecida en la letra c) del artículo 100º de la Ley Nº 18.045; así como cualquier otra persona que tenga poder de decisión y facultades de administración en el intermediario (incluyendo gerentes de área, apoderados y operadores del intermediario), su cónyuge y parientes hasta segundo grado de consanguinidad o afinidad; y cualquier persona jurídica que tenga como controlador o como algún miembro de su controlador, directamente o a través de otras personas y de acuerdo a la definición establecida en el artículo 97º de la misma ley, a cualquiera de las personas señaladas bajo esta definición.
 (1) Párrafo modificado por Circular Nº 1.089, de 1992
 (2) Subnumeral reemplazado por Circulares Nºs 1.089 de 1992 y 1.097 de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Cuando una de las anteriores personas pueda ser clasificada bajo ambas definiciones, deberá utilizarse el código que lo vincula por propiedad (P).
 Por otra parte, se entenderá por "vinculado por administración al intermediario" cualquier fondo mutuo, fondo de inversión, fondo de pensiones o fondo de inversión de capital extranjero cuya sociedad administradora esté relacionada con el intermediario de valores.
@@ -176,7 +168,6 @@ tomar uno de los siguientes códigos:
 PROM : Promedio.
 PREF : Preferencial.
 (1) Párrafo agregado por Circular N° 1.102, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ACUE : Acuerdo.
 CHVA : Banco de Chile vendedor apertura.
@@ -201,7 +192,6 @@ precio pagado por el instrumento y su valor par, el que deberá registrarse con 
 Cabe señalar, que este porcentaje sólo deberá calcularse cuando el valor transado corresponda a un instrumento de renta fija; en caso contrario se deberá anotar en este campo la cifra 000.00.
 (1) Subnumeral modificado por Circular N° 1.089, de 1992.
 (2) Párrafos modificados por Circular N° 1.089, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Sin perjuicio de lo expuesto, este precio no deberá ser informado, cuando se trate de la retrocompra o la retroventa de una operación de pacto, o de la materialización anticipada de una operación de compromiso puro, debiendo anotarse en su lugar la cifra 000.00.(1)
 1.3.14. TIR: Corresponde a la tasa de retorno asociada al valor de compra o venta de un título de
@@ -225,7 +215,6 @@ MO : Otras monedas extranjeras distintas a dólar.
 En caso que el tipo de operación no corresponda a un pacto, se deberá anotar el código XX.
 1.5. Observaciones y Modificaciones
 (1) Párrafos modificados por Circular N° 1.089, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 1.5.1. Observaciones: Corresponde a observaciones realizadas a la operación informada. Estos
 espacios deberán anotarse, estrictamente en los casos que se señalan:
@@ -252,7 +241,6 @@ AC : Anulación, cuando la anulación fue determinada por el intermediario, y no
 Cabe señalar que tratándose de modificaciones o anulaciones donde fue el intermediario quien las detectó, se deberá adjuntar una carta donde individualice, por medio de la información referida a los campos: 1.1.1., 1.1.2., 1.1.3., 1.1.4., 1.1.5., y 1.1.6., las operaciones que se anulen o modifiquen, señalando los campos y los valores que cambian, la cual deberá venir firmada por el gerente general, representante legal o quien haga sus veces.
 (1) Definición de código modificada por Circular Nº 1.097 de 1992.
 (2) Definición de código modificada por Circulares Nºs 1.097 de 1992 y 1.102 de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 Cuando se realice una modificación, la operación que se deba modificar deberá ser informada completamente, sin omitir ni modificar ningún campo, y anotando el código ES o EC, según corresponda. Luego se deberá ingresar la misma operación pero introduciendo las modificaciones que se deban realizar, y anotando el código IS o IC, según corresponda.
 Así la operación es modificada. En ambos casos en el campo "Fecha", que representa la fecha de transacción, se deberá registrar el día efectivo de transacción y no la fecha en que se realiza la modificación.
@@ -269,7 +257,6 @@ Finalmente, no se podrán efectuar anulaciones a operaciones efectuadas fuera de
 deberá individualizarse mediante un número de doce cifras, que será independiente del número de folio del registro que se modifica. Este número de folio será entregado por esta Superintendencia, cuando sea ésta quien detectó los posibles errores. En caso que sea el intermediario quien detecte la modificación a efectuar, el número de folio modificación que deberá asignarle se configurará de la siguiente manera:
 En las cuatro primeras posiciones deberá anotar el día y mes de la operación que desea modificar. En las tres posiciones siguientes se deberá anotar las tres últimas cifras del número de inscripción del intermediario que efectúa la modificación o anulación. Finalmente en las cinco últimas cifras deberá anotar un número correlativo, diario, que partirá en el número 00001, hasta el 99999. Por ejemplo, si el intermediario 333, con fecha 15 de Junio de
 1992, desea modificar una transacción que efectuó el día 2 de Junio de 1992, el número de folio modificación que corresponderá asignarle, será el 020633300001.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 El objetivo de este número de folio es poder identificar los ingresos que se encuentren asociados a un egreso, por lo que tanto el ingreso como el egreso de una determinada modificación deberán tener un mismo y único N° de folio que los asocie con una misma modificación. Cuando no corresponda a una modificación o anulación, este N° de folio deberá completarse con ceros.
 ## 2. Forma de informar las operaciones:
@@ -283,7 +270,6 @@ Finalmente, el intermediario que ordenó la transacción deberá informarla util
 compromiso de compra o de venta, deberá informarse la operación inicial, entendiéndose como tal, aquella en que las partes acuerdan el compromiso futuro, en los plazos correspondientes y de acuerdo a los requisitos de información señalados, no debiendo informarse la materialización del mismo. Sin perjuicio de lo señalado, si la materialización del compromiso es anticipada por las partes, el intermediario deberá informar esta materialización, en los plazos correspondientes y de acuerdo a los requisitos de información señalados.
 2.2.2. Operaciones de compra con compromiso de retroventa y de venta con compromiso de
 retrocompra: Cuando la operación informada corresponda a una compra o venta con compromiso de retroventa o retrocompra, respectivamente, deberá informarse tanto la operación inicial como la materialización u operación final, en las fechas correspondientes, y de acuerdo a los requisitos de información señalados.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 2.2.3. Operaciones a plazo de acciones: Cuando la operación efectuada corresponda a una
 operación a plazo de acciones sólo deberá informarse la operación inicial, entendiéndose como tal, aquella en que las partes acuerdan el compromiso futuro, en los plazos correspondientes y de acuerdo a los requisitos de información señalados, no debiendo informarse la materialización de ella. Sin perjuicio de lo señalado, si la materialización de la operación es anticipada por las partes, el intermediario deberá informar esta materialización, en los plazos correspondientes y de acuerdo a los requisitos de información señalados.
@@ -301,7 +287,6 @@ Cuando un corredor opere en más de una bolsa e informe sus operaciones a travé
 (1) Subnumeral agregado por Circular N° 1.089, de 1992.
 (2) Subnumeral agregado por Circular Nº 1.097, de 1992, y reemplazado por Circular Nº 1.102 de
 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## II. DEROGACION
 Se deroga, a partir de la fecha de vigencia de la presente circular, la Circular N° 561 de 1985, así como las normas que la complementan, éstas son el oficio circular N° 86 de 1986, y circulares N°
@@ -309,7 +294,6 @@ Se deroga, a partir de la fecha de vigencia de la presente circular, la Circular
 ## III. VIGENCIA
 La presente circular entrará en vigencia el 02 de Enero de 1993.(3)
 (1) Vigencia modificada por Circulares N° 1.076, Nº 1.089 y Nº 1.097, todas de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## ANEXO N° 1 DESCRIPCION TECNICA PARA INFORMAR LAS TRANSACCIONES DIARIAS DE LOS INTERMEDIARIOS DE VALORES(1)
 #### A. Características del archivo en diskette(2)
@@ -333,8 +317,8 @@ X: OPERACION ORDENADA A OTRO INTERMEDIARIO.
 (1) Título reemplazado por Circular N° 1972, de 2010.
 (2) Letras reemplazadas por Circular N° 1.972, de 2010
 (3) Letra modificada por Circular N° 1.089 de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS 4. NUMBOLSA NUMERO ASIGNADO A CADA BOLSA 9(2)
+
+### 4. NUMBOLSA NUMERO ASIGNADO A CADA BOLSA 9(2)
 01:BOLSA DE COMERCIO DE SANTIAGO, BOLSA DE VALORES.
 02:BOLSA DE CORREDORES, BOLSA DE VALORES.
 03:BOLSA ELECTRONICA DE CHILE, BOLSA DE VALORES.
@@ -368,7 +352,6 @@ VP: VENTA A PLAZO.
 CI: COMPRA INICIAL.
 VI: VENTA INICIAL.
 (1) Largo de campo modificado por Circular Nº 1.097, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 CF: COMPRA FINAL.
 VF: VENTA FINAL.
@@ -414,8 +397,8 @@ REMT: REMATE, TRADICIONAL O ELECTRONICO.
 LICI: LICITACION, TRADICIONAL O ELECTRONICA.
 FRUE: FUERA DE RUEDA.
 (1) Código agregado por Circular N° 1.089 de 1992
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS 16. TIPOCLIENTE TIPOS DE CLIENTES(1) X(2)
+
+### 16. TIPOCLIENTE TIPOS DE CLIENTES(1) X(2)
 N: NO VINCULADO.
 P: VINCULADO POR PROPIEDAD.
 L: VINCULADO LABORALMENTE.
@@ -441,8 +424,8 @@ DE ACCIONES, ORO, DOLAR, OTRAS MONEDAS EXTRANJERAS, CONTRATOS A FUTURO, DER. PRE
 (1) Campos modificados por Circular N° 1.089 de 1992.
 (2) Formato de campo modificado por Circular Nº 1.097 de 1992.
 (3) Largo y formato de campo modificado por Circular Nº 1.089 de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS 27. TIPO TIPO DE REAJUSTABILIDAD DEL PACTO X(2)
+
+### 27. TIPO TIPO DE REAJUSTABILIDAD DEL PACTO X(2)
 $$: PESOS.
 UF: UNIDADES DE FOMENTO.
 US: EXPRESADO Y PAGADERO EN DOLARES.
@@ -472,7 +455,6 @@ AC: ANULACION, INTERMEDIARIO LA DETERMINA.
 XX: NO CORRESPONDE A MODIFICACION O ANULACION.
 ## 30. FOLIOMODIF FOLIO DE MODIFICACION (12) 31. ESPACIOS ESPACIOS ADICIONALES DISPONIBLES (1) X(18)
 (1) Largo de campo modificado por Circulares N°s 1.089 y 1.097 de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ## ANEXO N° 2 UNIDADES DE TRANSACCION(1)
 $$ : Peso Chileno.
@@ -499,4 +481,3 @@ YY : Yen.
 MO : Otras monedas distintas a las definidas.
 ** : Otra Unidad de Reajuste.
 (1) Eliminado código US por Circular N° 1.089, de 1992.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

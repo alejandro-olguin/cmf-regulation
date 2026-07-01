@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE REQUERIMIENTO DE INFORMACIÓN SOBRE LIMITACIONES O PROHIBICIONES A LA INVERSIÓN DE LOS RECURSOS DE LOS FONDOS, A SER INCLUIDA EN SU POLÍTICA DE INVERSIÓN.
+# CIRCULAR N° 1541 — ESTABLECE REQUERIMIENTO DE INFORMACIÓN SOBRE LIMITACIONES O PROHIBICIONES A LA INVERSIÓN DE LOS RECURSOS DE LOS FONDOS, A SER INCLUIDA EN SU POLÍTICA DE INVERSIÓN.
 
-CIRCULAR Nº 1.541
-FECHA: 16.04.2001
 
 Para todas las sociedades administradoras de fondos de terceros autorizados por ley fiscalizados por esta Superintendencia.
 Esta Superintendencia en uso de sus facultades legales ha estimado conveniente dictar las siguientes
@@ -17,4 +15,3 @@ Sin perjuicio de lo anterior, las sociedades administradoras podrán considerar 
 VIGENCIA La presente Circular rige a contar de esta fecha.
 ### DISPOSICION TRANSITORIA
 Para los fondos que a la fecha de dictación de la presente Circular se encuentren en operación, los requerimientos aquí establecidos deberán ser incluidos en la próxima modificación a sus reglamentos internos o contratos de administración que las sociedades administradoras presenten para su aprobación a esta Superintendencia. No obstante, el plazo máximo para su cumplimiento será el 30 de junio del presente año.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

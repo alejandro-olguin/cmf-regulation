@@ -17,8 +17,8 @@ Por su parte, las empresas que buscan viabilizar sus planes de crecimiento, encu
 De esta forma, es de la naturaleza del mercado financiero velar por la mantención de las condiciones que permiten que haya confianza pues eso promueve la participación de los inversionistas y, en consecuencia, el proceso de ahorro e inversión.
 En dicho contexto, la divulgación rápida y adecuada de información al público aumenta la eficiencia de los mercados, mientras que la divulgación selectiva, tardía o insuficiente por parte de los emisores puede llevar a una pérdida de confianza de los inversionistas. De esta manera, una mayor transparencia de las transacciones efectuadas por sus directores, gerentes, administradores y ejecutivos principales, así como las entidades controladas directamente por ellos o a través de terceros, o entidades que forman parte de los grupos controladores de los emisores de valores de oferta pública, sociedades securitizadoras y sociedades que administren fondos mutuos y fondos de inversión, constituye una medida preventiva contra operaciones basadas en el uso de información privilegiada o realizadas con el objeto de manipular los mercados.
 Las operaciones con información privilegiada y la manipulación de precios impiden la necesaria transparencia del mercado, que es un requisito previo de negociación para todos los agentes económicos que participan en los mercados de valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 270
+
+### N.C.G. N° 270
 FECHA: 31.12.2009
 ## II. POLÍTICAS DE ADMINISTRACIÓN Y DIVULGACIÓN DE INFORMACIÓN
 Las entidades destinatarias de la presente norma de carácter general deberán adoptar políticas y normas internas referidas, por una parte, al tipo de información que será puesta a disposición de los inversionistas y por otra, a los sistemas implementados para garantizar que dicha información sea comunicada en forma oportuna. Para estos efectos, dichas entidades deberán mantener a disposición de los inversionistas, en sus sitios Web y en sus oficinas, un documento denominado “Manual de Manejo de Información de Interés para el Mercado”. Una copia actualizada del mencionado Manual, contenido en un archivo con formato electrónico, deberá ser remitida a la Superintendencia dentro de las 48 horas siguientes a su implementación o actualización.
@@ -35,8 +35,8 @@ Para este último ítem, se estará a la definición que indica la Norma de Car�
 4.- Los criterios y mecanismos aplicables a la divulgación de dichas transacciones y de las
 efectuadas sobre otras sociedades pertenecientes al grupo empresarial de la entidad, así como, sobre la tenencia de dichos valores.
 En caso de contemplar disposiciones adicionales a las establecidas por la ley, debiera mencionarse esta circunstancia en forma explícita.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 270
+
+### N.C.G. N° 270
 FECHA: 31.12.2009
 5.- Existencia de períodos de bloqueo o prohibición, que afecten a las personas indicadas
 en el numeral 3 anterior, establecidas en la política adoptada por la entidad. Tales limitaciones podrían consistir en las siguientes:
@@ -55,8 +55,8 @@ Será responsabilidad del directorio adoptar las medidas apropiadas para evitar 
 terceros, y en especial, para con los medios de comunicación. Asimismo, el Manual debe pronunciarse respecto de la existencia de políticas que adoptará en las relaciones con los medios de comunicación, y en especial, las que adoptará en los casos que aparezca información de la sociedad en los mismos.
 9.- Mecanismos de divulgación de las normas contenidas en el Manual y de actividades de
 capacitación sobre la materia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 270
+
+### N.C.G. N° 270
 FECHA: 31.12.2009
 10.- Normas sobre aplicación de sanciones y resolución de conflictos sobre la materia.
 ## IV. VIGENCIA
@@ -65,4 +65,3 @@ Las disposiciones de la presente Norma de Carácter General serán aplicables a 
 Derógase a contar de la entrada en vigencia de la presente Norma, la Norma de Carácter General N° 211 del 15 de enero de 2008.
 ## VI. DISPOSICIÓN TRANSITORIA
 Las entidades que a la fecha de entrada en vigencia de la presente norma de carácter general cuenten con el Manual de Manejo de Información de Interés, deberán modificarlo y difundirlo en los términos indicados antes del 31 de marzo de 2010.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

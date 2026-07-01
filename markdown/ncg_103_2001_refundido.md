@@ -22,7 +22,6 @@ Dentro de los últimos 180 días hábiles bursátiles, se determinará el númer
 Casos especiales
 1. Fusiones : Para la determinación de la presencia ajustada de las acciones de una
 sociedad anónima que resulta de la fusión de dos o más sociedades, se deberá considerar para efectos de calcular el monto diario transado en bolsa en los días previos a la fusión, sólo las transacciones bursátiles de las acciones de la sociedad que presente el mayor patrimonio bursátil entre las sociedades fusionadas. En caso que no sea posible determinar el patrimonio bursátil para una de las sociedades, se deberá utilizar el patrimonio contable en el lugar del patrimonio bursátil en le procedimiento de cálculo antes definido.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 N.C.G. Nº 103
 FECHA: 05.01.2001
@@ -33,4 +32,3 @@ El patrimonio bursátil en las sociedades que tengan series de acciones, será l
 sociedades anónimas que resultan de una división, se deberá considerar como monto diario transado en la bolsa en los días previos a la división, el valor resultante de multiplicar el total de las transacciones bursátiles diarias de las acciones de la sociedad que se divide, por el porcentaje que representa el patrimonio contable de la nueva sociedad respecto del de la sociedad dividida.
 ## III. VIGENCIA
 La presente Norma de Carácter General rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

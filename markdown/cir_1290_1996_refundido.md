@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# ESTABLECE OBLIGACION DE RENDIR CAUCION E IMPLEMENTAR UN SISTEMA DE CONTROL INTERNO
+# CIRCULAR N° 1290 — ESTABLECE OBLIGACION DE RENDIR CAUCION E IMPLEMENTAR UN SISTEMA DE CONTROL INTERNO
 
-CIRCULAR Nº: 1290
-FECHA: 31.07.96
 
 Para todos los fondos solidarios de crédito universitario Esta Superintendencia, en uso de las facultades legales que le confiere el artículo 80 de la Ley Nº
 18.591, de 1987 y en virtud de lo dispuesto en el artículo 71 del mismo cuerpo legal, y teniendo en
@@ -25,8 +23,6 @@ siguientes aspectos:
 - Circularizaciones a deudores.
 - Otros controles que se estimen pertinentes.
 
-CIRCULAR Nº: 1290
-FECHA: 31.07.96
 Los controles que se definan quedarán establecidos en un "Manual de procedimientos", el cuál deberá mantenerse actualizado.
 Auditoría Interna de la Universidad, en caso de que exista, o bien alguna unidad independiente de las personas que manejan los recursos del fondo, deberá efectuar evaluaciones periódicas al sistema de control interno del fondo, informando a la rectoría de la universidad y al administrador del fondo, sobre los resultados de dicha evaluación, las recomendaciones que se proponen para solucionar las desviaciones detectadas, así como, la revisión de las correcciones efectuadas a las mismas e informadas con anterioridad.
 ## 3. Comunicación de irregularidades

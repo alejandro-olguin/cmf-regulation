@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1177 — IMPARTE INSTRUCCIONES SOBRE CONFECCION DEL REGISTRO ESPECIAL DE VALORES DE TERCEROS A NOMBRE DE INTERMEDIARIOS DE VALORES O DE BOLSAS DE VALORES
+# CIRCULAR N° 1177 — IMPARTE INSTRUCCIONES SOBRE CONFECCION DEL REGISTRO ESPECIAL DE VALORES DE TERCEROS A NOMBRE DE INTERMEDIARIOS DE VALORES O DE BOLSAS DE VALORES.
 
 
 Para todos los corredores de bolsa, agentes de valores y bolsas de valores.
@@ -22,7 +22,6 @@ la operación de los títulos registrados. En caso de no existir los documentos 
 registro.
 7. Nemotécnico del instrumento: indicar el nemotécnico del instrumento ingresado o
 egresado del registro, utilizando para ello, los códigos que se usan para el envío de la información diaria a que hace referencia la Circular Nº 1.064 y sus modificaciones o la que la reemplace.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 8 Unidades : indicar el número de unidades nominales del instrumento ingresado o
 egresado del registro, expresado en $, UF, US$, o cantidad de acciones, cuotas de fondos u otros valores, según corresponda.
@@ -34,4 +33,3 @@ El intermediario de valores o bolsa de valores deberá proporcionar al cliente, 
 Por otra parte, el intermediario de valores o bolsa de valores deberá entregar al cliente un comprobante que acredite la recepción o entrega de los valores.
 ## III. VIGENCIA.
 Las instrucciones de la presente Circular rigen a contar del 14 de noviembre del año en curso.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

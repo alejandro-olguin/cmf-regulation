@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES RELATIVAS A LA CONSTITUCION DE FILIALES EMISORAS DE TARJETAS DE CREDITO A todas las entidades aseguradoras y reaseguradoras
+# NCG N° 135 — IMPARTE INSTRUCCIONES RELATIVAS A LA CONSTITUCION DE FILIALES EMISORAS DE TARJETAS DE CREDITO A todas las entidades aseguradoras y reaseguradoras
 
-NORMA DE CARÁCTER GENERALN°135
-FECHA: 04.04.2002
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo establecido en el artículo 4º del D.F.L. Nº
 251, de 1931, ha resuelto autorizar la constitución de filiales emisoras de tarjetas de crédito, de entidades aseguradoras o reaseguradoras e impartir instrucciones para su operación y funcionamiento.
@@ -29,8 +27,6 @@ servicios de la filial emisora de tarjetas de crédito, en forma conjunta con la
 b) La administración y gestión de inversiones y, en especial, las decisiones de adquisición, mantención o
 enajenación de instrumentos o activos que la sociedad emisora de tarjetas crédito administre, deberán ser realizados en forma separada, independiente y autónoma de cualquier otra función de la misma naturaleza, desarrollada por la compañía matriz.
 
-NORMA DE CARÁCTER GENERALN°135
-FECHA: 04.04.2002
 c) La compañía matriz no podrá entregar a su filial la información reservada de sus clientes o viceversa, sin
 autorización de los mismos.
 ## 3. Contabilización y valorización de las acciones de la filial emisora de tarjetas de crédito.

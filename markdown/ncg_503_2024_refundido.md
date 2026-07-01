@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: ESTABLECE EXIGENCIAS PARA
-### ACREDITAR LA IDONEIDAD PARA EL DESEMPEÑO DE FUNCIONES
-____________________________
-NORMA DE CARÁCTER GENERAL N°503
-12 de enero de 2024
+# ESTABLECE EXIGENCIAS PARA ACREDITAR LA IDONEIDAD PARA EL DESEMPEÑO DE FUNCIONES ____________________________ NORMA DE CARÁCTER GENERAL N°503 12 de enero de 2024
+
+
 Esta Comisión, en virtud de lo dispuesto en los artículos 26 y 28 de la Ley N°18.045, en los artículos 8°, 41 y 98 de la Ley que Regula la Administración de Fondos de Terceros y Carteras Individuales aprobada por el artículo 1° de la Ley N°20.712, los artículos 7 y 8 de la Ley N° 19.220, artículos 7 y 9 de la Ley N°21.521, legislaciones denominadas en adelante indistintamente como “la ley”, y lo acordado por su Consejo en Sesión Ordinaria N°374 de 11 de enero 2024, ha estimado pertinente impartir las siguientes disposiciones de carácter general.
 ## I. EXIGENCIAS DE IDONEIDAD
 Los corredores de bolsa, agentes de valores, corredores de bolsa de productos, administradoras generales de fondos, agentes comercializadores de cuotas de fondos, administradoras de carteras inscritas en el Registro de Administradores de Carteras que lleva esta Comisión y quienes presten el servicio de asesoría de inversión, en adelante,

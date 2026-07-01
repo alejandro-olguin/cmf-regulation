@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1844 — REQUERIMIENTO DE INFORMACION SOBRE INGRESOS OBTENIDOS POR PARTE DE LAS CLASIFICADORAS DE RIESGO
+# CIRCULAR N° 1844 — REQUERIMIENTO DE INFORMACION SOBRE INGRESOS OBTENIDOS POR PARTE DE LAS CLASIFICADORAS DE RIESGO.
 
 
 Para todas las entidades clasificadoras de riesgo fiscalizadas por esta Superintendencia
@@ -22,7 +22,6 @@ de ingresos por concepto de actividades complementarias – cuenta 43.01 del Est
 La aplicación de las normas y disposiciones contenidas en la presente circular rigen a partir de esta fecha.
 ### SUPERINTENDENTE SUBROGANTE
 1 Se entiende por grupo empresarial lo definido en el artículo 96º de la Ley Nº 18.045de Mercado de Valores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 ANEXO
 
@@ -55,4 +54,3 @@ ANEXO
 
 2 En la medida que la participación de los ingresos percibidos por empresas no pertenecientes a grupo empresarial
 alguno supere el 15% de los ingresos totales de clasificación, se deberá desglosar dicho ítem por empresa. También bastará una declaración en el sentido que los ingresos provenientes de ninguna de las empresas contenidas en dicho ítem supera el 15% de los ingresos totales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,10 +3,10 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: Determina los seguros que se pueden contratar de acuerdo a lo señalado en el artículo 538 bis del Código de Comercio1.
-NORMA DE CARÁCTER GENERAL N° 460
-13 de agosto de 2021
-A todas las entidades aseguradoras, a los corredores de seguros, a los bancos, emisores de tarjetas de pago, a los agentes administradores de mutuos hipotecarios y cooperativas supervisadas por la Comisión para el Mercado Financiero Visto lo dispuesto en el artículo 538 bis del Código de Comercio y en el artículo 3° letra m) del D.F.L.
+# Determina los seguros que se pueden contratar de acuerdo a lo señalado en el artículo 538 bis del Código de Comercio1. NORMA DE CARÁCTER GENERAL N° 460 13 de agosto de 2021 A todas las entidades aseguradoras, a los corredores de seguros, a los bancos, emisores de tarjetas de pago, a los agentes administradores de mutuos hipotecarios y cooperativas supervisadas por la Comisión para el Mercado Financiero
+
+
+Visto lo dispuesto en el artículo 538 bis del Código de Comercio y en el artículo 3° letra m) del D.F.L.
 N° 251 de 1931, las facultades que le confieren a la Comisión para el Mercado Financiero el numeral
 1 del artículo 5, el numeral 3 del artículo 20 y el numeral 1 del artículo 21, todos del Decreto Ley
 N°3.538 que crea la Comisión para el Mercado Financiero; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N° 248, de 12 de agosto de 2021, se imparten las siguientes instrucciones de cumplimiento obligatorio para los bancos, cooperativas supervisadas por esta Comisión, emisores de tarjetas de pago, agentes administradores de mutuos hipotecarios endosables, compañías de seguros y corredores de seguros.
@@ -87,4 +87,3 @@ El proveedor no podrá rechazar el otorgamiento, renegociación o repactación d
 ## V. Obligación de informar
 Sin perjuicio de las disposiciones establecidas en la presente norma, las compañías y corredores de seguros deberán observar las normas generales de comercialización e informar para cualquier tipo de seguro voluntario la siguiente leyenda:
 “La contratación de estos seguros es de carácter voluntario. Usted puede retractarse si la contratación la efectuó por un medio a distancia. Además, usted puede terminar los seguros voluntarios anticipadamente en cualquier momento, independiente del medio utilizado para su contratación.” VI. Vigencia Las disposiciones aquí contenidas comenzarán a regir en sesenta días, contados desde la fecha de emisión de la presente norma.
-### COMISIÓN PARA EL MERCADO FINANCIERO

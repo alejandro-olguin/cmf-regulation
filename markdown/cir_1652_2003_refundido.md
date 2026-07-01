@@ -31,15 +31,6 @@ ANEXO
 ### R.U.T. −
 Intermediación Seguros Tradicionales
 
-|  |
-| --- |
-|  |
-
-|  |
-| --- |
-|  |
-|  |
-
 Comisión por Seguros Tradicionales Nota: Los montos indicados deberán expresarse en MILES DE PESOS, sin decimales y sin puntos separadores de miles
 
 La descripción de los campos antes indicados es la siguiente:

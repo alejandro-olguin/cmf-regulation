@@ -22,8 +22,8 @@ Respecto de las notas explicativas, éstas deberán ser estructuradas de acuerdo
 Sin perjuicio de lo anterior, en forma adicional se deberá complementar la nota explicativa respectiva con la siguiente información:
 a. Nota referida a los Ingresos ordinarios, la cual deberá considerar los ítems que se
 presentan a continuación, de manera individualizada para cada patrimonio separado constituido por la sociedad securitizadora.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 286
+
+### N.C.G. N° 286
 FECHA: 29.04.2010
 • Información de excedentes del ejercicio (Déficit) de los patrimonios separados. Esta
 información deberá ser presentada considerando, a lo menos, la información requerida en la tabla que se presenta a continuación, teniendo en consideración las
@@ -68,8 +68,8 @@ b. Nota referida a los Costos de venta, la cual deberá considerar los ítems qu
 a continuación, de manera individualizada para cada patrimonio separado constituido por la sociedad securitizadora.
 • Costos de administración.
 • Pérdidas por venta de activos a securitizar.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 286
+
+### N.C.G. N° 286
 FECHA: 29.04.2010
 • Provisiones sobre activos a securitizar.
 • Pérdidas en liquidación de garantías.
@@ -102,8 +102,8 @@ activos securitizados. De ser más de un administrador, deberá individualizar a
 los activos securitizados del patrimonio separado. En caso de no existir administrador maestro deberá indicarlo expresamente.
 - En la columna Coordinador General, deberá señalar el coordinador general de los
 activos securitizados del patrimonio separado. En caso de no existir administrador maestro deberá indicar dicha situación expresamente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS N.C.G. N° 286
+
+### N.C.G. N° 286
 FECHA: 29.04.2010
 f. Presentar cualquier otra nota explicativa, que a juicio de la administración proporcione
 información relevante de los estados financieros de la securitizadora y que no haya sido considerada en las notas explicativas anteriores.
@@ -112,4 +112,3 @@ Deroga la Norma de Carácter General N° 190 de 2005, la que será aplicable has
 ## V. VIGENCIA
 Las disposiciones establecidas en la presente Norma de Carácter General comenzarán a regir a contar de la presentación de la información financiera bajo IFRS referida al 31 de marzo de
 2010.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

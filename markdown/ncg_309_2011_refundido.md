@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 309 — FECHA : 20.6.2011
+# NCG N° 309 — PRINCIPIOS DE GOBIERNO CORPORATIVO Y SISTEMAS DE GESTIÓN DE RIESGO Y CONTROL INTERNO.1 A todas las entidades aseguradoras y reaseguradoras
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en la letra b) del artículo 3° del D.F.L N°251, de 1931, y en letras a) y d) del artículo 4° del DL N°3.538, de 1980, y sin perjuicio de lo dispuesto en la legislación de sociedades anónimas y de mercado de valores (Leyes 18.046 y 18.045), ha resuelto impartir las siguientes instrucciones relativas a principios de gobierno corporativo y sistemas de gestión de riesgo y control interno en las entidades aseguradoras y reaseguradoras.

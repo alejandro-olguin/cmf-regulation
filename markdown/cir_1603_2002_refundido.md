@@ -3,9 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR Nº 1603 — FECHA: 24.05.2002
+# CIRCULAR N° 1603 — SOLICITA INFORMACIÓN DIARIA DE FONDOS DE INVERSIÓN.
 
-REF: SOLICITA INFORMACIÓN DIARIA DE FONDOS DE INVERSIÓN.
+
 Para todas las sociedades administradoras de fondos de inversión y administradoras Generales de fondos Esta Superintendecia, en uso de sus facultades legales, ha estimado necesario impartir las siguientes
 instrucciones:
 Las sociedades administradoras que administren fondos de inversión, que calculen diariamente el valor cuota del fondo y publiciten dicho valor, deberán enviar a esta Superintendencia la “Información Diaria de Fondos de Inversión”. Esta información deberá ser remitida a través del Módulo SEIL
@@ -21,7 +21,6 @@ Se indica el nombre de la sociedad administradora del fondo al que corresponde e
 Se indica el RUT de la sociedad administradora del fondo al que corresponde el Código Usuario de SEIL.
 3.- RUN del fondo de inversión
 Se indica el RUN del fondo de inversión.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 4.- Nombre del fondo
 Se indica el nombre completo del fondo de inversión.
@@ -43,7 +42,6 @@ Indicar en la moneda que corresponda, sin decimales, el Patrimonio Neto del Fond
 Indicar en la moneda que corresponda, sin decimales, el monto a que asciende el activo total del fondo del día que se informa.
 13.- Número de aportantes
 Señalar el número de personas, naturales o jurídicas, que poseen cuotas del fondo de inversión, del día que se informa.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 14.- Número de aportantes inversionistas Institucionales
 Indicar el número de aportantes que correspondan a inversionistas institucionales que posea el fondo, del día que se informa, de aquéllos definidos en el literal e), artículo 4º Bis de la Ley Nº 18.045.
@@ -55,4 +53,3 @@ VIGENCIA Las instrucciones contenidas en la presente circular, entran en vigenci
 El acta de la sesión en que se adopten los acuerdos exigidos por la Norma de Carácter General Nº
 117 del 20 de abril de 2001, así como las declaraciones establecidas en ella, deberán ser enviadas a
 esta Superintendencia previamente al envío de la información solicitada en la presente circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

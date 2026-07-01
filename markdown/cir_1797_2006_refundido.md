@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA LA ADQUISICIÓN DE INSTRUMENTOS CON RETROVENTA PARA LOS FONDOS MUTUOS Y DEROGA CIRCULAR N°1.347 DE 1997. A todas las sociedades que administren fondos mutuos.
+# CIRCULAR N° 1797 — NORMA LA ADQUISICIÓN DE INSTRUMENTOS CON RETROVENTA PARA LOS FONDOS MUTUOS
 
-### CIRCULAR N° 1.797
-FECHA: 07.03.2006
 
 Esta Superintendencia en uso de sus facultades legales dicta las siguientes instrucciones, por las cuales se regirán las operaciones de compra con retroventa de instrumentos de oferta pública, que las sociedades administradoras de fondos mutuos efectúen por cuenta de los fondos que administran, en virtud de lo dispuesto en el artículo 13 Nº 10 del D.L. Nº 1.328, de 1976, sobre Fondos Mutuos, y el artículo 20 del D.S. N° 249 de 1982.
 ## 1. DEFINICIONES
@@ -27,9 +25,6 @@ internacionales que se transen en mercados locales o internacionales;
 e) Títulos de deuda inscritos en el Registro de Valores; y
 f) Títulos de deuda de oferta pública emitidos por sociedades o corporaciones extranjeras
 que se transen en mercados nacionales o extranjeros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.797
-FECHA: 07.03.2006
 g) Acciones de sociedades anónimas abiertas o títulos representativos de éstas, tales
 como, ADR’s.
 h) Acciones de transacción bursátil, emitidas por sociedades o corporaciones extranjeras, o
@@ -52,9 +47,6 @@ e) Las operaciones sobre acciones o títulos representativos de éstas, deberán
 una bolsa de valores, ajustándose a las normas que, al respecto establezca la referida bolsa. El fondo, en todo caso, deberá enterar dichas acciones como garantía del cumplimiento de la venta pactada.
 f) La adquisición de títulos representativos de productos agropecuarios con promesa de
 venta, deberá efectuarse en una bolsa de productos agropecuarios de aquellas a las que se refiere la Ley N°19.220, dando cumplimiento a las normas que con relación a dichas operaciones defina la citada bolsa. En todo caso, los títulos que se adquieran con retroventa, deberán enterarse como garantía del cumplimiento de la venta pactada.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.797
-FECHA: 07.03.2006
 g) Los instrumentos adquiridos durante el período que media entre la fecha de compra y la
 fecha en que se materializa, no podrán ser objeto de acto o contrato alguno.
 h) La compra de los instrumentos deberá realizarse a precios similares a los que
@@ -71,9 +63,7 @@ Los fondos mutuos podrán invertir hasta un 20% de su activo en acciones adquiri
 13A del D.L. N°1.328 de 1976.
 El límite máximo señalado en el párrafo anterior, así como, lo dispuesto en la letra i) del título 3 de la presente Circular, no regirá para aquellas operaciones cuyas condiciones generales contemplen la posibilidad de modificar la fecha establecida para la liquidación de la operación, a solicitud de la sociedad administradora. En todo caso, los fondos mutuos, con excepción de aquellos dirigidos a inversionistas calificados, no podrán invertir más del 50% de su activo en acciones adquiridas mediante compras con retroventa, en atención a lo establecido en el artículo 13, número 2), del D.L. N°1.328 de
 1976.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.797
-FECHA: 07.03.2006
+
 ### 4.3 Respecto de las operaciones efectuadas sobre títulos representativos de
 productos agropecuarios Los fondos mutuos podrán invertir hasta un 20% de su activo en títulos representativos de productos agropecuarios adquiridos mediante compras con retroventa.. El límite máximo a observar deberá, en todo caso, quedar establecido en el reglamento interno del fondo.
 Este límite no se aplicará cuando se trate de fondos mutuos dirigidos a inversionistas calificados a que se refiere el artículo 13A del D.L. N°1.328 de 1976.
@@ -92,9 +82,7 @@ siguientes estados, según se trate de un instrumento nacional o extranjero: 6.0
 (instrumento sujeto a compromiso). Por su parte, bajo las variables 6.01.04.00 y
 6.02.04.00, según sea el caso, deberá indicarse el tipo de instrumento que fue adquirido
 con retroventa. Finalmente, en el código 6.01.05.00 o 6.02.05.00, si el instrumento no tiene fecha de vencimiento, deberá indicarse “99999999”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.797
-FECHA: 07.03.2006
+
 A partir de la fecha de la compra y hasta la venta, se cargará la cuenta de activo en que se registró el instrumento con abono a la cuenta de resultado "Intereses", por el monto que resulte de aplicar al valor de compra de los instrumentos, la tasa implícita entre este valor y el monto a recibir al materializarse la venta, en proporción al tiempo transcurrido.
 Al momento de la venta, se deberá registrar un cargo a la cuenta de "Disponible" que corresponda y un abono a la cuenta de activo en la cual se registró el instrumento.
 En caso de una liquidación anticipada de la operación, se deberá registrar un cargo a la cuenta de "Disponible" pertinente por el monto efectivamente recibido por el fondo y un abono a la cuenta de activo en la cual se registró el instrumento, por un monto equivalente al valor de compra del instrumento más los intereses devengados a la fecha de liquidación anticipada. La diferencia entre cargos y abonos deberá registrarse en los resultados del ejercicio.
@@ -118,9 +106,6 @@ g) Total transado: Corresponde al precio pagado por la compra del instrumento. E
 monto, deberá expresarse en pesos chilenos y en la moneda de contabilización del fondo, si ésta fuese diferente, considerando dos decimales;
 h) Fecha de materialización de la venta: Deberá señalarse el día, mes y año
 correspondiente a la fecha de vencimiento de la promesa de venta del instrumento;
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.797
-FECHA: 07.03.2006
 i) Número del comprobante de la promesa de venta o venta a plazo;
 j) Precio pactado: Se deberá expresar en pesos, en unidades de fomento, en dólares, otra
 moneda o unidad de reajuste, según como haya sido pactado, considerando dos decimales;
@@ -140,4 +125,3 @@ En caso de que un fondo mutuo, producto de la realización de compras de instrum
 Derógase, a partir de esta fecha, la Circular N°1.347 de 1997
 ### 10 VIGENCIA
 Esta circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

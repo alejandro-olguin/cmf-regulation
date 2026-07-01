@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# REGULA TRATAMIENTO DE GASTOS DE ORGANIZACIÓN Y PUESTA EN MARCHA. DEROGA CIRCULAR N° 981.
+# CIRCULAR N° 1819 — REGULA TRATAMIENTO DE GASTOS DE ORGANIZACIÓN Y PUESTA EN MARCHA
 
-### CIRCULAR N° 1.819
-FECHA: 14.11.2006
 
 Para todas las sociedades anónimas fiscalizadas, a excepción de las compañías de seguros.
 Esta Superintendencia, de acuerdo a sus facultades legales, ha estimado oportuno impartir instrucciones para las sociedades inscritas en el Registro de Valores, asi como para aquellas que por ley deban regirse por las normas de las sociedades anónimas abiertas, con excepción de las entidades de seguros y reaseguros, en relación al tratamiento de gastos de organización y puesta en marcha.
@@ -22,9 +20,6 @@ Adicionalmente a lo indicado en el párrafo anterior, en nota explicativa a los 
 en marcha.
 - Hacer referencia al período total en que la empresa se ha mantenido o se mantuvo
 en etapa de organización y puesta en marcha. Lo anterior deberá informarse hasta el término del ejercicio anual siguiente a aquel en que dicha etapa concluyó.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.819
-FECHA: 14.11.2006
 b) Empresas con inversiones en sociedades en etapa de organización y puesta en
 marcha.
 En concordancia con lo indicado en los párrafos anteriores, las empresas que mantengan participaciones en sociedades en etapa de organización y puesta en marcha, deberán valorizar estas inversiones utilizando la misma metodología aplicable a las inversiones en sociedades plenamente operativas.
@@ -41,9 +36,6 @@ En relación a las disposiciones que contenía la Circular N° 981 respecto de a
 Las entidades que mantengan saldo en la cuenta Déficit Acumulado Período de Desarrollo al
 31 de Diciembre de 2006, deberán traspasarlo el 1° de enero de 2007 a Pérdidas Acumuladas
 o netearlo en Utilidades Acumuladas, según el caso.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.819
-FECHA: 14.11.2006
+
 Para la presentación de los estados financieros trimestrales y anual del ejercicio 2006 comparativos con el ejercicio 2007, los saldos acumulados en la cuenta Déficit Acumulado Periodo de Desarrollo deberán clasificarse en el ejercicio 2006 en el item Pérdidas Acumuladas o netearse en el item Utilidades Acumuladas, según el caso.
 En el caso que estos saldos provengan de filiales en etapa de organización y puesta en marcha, las matrices estarán eximidas de la consolidación retroactiva. No obstante lo anterior, en nota sobre Bases de Consolidación deberán identificarse los efectos más significativos sobre activos y pasivos que se hubiesen producido al consolidar con las filiales en etapa de organización y puesta en marcha durante el ejercicio 2006.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,6 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
+# CIRCULAR N° 2247
+
 ### RECOPILACION ACTUALIZADA DE NORMAS
 Capítulo 10-1 Hoja 1
 ### CAPÍTULO 10-1 BIENES RECIBIDOS O ADJUDICADOS EN PAGO DE OBLIGACIONES

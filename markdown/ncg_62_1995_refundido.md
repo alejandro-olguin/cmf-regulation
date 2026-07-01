@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARACTER GENERAL N° 62 — FECHA : 26.05.1995
+# NCG N° 62 — PROCEDIMIENTO GENERAL DE CLASIFICACION DE OBLIGACIONES DE COMPAÑIAS DE SEGUROS
 
 
 Esta Superintendencia, en uso de sus facultades legales, especialmente lo establecido en el artículo 20 bis del D.F.L. Nº 251, de 1931, ha resuelto dictar esta Norma de Carácter General referente a la clasificación de obligaciones de las compañías de seguros, a fin de incorporar normas para su adecuación a las modificaciones legales en materia de clasificación de riesgo, fijando un texto refundido de las instrucciones aplicables en la materia.

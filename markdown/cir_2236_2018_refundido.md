@@ -15,4 +15,3 @@ Esta información deberá enviarse semestralmente, dentro de los veinte primeros
 2 Sección modificada por la NCG N°515, de 2024.
 
 VIGENCIA La presente Circular rige a contar de esta fecha, siendo aplicable a partir de la información correspondiente al segundo semestre de 2018 que debe enviarse a esta Comisión a más tardar el día 29 de enero de 2019.
-### COMISIÓN PARA EL MERCADO FINANCIERO

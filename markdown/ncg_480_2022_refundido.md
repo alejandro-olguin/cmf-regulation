@@ -3,11 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA LA INTERCONEXIÓN DE
-### BOLSAS DE VALORES
-____________________________
-NORMA DE CARÁCTER GENERAL N°480
-25 de julio de 2022
+# REGULA LA INTERCONEXIÓN DE BOLSAS DE VALORES ____________________________ NORMA DE CARÁCTER GENERAL N°480 25 de julio de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren los artículos 5 numeral 1 y 20 numeral 3 del Decreto Ley N°3.538; 44 y 44 bis, ambos de la Ley N°18.045; y lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°297 de 21 de julio de 2022, ha estimado pertinente impartir las siguientes instrucciones:
 ## I. DE LOS SISTEMAS DE NEGOCIACIÓN QUE DEBERÁN
 INTERCONECTARSE De conformidad a lo establecido en el artículo 44 bis de la Ley N°18.045, las bolsas deberán implementar un mecanismo de interconexión en tiempo real entre las modalidades de calce automático de los sistemas denominados “Telepregón” de la Bolsa de Comercio de Santiago y “Pregón” de la Bolsa Electrónica de Chile.

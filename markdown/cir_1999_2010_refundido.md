@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# IMPARTE INSTRUCCIONES SOBRE PRESENTACIÓN DE INFORMACIÓN FINANCIERA BAJO IFRS PARA FONDOS DE INVERSIÓN DE CAPITAL EXTRANJERO. DEROGA CIRCULAR N° 923 DE 23 DE ENERO DE 1990. A todas las sociedades que administran fondos de inversión de capital extranjero y fondos de inversión de capital extranjero de riesgo. I. INTRODUCCIÓN
+# CIRCULAR N° 1999 — IMPARTE INSTRUCCIONES SOBRE PRESENTACIÓN DE INFORMACIÓN FINANCIERA BAJO IFRS PARA FONDOS DE INVERSIÓN DE CAPITAL EXTRANJERO
 
-### CIRCULAR N° 1.999
-FECHA: 31.12.2010
 
 Esta Superintendencia, en uso de sus facultades legales, de acuerdo a lo dispuesto en el artículo 4° del D.L. N° 3.538 de 1980 y en consideración a lo señalado en Oficios Circulares N°
 544 y 592 de fechas 2 de octubre de 2009 y 6 de abril de 2010, respectivamente, ha estimado
@@ -18,9 +16,7 @@ Las modificaciones futuras o nuevas normas emitidas por dicho organismo deberán
 B) Forma de presentación de Estados Financieros y plazo de envío
 Los fondos deberán presentar sus estados financieros de acuerdo a IFRS en forma anual, los cuales estarán referidos al 31 de diciembre de cada año. El plazo de entrega será hasta el último día del bimestre siguiente a la fecha de cierre del ejercicio anual correspondiente.
 Los estados financieros deberán estar expresados en miles de la moneda funcional del fondo y ser auditados por empresas de auditoría externa, de aquellas inscritas en el Registro de Empresas de Auditoría Externa que para el efecto mantiene esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 Los estados financieros a ser presentados por cada fondo son los siguientes:
 ## 1. Estado de Situación Financiera
 ## 2. Estado de Resultados Integrales
@@ -46,9 +42,7 @@ C) Forma de envío de los Estados Financieros
 i) Estados Financieros del Fondo
 Los estados financieros deberán enviarse a este Organismo, a través del módulo de Sistema de Envío de Información en Línea (SEIL) del sitio Web de este Servicio
 (www.svs.cl), de acuerdo a las instrucciones establecidas para tales efectos en la Norma de Carácter General Nº 117 del 20 de abril de 2001, o la que la modifique o reemplace, en las especificaciones establecidas en la “Ficha Técnica” que se encuentra disponible en el mencionado módulo y en esta Circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 La información solicitada en la presente Circular deberá ser remitida en archivos electrónicos de acuerdo al siguiente detalle:
 
 | Tipo de información a remitir | Formato de archivo |
@@ -69,9 +63,7 @@ En caso que el fondo presente inversiones en sociedades sobre las cuales manteng
 D) Presentación de Estados Financieros “pro forma” al 31 de diciembre de 2010 y
 plazo de envío Los primeros estados financieros preparados en base a IFRS serán los correspondientes al ejercicio anual finalizado al 31 de diciembre de 2010. Dichos estados financieros tendrán el carácter de “pro forma”, en el sentido que se exceptúa la presentación de su comparativo del ejercicio anterior, debiendo por tanto presentarse sólo información financiera al 31 de diciembre de 2010 y los saldos de inicio al 1° de enero de 2010 para el caso del Estado de Situación Financiera. No obstante lo anterior, se deberá contemplar la información y revelaciones correspondientes a un estado financiero completo y estar auditados.
 Adicionalmente, dentro de las notas explicativas se deberá incorporar una nota de conciliación entre los Principios Contables Generalmente Aceptados en Chile (PCGA) e IFRS, para el Estado de Situación Financiera al 1° de enero de 2010 y 31 de diciembre de 2010 y para el Estado de Resultados Integrales al 31 de diciembre de 2010, siguiendo las instrucciones de IFRS 1.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 El plazo de presentación de los estados financieros “pro forma” referidos al 31 de diciembre de 2010, será hasta el 31 de mayo de 2011.
 E) Modelo ilustrativo de Estados Financieros
 Este Servicio, en su sitio Web, pondrá a disposición de la industria un modelo ilustrativo que servirá de guía y que los fondos podrán considerar para la preparación y presentación de sus estados financieros bajo IFRS. Este modelo incluye las definiciones de las partidas contenidas en el Estado de Situación Financiera y el Estado de Resultados Integrales.
@@ -82,9 +74,8 @@ Derógase a contar del 1° de enero de 2011, la Circular N° 923 del 23 de enero
 ## IV. DISPOSICIÓN TRANSITORA
 En la presentación de los estados financieros “pro forma” bajo IFRS al 31 de diciembre de
 2010, se exceptúa el envío de las carteras de inversión requeridas en el número 7, letra B) de la sección II de la presente Circular.
-### SUPERINTENDENTE SUBROGANTE SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENTE SUBROGANTE SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+### SUPERINTENDENTE SUBROGANTE
+
 ANEXO
 ### NOTAS OBLIGATORIAS A LOS ESTADOS FINANCIEROS
 A continuación, se detalla la información que en forma obligatoria y adicional a las revelaciones requeridas por IFRS, se deberá incorporar en las notas a los estados financieros de los fondos, la cual deberá presentarse en miles de la moneda funcional del fondo y en forma comparativa con el período que corresponda, en la manera que se indica.
@@ -92,9 +83,7 @@ A continuación, se detalla la información que en forma obligatoria y adicional
 Se deberá exponer la política de inversión vigente definida en el Reglamento Interno del fondo, incluyendo la diversificación por tipo de instrumento, los límites de inversión respecto del activo total del fondo y los lugares o sitios en donde el público puede acceder a la información.
 ## 2. Activos Financieros a Valor Razonable con Efecto en Resultados
 En relación con las revelaciones requeridas por IFRS respecto de los activos financieros a valor razonable con efecto en resultados, se deberá agregar el detalle de los saldos de estos activos a la fecha de cierre de los estados financieros que corresponda, expresado en miles de la moneda funcional del fondo, de acuerdo al formato que se expone a continuación:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 Al [indicar fecha de cierre de los estados financieros] se presentan los siguientes instrumentos financieros:
 Composición de la cartera en miles de […]
 
@@ -121,9 +110,7 @@ Composición de la cartera en miles de […]
 | Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 (1) Esta columna se incluirá solo para los estados financieros “pro forma” referidos al 31 de diciembre de 2010.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ## 3. Activos Financieros a Costo Amortizado
 En relación con las revelaciones requeridas por IFRS respecto de los activos financieros a costo amortizado, se deberá agregar el detalle de estos activos a la fecha de cierre de los estados financieros que corresponda, expresado en miles de la moneda funcional del fondo, de acuerdo al formato que se expone a continuación:
 Al [indicar fecha de cierre de los estados financieros], se presentan los siguientes instrumentos financieros:
@@ -142,9 +129,7 @@ Composición de la cartera en miles de […]
 | Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 (1) Esta columna se incluirá solo para los estados financieros “pro forma” referidos al 31 de diciembre de 2010.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ## 4. Inversiones valorizadas por el método de la Participación
 En relación con las revelaciones requeridas por IFRS respecto de las Inversiones valorizadas por el método de la participación, se deberá agregar el detalle de los saldos de estos activos a la fecha de cierre de los estados financieros que corresponda, expresado en miles de la moneda funcional del fondo, de acuerdo al formato que se expone a continuación.
 a) Información financiera resumida de subsidiarias y asociadas
@@ -168,9 +153,6 @@ Al [dd/mm/aaaa] (Período anterior):
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
 Al 1 de enero de 2010 (1):
 
 | Rut | Sociedad | Moneda Funcional | Porcentaje de participación |  | Activos corrientes | Activos no corrientes | Total activos | Pasivos corrientes | Pasivos no corrientes | Total pasivos | Patrimonio | Total ingresos | Total gastos | Resultado del ejercicio |
@@ -193,9 +175,7 @@ Al [dd/mm/aaaa] (Período actual):
 | Total |  |  |  |  |  |  |  |  |  |
 
 Nota: el cuadro incorpora plusvalías de las inversiones
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 Al [dd/mm/aaaa] (Período anterior):
 
 | Rut | Sociedad | Saldo de Inicio | Participación en resultados | Participación en Otros resultados integrales | Resultados no realizados | Adiciones | Bajas | Otros movimientos | Saldo de Cierre |
@@ -226,9 +206,7 @@ c) Plusvalías incluidas en el valor de la inversión:
 |  |  |  |  |
 
 (1) Esta columna se incluirá solo para los estados financieros “pro forma” referidos al 31 de diciembre de 2010.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ## 5. Inversión acumulada en acciones o en cuotas de fondos de inversión
 En el caso que la sociedad administradora tenga a su cargo más de un fondo de inversión de capital extranjero u otros fondos que otras leyes le autoricen administrar, como asimismo, en caso que dos o más administradoras pertenezcan a un mismo grupo empresarial, deberá indicar las inversiones acumuladas en acciones o en cuotas de fondos de inversión emitidas por un mismo emisor, de los fondos administrados. La información, deberá ser proporcionada de acuerdo al siguiente esquema:
 
@@ -254,9 +232,7 @@ Indicar las inversiones que a la fecha de cierre de los estados financieros se e
 (*) Cifras en miles de la moneda funcional del fondo.
 En la columna “Límite excedido”, se deberá indicar si el exceso de inversión corresponde a un exceso sobre el activo total del fondo, capital del emisor, grupo empresarial u otro cualquiera de aquellos establecidos en la ley o en su reglamento interno, según la siguiente codificación:
 ATF, CE, GE y O.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 En la columna “Causa del exceso”, se deberá señalar si éstos corresponden a fluctuación de valores, disminución patrimonial, adquisición de valores u otros motivos, según la siguiente codificación: FV, DP, AV y O.
 Asimismo, se deberá señalar si los excesos informados se produjeron por causas imputables a la sociedad administradora o ajenas a ella, y cualquier otro antecedente que aporte información relevante al respecto.
 ## 7. Custodia de Valores (Norma de Carácter General N° 235 de 2009)
@@ -272,9 +248,6 @@ de la ley N° 18.045) Se deberá informar el detalle de la garantía constituida
 | --- | --- | --- | --- | --- |
 | Dinero efectivo Boleta Bancaria Póliza de seguro | Banco XX Banco YY Compañía de seguros ZZ |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
 ## 11. Gastos de operación
 Detallar el monto, en miles de la moneda funcional del fondo, acumulado en el ejercicio actual y del ejercicio anterior, de los principales conceptos por los cuales el fondo ha incurrido en gastos operacionales, conforme a lo establecido en su respectivo reglamento interno.
 
@@ -299,9 +272,7 @@ siguiente esquema:
 
 (1) Cifras expresadas en miles de la moneda funcional del fondo, sin decimales.
 (2) Cifras expresadas en miles de la moneda que corresponda, sin decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 Fecha inicio: Indicar la fecha en que se realizó la operación.
 Fecha término: Indicar la fecha de materialización del compromiso.
 Valor inicial: Indicar el precio a pagar o a recibir a la fecha de suscripción del compromiso. Esta cifra se deberá expresar en miles de la moneda funcional del fondo, sin decimales, independientemente de la unidad pactada.
@@ -309,9 +280,7 @@ Tasa pacto: Indicar la tasa del compromiso acordada entre las partes. Esta tasa 
 Valor final: Indicar el precio a pagar o a recibir a la fecha de materialización del compromiso, después de aplicar la tasa de interés implícita en la operación. Esta cifra se deberá expresar en miles de la moneda funcional del fondo, sin decimales, independientemente de la unidad pactada.
 Valorización al cierre: Indicar el valor del compromiso a la fecha de cierre de los estados financieros. Esta cifra se deberá expresar en miles de la moneda funcional del fondo, sin decimales.
 Valor de mercado: Indicar el valor de mercado de los instrumentos con compromiso a la fecha de cierre de los estados financieros. Esta cifra se deberá expresar en miles de la moneda que corresponda, sin decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 14. Consolidación de subsidiarias o filiales e información de asociadas o coligadas
 [Los números 1) y 2) de esta nota deberán ser presentados anualmente por aquellos fondos que mantengan inversiones en sociedades sobre las cuales posean control directo, indirecto o por cualquier otro medio al 31 de diciembre y que hayan optado por no presentar estados financieros consolidados requerido por NIC 27, de acuerdo a las disposiciones establecidas en el Oficio Circular N° 592 de fecha 6 de abril de 2010.] Se deberá exponer la información que a continuación se indica:
 1) Información de subsidiarias o filiales Se deberá exponer información de las subsidiarias o filiales del fondo de acuerdo al formato que se expone a continuación:
@@ -327,9 +296,7 @@ FECHA: 31.12.2010
 |  |  |  |  |  | Totales |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 NOTA: La información correspondiente a las subsidiarias o filiales que se exponga deberá corresponder a información de estados financieros consolidados (no individuales) preparados bajo IFRS.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 2) Gravámenes y prohibiciones Indicar los gravámenes y prohibiciones de cualquier naturaleza que afecten a los activos de las subsidiarias y asociadas del fondo de acuerdo al siguiente cuadro:
 [Indicar fechas de cierre respectivas, Período actual – Período anterior, 01-01-2010]
 
@@ -341,9 +308,6 @@ FECHA: 31.12.2010
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | Total |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
 3) Juicios y contingencias Detallar los juicios y contingencias de las subsidiarias y asociadas del fondo señalando al
 menos lo siguiente:
 Juicios: Rol de la causa, tribunal, etapa procesal e instancia, montos comprometidos y las partidas del Estado de Situación Financiera en que se registran los efectos de tales acciones.
@@ -370,9 +334,6 @@ Esta información deberá incluir las sanciones aplicadas en el período compren
 | Estado de tramitación |  |
 | Otros antecedentes |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
 El detalle solicitado, se informará por cada sanción y parte involucrada.
 En caso de no existir sanciones que informar, se deberá señalar expresamente que durante los ejercicios finalizados al 31 de diciembre del período actual y anterior, la sociedad administradora, sus directores o administradores no han sido objeto de sanciones por parte de algún organismo fiscalizador.
 ## 16. Hechos Relevantes
@@ -380,9 +341,7 @@ Se deberá informar todo hecho relevante ocurrido en el período cubierto por lo
 ## 17. Hechos Posteriores
 Se deberá señalar todo hecho significativo, de cualquier naturaleza que pueda producir influencia positiva o negativa en el fondo, ocurrido entre la fecha de cierre de los estados financieros y la fecha en que fueron autorizados para su publicación. En caso de no existir hechos posteriores a informar se deberá señalar expresamente, que entre el [dd/mm/aaaa]
 [indicar período actual] y la fecha de emisión de los estados financieros, no han ocurrido hechos de carácter financiero o de otra índole, que pudiesen afectar en forma significativa, los saldos o la interpretación de los estados financieros que se informan.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ANEXO
 ### ESTADOS COMPLEMENTARIOS OBLIGATORIOS A LOS ESTADOS FINANCIEROS
 A continuación, se adjunta al presente anexo, los estados complementarios obligatorios que deberán ser remitidos por los fondos, a través del Módulo SEIL del sitio Web www.svs.cl.
@@ -404,9 +363,7 @@ Este estado de inversiones clasificadas de acuerdo al grupo empresarial al cual 
 1. Código del grupo: Indicar el código que de acuerdo a la normativa vigente clasifica al emisor
 según el grupo empresarial al cual pertenece, y del cual el fondo posee inversiones.
 Tratándose de sociedades anónimas cerradas el inversionista deberá procurar la información necesaria a fin de clasificar las acciones de la sociedad en el grupo empresarial que corresponda. En caso que el emisor no pertenezca a ningún grupo empresarial, se deberá clasificar el monto total invertido en la línea correspondiente a “Otros sin grupo”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 2. Monto total por grupo: Indicar en esta columna los montos totales invertidos por el fondo, en
 acciones y otros títulos emitidos por las sociedades pertenecientes al grupo empresarial o clasificación señalada en la columna “Código de grupo”.
 3. Estado y Banco Central: Indicar el monto total invertido en instrumentos financieros emitidos o
@@ -428,9 +385,7 @@ Presentar la inversión global del fondo en acciones, según se trate de socieda
 | --- | --- | --- | --- | --- | --- |
 
 (*) En miles de la moneda funcional del fondo, sin decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ### DESCRIPCIÓN DEL CONTENIDO
 Este estado de inversiones clasificadas de acuerdo al emisor para el caso de las acciones y según plazo de vencimiento para los títulos de deuda, se deberá completar con la siguiente información:
 ## 1. ITEM DE LA CLASIFICACIÓN
@@ -454,9 +409,7 @@ de deuda sujetos a operaciones de compromiso, conformado por la suma de las cuen
 “Menor o igual a 4 años” y “Mayor a 4 años”.
 10. Menor o igual a 4 años: Indicar el monto total invertido en títulos de deuda sujetos a
 compromiso, cuyo plazo de vencimiento sea inferior o igual a cuatro años, a contar de la fecha de su adquisición.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 11. Mayor a 4 años: Indicar el monto total invertido en títulos de deuda sujetos a compromiso,
 cuyo plazo de vencimiento sea superior a cuatro años, a contar de la fecha de su adquisición.
 12. Monto invertido: Indicar el monto registrado bajo los ítem de clasificación “Acciones” y “Títulos
@@ -492,9 +445,7 @@ siguiente:
 |  |  |  |
 
 (*) En miles de la moneda funcional del fondo, sin decimales.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ### DESCRIPCIÓN DEL ESTADO DE RESULTADO DEVENGADO Y REALIZADO RESULTADO NETO DEL PERÍODO
 A continuación, se presentan las descripciones de las cuentas que muestran los resultados realizados y no realizados del período:
 1. Dividendos percibidos: Indicar el monto total de los dividendos efectivamente percibidos por
@@ -517,9 +468,7 @@ total de la utilidad (pérdida) devengada en el ejercicio, en operaciones de com
 resultado obtenido por las inversiones que se encuentran valorizadas por el método de la participación.
 10. Remuneración de la sociedad administradora: Corresponde a los gastos del fondo
 devengados o pagados a la sociedad administradora, por concepto de remuneración, durante el ejercicio informado, el que se determinará de acuerdo a las condiciones establecidas en el reglamento interno del fondo, o en el contrato de servicios correspondiente.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 11. Gastos operacionales: Corresponde a los gastos del fondo devengados o pagados durante el
 ejercicio informado, relacionados con su operación y que se encuentren autorizados.
 12. Reajuste y fluctuación de cambio: Indicar el monto neto total de los reajustes devengados
@@ -532,9 +481,7 @@ presentan al cierre del ejercicio anterior, las cuentas de resultado devengadas 
 Al momento de percibir intereses o dividendos o al realizar utilidades o pérdidas en la enajenación de valores o en operaciones de seguro de cambio o compromiso, que se encontraban devengadas al cierre del ejercicio del año anterior, se deberá cargar o abonar esta cuenta, según corresponda, contra la cuenta "Realización de resultado devengado de períodos anteriores", para extinguir o disminuir proporcionalmente, en caso de ser procedente, el saldo que se encontraba devengado.
 15. Realización de resultado devengado períodos anteriores: Esta cuenta se carga o abona
 contra la cuenta "Resultado devengado de períodos anteriores", en la medida que se perciban intereses o dividendos, o se realicen las utilidades o pérdidas por ajustes a mercado, compromisos o contratos de seguro de cambio, y que se encontraban devengadas en períodos anteriores.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ### C) ESTADO DE APORTES Y REMESAS
 Los montos aportados al fondo y los montos remesados en dinero al exterior durante el período informado por concepto de beneficios netos y de capital, son los siguientes:
 
@@ -560,9 +507,7 @@ corresponde a la suma de los valores registrados en los rubros “Aporte inicial
 correspondiente.
 6. Inicial acumulado: Indicar el monto total acumulado de las remesas de capital del fondo, a la
 fecha de cierre del ejercicio anual anterior al informado.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 7. Total período: Indicar el monto total remesado por concepto de capital, durante el período de
 que trata el respectivo estado, y que corresponde a la suma de los valores registrados en los rubros “Remesas de capital” con excepción del registrado en el rubro “Remesa de capital inicial acumulada”.
 8. Total acumulado: Indicar el monto total remesado por el fondo durante toda su existencia, por
@@ -587,9 +532,7 @@ de que trata el respectivo estado, y que corresponde a la suma de los valores re
 16. Total acumulado: Indicar el monto neto total remesado por el fondo durante toda su
 existencia, por concepto de beneficios; cifra que se conforma por la suma de los rubros
 “Remesa neta de beneficio acumulada inicial” y “Total de remesas netas de beneficios del período”.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ANEXO
 ### CARTERAS DE INVERSIÓN
 A continuación, se adjunta al presente anexo, las carteras de inversión obligatorias que deberán ser remitidas por los fondos, a través del Módulo SEIL del sitio Web www.svs.cl.
@@ -608,9 +551,6 @@ Las definiciones que siguen, detallan el contenido y forma en que se deberán in
 | (1) Valores o porcentajes con 4 decimales TOTAL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | TOTAL |  |  |  |  |  |
 | (2) Cifras en miles de la moneda funcional del fondo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
 ### DESCRIPCIÓN DE LA INFORMACIÓN SOLICITADA EN LA CARTERA DE INVERSIONES EN VALORES O INSTRUMENTOS EMITIDOS POR EMISORES NACIONALES
 1. Clasificación del instrumento en el Estado de Situación Financiera: Se deberá indicar la
 cuenta del Estado de Situación Financiera en que se encuentra registrado el instrumento que se informa, de acuerdo a la siguiente codificación:
@@ -634,9 +574,7 @@ CFIP : Cuotas de fondos de inversión privados.
 OT : Otros valores o instrumentos que autorice la Superintendencia.
 6. Fecha de vencimiento: En los casos que corresponda, indicar la fecha de vencimiento del
 instrumento mantenido en cartera por el fondo. Esta corresponderá a la fecha en que se producirá el pago final o el último flujo del título. Cuando no corresponda, no se deberá informar este campo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 7. Situación del instrumento: Indicar si la inversión se encuentra o no sujeta a restricciones, de
 acuerdo a la siguiente codificación:
 1 : Instrumento no sujeto a restricciones
@@ -661,9 +599,7 @@ expresada la cantidad de unidades. Para estos efectos deberá utilizarse la codi
 instrumento de renta fija, o el porcentaje del valor par en el caso de instrumentos de tasa flotante, o el precio con el cual se valorizó el instrumento en el caso de los instrumentos de renta variable. Los porcentajes y valores se deberán expresar con cuatro decimales.
 13. Código de valorización: Indicar el código de valorización a que hace mención la variable “TIR,
 valor par o precio” , de acuerdo a la siguiente codificación:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 1 : TIR
 2 : Porcentaje del valor par
 3 : Precio
@@ -682,9 +618,7 @@ acuerdo a la codificación definida por esta Superintendencia, la cual se encuen
 abiertas, el porcentaje total que representa el número de acciones del emisor correspondiente de propiedad del fondo, respecto del total de acciones pagadas. En el caso de las acciones seriadas, dicho porcentaje se calculará multiplicando el número de acciones de la serie respectiva, por su valor nominal. El resultado obtenido, se deberá dividir por el monto del capital pagado de la sociedad emisora.
 Indicar, para el caso de las cuotas de fondos de inversión, el porcentaje que representa el número de cuotas que posee el fondo sobre el total de cuotas pagadas, de acuerdo a los últimos estados financieros del fondo respectivo.
 Para el caso de cuotas de fondos mutuos, indicar el porcentaje que representa el número de cuotas que posee el fondo sobre el total de cuotas en circulación del fondo, a la fecha de cierre de los estados financieros. En caso que el fondo tenga inversiones en serie de cuotas, dicho porcentaje se calculará multiplicando el número de cuotas por el valor cuota de la serie respectiva. El resultado obtenido, se deberá dividir por el valor del patrimonio del fondo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 Cuando se trate de derechos preferentes de suscripción de acciones o cuotas, se deberá indicar el porcentaje que representa el número de acciones o cuotas de que trata el derecho, sobre el total de acciones o cuotas del emisor considerando que el fondo ejerciera los derechos preferentes antes señalados. Cabe señalar que, para estos efectos, deberá ser considerada la nueva emisión, razón por la cual el porcentaje en cuestión, deberá ser calculado sobre el número original de acciones o cuotas emitidas y pagadas, más la nueva emisión de acciones o cuotas, suponiendo que se suscribe la totalidad de éstas.
 En caso de existir derechos preferentes sobre acciones seriadas, se procederá de igual forma como se señaló anteriormente, considerando para cada serie, el número de acciones que se tendría al ejercer los derechos preferentes de suscripción que le correspondan al fondo.
 Los porcentajes deberán expresarse con cuatro decimales. En el caso de inversiones en instrumentos de renta fija, no se deberá informar este campo.
@@ -694,9 +628,7 @@ porcentaje con cuatro decimales que representa el monto total invertido señalad
 22. Porcentaje del total de activo del fondo: Indicar, para cada una de las inversiones, el
 porcentaje con cuatro decimales que representa el monto total invertido señalado en la variable
 “Valorización al cierre”, respecto del total de activo del fondo informado en el Estado de Situación Financiera.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ## 2. INVERSIONES VALORIZADAS SEGÚN EL MÉTODO DE LA PARTICIPACIÓN
 En esta cartera se deberán indicar las inversiones del fondo en acciones y cuotas de fondos que se encuentren valorizadas según el método de la participación.
 Las definiciones que siguen, detallan el contenido y forma en que se deberán informar los registros correspondientes a esta cartera.
@@ -708,9 +640,6 @@ Las definiciones que siguen, detallan el contenido y forma en que se deberán in
 | (1) Porcentajes con 4 decimales TOTAL |  |  |  |  |  |  |  |  |  |  | TOTAL |  |  |  |  |  |
 | (2) Cifras en miles de la moneda funcional del fondo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
 ### DESCRIPCIÓN DE LA INFORMACIÓN SOLICITADA EN LA CARTERA DE INVERSIONES VALORIZADAS SEGÚN EL MÉTODO DE LA PARTICIPACIÓN
 1. Código ISIN o CUSIP: Se deberá indicar el código ISIN (International Securities Identification
 Number) o CUSIP (Committee on Uniform Securities Identification Procedures) del instrumento.
@@ -735,9 +664,7 @@ corresponda. Las cuotas deberán expresarse con cuatro decimales.
 8. Porcentaje del capital del emisor: Indicar, para el caso de acciones, el porcentaje total que
 representa el número de acciones de propiedad del fondo, del emisor correspondiente, respecto del total de acciones pagadas. En el caso de las acciones seriadas, dicho porcentaje se calculará multiplicando el número de acciones de la serie respectiva, por su valor nominal. El resultado obtenido, se deberá dividir por el monto del capital pagado de la sociedad emisora.
 Indicar, para el caso de las cuotas de fondos de inversión, el porcentaje que representa el número de cuotas que posee el fondo sobre el total de cuotas pagadas, de acuerdo a los últimos estados financieros del fondo respectivo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 Los porcentajes deberán expresarse con cuatro decimales.
 9. Patrimonio del emisor: Indicar el monto correspondiente al patrimonio del emisor, en miles de
 la moneda funcional del fondo sin decimales.
@@ -754,9 +681,7 @@ acuerdo a la codificación definida por esta Superintendencia, la cual se encuen
 15. Porcentaje del total de activo del fondo: Indicar, para cada una de las inversiones, el
 porcentaje con cuatro decimales que representa el monto total invertido señalado en la variable
 “Valorización al cierre” respecto del total de activo del fondo, informado en el Estado de Situación Financiera.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ANEXO
 ### INFORMACIÓN DEL FONDO
 A continuación se adjunta al presente anexo, la información del fondo de carácter obligatorio que deberá ser remitida a través del Módulo SEIL del sitio Web www.svs.cl.
@@ -787,9 +712,6 @@ A continuación se adjunta al presente anexo, la información del fondo de cará
 |  |  |  | MONEDA FUNCIONAL |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
 ### IDENTIFICACIÓN DEL FONDO
 ## 1. Nombre del fondo: Señalar el nombre completo del Fondo de Inversión de Capital Extranjero.
 2. Número Resolución de aprobación Reglamento Interno: Corresponde señalar el N° de
@@ -811,18 +733,13 @@ estados financieros del fondo.
 10. N° Inscripción Registro Empresas de Auditoria Externa: Indicar el número de inscripción en
 el Registro de Empresas de Auditoria Externa que mantiene esta Superintendencia.
 ## 11. Moneda Funcional: Señalar la moneda funcional del fondo.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ANEXO
 ### DECLARACIÓN DE RESPONSABILIDAD
 Se deberá incluir una declaración jurada de responsabilidad respecto de la veracidad de toda la información incorporada en la información financiera anual. En dicha declaración se deberán registrar los nombres de todos los directores que aprobaron la información anual que se presenta y el nombre del gerente general o representante legal de la sociedad administradora.
 Luego del texto de la declaración, deberán registrarse los nombres de los declarantes, sus R.U.T. y sus cargos.
 Cabe señalar que conforme a lo dispuesto en la Norma de Carácter General N° 117 de 2001, la utilización del Sistema de Envío de Información en Línea (SEIL) y la veracidad e integridad de la información que se proporcione a esta Superintendencia, es de responsabilidad de la administración y gerencia general de la sociedad administradora.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.999
-FECHA: 31.12.2010
+
 ANEXO
 ### DICTAMEN DE LOS AUDITORES EXTERNOS
 Informe de la empresa de auditoría externa referido a los estados financieros al ______ Razón Social de la empresa de auditoría externa RUT de la empresa de auditoría externa Nombre de la persona autorizada RUT de la persona autorizada
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

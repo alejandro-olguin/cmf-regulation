@@ -16,7 +16,6 @@ Por tanto, la presente Norma de Carácter General viene en regular la informaci�
 Para objeto de la presente norma se deberán considerar las siguientes definiciones:
 (i) Actividades Inherentes: son aquellas actividades asociadas al giro de la entidad, siendo de tal forma consustanciales a la prestación del servicio de depósito y custodia de valores de oferta pública, a la facilitación de las operaciones de transferencia de dichos valores y sin cuya ejecución, se afectaría el desarrollo del negocio, o se interrumpiría el normal funcionamiento de dichos procesos.
 (ii) Actividades Complementarias: son aquellas actividades que sin ser actividades inherentes cumplen copulativamente las siguientes características: (1) que su realización considere la utilización de los recursos -ya sea humanos, de infraestructura, tecnológicos u otros- que son utilizados para el desarrollo del objeto de la entidad; y; (2) guarden relación con el giro exclusivo encomendado por ley a las entidades de depósito y custodia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 220
 FECHA: 19.08.2008
@@ -30,7 +29,6 @@ Con el mérito de los antecedentes aportados, esta Superintendencia se pronuncia
 De resolverse que una determinada actividad corresponde a una actividad complementaria y que, en consecuencia, puede ser realizada por una entidad de depósito y custodia, esta Superintendencia procederá a emitir una Norma de Carácter General en los términos establecidos en el artículo 1° de la Ley Nº 18.876. En caso contrario, se remitirá un oficio ordinario a la entidad que haya presentado la información requerida, en el que se fundamentará la decisión adoptada.
 ## V. VIGENCIA
 La presente Norma rige a partir de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 220
 FECHA: 19.08.2008
@@ -54,4 +52,3 @@ de la(s) actividad(es) aportan al giro principal de la entidad.
 7. Controles internos y mecanismos de gestión de riesgos: Se deberá indicar la existencia de
 mecanismos mitigadores de los riesgos mencionados en el numeral anterior. Especial referencia debe hacerse a los controles internos, tanto específicos como compartidos con otras actividades desarrolladas, contemplados para la mitigación de riesgos asignables a esta actividad.
 En caso que no se cuente con alguna de la información requerida, se deberá indicar el motivo de dicha situación y el plazo en el que se estima se tendrá dicha información.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

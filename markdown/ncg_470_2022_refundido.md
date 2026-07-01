@@ -74,11 +74,13 @@ El Sistema y las compañías de seguros deberán contar con un uptime de disponi
 No se computará en el downtime las suspensiones temporales del Sistema, debidamente informadas a la Comisión.
 El Sistema deberá incorporar, al menos, el uso de certificados con llaves públicas y privadas, con el fin de contar con mecanismos que resguarden la confidencialidad, integridad, autenticación, no repudio y control de acceso en la transmisión de la información.
 Se entenderá por:
- Confidencialidad: Si la información contenida en las transmisiones sólo puede ser conocida y recibida por el o los destinatarios del mensaje.
- Integridad: Si la información no es alterada durante la transmisión.
- Autenticación: Si el destinatario puede verificar la identidad del emisor.
- No repudio: Si el emisor de la información no puede negar su autoría y contenido.
- Control de acceso: Si sólo pueden tener acceso al Sistema aquellas personas que cuenten con la autorización necesaria y sólo respecto a las áreas que les compete o en las que se encuentren autorizadas.
+• Confidencialidad: Si la información contenida en las transmisiones sólo puede ser conocida y
+recibida por el o los destinatarios del mensaje.
+• Integridad: Si la información no es alterada durante la transmisión.
+• Autenticación: Si el destinatario puede verificar la identidad del emisor.
+• No repudio: Si el emisor de la información no puede negar su autoría y contenido.
+• Control de acceso: Si sólo pueden tener acceso al Sistema aquellas personas que cuenten con
+la autorización necesaria y sólo respecto a las áreas que les compete o en las que se encuentren autorizadas.
 Las compañías de seguros deberán mantener bases de datos actualizadas con información de las pólizas y cláusulas adicionales respecto de las cuales mantengan obligaciones vigentes y deberán proporcionar la información necesaria para la operación del SICS, en los términos descritos en el Anexo Técnico de esta norma.
 Las compañías deberán proporcionar al consultante, información actualizada con un plazo no
 5

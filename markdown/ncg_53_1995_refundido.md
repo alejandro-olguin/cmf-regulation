@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARACTER GENERAL N°53 — FECHA :02.01.1995
+# NCG N° 53 — ESTABLECE FACTORES Y MECANISMOS ESPECIFICOS PARA EL CALCULO DEL MARGEN DE SOLVENCIA.
 
 
 Esta Superintendencia, en uso de sus facultades legales y considerando lo dispuesto en el Nº 2 de la letra f) del artículo 1º del DFL 251, de 1931, ha resuelto dictar la presente Norma de Carácter General que establece los factores y mecanismos específicos para el cálculo del Margen de Solvencia por parte de las entidades aseguradoras y
@@ -350,21 +350,6 @@ MARGEN DE SOLVENCIA-SEGUROS GENERALES (cifras en miles de pesos) CUADRONº 1: PR
 
 | INCENDIO | VEHICULOS | OTROS | INCENDIO | OTROS |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |

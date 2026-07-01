@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# INFORMACIÓN QUE LAS EMPRESAS PÚBLICAS DEBEN REMITIR EN CONFORMIDAD A LA LEY N° 20.285 SOBRE ACCESO A LA INFORMACIÓN PÚBLICA. DEROGA CIRCULAR N° 1.936 DE 12 DE AGOSTO DE 2009.
+# CIRCULAR N° 1954 — INFORMACIÓN QUE LAS EMPRESAS PÚBLICAS DEBEN REMITIR EN CONFORMIDAD A LA LEY N° 20.285 SOBRE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### CIRCULAR N° 1.954
-FECHA: 03.12.2009
 
 Para todas las empresas públicas creadas por Ley y empresas del Estado y sociedades en que tenga participación accionaria superior al 50% o mayoría en el directorio Esta superintendencia en virtud de lo dispuesto en el inciso cuarto del artículo 10° de la Ley N° 20.285 sobre Acceso a la Información Pública, que señala que “Las empresas a que se refiere este artículo, cualquiera sea el estatuto por el que se rijan, estarán obligadas a entregar a la Superintendencia de Valores y Seguros o, en su caso, a la Superintendencia a cuya fiscalización se encuentren sometidas, la misma información a que están obligadas las sociedades anónimas abiertas de conformidad con la Ley N° 18.046”; ha estimado conveniente dictar las siguientes instrucciones.
 ## I. INFORMACIÓN REQUERIDA Y PROCEDIMIENTO DE ENVÍO INFORMACIÓN REQUERIDA
@@ -19,10 +17,8 @@ Para tal efecto las entidades deberán informarse de cualquier modificación, ta
 La normativa vigente emitida por esta Superintendencia, ya sea a través de Normas de Carácter General, Circular, Oficios Circulares, etc., referidas a las sociedades inscritas en el Registro de Valores pueden ser obtenidas del sitio Web de esta Superintendencia de Valores y Seguros en el link www.svs.cl, seleccionando el título “Legislación y Normativa” y luego elegir la opción “Normativa SVS”.
 #### A. INFORMES Y ESTADOS FINANCIEROS TRIMESTRALES Y ANUALES
 A.1 Instrucciones generales Las entidades deberán preparar y presentar a esta Superintendencia sus estados financieros individuales y consolidados en la oportunidad que corresponda, de acuerdo
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.954
-FECHA: 03.12.2009
-con las instrucciones impartidas por las Circulares N°s 1.051 y 1.533 y sus modificaciones respectivas.
+1 con las instrucciones impartidas por las Circulares N°s 1.051 y 1.533 y sus
+modificaciones respectivas.
 La información financiera, se deberá presentar en miles de pesos o en miles de dólares, según corresponda y en forma comparativa con igual período del ejercicio anterior Los informes deberán ser preparados utilizando el sofware FECU S.A. y ser enviados a través del módulo SEIL, acompañados de una declaración jurada de responsabilidad respecto de la veracidad de toda la información incorporada en los estados financieros trimestrales y anuales. En dicha declaración se deberán registrar los nombres de todos los directores que aprobaron la información trimestral y anual que se presenta, debiendo corresponder al menos a la misma mayoría de directores requerida por los estatutos sociales para la adopción de acuerdos de directorio, y también el nombre del gerente general o quien haga sus veces, tratándose de sociedades anónimas. En caso de otras entidades, se deberá señalar el nombre de las personas que hayan aprobado la información trimestral y anual que se presenta, y que de acuerdo al pacto social o a las normas que le resulten aplicables, representan válidamente a la entidad y el nombre del gerente general o de las personas que hagan sus veces.
 Luego del texto de la declaración, deberán registrarse los nombres de los declarantes, sus R.U.T,, y sus cargos.
 A.2 Plazo de Presentación
@@ -41,9 +37,7 @@ correspondientes a los estados financieros al 30 de junio de cada ejercicio.
 ## 3. Estados financieros trimestrales y anuales:
 - Balance general
 - Estado de resultados
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.954
-FECHA: 03.12.2009
+
 - Estado de flujo de efectivo
 - Notas explicativas a los estados financieros
 ## 4. Análisis razonado de los estados financieros
@@ -57,9 +51,6 @@ A esta Superintendencia deberán enviarse dos ejemplares de la memoria anual, en
 B.2. Contenido de la Memoria La memoria anual deberá incluir toda la información requerida para estos efectos en la letra C.”, de la Sección II de la Norma de Carácter General N° 30 de 1989, que a modo de ejemplo incorpora entre otros aspectos los siguientes:
 a) Identificación de la identidad: Identificación básica, documentos constitutivos,
 correo electrónico, dirección administrativa y comercial, número de teléfono. etc.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.954
-FECHA: 03.12.2009
 b) Propiedad: Identificación de los 12 mayores accionistas, socios, etc., indicando
 para cada uno de ellos el nombre completo, número de acciones y/o porcentajes de participación. La información deberá presentarse actualizada a la fecha de cierre del ejercicio que comprenda la memoria.
 c) Administración y personal: Directores o administradores, principales ejecutivos y
@@ -85,9 +76,7 @@ caso, debidamente certificadas por el gerente, o la personas que haga sus veces,
 2. Toda modificación estatutaria de la entidad dentro del plazo de diez días hábiles contado
 desde que ella se hubiere reducido a escritura pública, acompañando copia autorizada de la respectiva escritura.
 Asimismo, dentro de dicho plazo contado desde que se hubiere practicado la última gestión de legalización, deberá remitirse copia de ésta y u n ejemplar de sus estatutos actualizados, firmado por el gerente general o quien haga sus veces, en los términos del artículo 7° de la Ley 18.046.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.954
-FECHA: 03.12.2009
+
 3. Los cambios de los accionistas o socios de las entidades públicas, deberán informarse a
 esta Superintendencia dentro del plazo de 10 días de ocurrido el hecho.
 4. Comunicación establecida en el artículo 63° de la ley 18.046, la cual sólo resulta
@@ -106,9 +95,7 @@ Finalmente, para las entidades inscritas en el Registro de Valores que ya han en
 Los artículos 60° de la ley 18.575; 37° de la ley 18.046; 19° del D.S. N° 99 de 2000, y 17° del D.S. N° 45 del 2006, ambos del Ministerio Secretaria General de la Presidencia, regulan la Declaración de Interés y Patrimonio.
 1. La entidad deberá enviar copia de la constancia de la recepción por parte de la
 Contraloría General de la República o la Contraloría Regional, según corresponda, de entrega de Declaración de Intereses, de acuerdo a Oficio Circular N° 349 de fecha 21 de junio de 2006, dentro del plazo de 10 días contados desde la fecha del envío de la declaración a la respectiva Contraloría, en los términos señalados en la letra h) del numeral I., del referido Oficio Circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
-### SUPERINTENDENCIA DE VALORES Y SEGUROS CIRCULAR N° 1.954
-FECHA: 03.12.2009
+
 2. Los Directores y Gerentes de las entidades públicas deberán enviar copia de la
 constancia de la recepción por parte de la Contraloría General de la República o la Contraloría Regional, según corresponda, de entrega de Declaración de Patrimonio, de acuerdo a Oficio Circular N° 349 de fecha 21 de junio de 2006, dentro del plazo de 10 días contados desde la fecha del envío de la declaración a la respectiva Contraloría, en la forma indicada en el numero 1 del numeral II.-, de la citada normativa.
 3. Las entidades públicas deberán informar a esta Superintendencia cualquier renuncia,
@@ -120,4 +107,3 @@ Derógase la Circular N° 1.936 de fecha 21 de agosto de 2009.
 ## V. VIGENCIA
 Las disposiciones contenidas en la presente Circular comenzarán a regir a contar de esta fecha.
 Sin perjuicio de lo anterior, lo establecido en la Sección I, letra C), entrará en vigencia a partir del 1° de enero de 2010, junto con las modificaciones introducidas por la Ley 20.382. En el intertanto, los hechos esenciales deben entenderse referidos al artículo 44 de la Ley 18.046, aplicable también a aquellas operaciones señaladas en el artículo 93 de la misma ley.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# 1. INSTRUYE SOBRE PLANES DE INVERSION CON SISTEMAS DE APORTES REGULADOS POR CONTRATOS DE SUSCRIPCION DE CUOTAS. 2. DEROGA CIRCULAR N° 1.608 DE 2002.
+# CIRCULAR N° 1754 — INSTRUYE SOBRE PLANES DE INVERSION CON SISTEMAS DE APORTES REGULADOS POR CONTRATOS DE SUSCRIPCION DE CUOTAS.
 
-### CIRCULAR N° 1.754
-FECHA: 21.06.2005
 
 Para todas las sociedades que administran fondos mutuos Esta Superintendencia, en uso de sus facultades, ha estimado conveniente dictar normas relativas a planes de inversión con sistemas de aportes regulados por contratos de suscripción de cuotas:
 ## I. NORMAS SOBRE SISTEMAS DE APORTES
@@ -16,8 +14,7 @@ Lo expuesto en los dos párrafos precedentes, es sin perjuicio de las comunicaci
 Los sistemas de recaudación, sólo podrán ser implementados a través de descuentos por planilla, cuando los empleadores de los respectivos aportantes, hayan sido designados por la administradora como agentes colocadores. Sin embargo, no será necesaria esta designación, tratándose de la contratación de planes de ahorro previsional voluntario.
 Por otra parte, si los sistemas de recaudación contemplaren la utilización de cargos en cuentas corrientes, cuentas vista u otra modalidad de endeudamiento para la adquisición de cuotas de un fondo mutuo, como por ejemplo, cargos en líneas de crédito bancarias o cargos en estados de cuentas de tarjetas de crédito de las cuales el partícipe sea titular, la sociedad deberá incorporar la descripción del sistema de recaudación a utilizar en los reglamentos internos de los fondos que operen con ellos; debiendo quedar claramente establecida la oportunidad en que se efectuará el cargo correspondiente y la oportunidad en que se entenderá hecho el aporte.
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N° 1.754
-FECHA: 21.06.2005
+
 ## II. DEROGACION
 Deróguese la Circular N° 1.608 de 5 de julio de 2002.
 ## III. VIGENCIA

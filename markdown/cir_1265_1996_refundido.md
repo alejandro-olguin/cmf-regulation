@@ -270,15 +270,6 @@ continuación se indica:
 | Nº DE ROL | ARREN DAT. | FECHA CONTRATO | VALOR NOMINAL | VALOR CUOTA | VALOR OPCION | TASA INTER. | DURAC. CONTRAT. | PERIODO PAGO (MES TRIMEST.) | UNIDAD REAJ. | INTERES. POR RECIBIR | VALOR ACTUAL | OPCION COMPRA ADELANT (SI/NO) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-
-|  |  |
-| --- | --- |
-
-|  |  |
-| --- | --- |
-
-|  |  |
-| --- | --- |
 g) Operaciones de Cobertura de Riesgo Financiero: se deberá informar acerca de las operaciones de
 cobertura de riesgo financiero realizadas por la compañía, que afecten a sus cartera de inversiones y a su estructura de activos y pasivos.
 La información sobre las operaciones vigentes al 31 de diciembre, deberá publicarse en cuadros del Oficio Circular Nº 4.936 del 15 de noviembre de 1995.

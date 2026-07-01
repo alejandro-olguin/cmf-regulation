@@ -23,7 +23,6 @@ d) Requisitos mínimos que deberían cumplir los corredores de bolsa para partic
 operaciones de valores extranjeros. Entre éstos, se considerará al menos, lo dispuesto en la sección II de esta norma.
 e) Requisitos mínimos que deberán cumplir sus corredores miembros para patrocinar la
 inscripción de valores en el Registro de Valores Extranjeros.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 240
 FECHA: 11.01.2009
@@ -41,7 +40,6 @@ Se entenderán efectuadas en bolsa de valores nacionales aquellas transacciones 
 Los corredores de bolsa para participar en la intermediación de valores extranjeros, deberán cumplir con los siguientes requisitos:
 1. Los intermediarios que realicen operaciones en este mercado bursátil podrán ofrecer servicios
 de custodia de valores, quedando establecido que la elección de la custodia es un derecho del inversionista, el que siempre podrá decidir donde y quien realizará la custodia de los valores de oferta pública adquiridos en esta bolsa, dentro de las siguientes alternativas:
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 240
 FECHA: 11.01.2009
@@ -59,7 +57,6 @@ Adicionalmente, los emisores de valores extranjeros podrán llevar a cabo fuera 
 ## 2. TÍTULOS EMITIDOS POR VEHÍCULOS DE INVERSIÓN COLECTIVA
 Las operaciones de mercado primario de títulos emitidos por vehículos de inversión colectiva de capital variable, podrán efectuarse fuera de bolsa por corredores que actúen en su calidad de agente colocador y/o de agente de rescate y transferencia de los respectivos títulos.
 Para estos efectos, se entenderá como operaciones de mercado primario, tanto las colocaciones primarias como el rescate de los recursos o devolución del capital invertido Con todo, dichos títulos deberán encontrarse previamente registrados en la bolsa de la cual e o los respectivos corredores sean miembros, debiendo esta operaciones sujetarse a los requerimientos de información que al efecto establezca la bolsa respectiva.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 240
 FECHA: 11.01.2009
@@ -74,7 +71,6 @@ El Agente de Rescate y Transferencia deberá constituir una garantía previa al 
 Las funciones de Agente Colocador y de Agente de Rescate y de Transferencia podrán ser desempeñadas por un mismo Agente, pudiendo en todo caso, realizarlas el representante del vehículo de inversión colectiva, en la medida que éste sea una agencia en Chile del emisor, constituida de acuerdo al Títulos IX de la Ley N° 18.046. El requerimiento de garantía por el ejercicio simultáneo de las funciones antes mencionadas, será de un monto único de 500.000 dólares de los Estados Unidos de Norteamérica.
 ### SECCIÓN IV DISPOSICIONES VARIAS
 Las instrucciones contenidas en la presente norma son necesariamente de aplicación general. Por tal razón, ante situaciones particulares que se planteen en relación con estas materias, deberá consultarse previa y oportunamente a esta Superintendencia.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 NORMA N° 240
 FECHA: 11.01.2009
@@ -84,4 +80,3 @@ FECHA: 11.01.2009
 1999 y sus modificaciones contenidas en las Normas de Carácter General N°89 de 9 de
 diciembre de 1999; numeral 1 de la Norma de Carácter General N° 120 de 16 de agosto de
 2001, y Norma de Carácter General N° 142 de 29 de mayo de 2002.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

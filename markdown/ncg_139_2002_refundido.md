@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 139 — FECHA: 30.04.2002
+# NCG N° 139 — NORMAS RELATIVAS A LA CONTRATACION DE REASEGUROS Y REGISTRO DE CORREDORES DE REASEGURO
 
 
 Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en el artículo 16 del D.F.L.
@@ -26,7 +26,6 @@ Tal clasificación deberá haber sido efectuada por, al menos, dos entidades cla
 
 Se considerará como entidad extranjera de reaseguro, toda entidad que estuviere facultada en su país de origen para aceptar riesgos provenientes de compañías de seguros. Se incluye en esta definición al mercado de seguros Lloyd’s de Londres.
 Las entidades extranjeras de reaseguro deberán designar y mantener un representante, con residencia en
-### COMISIÓN PARA EL MERCADO FINANCIERO
 
 Chile, que las represente con amplias facultades, pudiendo incluso ser emplazado en juicio. Se deberá enviar a la Superintendencia, dentro de los 10 días siguientes a su designación o cambio, copia protocolizada del poder otorgado al representante, el que deberá contener todas las facultades señaladas en ambos incisos del artículo 7º del Código de Procedimiento Civil, incluida la de ser emplazado en juicio. En la correspondiente comunicación, se deberá indicar además, la dirección, teléfono y fax o e-mail del representante, información que se deberá mantener actualizada.
 No obstante lo anterior, no será necesaria la designación de un representante, si el reaseguro se efectúa a través de un corredor de reaseguro inscrito en la Superintendencia, el que, para todos los efectos legales, en especial en relación con la aplicación y cumplimiento del contrato de reaseguro, será considerado como representante legal de los reaseguradores externos suscriptores del contrato de reaseguro, con amplias facultades, pudiendo incluso ser emplazado en juicio.
@@ -42,4 +41,3 @@ La presente norma rige para todos los contratos de reaseguro que se suscriban a 
 2002 y deroga, a partir de esa fecha, la Circular Nº 756, de 31 de diciembre de 1987.
 ## 4. DISPOSICION TRANSITORIA
 Todos aquellos corredores de reaseguro, que a la fecha de entrada en vigencia de esta Norma, se encuentren inscritos en el Registro de Corredores de Reaseguro Nacionales y Extranjeros y Reaseguradores Extranjeros, que lleva esta Superintendencia, y que cumplan los requisitos establecidos en esta Norma, se entenderán inscritos en el Registro de Corredores de Reaseguro Extranjero señalado en el artículo 16 del D.F.L. Nº251, de 1931.
-### COMISIÓN PARA EL MERCADO FINANCIERO

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1765 — 1
+# CIRCULAR N° 1765 — ESTABLECE PROCEDIMIENTO PARA REGULARIZAR EXCESO DE INVERSION EN CUOTAS DE FONDOS MUTUOS DE PERSONAS SEÑALADAS EN EL ARTICULO 12 A DEL D.L
 
 
 Para todas las sociedades que administran fondos mutuos Esta Superintendencia, en uso de sus facultades legales, ha estimado conveniente emitir las siguientes instrucciones, en relación a las disposiciones contenidas en el artículo 12 A del Decreto Ley Nº 1.328, de

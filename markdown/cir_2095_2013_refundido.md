@@ -3,10 +3,10 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 2095 — FECHA :1.02.2013
+# CIRCULAR N° 2095 — ESTABLECE NORMAS PARA EL ENVÍO DE INFORMACIÓN DE SEGUROS DE INVALIDEZ Y SOBREVIVENCIA A todas las entidades aseguradoras del segundo grupo
 
-REF: ESTABLECE NORMAS PARA EL ENVÍO DE INFORMACIÓN DE SEGUROS DE INVALIDEZ Y
-SOBREVIVENCIA A todas las entidades aseguradoras del segundo grupo Esta Superintendencia en uso de sus facultades legales ha estimado oportuno impartir las instrucciones que se señalan a continuación, las que están dirigidas a todas las entidades aseguradoras del segundo grupo, que operan o han operado con el Seguro de Invalidez y Sobrevivencia establecido en el D.L. Nº 3.500, de 1980, en contratos con vigencia a contar del 1de julio de 2009.
+
+Esta Superintendencia en uso de sus facultades legales ha estimado oportuno impartir las instrucciones que se señalan a continuación, las que están dirigidas a todas las entidades aseguradoras del segundo grupo, que operan o han operado con el Seguro de Invalidez y Sobrevivencia establecido en el D.L. Nº 3.500, de 1980, en contratos con vigencia a contar del 1de julio de 2009.
 ## I. INTRODUCCIÓN
 Las entidades aseguradoras que operen o han operado con el seguro de Invalidez y sobrevivencia establecido en el D.L. Nº 3.500, de 1980; en contratos con vigencia a contar del primero de julio de 2009, mientras mantengan responsabilidad por ellos; deberán enviar a esta Superintendencia, la información que a continuación se indica relativa a los contratos de este seguro que hayan comenzado a operar a contar de dicha fecha.
 ## II. INFORMACIÓN A ENVIARRELATIVA A DETALLEDE SINIESTROS DE SEGUROS DE INVALIDEZ Y SOBREVIVENCIA, DATOS DE PROBABILIDADES Y GASTOS DE LIQUIDACIÓN

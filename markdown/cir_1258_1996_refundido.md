@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1258 — IMPARTE INSTRUCCIONES PARA DETERMINAR EL VALOR ECONOMICO DE LA CUOTA DE LOS FONDOS DE INVERSION
+# CIRCULAR N° 1258 — IMPARTE INSTRUCCIONES PARA DETERMINAR EL VALOR ECONOMICO DE LA CUOTA DE LOS FONDOS DE INVERSION.
 
 
 Para todas las sociedades administradoras de fondos de inversión.
@@ -26,7 +26,6 @@ considerarán las oportunidades de crecimiento de la firma (nuevas áreas de neg
 d) En el caso de sociedades sin historia, el valor económico del proyecto se deberá reflejar
 en proporción a su grado de avance, el cual se medirá como la razón entre la suma de los desembolsos efectivos destinados al proyecto, respecto del monto total de la inversión involucrada.
 El fondo de inversión deberá incluir en notas explicativas a los estados financieros un detalle de sus inversiones en este tipo de acciones, las cuales se presentarán valoradas de acuerdo a sus estados financieros y a su valor económico, presentándose en este último caso, las cifras de los dos informes de los consultores o auditores, que efectuaron la valoración.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 2) Bonos no inscritos en el Registro de Valores y bonos no registrados como valores de oferta pública en el extranjero a que se refieren los números 8) y 22) del artículo 5º de la Ley Nº
 18.815.
@@ -43,4 +42,3 @@ Las inversiones realizadas en este tipo de instrumentos deberán valorizarse en 
 ### VALOR ECONOMICO DE LA CUOTA
 El valor económico de la cuota corresponderá al cuociente entre el patrimonio ajustado a valor económico, utilizando la valorización económica más conservadora, y el número de cuotas en circulación.
 VIGENCIA La presente Circular rige a contar de esta fecha.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

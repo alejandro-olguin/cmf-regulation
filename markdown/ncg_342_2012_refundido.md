@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# REGULA EL SISTEMA DE INFORMACIÓN DE CONSULTAS DE SEGUROS, ESTABLECIDO EN EL ARTÍCULO 12 DEL D.F.L. N° 251, DE 1931. A todas las compañías de seguros del primer y segundo grupo 1. Objeto de la Norma.
+# NCG N° 342 — REGULA EL SISTEMA DE INFORMACIÓN DE CONSULTAS DE SEGUROS, ESTABLECIDO EN EL ARTÍCULO 12 DEL D.F.L
 
-NORMA DE CARÁCTER GENERALN° 342
-FECHA :11.12.2012
 
 La presente Norma tiene por objeto regular el Sistema de Información de Consultas de Seguros, en adelante el
 “Sistema”, contenido en el artículo 12 del D.F.L. N° 251, de 1931, estableciendo la forma y requerimientos que deben cumplir las personas que consulten al Sistema y los medios dispuestos para el envío de la solicitud de información, el formato y contenidos de los datos que las aseguradoras deben proporcionar al Sistema, y los plazos para la entrega de la información de parte de las compañías de seguros y de respuesta a los consultantes.
@@ -26,8 +24,6 @@ Sobre la base de los antecedentes aportados, la Superintendencia calificará la 
 La Superintendencia remitirá los antecedentes a las compañías aseguradoras para que informen los seguros consultados. La Superintendencia siempre proporcionará a la compañía el RUT/RUN del asegurado o la placa patente, en caso de consultas sobre Seguro Obligatorio de Accidentes Personales (SOAP).
 El medio y formato a través del cual se enviarán los antecedentes señalados, seránlos establecidos en el Anexo
 
-NORMA DE CARÁCTER GENERALN° 342
-FECHA :11.12.2012
 Técnico a esta Norma, el que está disponible en el sitio web de la Superintendencia.
 Ante la consulta debidamente notificada, las compañías de seguros deberán dar respuesta a la Superintendencia, a través del Sistema, dentrodel plazo de 10 días hábiles, contados desde la recepción de la solicitud en la compañía.
 ## 5. Obligaciones de las compañías de seguros.
@@ -57,8 +53,6 @@ Las respuestas de las compañías de seguros no contendrán información sobre e
 ## 7. Respuesta al consultante.
 Una vez recibidas las respuestas de las compañías de seguros, en caso que el consultante haya requerido ser informado por correo electrónico, la Superintendencia entregará la información por esa vía. En caso que el consultante haya requerido ser informado por correo postal, la Superintendencia enviará por carta certificada un oficio con la información recibida. La respuesta se remitirá dentro de un plazo no superior a 30 días, contado desde que es recibida la consulta en la Superintendencia.
 
-NORMA DE CARÁCTER GENERALN° 342
-FECHA :11.12.2012
 La respuesta entregada al consultante se referirá a la existencia o inexistencia de seguros contratados respecto de la persona o placa patente indicada. En caso de existencia de seguros contratados, la Superintendencia entregará la información señalada en el número 6 de la presente Norma.
 ## 8. Requerimientos rechazados.
 En caso que el consultante no cumpla con los requisitos señalados en el número 3 precedente o no entregue los documentos quele haya solicitado la Superintendencia, éstapodrá rechazar el requerimiento. La comunicación del rechazo se remitirá dentro de un plazo no superior a treinta días, contado desde que es recibida la consulta en la Superintendencia, por el mismo medio señalado en el número 7 precedente.

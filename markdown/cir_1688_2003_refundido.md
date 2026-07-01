@@ -21,7 +21,6 @@ A continuación se entrega una explicación de los antecedentes a informar por c
 de la sociedad:
 1. RUT Sociedad Anónima: rol único tributario de la sociedad que está haciendo el envío de
 la información, incluyendo el dígito verificador.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 CIRCULAR Nº 1.688
 FCHA: 26.11.2003
@@ -53,7 +52,6 @@ indicar su razón social en este campo.
 accionista, informado sin separador de miles.
 15. Número de acciones pagadas: número total de acciones pagadas de propiedad de cada
 accionista, informado sin separador de miles.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS
 
 CIRCULAR Nº 1.688
 FCHA: 26.11.2003
@@ -63,4 +61,3 @@ Conforme a lo dispuesto en la Norma de Carácter General N° 117 de 20 de abril 
 Las instrucciones establecidas en esta circular rigen a contar de esta fecha.
 ## VI. TRANSITORIO
 Las sociedades administradoras de fondos de terceros fiscalizados por esta Superintendencia, deberán remitir la información relativa a sus accionistas referida al 30 de septiembre de 2003, en un plazo de 15 días corridos, contado desde la fecha de emisión de la presente circular.
-### SUPERINTENDENCIA DE VALORES Y SEGUROS

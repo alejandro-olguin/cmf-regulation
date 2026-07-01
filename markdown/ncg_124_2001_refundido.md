@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# NORMA DE CARÁCTER GENERAL N° 124 — FECHA: 22.11.2001
+# NCG N° 124 — ESTABLECE NORMAS RELATIVAS AL DEPÓSITO DE POLIZAS Y DISPOSICIONES MÍNIMAS DE CONTRATOS DE SEGURO
 
 
 Para todo el mercado asegurador Esta Superintendencia, en conformidad a lo dispuesto en la letra e) del artículo 3º del D.F.L. 251, de
@@ -153,15 +153,6 @@ del año de depósito del texto en cuestión.
 d) Campo Nº 4: Este campo tiene un largo de tres (3) caracteres y corresponde a un código
 correlativo anual otorgado por la Superintendencia.
 De tal modo este código tiene la siguiente forma:
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-
-|  |  |  |
-| --- | --- | --- |
-
-|  |  |  |
-| --- | --- | --- |
 
 ### TIPO DE TEXTO GRUPO AÑO CORRELATIVO
 Así entonces un texto depositado con el código CAD 1 01 009, se trata de una cláusula adicional para una o más pólizas de uso exclusivo de compañías del primer grupo, registrada en el año

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# INSTRUYE SOBRE: I) ACTUALIZACION DE CLASIFICACIONES DE RIESGO DE VALORES DE OFERTA PUBLICA. II) CONTENIDO Y PERIODICIDAD DE ENVIO DE INFORMACION Y DOCUMENTACION A ESTA COMISIÓN. DEROGA CIRCULARES Nº 802 DE 1988 Y Nº 942 DE 1990. A entidades clasificadoras de riesgo.
+# CIRCULAR N° 1535 — INSTRUYE SOBRE: I) ACTUALIZACION DE CLASIFICACIONES DE RIESGO DE VALORES DE OFERTA PUBLICA
 
-CIRCULAR Nº 1.535
-FECHA: 27.03.2001
 
 Esta Comisión, en uso de sus facultades legales, ha estimado necesario impartir las siguientes instrucciones referentes al envío de información a ésta, la cual deberá efectuarse a través de CMF Supervisa, de acuerdo a las instrucciones establecidas en la presente circular y las especificaciones establecidas en la “Ficha Técnica” que se encuentra disponible en el sitio web de esta Comisión. (1)
 ### I.- ACTUALIZACIÓN DE CLASIFICACIONES DE RIESGO DE VALORES DE OFERTA PÚBLICA. (2)
@@ -21,11 +19,8 @@ Cuando se clasifique un valor por primera vez, la entidad informante deberá env
 (1) Párrafo sustituido por Circular N° 2086, de 12 de septiembre de 2012, y modificado por la NCG N°515, de 2024.
 (2) Instrucción sustituida por Circular N° 2086, de 12 de septiembre de 2012.
 (3) Instrucción sustituida por Circular N° 2086, de 12 de septiembre de 2012.
-1
-
-CIRCULAR Nº 1.535
-FECHA: 27.03.2001
-para proyectar los estados financieros; el efecto de las apreciaciones cualitativas incidentes, entendiendo por aquellas cuya consideración afectan positiva o negativamente la clasificación del emisor y/o los valores clasificados; el significado de la categoría de riesgo asignada y su equivalencia con las de artículo 88 de la Ley N° 18.045, si ellas fueran distintas; una nota que señale textualmente: “La opinión de las entidades clasificadoras no constituye en ningún caso una recomendación para comprar, vender o mantener un determinado instrumento. El análisis no es el resultado de una auditoría practicada al emisor, sino que se basa en información pública remitida a la Comisión para el Mercado Financiero, a las bolsas de valores y en aquella que voluntariamente aportó el emisor, no siendo responsabilidad de la clasificadora la verificación de la autenticidad de la misma.”; así como cualquier otro antecedente que la clasificadora estime relevante para la correcta interpretación de los resultados de las clasificaciones informadas y difundidas.
+1 para proyectar los estados financieros; el efecto de las apreciaciones cualitativas
+incidentes, entendiendo por aquellas cuya consideración afectan positiva o negativamente la clasificación del emisor y/o los valores clasificados; el significado de la categoría de riesgo asignada y su equivalencia con las de artículo 88 de la Ley N° 18.045, si ellas fueran distintas; una nota que señale textualmente: “La opinión de las entidades clasificadoras no constituye en ningún caso una recomendación para comprar, vender o mantener un determinado instrumento. El análisis no es el resultado de una auditoría practicada al emisor, sino que se basa en información pública remitida a la Comisión para el Mercado Financiero, a las bolsas de valores y en aquella que voluntariamente aportó el emisor, no siendo responsabilidad de la clasificadora la verificación de la autenticidad de la misma.”; así como cualquier otro antecedente que la clasificadora estime relevante para la correcta interpretación de los resultados de las clasificaciones informadas y difundidas.
 Adicionalmente, a lo menos una vez en el año, dentro de los cinco primeros días hábiles del mes definido en el calendario de envío de reseñas, la entidad deberá enviar una reseña anual respecto de cada emisor y/o valor de oferta pública clasificado.
 No obstante la periodicidad indicada, si en un mes que no sea aquel en que la clasificadora deba enviar la reseña anual, la clasificación de un determinado instrumento o su tendencia cambiare debido a nueva información, a un cambio de criterios o a otros motivos, deberá remitirse una nueva reseña que detalle la información que fuere determinante en el cambio de clasificación. Sólo en estos casos, la clasificadora estará facultada para enviar un comunicado como reseña de clasificación en consideración a que las razones que justifican la acción quedan suficientemente expuestas en dicho documento, indicando claramente que se trata de un cambio de clasificación como también la anterior y nueva categoría de riesgo del instrumento.
 Toda reseña deberá presentarse con una carátula que especifique:
@@ -39,8 +34,6 @@ B) Calendario de envío de reseñas. (1)
 Durante el mes de abril de cada año, las entidades clasificadoras de riesgo, de manera individual, deberán informar el calendario de envío de reseñas para los siguientes doce meses
 2
 
-CIRCULAR Nº 1.535
-FECHA: 27.03.2001
 (1) Letra sustituida por Circular N° 2086, de 12 de septiembre de 2012.
 2.- Información relativa a personas con interés en emisores clasificados e inhabilidades
 para ejercer como clasificadores.
@@ -55,7 +48,5 @@ Deróganse, a contar de esta fecha, las Circulares Nº 802 de 9 de junio de 1988
 Las disposiciones de la presente circular rigen a contar de esta fecha.
 3
 
-CIRCULAR Nº 1.535
-FECHA: 27.03.2001
 (1) Instrucción sustituida por Circular N° 2086, de 12 de septiembre de 2012.
 4

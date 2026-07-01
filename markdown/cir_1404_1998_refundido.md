@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR Nº 1404 — FECHA : 26.08.1998
+# CIRCULAR N° 1404
 
 ### INCORPORACION DE PENSIONADOS A LAS CAJAS DE COMPENSACION DE ASIGNACION FAMILIAR
 (C.C.A.F.). IMPARTE INSTRUCCIONES SOBRE PROCEDIMIENTOS DE AFILIACION Y DESAFILIACION

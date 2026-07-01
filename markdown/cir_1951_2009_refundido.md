@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# 1. SOLICITA INFORMACIÓN SOBRE COMISIONES EFECTIVAS DE FONDOS MUTUOS Y FONDOS DE INVERSIÓN.(1) 2. DEROGA CIRCULAR N° 1.883 DE 10 DE JULIO DE 2008 Y OFICIO CIRCULAR N° 538 DE 4 DE SEPTIEMBRE DE 2009.
+# CIRCULAR N° 1951 — SOLICITA INFORMACIÓN SOBRE COMISIONES EFECTIVAS DE FONDOS MUTUOS Y FONDOS DE INVERSIÓN.(1)
 
-### CIRCULAR N° 1.951
-FECHA: 18.10.2009
 
 Para todas las sociedades que administran fondos mutuos y fondos de inversión(1) En atención a las disposiciones contenidas en el numeral 2 de la Capítulo VI de la Resolución Conjunta Nº 355 del 2011, o aquellas que la modifiquen o reemplacen, sobre comisiones máximas que pueden ser pagadas con recursos de los Fondos de Pensiones a fondos mutuos y fondos de inversión, y en uso de sus facultades legales, esta Comisión ha estimado necesario impartir las siguientes instrucciones, relativas a información que deberán proporcionar las sociedades referidas sobre la materia.(2)
 ## I. INFORMACIÓN REQUERIDA
@@ -18,8 +16,6 @@ La información deberá ser remitida a la Comisión de acuerdo a las especificac
 2014.
 (2) Texto reemplazado por Circular N° 2.040, de 2011 y modificado por Circular N°2.154, de 2014.
 
-### CIRCULAR N° 1.951
-FECHA: 18.10.2009
 (3) Párrafo reemplazado por Circular N° 2.040, de 2011 y modificado por Circular N°2.154, de 2014 y la NCG N°515, de 2024.
 (4) Párrafo modificado por Circular N°2.154, de 2014.
 (5) Párrafo modificado por NCG N°515, de 2024.
@@ -35,8 +31,6 @@ Derógase a contar de la fecha de vigencia de la presente Circular, la Circular 
 La presente Circular rige a contar de esta fecha.
 (6) Texto reemplazado por Circular N° 2.040, de 2011 y modificado por Circular N°2.154, de 2014.
 
-### CIRCULAR N° 1.951
-FECHA: 18.10.2009
 ## ANEXO Nº 1 La información que se deberá remitir a la Comisión se detalla a continuación, la cual deberá ceñirse al formato y especificaciones establecidos en la “Ficha Técnica” que se encuentra disponible en el sitio web
 de esta Comisión:
 1. Identificación de la sociedad administradora: corresponde identificar la sociedad administradora
@@ -59,8 +53,6 @@ que serán amortizados en el trimestre informado.
 (2) Números reemplazados por Circular N° 2.040, de 2011 y modificado por Circular N°2.154, de 2014.
 (3) Número modificado por Circular N°2.154, de 2014.
 
-### CIRCULAR N° 1.951
-FECHA: 18.10.2009
 ### 8.2 Gasto remanente por amortizar: se deberá informar el monto remanente total de gastos que
 serán amortizados en los períodos posteriores al informado.
 ### 8.3 Período promedio de amortización: se deberá señalar el período promedio de amortización

@@ -3,7 +3,7 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# CIRCULAR N° 1716 — ENVIO DE INFORMACION DEL SEGURO OBLIGATORIO DE ACCIDENTES CAUSADOS POR VEHICULOS MOTORIZADOS AL SERVICIO DE REGISTRO CIVIL E IDENTIFICACION
+# CIRCULAR N° 1716 — ENVIO DE INFORMACION DEL SEGURO OBLIGATORIO DE ACCIDENTES CAUSADOS POR VEHICULOS MOTORIZADOS AL SERVICIO DE REGISTRO CIVIL E IDENTIFICACION.
 
 
 Para todas las entidades aseguradoras Esta Superintendencia, en uso de sus facultades y conforme lo dispuesto en el artículo 18º de la Ley N°18.490, ha estimado necesario impartir las siguientes instrucciones sobre forma, contenido y oportunidad de la información relativa al Seguro Obligatorio de Accidentes Causados por Vehículos Motorizados (SOAP), que las aseguradoras deben enviar al Servicio de Registro Civil e Identificación (SRCeI), para su anotación en el Registro Nacional de Vehículos Motorizados.

@@ -3,10 +3,8 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-# SOLICITA INFORMACION TRIMESTRAL DE FONDOS DE INVERSIÓN.
+# CIRCULAR N° 1684 — SOLICITA INFORMACION TRIMESTRAL DE FONDOS DE INVERSIÓN.
 
-### CIRCULAR N°1.684
-FECHA: 10.10.2004
 
 Parar todas las sociedades administradoras de fondos de inversión y administradoras generales de fondos.
 Esta Superintendencia , en uso de sus facultades legales, ha estimado conveniente impartir las siguientes instrucciones, en relación con la Resolución Conjunta N° 283 de 2003, de las Superintendencias de administradoras de Fondos de Pensiones, de Bancos e Instituciones Financieras y de Valores y Seguros, sobre comisiones máximas a ser pagadas por los Fondos de Pensiones a los fondos mutuos y de inversión:
@@ -23,9 +21,8 @@ ii) Que la cartera de inversión del fondo haya cumplido la característica señ
 la letra i) anterior, durante todos el período informado.
 Asimismo, esta categoría incluye a los fondos de inversión vigentes cuya política de inversión, establecida en su reglamento interno, no contempla lo señalado en la letra i) anterior, pero que han mantenido al menos el 60% de su activo invertido en valores o
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N°1.684
-FECHA: 10.10.2004
-bienes de los señalados en dicho literal, durante todos el período informado. Esto, en tanto no haya transcurrido el plazo establecido en el párrafo sexto del número 2, Título IV, de la Resolución Conjunta, para ajustar el reglamento interno a lo dispuesto en la letra i).
+1 bienes de los señalados en dicho literal, durante todos el período informado. Esto, en
+tanto no haya transcurrido el plazo establecido en el párrafo sexto del número 2, Título IV, de la Resolución Conjunta, para ajustar el reglamento interno a lo dispuesto en la letra i).
 Por último, esta categoría también comprende a los fondos nuevos que incorporen en su reglamento interno las condiciones de inversión señalas en la letra i), pero que aún no han ajustado su cartera de inversiones a lo dispuesto en la letra ii), sin que haya transcurrido aún 1 año contado desde la aprobación del mismo.
 Todo lo anterior, sin perjuicio de las demás condiciones establecidas en el referido número 2 del Título IV de la Resolución Conjunta en comento.
 Grupo 2 (a los cuales les será aplicable la comisión máxima definida para la Categoría Fondos B de la Resolución Conjunta): incluye los fondos de inversión que no pertenecen al Grupo 1.
@@ -45,8 +42,7 @@ TGC (t) = (Gastos Relevantes / (Activo Promedio+ Aportes Comprometidos))* 100
 fondo a los inversionistas durante el trimestre informado, expresada en términos diarios, y se determinará de la siguiente forma, considerando dos decimales:
 TGC (d) = TGC (t)/N
 ### SUPERINTENDENICA DE VALORES Y SEGUROS
-### SUPERINTENDENICA DE VALORES Y SEGUROS CIRCULAR N°1.684
-FECHA: 10.10.2004
+
 Donde “N” es el número de días del trimestre informado o el número de días del trimestre, durante los cuales efectivamente hubiera operado el fondo, si correspondiere.
 Todas las cifras deberán ser expresadas en valores monetarios correspondientes al último día del trimestre informado.
 La sociedad administradora deberá mantener en todo momento los antecedentes y registros que respalden la información remitida a la Superintendencia.

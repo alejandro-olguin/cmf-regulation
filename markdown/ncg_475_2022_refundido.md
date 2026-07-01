@@ -3,12 +3,9 @@
 <!-- note: Las fórmulas matemáticas extraídas de PDFs pueden ser incompletas.
      Los bloques marcados con ⚠️ deben verificarse contra el PDF original. -->
 
-REF: REGULA INSCRIPCIÓN EN EL
-### REGISTRO ESPECIAL DE
-ENTIDADES INFORMANTES.
-_________________________________
-NORMA DE CARÁCTER GENERAL N°475
-14 de abril de 2022
+# REGULA INSCRIPCIÓN EN EL REGISTRO ESPECIAL DE ENTIDADES INFORMANTES. _________________________________ NORMA DE CARÁCTER GENERAL N°475 14 de abril de 2022
+
+
 Esta Comisión, en uso de las facultades que le confieren el numeral 1 del artículo
 5° y el numeral 3 del artículo 20, del Decreto Ley N°3.538; el artículo 7 de la Ley N°18.045; los artículos 90 y 94, de la Ley que regula la Administración de Fondos de Terceros y Carteras Individuales, aprobada por el artículo primero de la Ley N°20.712; y, lo acordado por el Consejo de la Comisión en Sesión Ordinaria N°280 de 24 de marzo de
 2022, ha estimado pertinente impartir las siguientes instrucciones:
